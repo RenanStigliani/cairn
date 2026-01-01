@@ -1,46 +1,46 @@
 ---
-title: Mountebank
+title: Charlatão
 layout: default
 parent: Backgrounds
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
-# Mountebank
+# Charlatão
 
-> Wits are your sharpest weapon, a facade your strongest shield. But when you do lose, you lose badly. 
+> A astúcia é sua arma mais afiada, uma fachada seu escudo mais forte. Mas quando você perde, você perde feio.
 
-## Names
+## Nomes
 
 Ambrose, Lucius, Beauregard, Cornelius, Aria, Toph, Indigo, Delphine, Solene, Noa
 
-## Starting Gear
+## Equipamento Inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Cart (+4 slots, _bulky_ when pulled)
-- Trick Playing Cards 
-- Fancy Hat (_petty_)
-- Cane Sword (d6)
+- 3d6 Peças de Ouro
+- Rações (3 usos)
+- Tocha (3 usos) 
+- Carroça (+4 espaços, _volumoso_ quando puxada)
+- Baralho Viciado
+- Chapéu Chique (_miudeza_)
+- Bengala-Espada (d6)
 
-## How was your fraud exposed? Roll 1d6:
+## Como sua fraude foi exposta? Role 1d6:
 
-|       |                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | Your "patients" kept reporting miraculous recoveries, despite your lack of training. Start with **Bandages** (3 uses) and a knack for healing.                                                                                                                                                                                                                                                                 |
-| **2** | After seducing a wealthy patron, their family hired a criminal gang to retrieve you. You got away and need to lay low. Start with **Beauty Cream**, 2 uses. Apply to appear irresistibly beautiful for the next 12 hours.                                                                                                                                                                                      |
-| **3** | You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the **Omens** table, but keep the result to yourself. Start with a concealable **Knife** (d6, _petty_).                                                                                                                                                                                         |
-| **4** | Your latest stunt destroyed a priceless artifact and injured a dozen bystanders. Start with a **Captain's Uniform** (_petty_), a **Ceremonial Sword** (harmless, 60gp), and a **Bouquet of Flowers**.                                                                                                                                                                                                          |
-| **5** | You were cursed by a hedgewitch for fooling some innocent village folk. Magic acts unpredictably in your hands (_WIL save to avoid disaster_). If you are the target of magic, the same applies to its wielder.                                                                                                                                                                                                |
-| **6** | Your "seances" with the dead were in actuality a ruse involving a cleverly hidden spellbook of Auditory Illusion. Inevitably, a patron discovered your secret. Start with the **Spellbook** and a bundle of scarves. Auditory Illusion: You create illusory sounds that seem to come from a direction of your choice. _Produces random and occasionally inopportune sounds throughout the day_. |
+|       |                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Seus "pacientes" continuaram relatando recuperações milagrosas, apesar da sua falta de treinamento. Comece com **Bandagens** (3 usos) e um talento para curar.                                                                                                                                                                                                                                                                               |
+| **2** | Depois de seduzir um patrono rico, a família dele contratou uma gangue criminosa para te recuperar. Você escapou e precisa se esconder. Comece com **Creme de Beleza**, 2 usos. Aplique para parecer irresistivelmente bonito pelas próximas 12 horas.                                                                                                                                                                                       |
+| **3** | Você era um vendedor de falsas profecias, mas quando uma acabou sendo verdadeira, atraiu atenção indesejada. Role na tabela de **Presságios**, mas guarde o resultado para si mesmo. Comece com uma **Faca** ocultável (d6, _miudeza_).                                                                                                                                                                                                      |
+| **4** | Seu último golpe destruiu um artefato inestimável e feriu uma dúzia de espectadores. Comece com um **Uniforme de Capitão** (_miudeza_), uma **Espada Cerimonial** (inofensiva, 60po), e um **Buquê de Flores**.                                                                                                                                                                                                                              |
+| **5** | Você foi amaldiçoado por uma bruxa por enganar alguns aldeões inocentes. A magia age de forma imprevisível em suas mãos (_teste de VON para evitar desastre_). Se você for o alvo de magia, o mesmo se aplica ao seu conjurador.                                                                                                                                                                                                             |
+| **6** | Suas "sessões" com os mortos eram na verdade um estratagema envolvendo um livro de feitiços de Ilusão Auditiva habilmente escondido. Inevitavelmente, um patrono descobriu seu segredo. Comece com o **Livro de Feitiços** e um pacote de lenços. Ilusão Auditiva: Você cria sons ilusórios que parecem vir de uma direção de sua escolha. A posse a longo prazo pode fazer com que o leitor confunda os pensamentos dos outros com os seus. |
 
-## What keepsake could always identify you? Roll 1d6:
+## Que lembrança sempre poderia te identificar? Role 1d6:
 
-|       |                       |                                                                                                                                                                                  |
-| ----- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Royal Crest**       | Born into royalty, you chose a different life. The crest grants you access but also alerts your family of your whereabouts. _Petty_.                                            |
-| **2** | **Miracle Oil**       | A smelly, slippery concoction. 2 uses.                                                                                                                                           |
-| **3** | **Surgeon's Soap**    | A lye and ash block that makes skin temporarily transparent, revealing the anatomy within. 4 uses.                                                                               |
-| **4** | **Goat Powder**       | Derived from the placenta of a baby goat.  Temporarily cures any affliction, but symptoms return within hours.                                                                   |
-| **5** | **Cursed Sapphire**   | Worth **200gp**, it noticeably returns to your pocket shortly after you spend it. You can't seem to get rid of it.                                                             |
-| **6** | **Alchemical Tattoo** | A dog, cat, or bird that can leave your body on demand. It follows your commands to the best of its abilities and can pass its injuries (_as STR loss_) back onto you. _Petty_. |
+|       |                        |                                                                                                                                                                                                      |
+| ----- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Brasão Real**        | Nascido na realeza, você escolheu uma vida diferente. O brasão lhe concede acesso, mas também alerta sua família sobre seu paradeiro. _Miudeza_.                                                     |
+| **2** | **Óleo Milagroso**     | Uma mistura fedorenta e escorregadia. 2 usos.                                                                                                                                                        |
+| **3** | **Sabão de Cirurgião** | Um bloco de soda cáustica e cinzas que torna a pele temporariamente transparente, revelando a anatomia interna. 4 usos.                                                                              |
+| **4** | **Pó de Cabra**        | Derivado da placenta de um cabrito. Cura temporariamente qualquer aflição, mas os sintomas retornam em horas.                                                                                        |
+| **5** | **Safira Amaldiçoada** | Vale **200po**, ela retorna visivelmente ao seu bolso logo após você gastá-la. Você não consegue se livrar dela.                                                                                     |
+| **6** | **Tatuagem Alquímica** | Um cão, gato ou pássaro que pode deixar seu corpo sob comando. Ele segue seus comandos da melhor maneira possível e pode passar seus ferimentos (_como perda de FOR_) de volta para você. _Miudeza_. |

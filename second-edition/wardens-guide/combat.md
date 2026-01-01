@@ -2,7 +2,7 @@
 layout: default
 title: Combat
 parent: Warden's Guide
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
 # Combat

@@ -2,7 +2,7 @@
 title: Forest Seeds
 layout: default
 parent: Warden's Guide 
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
 # Forest Seeds
@@ -108,9 +108,9 @@ Roll 1d20 for each column and combine the results.
 
 Roll 1d20 for each column and combine the results.
 
-|         |                |              |
-| ------- | -------------- | ------------ |
-| **d20** | **Goal**       | **Obstacle** |
+|         |               |               |
+| ------- | ------------- | ------------- |
+| **d20** | **Goal**      | **Obstacle**  |
 | **1**   | Abundance     | Agreements    |
 | **2**   | Awakening     | Belief        |
 | **3**   | Balance       | Contamination |

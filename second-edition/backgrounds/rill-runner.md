@@ -1,46 +1,46 @@
 ---
-title: Rill Runner
+title: Corredor de Riacho
 layout: default
 parent: Backgrounds
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
-# Rill Runner
+# Corredor de Riacho
 
-> You sing the stories of rivers and lakes, your talents soothing friends and the elements alike. You've seen more than most, but somehow it never seems to be enough.
+> Você canta as histórias de rios e lagos, seus talentos acalmando amigos e os elementos da mesma forma. Você viu mais do que a maioria, mas de alguma forma nunca parece ser o suficiente.
 
-## Names
+## Nomes
 
 Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 
-## Starting Gear
+## Equipamento Inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Water Shoes
-- Brigandine (1 Armor, _bulky_)
-- Compass
-- Dagger (d6)
+- 3d6 Peças de Ouro
+- Rações (3 usos)
+- Tocha (3 usos) 
+- Sapatos de Água
+- Brigandina (1 Armadura, _volumoso_)
+- Bússola
+- Adaga (d6)
 
-## What songs are you best known for? Roll 1d6:
+## Por quais canções você é mais conhecido? Role 1d6:
 
-|       |                                                                                                                                                                                                                                          |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | _The Tinker's Two-Step_. A humorous fairy tale about a gift-giving traveler. Start with a **Reed Whistle**. Anyone in earshot must pass a WIL save to perform an act of violence.                                                       |
-| **2** | _The Sylph and Her Lover_. A bawdy tale of lost love. Start with a **Breeze Knot** (3 charges). Creates a strong breeze. **Recharge**: Tie it to a mast during a storm.                                                         |
-| **3** | _Harper's Devotion_. A sad, short tale about a musician that falls in love with a star. Start with a **Celestial Lute**. Reveals the constellations above, no matter the weather.                                                              |
-| **4** | _The Reed Fisher_. A celebrated song about a massive carp that always seems to get away. Begin with a spool of **River Twine** (5 uses). Each dip into the river guarantees a catch, though it might not be pleasant.                              |
-| **5** | _Song of the Silver Stream_. A wordless lullaby that mimics flowing water. Take a **Stone Flute** that can calm almost any river.                                                                                             |
-| **6** | _The Thrush and the Meadow_. A moody tale told in alternating chorus. Start with a **Feather Quill** (1 use, _petty_). A map drawn with this quill reveals the most expedient course between any two points. |
+|       |                                                                                                                                                                                                                                  |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | _O Dois-Passos do Latoeiro_. Um conto de fadas humorístico sobre um viajante que dá presentes. Comece com um **Apito de Junco**. Qualquer um ao alcance da voz deve passar em um teste de VON para realizar um ato de violência. |
+| **2** | _A Sílfide e Seu Amante_. Um conto obsceno de amor perdido. Comece com um **Nó de Brisa** (3 cargas). Cria uma brisa forte. **Recarga**: Amarre-o a um mastro durante uma tempestade.                                            |
+| **3** | _Devoção do Harpista_. Um conto triste e curto sobre um músico que se apaixona por uma estrela. Comece com um **Alaúde Celestial**. Revela as constelações acima, não importa o clima.                                           |
+| **4** | _O Pescador de Junco_. Uma canção célebre sobre uma carpa enorme que sempre parece escapar. Comece com um carretel de **Barbante de Rio** (5 usos). Cada mergulho no rio garante uma captura, embora possa não ser agradável.    |
+| **5** | _Canção do Riacho de Prata_. Uma canção de ninar sem palavras que imita água corrente. Leve uma **Flauta de Pedra** que pode acalmar quase qualquer rio.                                                                         |
+| **6** | _O Tordo e o Prado_. Um conto melancólico contado em coro alternado. Comece com uma **Pena de Escrever** (1 uso, _miudeza_). Um mapa desenhado com esta pena revela o curso mais conveniente entre quaisquer dois pontos.        |
 
-## What pays your way across the land? Roll 1d6:
+## O que paga seu caminho pela terra? Role 1d6:
 
-|       |                     |                                                                                                                                             |
-| ----- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Performance**     | Performing at taverns always yields both room and board. Sometimes you even get tips! Start with an extra **10gp**.                          |
-| **2** | **Bodyguard**       | You are a protector for those afraid to travel alone. Start with a **Rapier** (d8).                                                          |
-| **3** | **Wares**           | You buy low and sell high, always making just enough to get by. Take a **single item** worth **20gp** (or less) from the [gear](/second-edition/players-guide/marketplace#gear) table.                              |
-| **4** | **Transport**       | You deliver "delicate" packages throughout the lands. You have at least one contact in any major town.                                        |                                                    
-| **5** | **Sailor's Friend** | Over troubled waters and dangerous winds, you always make sure a ship reaches its destination. For you, passage is always free.  |
-| **6** | **Guide**           | You shepherd caravans and travelers across water-soaked lands. Start a **map** (_petty_) relevant to your next journey. |
+|       |                         |                                                                                                                                                                                                                               |
+| ----- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Apresentação**        | Apresentar-se em tavernas sempre rende quarto e comida. Às vezes você até ganha gorjetas! Comece com **10po** extras.                                                                                                         |
+| **2** | **Guarda-costas**       | Você é um protetor para aqueles com medo de viajar sozinhos. Comece com uma **Rapieira** (d8).                                                                                                                                |
+| **3** | **Mercadorias**         | Você compra na baixa e vende na alta, sempre ganhando apenas o suficiente para sobreviver. Leve um **único item** no valor de **20po** (ou menos) da tabela de [equipamento](/second-edition/players-guide/marketplace#gear). |
+| **4** | **Transporte**          | Você entrega pacotes "delicados" por todas as terras. Você tem pelo menos um contato em qualquer cidade grande.                                                                                                               |
+| **5** | **Amigo do Marinheiro** | Sobre águas turbulentas e ventos perigosos, você sempre garante que um navio chegue ao seu destino. Para você, a passagem é sempre gratuita.                                                                                  |
+| **6** | **Guia**                | Você pastoreia caravanas e viajantes por terras encharcadas de água. Comece com um **mapa** (_miudeza_) relevante para sua próxima jornada.                                                                                   |

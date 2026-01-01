@@ -1,47 +1,47 @@
 ---
-title: Beast Handler
+title: Domador de Feras
 layout: default
 parent: Backgrounds
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
-# Beast Handler
+# Domador de Feras [Beast Handler]
 
-> You alone can walk among the creatures of the wild, fearless and in control. You share a connection with animals that others can only dream of... so long as you don't become their snack.
+> Mesmo sozinho você pode andar entre as criaturas selvagens, destemido e no controle. Você compartilha uma conexão com os animais que outros só podem sonhar em ter... contanto que não vire o lanche deles.
 
-## Names
+## Nomes
 
-Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Veda, Matheus
+Amara, Lupin, Mirela, Severo, Guará, Astor, Garra, Bóreo, Vereda, Matias, Zaino
 
-## Starting Gear
+## Equipamento Inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses)   
-- Leather Whip (d6)
-- Soporific Darts (STR save or fall asleep, 6 uses)
-- Lure
-- Rope (25ft)
+- 3d6 peças de ouro
+- Rações (3 usos)
+- Tocha (3 usos)
+- Chicote de Couro (d6)
+- Dardos Soporíficos (Salvaguarda de FOR ou adormece, 6 usos)
+- Isca
+- Corda (8m)
 
-## What creature is your specialty? Roll 1d6:
+## Qual criatura é a sua especialidade? Role 1d6:
 
-|       |               |                                                                                                                                                                                   |
-| ----- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Arachnids** | Take a **Quick-Flame Rod** and an **Oil Can** (6 uses). It can destroy a large spider nest in seconds.                                                                            |
-| **2** | **Felines**   | Take a sack of **Whiskerwort**. Its odor can calm and control even the largest of cats.                                                                                           |
-| **3** | **Canines**   | Take a wreath of **Wolfsbane** and a **Large Net**. Effective against werewolves as well.                                                                                         |
-| **4** | **Birds**     | Take a **Warble-Whistle** (3 charges). It can imitate any bird call and can even be used to send simple messages. **Recharge**: Feed a baby bird as its mother would, then blow. |
-| **5** | **Rodents**   | Take a **Pan Flute** that emits a high-pitched sound that only rodents can hear. So long as you play, they will follow, even to their deaths.                                     |
-| **6** | **Serpents**  | Take a **Warming Stone** that generates an irresistible heat and a vial of **Antitoxin** (2 uses).                                                                               |
+| 1d6   | Criatura       | Descrição                                                                                                                                                                                                                                                        |
+| ----- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Aracnídeos** | Você tem uma **Vara de Fogo Instantâneo** e uma **Lata de Óleo** (6 usos). Pode destruir um ninho de aranhas grandes em segundos.                                                                                                                                |
+| **2** | **Felinos**    | Você tem um saco de **Bigodeerva**. Seu odor pode acalmar e controlar até os maiores felinos. Seu odor pode acalmar e controlar até mesmo o maior dos gatos.                                                                                           [parcial] |
+| **3** | **Caídeos**    | Você tem uma coroa de erva **Mata-Lobo** e uma **Rede Grande **. Eficaz também contra lobisomens.                                                                                         [parcial]                                                              |
+| **4** | **Aves**       | Você tem um **Apito Trinado** (3 cargas). Ele pode imitar qualquer canto de pássaro e até ser usado para enviar mensagens simples.. **Recarga**: Alimente um filhote como faria a mãe, depois sopre novamente.                                                   |
+| **5** | **Roedores**   | Você tem uma **Flauta de Pã** que emite um som agudo que apenas os roedores conseguem ouvir. Enquanto você tocá-la, eles o seguirão, mesmo até a morte.                                     [parcial]                                                            |
+| **6** | **Serpentes**  | Você tem uma **Pedra de Aquecimento**, que gera um calor irresistível, e um frasco de **Antitoxina** (2 usos).                                                                                                                                                   |
 
 
-## What have you learned from the creatures of the wild? Roll 1d6: 
+## O que você aprendeu com as criaturas selvagens? Role 1d6: 
 
-|       |                                                                                                                                                                                          |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | That there is far more to the world than meets the eye. With quiet concentration, you can borrow the senses of a nearby creature of your **specialty**.                                       |
-| **2** | That the behavior of beasts is a language in itself. When observing beasts of your **specialty** you gain insight into weather patterns and impending disasters.                             |
-| **3** | That the pulse of the hunt is a powerful impulse. You have a sense for when predators, even those **not of your specialty** are near.                                                        |
-| **4** | That the land is a language unto itself. Your chance of becoming lost in a terrain dominated by the beasts of your **specialty** is reduced by one step (e.g. 4-in-6 becomes 3-in-6).             |
-| **5** | That nature's symphony can be heard if you attune to its rhythm. When surrounded by creatures of your **specialty**, they can alert you to approaching danger before it arrives.               |
-| **6** | That survival is all about adaptability. Once per day, you may take on a simple feature from a creature of your **specialty** (webbed fingers, night vision, etc.). Add a **Fatigue** each time. |
+| 1d6   | Aprendizado                                                                                                                                                                                                                       |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Que há muito mais no mundo do que os olhos veem. Com concentração silenciosa, você pode tomar emprestados os sentidos de uma criatura próxima da sua **especialidade**.                                                           |
+| **2** | Que o comportamento das feras é uma linguagem em si. Ao observar feras da sua **especialidade**, você obtém pistas sobre padrões climáticos e desastres iminentes.                                                                |
+| **3** | Que a emoção da caça é um impulso poderoso. Você tem um faro para quando predadores, mesmo aqueles que **não são da sua especialidade**, estão por perto.                                                                         |
+| **4** | Que a terra é uma linguagem por si só. Sua chance de se perder em um terreno dominado pelas feras da sua **especialidade** é reduzida em um passo (ex.:, 4 em 6 se torna 3 em 6).                                                 |
+| **5** | Que a sinfonia da natureza pode ser ouvida se você se sintonizar com o ritmo dela. Quando cercado por criaturas da sua **especialidade**, eles podem alertá-lo sobre perigos que se aproximam.                                    |
+| **6** | Que sobreviver é uma questão de adaptabilidade. Uma vez por dia, você pode assumir uma característica simples de uma criatura da sua **especialidade** (dedos palmados, visão noturna, etc.). Adicione uma **Fadiga** a cada vez. |

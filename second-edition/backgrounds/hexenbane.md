@@ -1,46 +1,46 @@
 ---
-title: Hexenbane
+title: Algoz de Bruxas
 layout: default
 parent: Backgrounds
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
-# Hexenbane
+# Algoz de Bruxas
 
-> You are a mere digit on the unerring hand of justice. You go where others fear to tread, unyielding and unbroken.
+> Você é um mero dígito na mão infalível da justiça. Você vai onde outros temem pisar, inflexível e inquebrável.
 
-## Names
+## Nomes
 
 Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
 
-## Starting Gear
+## Equipamento Inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Vestments of the Order (_petty_)
-- Blessed Tinctures
-- Silver Knife (d6)
-- Crossbow (d8, _bulky_)
+- 3d6 Peças de Ouro
+- Rações (3 usos)
+- Tocha (3 usos) 
+- Vestes da Ordem (_miudeza_)
+- Tinturas Abençoadas
+- Faca de Prata (d6)
+- Besta (d8, _volumoso_)
 
-## To which order do you belong? Roll 1d6:
+## A qual ordem você pertence? Role 1d6:
 
-|       |                                                                                                                                                                                                                |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Order of the Crossroads**. Take a **Pocket Leyfinder**. It points to nearby ley lines and other sources of arcane power. If you lose it, the punishment is death.                                            |
-| **2** | **Order of the Bleeding Star**. Take a **Star-Iron Mace** (d8). It shines faintly in darkness and becomes very hot in the presence of witchcraft.                                                   |
-| **3** | **Order of the Glass Sigil**. Take a short sword (d8) and chainmail (2 Armor, _bulky_). You have contacts in most towns (the more rural, the better) willing to provide aid, food, or even weapons.                 |
-| **4** | **Order of the Blank Eye**. Take a **Voidglass Shard**. Peer through it to see invisible marks, creatures, and other magical effects. Lose the use of your eye for an hour afterwards (you are _deprived_). |
-| **5** | **Order of Canaas**. Once per day, you can change into a wolf. Take a **Quicksilver Chain**. Without it, you are unable to shift back.                                                                           |
-| **6** | **Order of the Silent Veil**. Take a **Quell Stone** (2 uses) wrapped in burlap. Extinguishes any nearby flames once exposed to air.                                                                             |
+|       |                                                                                                                                                                                                                          |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | **Ordem da Encruzilhada**. Leve um **Localizador de Linhas Ley de Bolso**. Ele aponta para linhas ley próximas e outras fontes de poder arcano. Se você perdê-lo, a punição é a morte.                                   |
+| **2** | **Ordem da Estrela Sangrenta**. Leve uma **Maça de Ferro Estelar** (d8). Ela brilha fracamente na escuridão e fica muito quente na presença de bruxaria.                                                                 |
+| **3** | **Ordem do Sigilo de Vidro**. Leve uma espada curta (d8) e cota de malha (2 Armadura, _volumoso_). Você tem contatos na maioria das cidades (quanto mais rural, melhor) dispostos a fornecer ajuda, comida ou até armas. |
+| **4** | **Ordem do Olho Vazio**. Leve um **Fragmento de Vidro do Vazio**. Olhe através dele para ver marcas invisíveis, criaturas e outros efeitos mágicos. Perca o uso do seu olho por uma hora depois (você fica _privado_).   |
+| **5** | **Ordem de Canaas**. Uma vez por dia, você pode se transformar em um lobo. Leve uma **Corrente de Mercúrio**. Sem ela, você é incapaz de voltar à forma original.                                                        |
+| **6** | **Ordem do Véu Silencioso**. Leve uma **Pedra de Supressão** (2 usos) embrulhada em estopa. Extingue quaisquer chamas próximas uma vez exposta ao ar.                                                                    |
 
-## What was your vow? Roll 1d6:
+## Qual foi o seu voto? Role 1d6:
 
-|       |                                                                                                                                                                    |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Honesty**. Choose a **weapon type** (blunt, blade, etc). Attacks against you of this type are _impaired_. If your vow is broken, you lose d4 WIL.                |
-| **2** | **Poverty**. You carry the _Disassemble_ **Spellbook**. Only you can use it. If your vow is broken, it explodes (d12 STR damage). Disassemble: Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. _Regenerates any torn or defaced pages._                                 |
-| **3** | **Selflessness**. You are immune to **mind-altering magical effects**, such as _charm_, _hatred_, _frenzy_, and so on. If you break this vow, you lose d6 WIL.       |
-| **4** | **Mercy**. Choose a **weapon type** (blunt, blade, etc). Attacks with this weapon are _enhanced_. If your vow is broken, you can never use that weapon type again. |
-| **5** | **Charity**. Once per day you can shrug off a **Fatigue**. If your vow is ever broken, you permanently lose one inventory slot.                                           |
-| **6** | **Valor**. The first time you inflict **Critical Damage**, you receive +d4 HP, returning to the previous limit at the end of combat. If your vow is broken, you die.             |
+|       |                                                                                                                                                                                                                                                                                                                                                  |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | **Honestidade**. Escolha um **tipo de arma** (contundente, lâmina, etc). Ataques contra você deste tipo são _prejudicados_. Se o seu voto for quebrado, você perde d4 VON.                                                                                                                                                                       |
+| **2** | **Pobreza**. Você carrega o **Livro de Feitiços** _Desmontar_. Apenas você pode usá-lo. Se o seu voto for quebrado, ele explode (d12 dano de FOR). Desmontar: Qualquer parte do seu corpo pode ser destacada e recolocada à vontade, sem causar dor ou dano. Você ainda pode controlá-las. _Regenera quaisquer páginas rasgadas ou danificadas._ |
+| **3** | **Altruísmo**. Você é imune a **efeitos mágicos de alteração mental**, como _charme_, _ódio_, _frenesi_, e assim por diante. Se você quebrar este voto, você perde d6 VON.                                                                                                                                                                       |
+| **4** | **Misericórdia**. Escolha um **tipo de arma** (contundente, lâmina, etc). Ataques com esta arma são _aprimorados_. Se o seu voto for quebrado, você nunca mais poderá usar esse tipo de arma.                                                                                                                                                    |
+| **5** | **Caridade**. Uma vez por dia você pode ignorar uma **Fadiga**. Se o seu voto for quebrado, você perde permanentemente um espaço de inventário.                                                                                                                                                                                                  |
+| **6** | **Valor**. A primeira vez que você infligir **Dano Crítico**, você recebe +d4 PV, retornando ao limite anterior no final do combate. Se o seu voto for quebrado, você morre.                                                                                                                                                                     |

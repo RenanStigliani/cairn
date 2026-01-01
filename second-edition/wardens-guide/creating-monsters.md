@@ -2,7 +2,7 @@
 title: Creating Monsters
 layout: default
 parent: Warden's Guide 
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
 # Creating Monsters
@@ -207,10 +207,10 @@ There is no perfect system for converting from other systems. Here are some tips
 - **Dexterity**: Start with **10** as a base, and if the creature is particularly quick (often referred to as "speed" or SP), agile, or nimble-fingered, raise the number. If it is slow to respond, bulky, or clumsy, lower the number. See [Saving Throws](#saving-throws) below for more!
 - **Willpower**: **Morale** (**ML**) can be a good guidepost, and it typically ranges between 2-12. The greater the creature's personality, spirit, or presence, the higher the WIL they should have. The following table offers a decent guide on converting **ML** to **WIL**.
 
-|         |   |    |    |    |
-|---------|---|----|----|----|
-| **ML**  | 4 | 8  | 10 | 12 |
-| **WIL** | 6 | 12 | 15 | 18 |
+|         |     |     |     |     |
+| ------- | --- | --- | --- | --- |
+| **ML**  | 4   | 8   | 10  | 12  |
+| **WIL** | 6   | 12  | 15  | 18  |
 
 ### Saving Throws
 

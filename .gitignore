@@ -31,3 +31,4 @@ _zip
 .vscode/settings.json
 scripts/cairn.code-workspace
 .vscode
+.user/commands.txt

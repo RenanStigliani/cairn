@@ -2,7 +2,7 @@
 layout: default
 title: About the Example Party
 parent: Warden's Guide 
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
 # About the Example Party

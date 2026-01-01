@@ -1,167 +1,173 @@
 ---
 layout: default
-title: Core Rules
+title: Regras Básicas
 parent: Player's Guide
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
-# Core Rules
+# Regras Básicas
 
-## Attributes
+## Atributos
 
-Each of the three **Attributes** are used in different circumstances. (See **Saves**, below.)
+Cada um dos três **Atributos** é usado em circunstâncias diferentes. (veja **Salvaguardas**, abaixo).
 
-- **Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
-- **Dexterity (DEX)**: Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
-- **Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+- **Força (FOR)**: Usada para testes que exigem poder físico, como levantar portões, entortar barras, resistir a venenos, etc.
+- **Destreza (DES)**: Usada para testes que exigem postura, velocidade, reflexos, esquiva, escalada, furtividade, equilíbrio, etc.
+- **Vontade (VON)**: Usada para testes para persuadir, enganar, interrogar, intimidar, encantar, provocar, manipular magias, etc..
 
-## Saves
+## Salvaguardas
 
-- A save is a roll to avoid negative outcomes from risky choices. Characters roll a d20 and compare the results to the appropriate attribute. If they roll equal to or under that attribute, they succeed. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
-- If two opponents are each trying to overcome the other, whoever is most at risk should save.
-- If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant Attribute).
+- Uma salvaguarda é uma rolagem para evitar consequências negativas derivadas de escolhas arriscadas. Os personagens rolam 1d20 e comparam o resultado com o atributo apropriado. Se o resultado for igual ou inferior ao atributo, eles têm sucesso; Caso contrário, falham. Um resultado **1** no dado é sempre um sucesso, e um **20** é sempre uma falha.
+- Se dois oponentes estiverem tentando superar um ao outro, aquele que estiver correndo mais risco deve fazer o teste.
+- Se dois personagens precisarem realizar uma ação juntos, quem estiver correndo mais risco deve fazer o teste (geralmente o personagem com o menor Atributo relevante).
 
-## Healing & Recovery
+## Cura & Recuperação
 
-- Resting for a few moments and having a drink of water restores lost HP but may leave the party exposed. Bandages can stabilize a character that has taken critical damage.
-- Attribute loss (see **Critical Damage**) can usually be restored with a week's rest, facilitated by a healer or other appropriate source of expertise. 
-- Some healing services are free, while magical or more expedient means of recovery may come at a cost. 
+- Descansar por alguns momentos e beber água restaura os PG perdidos, mas pode deixar o grupo exposto. Bandagens podem estabilizar um personagem que sofreu dano crítico.
+- A perda de atributos (veja **Dano Crítico**) pode ser recuperada geralmente com uma semana de descanso, com auxílio de um curandeiro ou por outra fonte apropriada de conhecimento especializado. 
+- Alguns serviços de cura são gratuitos, enquanto meios mágicos ou que proporcionem uma recuperação mais rápida podem ter um custo. 
 
-## Deprivation & Fatigue
+## Privação e Fadiga
 
-- A PC that lacks a crucial need (such as food or rest) is **Deprived**. Anyone **Deprived** for more than a day adds **Fatigue** to their inventory, one for each day. A **Deprived** PC cannot recover HP, Attributes, or item slots from **Fatigue**.
-- A PC may also be forced to add **Fatigue** after casting spells or due to events occurring in the fiction. Each Fatigue occupies one slot and lasts until the PC is able to recuperate (such as with a full night’s rest in a safe spot).
-- If a character is forced to add **Fatigue** to their inventory but they have no free slots, they must drop an item from their inventory.
+- Um PJ que necessita de algo crucial (como comida ou descanso) está **Privado**. Qualquer pessoa em ficar **Privado** por mais de um dia adiciona **Fadiga** ao seu inventário, uma para cada dia. Um PJ **Privado** não pode recuperar PG, Atributos ou espaços de inventário decorrentes da **Fadiga**.
+- Um PJ também pode ser forçado a adicionar **Fadiga** após conjurar magias ou devido a eventos que ocorrem na ficção. Cada Fadiga ocupa um espaço de inventário e dura até que o PJ consiga se recuperar (com uma noite inteira de descanso em um local seguro).
+- Se um personagem for forçado a adicionar **Fadiga** ao seu inventário, mas não tiver espaços livres, ele deverá remover um item do seu inventário.
 
-## Armor
+## Armadura
 
-- Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. 
-- Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits, depending on the fiction.
-- A PC, NPC, or monster cannot have more than 3 Armor.  
+- Antes de calcular o dano aos PJ, subtraia o valor da **Armadura** do alvo do resultado das rolagens de dano. 
+- Escudos e armaduras fornecem um bônus de defesa (por exemplo, +1 de Armadura), mas somente enquanto o item estiver sendo empunhado ou vestido. Alguns itens também podem oferecer benefícios adicionais, dependendo da ficção.
+- Um PJ, PNJ ou monstro não pode ter um valor de Armadura maior que 3.  
 
-## Reactions
+## Reações
 
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+Quando os PJs encontram um PNJ cuja reação ao grupo não é óbvia, o Guardião pode rolar 2d6 e consultar a seguinte tabela:
 
-|         |      |         |      |         |
-| :-----: | :--: | :-----: | :--: | :-----: |
-|    2    | 3-5  |   6-8   | 9-11 |   12    |
-| Hostile | Wary | Curious | Kind | Helpful |
+|        |           |         |        |            |
+| :----: | :-------: | :-----: | :----: | :--------: |
+|   2    |    3-5    |   6-8   |  9-11  |     12     |
+| Hostil | Cauteloso | Curioso | Gentil | Prestativo |
 
-## Morale
+## Moral
 
-- Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. 
-- Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. 
-- Morale does not affect PCs.
+- Os inimigos devem passar por um teste de VON para evitar fugir quando sofrerem a primeira baixa e novamente quando perderem metade dos membros de seu grupo. 
+- Alguns grupos podem usar a VON do seu líder no lugar de sua própria. Inimigos solitários devem realizar um teste de resistência quando forem reduzidos a 0 PG. 
+- A moral não afeta os PJs.
 
-## Hirelings
+## Mercenários
 
-- Adventuring parties can recruit hirelings, relying on their unique skills, knowledge, and training to aid in expeditions.  
-- To create a hireling, choose an appropriate role from the [Hirelings](/second-edition/players-guide/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
-- Alternatively, choose an appropriate [**background**](/second-edition/players-guide/character-creation#backgrounds) and **name** from the [Character Creation](/second-edition/players-guide/character-creation) guide. Roll (or choose from) the tables for that background. Then roll for Rations, Gold Pieces, Attributes, HP, and age. 
+- Grupos de aventureiros podem recrutar mercenários, confiando em suas habilidades, conhecimento e treinamento únicos para ajudar em expedições.  
+- Para criar um mercenário, escolha uma função apropriada na tabela de [Contratados](players-guide/marketplace.md#Contratados-(por-dia)) no Mercado.
+ Role 3d6 para cada atributo e 1d6 para seus PG. Dê a eles **equipamentos** apropriados para sua posição e, em seguida, role nas tabelas de Características de Personagem para desenvolvê-los melhor.
+- Alternativamente, escolha um [**antecedente**](character-creation.md#Antecedentes) e um **nome** apropriados no guia de [Criação de Personagem](character-creation.md).
+ Role (ou escolha entre) as tabelas para o antecedente escolhido. Depois role para Rações, Peças de Ouro, Atributos, PG e idade. 
 
-## Die of Fate  
+## Dado de Sorte  
 
-- Optionally, roll 1d6 whenever the outcome of an event is uncertain or to simulate an element of randomness and chance.
-- A roll of 4 or more generally favors the PCs, while a roll of 3 or under usually means bad luck for the PCs.
+- Como alternativa, role 1d6 sempre que o resultado de um evento for incerto ou para simular um elemento de aleatoriedade e acaso.
+- Um resultado de 4 ou mais geralmente favorece os PJs, enquanto um resultado de 3 ou menos geralmente significa azar para eles.
 
-## Combat
+## Combate
 
-### Rounds
+### Rodadas
 
-- A **Round** is roughly ten seconds of in-game time and and proceeds with each side taking turns. Each round starts with any PC that is able to act, followed by their opponents. _The result of each side's actions occur simultaneously_. 
-- During the _first round of combat_, each PC must make a DEX save in order to act. Special circumstances, abilities, items, or skills may negate this requirement. PCs that fail their save _lose their turn_ for this round.
-- Their opponents then take their turn, and the first round ends. The next round begins with the PCs taking their turn, followed by their opponents, and so on until combat has ended with one side defeated or fled.
+- Uma **Rodada** dura aproximadamente 10 segundos de jogo e prossegue com cada lado agindo na sua vez. Cada rodada começa com qualquer PJ capaz de agir, seguido por seus oponentes. _O resultado das ações de cada lado ocorre simultaneamente_.
+ 
+- Durante o *primeiro turno de combate*, cada PJ deve fazer um teste de DES para poder agir.
+ Circunstâncias especiais, habilidades, itens ou perícias podem anular essa exigência. PJs que falharem no teste *perdem seu turno* nesta rodada.
 
-### Actions
+- Em seguida será a vez dos oponentes, e a primeira rodada terminará. A próxima rodada começa com os PJs agindo, seguidos por seus oponentes, e assim por diante, até que o combate termine com um dos lados derrotado ou em fuga.
 
-On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, moving for a second time, or some other reasonable action. Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs. 
+### Ações
 
-### Attacking & Damage
+Em seu turno, um personagem pode se mover até 12 metros e realizar até uma ação. A ação pode ser conjurar uma magia, atacar, mover-se pela segunda vez ou outra ação razoável. A cada rodada, os PJs declaram o que farão antes das rolagens de dados. Se um personagem tentar algo arriscado, o Guardião solicita uma Salvaguarda para os jogadores ou PNJs envolvidos. 
 
-- The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Attacks in combat automatically hit.
-- If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
-- If an attack would take a PC's HP exactly to 0, refer to the [Scars](#scars-table) table to see how they are uniquely impacted.
+### Ataque & Dano
 
-### Attack Modifiers
+- O atacante rola o dado de dano de sua arma e subtrai o valor da armadura do alvo, depois aplica o resultado ao PG de seu oponente. Em combate, Ataques acertam automaticamente.
+- Se múltiplos atacantes mirarem no mesmo inimigo, role todos os dados de dano e mantenha apenas o maior resultado. Todas as ações devem ser declaradas antes de serem resolvidas.
+- Se um ataque reduzir os PG de um PJ exatamente a 0, consulte a tabela de [Cicatrizes](#Tabela-de-Cicatrizes) para ver como ele é afetado de forma única.
 
-- If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_, and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage.
-- If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is _Enhanced_, allowing the attacker to roll 1d12 damage instead of their normal die.
-- Attacks with the _Blast_ quality affect all targets in the noted area, rolling separately for each affected character. This can be anything from explosions to a dragon’s breath or the impact of a meteorite. If unsure how many targets can be affected, _roll the related damage die for a result_.
-- If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8).
 
-### Critical Damage
+### Modificadores de Ataque
 
-- Damage that reduces a target's HP below zero is subtracted _from their STR_ by the amount of damage remaining. The target must then immediately make a STR save to avoid taking **Critical Damage**, using their _new STR score_. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage.
-- Any PC that suffers Critical Damage cannot do anything but crawl weakly, grasping for life. If given aid (such as bandages), they will stabilize. If left untreated, they die within the hour. NPCs and monsters that fail a Critical Damage save are considered dead, per the **Warden's** discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save. 
+- Se estiver lutando em uma posição desvantajosa (como atrás de cobertura ou com as mãos amarradas), o ataque tem _Desvantagem_ e o atacante deve rolar 1d4 de dano independentemente de qual seja dado de dano de ataque. Ataques desarmados sempre causam 1d4 de dano.
+- Se estiver lutando em uma posição vantajosa (como contra um inimigo indefeso ou por meio de uma manobra ousada), o ataque tem _Vantagem_, permitindo ao atacante rolar 1d12 de dano em vez de seu dado normal.
+- Ataques com a qualidade _Explosivo_ afetam todos os alvos na área indicada, rolando separadamente para cada personagem afetado.
+ Explosões podem se referir a qualquer coisa, desde explosões de fato até o sopro de um dragão ou o impacto de um meteorito. Se não tiver certeza de quantos alvos podem ser afetados, _role o dado de dano relacionado para obter um resultado_.
+- Ao atacar com duas armas ao mesmo tempo, role ambos os dados de dano e mantenha apenas o maior resultado (indicado com um símbolo de mais, por exemplo, d8+d8).
 
-### Attribute Loss
+### Dano Crítico
 
-- If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR.
-- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+- Se um dano reduzir os PG de um alvo abaixo de zero, o restante do dano é subtraído _de sua FOR_. O alvo deve então fazer imediatamente uma salvaguarda de FOR para evitar sofrer **Dano Crítico**, este teste é feito usando seu _novo valor de FOR_. Em caso de sucesso, o alvo ainda está na luta (embora com FOR reduzida) e deve continuar fazendo estas salvaguardas de Dano Crítico sempre que sofrer mais dano.
+- Qualquer PJ que sofra Dano Crítico não pode fazer nada além de rastejar fracamente, agarrando-se à vida. Se recebere ajuda (como bandagens), ele ficará estabilizado. Se não recebere tratamento, morre dentro de uma hora. PNJs e monstros que falham em uma salvaguarda de Dano Crítico são, a critério do **Guardião**, considerados mortos. Além disso, alguns inimigos têm habilidades ou efeitos especiais que são ativados quando seu alvo falha em uma salvaguarda de dano crítico. 
 
-### Character Death
+### Perda de Atributo
 
-- When a character dies, the player should create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+- Se um PJ sofrer dano fora do combate, ele deve receber dano em um Atributo, normalmente FOR.
+- Se a FOR de um PJ for reduzida a 0, ele morre. Se a DES dele for reduzida a 0, ele fica paralisado. Se a VON dele for reduzida a 0, ele fica delirante. A perda completa de DES e VON torna o personagem incapaz de agir até que seus atributos sejam restaurados por descanso prolongado ou por meios extraordinários.
 
-### Detachments
+### Morte de Personagem
 
-- Large groups of similar combatants fighting together are treated as a single _Detachment_. When a _detachment_ takes **Critical Damage**, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
-- Attacks against detachments by individuals are _impaired_ (excluding _blast_ damage). Attacks against individuals by detachments are _enhanced_ and deal _blast_ damage.
+- Quando um personagem morre, o jogador deve criar um novo ou assumir o controle de um mercenário. Ele se junta imediatamente ao grupo para reduzir o tempo de inatividade.
 
-### Retreat
+### Destacamentos
 
-- Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+- Grandes grupos de combatentes semelhantes lutando juntos são tratados como um único _Destacamento_. Quando um _destacamento_ sofre **Dano Crítico**, ele é dispersado ou significativamente enfraquecido. Quando a FOR dele chega a 0, o destacamento é destruído.
+- Quando um indivíduo faz um ataque contra um destacamento, este ataque tem _Desvantagem_ (exceto danos de _explosão_). Quando um destacamento faz um ataque contra indivíduos, este ataque tem _Vantagem_ e causa dano de _explosão_.
 
-### Ranged Attacks
+### Retirada
 
-- Ranged weapons can target any enemy near enough to see the whites of their eyes. Attacks against especially distant targets are _Impaired_.
-- Ammunition is not tracked unless otherwise specified. 
+- Fugir de uma situação perigosa sempre exige uma salvaguarda bem-sucedida de DES, bem como um destino seguro para onde correr.
 
-## Scars
+### Ataques a Distância
 
-If damage to a PC would reduce their HP to exactly 0, look up the result on the table below based on the _amount of HP lost in the attack_. For example, if a PC went from 3 HP to 0 HP, they would look at entry #3 (Walloped). 
+- Armas de longo alcance podem mirar em qualquer inimigo que esteja perto o suficiente para ver o branco de seus olhos. Ataques contra alvos especialmente distantes têm _Desvantagem_.
+- A munição não é contabilizada, a menos que especificado de outra forma. 
 
-### Scars Table
+## Cicatrizes
 
-|             |                                                                                                                                                                                                                           |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **HP Lost** | **Result**                                                                                                                                                                                                                |
-| 1           | Lasting Scar: Roll 1d6. 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                     |
-| 2           | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                           |
-| 3           | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP.                                                         |
-| 4           | Broken Limb: Roll 1d6. 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result.                                                                         |
-| 5           | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result.                                                           |
-| 6           | Reorienting Head Wound: Roll 1d6. 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current attribute, take the new result.                                                                        |
-| 7           | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result.                                                              |
-| 8           | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4.                                                                              |
-| 9           | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result.                                                                                    |
-| 10          | Sundered: An appendage is torn off, crippled, or useless. (The Warden will tell you which.) Then make a WIL save. If you pass, increase your max WIL by 1d6.                                                                |
-| 11          | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.                                                                         |
-| 12          | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+Se o dano a um PJ reduzir seus PG exatamente a 0, consulte o resultado na tabela abaixo com base na _quantidade de PG perdida no ataque_. Por exemplo, se um PJ for de 3 PG para 0 PG, olhe a entrada nº 3 (**Atordoado**).. 
 
-## Magic
+### Tabela de Cicatrizes
 
-### Spellbooks 
+| **PG Perdidos** | **Resultado**                                                                                                                                                                                                                                                 |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1               | Cicatriz Duradoura: Role 1d6. Pescoço, 2: Mãos, 3: Olho, 4: Peito, 5: Pernas, 6: Orelha. Role 1d6: Se o total for maior que seus PG máximos, adote o novo resultado.                                                                                          |
+| **2**           | Golpe Chocante: Você está desorientado e abalado. Descreva como volta a se concentrar. Role 1d6: Se o total for maior que seus PG máximos, adote o novo resultado.                                                                                            |
+| **3**           | Sacudido: Você é lançado para longe e cai de cara no chão, sem fôlego. Você fica privado até descansar por algumas horas. Depois, role 1d6 e adicione esse valor aos seus PG máximos.                                                                         |
+| **4**           | Membro Quebrado: Role 1d6. 1–2: Perna, 3–4: Braço, 5: Costela, 6: Crânio. Uma vez curado, role 2d6. Se o total for maior que seus PG máximos, adote o novo resultado.                                                                                         |
+| **5**           | Doença: Você é afligido por uma infecção grotesca e desconfortável. Quando você se recuperar, role 2d6. Se o total for maior que seus PG máximos, adote o novo resultado.                                                                                     |
+| **6**           | Ferimento Desorientador na Cabeça: Role 1d6. 1–2: FOR, 3–4: DES, 5–6: VON. Role 3d6: Se o total for maior que seu atributo atual, use o novo resultado.                                                                                                       |
+| 7               | Tendão Partido: Você mal consegue se mover até receber ajuda médica e descanso. Após se recuperar, role 3d6. Se o total for maior que sua DES máxima, use o novo resultado.                                                                                   |
+| **8**           | Ensurdecido: Você não pode ouvir nada até encontrar ajuda extraordinária. De qualquer forma, faça uma salvaguarda de VON. Se passar, aumente sua VON máxima em 1d4.                                                                                           |
+| **9**           | Reconfiguração Mental: Alguma parte oculta da sua psique é deslocada. Role 3d6: Se o total for maior que sua VON máxima, use o novo resultado.                                                                                                                |
+| **10**          | Membro Estropiado: Um membro é arrancado, inutilizado ou aleijado. (O Guardião lhe dirá qual.) Então faça uma Salvaguarda de VON. Se passar, aumente sua VON máxima em 1d6.                                                                                   |
+| 11              | Ferimento Mortal: Você está privado e fora de ação. Você morre em uma hora a menos que seja curado. Após se recuperar, role 2d6. Considere o novo resultado como seus PG máximo.                                                                              |
+| **12**          | Condenado: A morte esteve perigosamente próxima, mas de alguma forma você sobreviveu. Se sua próxima Salvaguarda de dano crítico falhar, você terá uma morte horrível. Se passar, role 3d6. Se o total for maior que seus PG máximos, adote o novo resultado. |
 
-- **Spellbooks** contain a single spell and take up one slot. They cannot be easily transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
-- Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
-- Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+## Magia
 
-### Casting Spells
+### Grimórios 
 
-- Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a **Fatigue** to inventory. 
-- Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. 
-- If the PC is _deprived_ or in danger (such as during combat), the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect and may result in added **Fatigue**, the destruction of the Spellbook, injury, and even death.
+- **Grimórios** contêm uma única magia e ocupam um espaço no inventário. Não podem ser facilmente transcritos ou criados; em vez disso, são recuperados de locais como tumbas, masmorras e mansões.
+- Às vezes, os grimórios apresentam propriedades ou limitações incomuns, como exalar um cheiro fétido ou sobrenatural quando abertos, possuir inteligência própria ou só serem legíveis sob a luz da lua.
+- Grimórios atraem a atenção de quem busca poder arcano, e é considerado perigoso exibi-los abertamente.
 
-### Scrolls
+### Conjuração de Magias
 
-**Scrolls** are similar to Spellbooks, however:
+- Qualquer pessoa pode conjurar uma magia segurando um grimório com as duas mãos e lendo seu conteúdo em voz alta.  Depois disso, deve adicionar **Fadiga** ao inventário. 
+- Com tempo e segurança, os personagens podem _aprimorar_ (e ter Vantagem) o efeito de uma magia (ex.: atingir múltiplos alvos, aumentar seu poder etc.) sem custo adicional. 
+- Se o personagem estiverem _Privados_ ou em perigo (como em combate), o Guardião pode exigir uma salvaguarda de VON para evitar efeitos colaterais ao conjurar. As consequências da falha são proporcionais ao efeito pretendido e podem incluir Fadiga adicional, destruição do grimório, ferimentos ou até morte.
 
-- They are _petty_.
-- They do not cause **Fatigue**.
-- They disappear after one use.
+### Pergaminhos
 
-### Relics
+**Pergaminhos** são similares a grimórios, mas:
 
-**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have limited use, as well as a **Recharge** condition.
+- São _miudezas_.
+- Não causam **Fadiga**.
+- Desaparecem após um único uso.
+
+### Relíquias
+
+**Relíquias** são itens imbuídos com magia ou poder. Não causam **Fadiga**. Normalmente, possuem uso limitado e uma condição de **Recarga**.

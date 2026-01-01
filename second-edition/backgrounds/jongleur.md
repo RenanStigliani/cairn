@@ -1,46 +1,46 @@
 ---
-title: Jongleur
+title: Jogral
 layout: default
 parent: Backgrounds
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
-# Jongleur
+# Jogral
 
-> What inspires the soul more than song, words, and spectacle? Why practice for years to master the arcane when you've already got real magic inside? 
+> O que inspira mais a alma do que canção, palavras e espetáculo? Por que praticar por anos para dominar o arcano quando você já tem magia real dentro de si?
 
-## Names
+## Nomes
 
 Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo   
 
-## Starting Gear
+## Equipamento Inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Costume
-- Simple Instrument (Pipes, Lute, etc.)
-- Lucky Jerkin (+1 Armor)
-- Sling (d6)
+- 3d6 Peças de Ouro
+- Rações (3 usos)
+- Tocha (3 usos) 
+- Traje
+- Instrumento Simples (Flauta, Alaúde, etc.)
+- Gibão da Sorte (+1 Armadura)
+- Funda (d6)
 
-## What happened at your final performance? Roll 1d6:
+## O que aconteceu na sua apresentação final? Role 1d6:
 
-|       |                                                                                                                                                                                                                                                        |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | Despite your training in the deadly arts, an actor died and you were blamed. Take a light-weight **Rapier** (d6) and a false identity.                                                                                                                 |
-| **2** | The crowd loved your catchy tune about a noble and his romantic failings. The noble in question, not so much. Take the _Read Mind_ **Spellbook** and a warrant for your arrest. Read Mind: You can hear the surface thoughts of nearby creatures. _Long-term possession can cause the reader to mistake the thoughts of others as their own._                                                                        |
-| **3** | Your debut composition reduced the audience to a gibbering mess, murmuring of bright creatures descending from the night sky. Later you noticed that the notes resembled stellar constellations. Take a **Book On Astronomy**, and a lot of questions. |
-| **4** | You mocked a forgotten trickster god and were cursed for it. You speak only in perfect rhyme. Ironically, this has only made you more popular among your peers. Take a **Thesaurus** (20gp). Without it, you are _deprived_.               |
-| **5** | You were scarred in an on-stage accident. The crowd cheered, thinking it was part of the act. Take well-worn **Stage Mail** (1 Armor), a memorable scar, and a fear of applause.                                                                       |
-| **6** | Your respectable puppeteering skills were matched only by your mimicry. You were so good you were branded a witch (literally) and banished. Take an **Uncanny Hand-Puppet** and a **Rabbit Skull** (_petty_) that protects against charms.     |
+|       |                                                                                                                                                                                                                                                                                                                                                                         |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Apesar do seu treinamento nas artes mortais, um ator morreu e você foi culpado. Leve uma **Rapieira** leve (d6) e uma identidade falsa.                                                                                                                                                                                                                                 |
+| **2** | A multidão adorou sua melodia cativante sobre um nobre e seus fracassos românticos. O nobre em questão, nem tanto. Leve o **Livro de Feitiços** _Ler Mentes_ e um mandado de prisão. Ler Mentes: Você pode ouvir os pensamentos superficiais de criaturas próximas. _A posse a longo prazo pode fazer com que o leitor confunda os pensamentos dos outros com os seus._ |
+| **3** | Sua composição de estreia reduziu o público a uma bagunça balbuciante, murmurando sobre criaturas brilhantes descendo do céu noturno. Mais tarde você notou que as notas se assemelhavam a constelações estelares. Leve um **Livro de Astronomia**, e muitas perguntas.                                                                                                 |
+| **4** | Você zombou de um deus trapaceiro esquecido e foi amaldiçoado por isso. Você fala apenas em rimas perfeitas. Ironicamente, isso só te tornou mais popular entre seus pares. Leve um **Dicionário de Sinônimos** (20po). Sem ele, você fica _privado_.                                                                                                                   |
+| **5** | Você ficou com cicatrizes em um acidente no palco. A multidão aplaudiu, pensando que fazia parte do ato. Leve uma **Cota de Malha de Palco** bem usada (1 Armadura), uma cicatriz memorável e medo de aplausos.                                                                                                                                                         |
+| **6** | Suas habilidades respeitáveis de marionetista eram igualadas apenas pela sua mímica. Você era tão bom que foi marcado como bruxo (literalmente) e banido. Leve um **Fantoche Estranho** e um **Crânio de Coelho** (_miudeza_) que protege contra encantos.                                                                                                              |
 
-## What trinket were you unable to leave behind? Roll 1d6:
+## Que bugiganga você não conseguiu deixar para trás? Role 1d6:
 
-|       |                    |                                                                                                             |
-| ----- | ------------------ | ----------------------------------------------------------------------------------------------------------- |
-| **1** | **False Cuffs**    | Comfortable, realistic-looking cuffs. Only you know the trick to get out of them.                           |
-| **2** | **Pocket Theatre** | A set of small puppets and a folding stage. Good for quick distractions.                                    |
-| **3** | **Ghost Violin**   | A dark-gray violin that plays a haunting tune, mirrored by an invisible, distant twin.                      |
-| **4** | **Tragic Tales**   | Banned in proper company, this book becomes less bawdy and more harrowing towards the end. Worth **100gp**. |
-| **5** | **Mythos Mask**    | A plaster mask that allows one to take on a monster's countenance. Once it comes off, add a **Fatigue**.    |
-| **6** | **Rebreak Glass**  | A wine flute that can be broken multiple times, reforming after 24 hours. Makes a really loud noise.        |
+|       |                      |                                                                                                               |
+| ----- | -------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **1** | **Algemas Falsas**   | Algemas confortáveis e de aparência realista. Só você conhece o truque para sair delas.                       |
+| **2** | **Teatro de Bolso**  | Um conjunto de pequenos fantoches e um palco dobrável. Bom para distrações rápidas.                           |
+| **3** | **Violino Fantasma** | Um violino cinza-escuro que toca uma melodia assustadora, espelhada por um gêmeo invisível e distante.        |
+| **4** | **Contos Trágicos**  | Banido em boa companhia, este livro se torna menos obsceno e mais angustiante no final. Vale **100po**.       |
+| **5** | **Máscara de Mitos** | Uma máscara de gesso que permite assumir o semblante de um monstro. Uma vez que sai, adicione uma **Fadiga**. |
+| **6** | **Taça Quebrável**   | Uma taça de vinho que pode ser quebrada várias vezes, reformando-se após 24 horas. Faz um barulho muito alto. |

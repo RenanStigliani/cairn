@@ -2,7 +2,7 @@
 layout: default
 title: Pointcrawls
 parent: Warden's Guide 
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
 # Pointcrawls

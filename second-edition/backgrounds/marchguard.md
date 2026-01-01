@@ -1,45 +1,45 @@
 ---
-title: Marchguard
+title: Guarda da Marca
 layout: default
 parent: Backgrounds
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
-# Marchguard
+# Guarda da Marca
 
-> Bound by blood Oath to patrol the border and protect the realm. Once sworn, the Oath cannot be broken. The Guard always finds their own.
+> Vinculado por Juramento de sangue para patrulhar a fronteira e proteger o reino. Uma vez jurado, o Juramento não pode ser quebrado. A Guarda sempre encontra os seus.
 
-## Names
+## Nomes
 
 Gann, Light, Saoirse, Frost, Thorn, Reed, Dirk, Ragnar, Brie, Aasim
 
-## Starting Gear
+## Equipamento Inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Lantern
-- Oil Can (6 uses)
-- Long Sword (d10, _bulky_)
-- Boiled Leather (1 Armor)
+- 3d6 Peças de Ouro
+- Rações (3 usos)
+- Lanterna
+- Lata de Óleo (6 usos)
+- Espada Longa (d10, _volumoso_)
+- Couro Fervido (1 Armadura)
 
-## Why did you take the Oath?
+## Por que você fez o Juramento?
 
-|       |                                                                                                                                                                                                                                                                     |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | Your family has a long tradition of serving, and you were trained from an early age on how to survive in the wild. When taking the Supply action, your yield increases by one step (e.g. 1d4 > 1d6). |
-| **2** | As a convict, the Oath was simply a means of avoiding punishment. Take a set of **Lockpicks** and the **Key** (_petty_) to a safehouse.                                                                                                                                          |
-| **3** | Noble-born, you joined to escape family trouble. Take a **Goosefelt Tarp** (fits two) that you stole before leaving home.                                                                                                                                           |
-| **4** | When your family lost everything, you took the Oath to avoid becoming a burden. Take extra **Rations** (3 uses) and a brace of **Throwing Knives** (d6).                                                                                                               |
-| **5** | Your life was saved by a member of the **Marchguard**, and you were inspired to join their ranks. Take a **Snare Trap** and a **Sketchbook** filled with detailed drawings.                                                                                         |
-| **6** | You were in a dark place and decided that your life needed a little direction. You're still not so sure it was the right choice. Take an **Oilskin Coat** and **Mapping Paper**.                                                                                   |
+|       |                                                                                                                                                                                                      |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Sua família tem uma longa tradição de servir, e você foi treinado desde cedo em como sobreviver na natureza. Ao realizar a ação de Suprimento, seu rendimento aumenta em um passo (ex: 1d4 > 1d6).   |
+| **2** | Como um condenado, o Juramento foi simplesmente um meio de evitar punição. Leve um conjunto de **Gazuas** e a **Chave** (_miudeza_) para um esconderijo.                                             |
+| **3** | Nascido nobre, você se juntou para escapar de problemas familiares. Leve uma **Lona Impermeável** (cabe dois) que você roubou antes de sair de casa.                                                 |
+| **4** | Quando sua família perdeu tudo, você fez o Juramento para evitar se tornar um fardo. Leve **Rações** extras (3 usos) e um par de **Facas de Arremesso** (d6).                                        |
+| **5** | Sua vida foi salva por um membro da **Guarda da Marca**, e você foi inspirado a se juntar às suas fileiras. Leve uma **Armadilha de Laço** e um **Caderno de Esboços** cheio de desenhos detalhados. |
+| **6** | Você estava em um lugar sombrio e decidiu que sua vida precisava de um pouco de direção. Você ainda não tem certeza se foi a escolha certa. Leve um **Casaco de Oleado** e **Papel de Mapeamento**.  |
 
-## What do you carry as proof of your Oath?
+## O que você carrega como prova do seu Juramento?
 
-|       |                    |                                                                                                                                                                          |
-| ----- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Impressive Pin** | A metal badge of honor from the Guard. It can open doors but leaves a trail. _Petty_.                                                                                            |
-| **2** | **Oath Compass**   | Points not towards North, but instead to the nearest member of the Guard. It also lets you know when they're getting close.                                              |
-| **3** | **Pullstones**     | Two jet-black stones. When separated, the stones will always roll toward one another.                                                                         |
-| **4** | **Fireflask**      | Highly alcoholic, yet strangely delicious. When thrown, it creates a wall of flames 10ft high that burns out after a few minutes. 1 use.                                                                    |
-| **5** | **Pain Band**      | Touch an injured creature to transfer their wounds to you. (Exchange their lost STR with your own.) **Recharge**: Wear the ring while in perfect health. You will lose 1 STR, permanently. _Petty_. |
-| **6** | **Poacher's Woe**  | Strongly-scented arrows (3 uses). The scent is powerful enough to track with ease.                                                                                       |
+|       |                           |                                                                                                                                                                                                                        |
+| ----- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Broche Impressionante** | Um distintivo de metal de honra da Guarda. Pode abrir portas, mas deixa um rastro. _Miudeza_.                                                                                                                          |
+| **2** | **Bússola do Juramento**  | Aponta não para o Norte, mas sim para o membro mais próximo da Guarda. Também avisa quando eles estão chegando perto.                                                                                                  |
+| **3** | **Pedras de Atração**     | Duas pedras negras como azeviche. Quando separadas, as pedras sempre rolarão uma em direção à outra.                                                                                                                   |
+| **4** | **Frasco de Fogo**        | Altamente alcoólico, mas estranhamente delicioso. Quando jogado, cria uma parede de chamas de 3m de altura que queima após alguns minutos. 1 uso.                                                                      |
+| **5** | **Faixa da Dor**          | Toque uma criatura ferida para transferir seus ferimentos para você. (Troque a FOR perdida dela pela sua.) **Recarga**: Use o anel enquanto estiver em perfeita saúde. Você perderá 1 FOR, permanentemente. _Miudeza_. |
+| **6** | **Desgraça do Caçador**   | Flechas com cheiro forte (3 usos). O cheiro é poderoso o suficiente para rastrear com facilidade.                                                                                                                      |

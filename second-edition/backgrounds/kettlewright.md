@@ -1,48 +1,48 @@
 ---
-title: Kettlewright
+title: Caldeireiro
 layout: default
 parent: Backgrounds
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
-# Kettlewright
+# Caldeireiro
 
-> You are known by the smell of molten metal and the jingle of tin. You are no mere merchant but an artisan of fire and metal. 
+> Você é conhecido pelo cheiro de metal derretido e o tilintar de estanho. Você não é um mero mercador, mas um artesão de fogo e metal.
 
-## Names
+## Nomes
 
 Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 
-## Starting Gear
+## Equipamento Inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Pincers
-- Roll of Tin
-- Gloves (_petty_)
-- Hammer (d6)
+- 3d6 Peças de Ouro
+- Rações (3 usos)
+- Tocha (3 usos) 
+- Tenazes
+- Rolo de Estanho
+- Luvas (_miudeza_)
+- Martelo (d6)
 
-## What is your trade? Roll 1d6:
+## Qual é o seu ofício? Role 1d6:
 
-|       |                                                                                                                                                                                                                 |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | You build small contraptions for local guilds (and don't ask too many questions). Take an extra 40gp and a wanted poster with your face on it. Given time and materials, you can open almost any door or vault. |
-| **2** | You deal in home goods and tools, hawking your wares to townspeople across the lands. Take 20gp worth of items from the [gear](/second-edition/players-guide/marketplace#gear) table. You are fluent in the _Traveler's Cant_.       |
-| **3** | You were a military smelter, before peace destroyed your livelihood. Take a **smelting hammer** (d10, _bulky_) and a **tin helm** (+1 Armor). Given time and adequate materials, you can repair armor.          |
-| **4** | You sell rare and quality items to monasteries and nobles alike. Take a **Spyglass**, a **Necklace** (_petty_) worth 20gp, and a **Scroll** of Mirrorwalk (_petty_).                      |
-| **5** | You offer protection as a service, quietly watching for threats as money exchanges hands. You start with **+d4 HP**, and carry a **Long Sword** (d10, _bulky_) and a **Gambeson** (+1 Armor).         |
-| **6** | You scavenge raw tin and iron from battlefields, pulling teeth from still-twitching corpses. Start with a young **Donkey** (+4 slots, slow), a **Crossbow** (d8 damage, _bulky_), and a **Saw** (d6).           |
+|       |                                                                                                                                                                                                                                                              |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | Você constrói pequenas engenhocas para guildas locais (e não faz muitas perguntas). Leve 40po extras e um cartaz de procurado com seu rosto nele. Com tempo e materiais, você pode abrir quase qualquer porta ou cofre.                                      |
+| **2** | Você negocia bens domésticos e ferramentas, vendendo suas mercadorias para os habitantes da cidade em todas as terras. Leve 20po em itens da tabela de [equipamento](/second-edition/players-guide/marketplace#gear). Você é fluente na _Gíria do Viajante_. |
+| **3** | Você era um fundidor militar, antes que a paz destruísse seu sustento. Leve um **martelo de fundição** (d10, _volumoso_) e um **elmo de estanho** (+1 Armadura). Com tempo e materiais adequados, você pode consertar armaduras.                             |
+| **4** | Você vende itens raros e de qualidade para mosteiros e nobres. Leve uma **Luneta**, um **Colar** (_miudeza_) no valor de 20po, e um **Pergaminho** de [Caminhar no Espelho](/second-edition/players-guide/spellbooks) (_miudeza_).                           |
+| **5** | Você oferece proteção como um serviço, observando silenciosamente ameaças enquanto o dinheiro troca de mãos. Você começa com **+d4 PV**, e carrega uma **Espada Longa** (d10, _volumoso_) e um **Gambesão** (+1 Armadura).                                   |
+| **6** | Você vasculha estanho bruto e ferro de campos de batalha, arrancando dentes de cadáveres ainda se contorcendo. Comece com um **Burro** jovem (+4 espaços, lento), uma **Besta** (d8 dano, _volumoso_), e um **Serrote** (d6).                                |
 
-## What never fails to get you out of trouble? Roll 1d6:
+## O que nunca falha em te tirar de problemas? Role 1d6:
 
-|     |                    |                                                                                                                                                                  |
-| --- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Fire Eggs**      | Six small pellets made of sea salt, wood, and crockery-dust. They explode at low heat (d8, _blast_) but the flames dissipate quickly.                            |
-| 2   | **Black Tar**      | Versatile: both sticky and highly flammable. 3 uses.                                                                                                             |
-| 3   | **Spiked Boots**   | Cracks heads (d8) as easily as it does ice and muck. Travel is also a bit slower, but easier.                                                                    |
-| 4   | **Tinker's Paste** | Seals shut any fist-sized opening. 3 uses.                                                                                                                       |
-| 5   | **Fireworks**      | A dazzling albeit dangerous display. Enough explosive material to blow off a finger or three. 2 uses remain.                                                    |
-| 6   | **Carrion Cat**    | A clever pet, small enough to hide in your pack (_bulky_), but strong enough to scare off smaller predators. Requires one **Ration** a day, and it must be meat. |
-|     |                    |                                                                                                                                                                  |
+|     |                        |                                                                                                                                                                                                                 |
+| --- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Ovos de Fogo**       | Seis pequenas pastilhas feitas de sal marinho, madeira e pó de louça. Elas explodem em fogo baixo (d8, _explosão_) mas as chamas se dissipam rapidamente.                                                       |
+| 2   | **Piche Preto**        | Versátil: pegajoso e altamente inflamável. 3 usos.                                                                                                                                                              |
+| 3   | **Botas com Cravos**   | Quebra cabeças (d8) tão facilmente quanto gelo e lama. A viagem também é um pouco mais lenta, mas mais fácil.                                                                                                   |
+| 4   | **Pasta de Latoeiro**  | Veda qualquer abertura do tamanho de um punho. 3 usos.                                                                                                                                                          |
+| 5   | **Fogos de Artifício** | Uma exibição deslumbrante, embora perigosa. Material explosivo suficiente para arrancar um dedo ou três. 2 usos restantes.                                                                                      |
+| 6   | **Gato Carniceiro**    | Um animal de estimação inteligente, pequeno o suficiente para se esconder em sua mochila (_volumoso_), mas forte o suficiente para assustar predadores menores. Requer uma **Ração** por dia, e deve ser carne. |
+|     |                        |                                                                                                                                                                                                                 |
 

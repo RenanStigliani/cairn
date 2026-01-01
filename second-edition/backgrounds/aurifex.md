@@ -1,45 +1,45 @@
 ---
-title: Aurifex
+title: Ourivex
 layout: default
 parent: Backgrounds
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
-# Aurifex
+# Ourivex [Aurifex]
 
-> You are an artisan of the arcane, a smith of subtle forces. In the crucible of your workshop, the laws that govern this world are warped to suit your needs. 
+> Você é um artesão do arcano, um ferreiro de forças sutis. No cadinho de sua oficina, as leis que regem este mundo se distorcem para atender às suas necessidades. 
 
-## Names
+## Nomes
 
-Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
+Hestia, Basílio, Runa, Prisma, Fagulha, Quinto, Aludel, Mordante, Mandra, Jaspe, Crisolio
 
-## Starting Gear
+## Equipamento Inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Lantern
-- Oil Can (6 uses)
-- Needle-knife (d6)
-- Protective Gloves (_petty_)
+- 3d6 Peças de Ouro
+- Rações (3 usos)
+- Lanterna
+- Lata de Óleo (6 usos)
+- Faca-agulha (d6)
+- Luvas Protetoras (_miudeza_)
 
-## What went horribly wrong? Roll 1d6:
+### O que deu terrivelmente errado? Role 1d6:
 
-|       |                                                                                                                                                                                                                                     |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | There was an explosion, and you lost your sense of smell. Well, almost: you can sniff out gold as a pig does truffles. Take a **Tin of Snuff** (6 uses) to dampen the impact. Use it every day or become _deprived_.                                  |
-| **2** | You dematerialized a beloved pet. Now it follows you around, invisible but always present. Although it cannot interact with the physical realm, you are able to share its senses. (Add a **Fatigue** each time.) It follows basic commands. |
-| **3** | You were exposed to a long-acting truth serum whose effects have yet to wear off. The disorder has its advantages: you cannot repeat lies you've heard, either.                                                                     |
-| **4** | You were adept at creating _fake_ gold, which is almost as good. Eventually, your ruse was discovered, and you had to make a hasty retreat. Take a heavy **Metal Ingot** and **Gold Powder** (3 uses).                                                    |
-| **5** | Your alchemical recipe worked, but a rival stole the blueprint before your claims could be proven. Take a prototype **Blunderbuss** (d12, _blast_, _bulky_) that takes one round to reload, and a taste for revenge.                                                      |
-| **6** | Ridiculed for discovering how to turn gold into _lead_, you were a laughing stock. Take a bottle of **Universal Solvent** (2 uses) that dissolves anything it touches into its constituent parts.                                   |
+| 1d6   | Resultado                                                                                                                                                                                                                                                                        |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Houve uma explosão, e você perdeu o olfato. Bem, quase: você consegue farejar ouro como um porco fareja trufas. Pegue uma **Lata de Rapé** (6 usos) para amenizar o impacto. Use-a todo dia ou ficará _privado_.                                                                 |
+| **2** | Você desmaterializou um animal de estimação querido.  Agora ele o segue, invisível, mas sempre presente. Embora ele não possa interagir com o reino físico, você é capaz de compartilhar os sentidos dele. (Adicione uma **Fadiga** a cada vez.) Ele obedece a comandos básicos. |
+| **3** | Você foi exposto a um soro da verdade de longa duração cujos efeitos ainda não cessaram. O distúrbio tem suas vantagens: você também não consegue repetir mentiras que ouviu.                                                                                                    |
+| **4** | Você era habilidoso em criar ouro _falso_, que era quase tão bom quanto o verdadeiro. Eventualmente, sua farsa foi descoberta e você precisou fugir às pressas. Pegue um **Lingote de Metal** pesado e **Pó de Ouro** (3 usos).                                                  |
+| **5** | Sua receita alquímica funcionou, mas um rival roubou a fórmula antes que suas alegações pudessem ser comprovadas. Pegue um protótipo de **Bacamarte** (d12, _explosão_, _volumoso_), que leva um turno para recarregar, e um gosto por vingança.                                 |
+| **6** | Ridicularizado por descobrir como transformar ouro em _chumbo_, você virou motivo de chacota. Pegue um frasco de **Solvente Universal** (2 usos) que dissolve qualquer coisa que toque em suas partes constituintes.                                                             |
 
-## What alchemical marvel is the product of your latest ingenuity? Roll 1d6:
+## Que maravilha alquímica é fruto de sua última engenhosidade? Role 1d6:
 
-|       |                    |                                                                                                                                                                                                                      |
-| ----- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Pyrophoric Gel** | A sticky green fluid that catches fire when exposed to air, then burns for 8 hours. Cannot be extinguished (1 use).                                                                                                |
-| **2** | **Blast Sphere**   | A head-sized iron ball filled with explosive powder that detonates on impact (d12, _blast_, _bulky_, 1 use).                                                                                                             |
-| **3** | **Aqua Vita**      | Purifies any liquid, converting it to pure water. Drinking it cures 1d6 STR (1 use).                                                                                                                                         |
-| **4** | **Mimic Stone**    | Records a short phrase that can later be played back.                                                                                                                                                     |
-| **5** | **Spark Dust**     | Ignites easily and quickly. Useful for starting a fire or as an incendiary device (3 uses).                                                                                                                           |
-| **6** | **Homunculus**     | A miniature clay replica of yourself that follows your every command. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you. 3 HP, 4 STR, 13 DEX, 5 WIL |
+| 1d6   | Elemento             | Descrição                                                                                                                                                                                                                                           |
+| ----- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Gel Pirofórico**   | Um fluido verde e pegajoso que pega fogo ao ser exposto ao ar, queimando por 8 horas. Não pode ser apagado (1 uso).                                                                                                                                 |
+| **2** | **Esfera Explosiva** | Uma esfera de ferro do tamanho de uma cabeça, cheia de pó explosivo, que detona ao impacto (d12, _explosão_, _volumoso_, 1 uso).                                                                                                                    |
+| **3** | **Água Vitae**       | Purifica qualquer líquido, convertendo-o em água pura. Bebê-la cura 1d6 de FOR (1 uso).                                                                                                                                                             |
+| **4** | **Pedra Mímica**     | Grava uma frase curta que pode ser reproduzida depois.                                                                                                                                                     [parcial]                                |
+| **5** | **Poeira de Faísca** | Inflama-se fácil e rapidamente. Útil para acender fogo ou como dispositivo incendiário (3 usos).                                                                                                                                                    |
+| **6** | **Homúnculo**        | Uma réplica sua em miniatura, feita de argila, que segue todos os seus comandos. Ele odeia estar sob sua servidão e reclama amargamente sempre que possível. Qualquer dano causado ao homúnculo também é causado a você. 3 PG, 4 FOR, 13 DES, 5 FOR |

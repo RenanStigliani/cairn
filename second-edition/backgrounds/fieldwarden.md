@@ -1,46 +1,46 @@
 ---
-title: Fieldwarden
+title: Guarda-Campo
 layout: default
 parent: Backgrounds
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
-# Fieldwarden
+# Guarda-Campo [Fieldwarden]
 
-> Protectors of the harvest, defense against pests, thieves, and beasts. A position of great honor, while it lasts: many guardians do not live out their natural lives. Roll a second time on the **Bonds** table. 
+> Protetores da colheita, defensores contra pragas, ladrões e feras. Uma posição de grande honra, enquanto dura: muitos guardiões não vivem até o fim natural de suas vidas. Role uma segunda vez na tabela de **Vínculos**. 
 
-## Names
+## Nomes
 
-Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye 
+Semente, Malho, Palha, Zimbro, Haste, Grade, Espiga, Linho, Abrulho, Centeio 
 
-## Starting Gear
+## Equipamento Inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Brigandine (1 Armor, _bulky_)
-- Sling (d6)
-- Hand Axe (d6)
-- Repellent (pick the type, 3 uses)
+- 3d6 Peças de Ouro  
+- Rações (3 usos)  
+- Tocha (3 usos)  
+- Brigandina (1 Armadura, _volumosa_)  
+- Funda (d6)  
+- Machado de Mão (d6)  
+- Repelente (escolha o tipo, 3 usos)  
  
-## What got the better of you? Roll 1d6:
+O que superou você? Role 1d6:
 
-|       |                                                                         |
-| ----- | --------------------------------------------------------------- |
-| **1** | A voracious swarm of pests that swallowed crops and animals alike. With nothing to defend, you left. Take **Gale Seed Extract** (3 uses).  Ingesting it lets you sprint with a speed four times your regular rate. Afterward you add two **Fatigue**.        |
-| **2** | A crop spirit, angered by a poor tithing. The fires consumed nearly everything, and afterward you were able to gather a pouch of **Fireseeds** (d8, _blast_, 4 uses).        |
-| **3** | An antlered, toothy demon that nearly ended you. Take a blood-stained **Bone Knife** (d6). On **Critical Damage**, its next attack becomes _enhanced_ from contact with blood. |
-| **4** | _The Withering_, a type of stem rot from the **Roots**. Take a **Diseased Crop** (6 uses) that quickly decays any plant it touches.                        |
-| **5** | Wolves, or so you thought. You are now a **Werewolf** [8 HP, 15 STR, 14 DEX, claws (d6+d6), bite (d8)]. Your WIL remains the same. You can _turn_ at will (once per day) but must make a WIL save to revert. Anyone left alive from your attacks must make a WIL save to avoid infection. |
-| **6** | Crop thieves. Not all of them survived, but you were outnumbered. Start with +d4 HP and a **Cusped Falchion** (d8).  |
+| 1d6   | Descrição                                                                                                                                                                                                                                                                                                                                                |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Um enxame voraz de pragas que devorou colheitas e animais igualmente. Sem nada para defender, você partiu. Você tem **Extrato de Semente de Vento** (3 usos).  Ingeri-lo permite correr a quatro vezes sua velocidade normal. Depois, adicione dois de **Fadiga**.                                                                                       |
+| **2** | Um espírito da colheita, enfurecido por um dízimo mal pago. Os fogos consumiram quase tudo, e depois você conseguiu juntar uma bolsa de **Sementes de Fogo** (d8, _explosão_, 4 usos).                                                                                                                                                                   |
+| **3** | Um demônio de chifres e presas que quase acabou com você. Você tem uma **Faca de Osso** ensanguentada (d6). Com **Dano Crítico**, seu próximo ataque tem _vantagem_ pelo contato com o sangue.                                                                                                                                                           |
+| **4** | _A Murchidão_, um tipo de podridão do caule vinda das **Raízes**. Você tem uma **Colheita Doente** (6 usos) que rapidamente faz apodrecer qualquer planta que toque.                                                                                                                                                                                     |
+| **5** | Lobos, ou assim você pensava. Agora você é um **Lobisomem** [8 PG, 15 FOR, 14 DES, garras (d6+d6), mordida (d8)]. Sua VON permanece a mesma. Você pode se _transformar_ à vontade (1 vez por dia), mas deve passar em um teste de VON para reverter. Qualquer sobrevivente de seus ataques deve passar em uma Salvaguarda de VON para evitar a infecção. |
+| **6** | Ladrões de colheita. Nem todos sobreviveram, mas eles eram muitos. Comece com +d4 PG e uma **Espada de Lâmina Pontiaguda** (d8).                                                                                                                                                                                                                         |
 
-## What tool saved your life? Roll 1d6:
+## Qual ferramenta salvou sua vida? Role 1d6:
 
-|       |                    |                                                                                                                                               |
-| ----- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Bloodvine Whip** | d8 damage. On **Critical Damage**, it drains the target's blood, granting the weapon's next attack the _blast_ quality             |
-| **2** | **Clatter Keeper** | A hand-cranked device that emits a loud noise, frightening away most creatures.                                                               |
-| **3** | **Sun Stick**      | Provides ample warmth and light for up to one hour. **Recharge**: Leave in heavy sunlight for a full day. 1 use. |
-| **4** | **Root Tether**    | When thrown, binds a creature as large as a wolf to the soil for a short time.                                                                        |
-| **5** | **Greenwhistle**   | A small flute that calms plants, making passage through areas heavy with plant life a bit easier.                                                   |
-| **6** | **Everbloom Band** | A circlet adorned with flowers that never wilt. On **Critical Damage**, the flowers dissolve into dust, but you act as if your save succeeded (STR loss still occurs). |
+| 1d6   | Ferramenta                  | Descrição                                                                                                                                                                                    |
+| ----- | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Chicote de Vide-Sangue**  | Causa d8 de dano. Com **Dano Crítico**, drena o sangue do alvo, dando ao próximo ataque da arma a qualidade de _explosão_.                                                                   |
+| **2** | **Guardião do Estalo**      | Um dispositivo de manivela que emite um barulho alto, assustando a maioria das criaturas.                                                                                                    |
+| **3** | **Bastão Solar**            | Fornece calor e luz abundante por até uma hora. **Recarga**: Deixar sob sol forte por um dia inteiro. 1 uso.                                                                                 |
+| **4** | **Laço de Raiz**            | Quando lançado, prende uma criatura do tamanho de um lobo ao solo por um curto período de tempo.                                                                                             |
+| **5** | **Apito Verde**             | Uma pequena flauta que acalma plantas, tornando a travessia por áreas densas de vegetação um pouco mais fácil.                                                                               |
+| **6** | **Coroa de Flores Eternas** | Uma coroa adornada com flores que nunca murcham. Com **Dano Crítico**, as flores se dissolvem em pó, mas você age como se seu teste tivesse sido bem-sucedido (a perda de FOR ainda ocorre). |

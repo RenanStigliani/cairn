@@ -1,47 +1,47 @@
 ---
-title: Outrider
+title: Batedor
 layout: default
 parent: Backgrounds
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
-# Outrider
+# Batedor
 
-> Your coin comes from escorting caravans, tracking fugitives, or lending your blade to a cause. You've been a savior, an executioner, a hero, and even a villain. Yours is not a solitary path, however: you'll always have your horse.
+> Sua moeda vem da escolta de caravanas, rastreamento de fugitivos ou empréstimo de sua lâmina para uma causa. Você foi um salvador, um carrasco, um herói e até um vilão. O seu não é um caminho solitário, no entanto: você sempre terá seu cavalo.
 
-## Names
+## Nomes
 
 Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 
-## Starting Gear
+## Equipamento Inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Long Sword (d10, _bulky_)
-- Leather Jerkin (1 Armor)
-- Crossbow (d8, _bulky_)
-- Spyglass
+- 3d6 Peças de Ouro
+- Rações (3 usos)
+- Tocha (3 usos) 
+- Espada Longa (d10, _volumoso_)
+- Gibão de Couro (1 Armadura)
+- Besta (d8, _volumoso_)
+- Luneta
 
-## What personal code or principle do you uphold? Roll 1d6:
+## Que código pessoal ou princípio você defende? Role 1d6:
 
-|       |                                                                                                                                                                                                                                                                                       |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **No innocent blood**: No bystander will come to harm on your watch. Take a **Steadymade Buckler** (+1 Armor). While holding this shield, you cannot be moved so long as both feet are planted on firm ground.                                                                         |
-| **2** | **Revere the tools of death**: Weapons are to be respected and maintained. Take a **Wyrmbone Whetstone**. Following a half-hour ritual sharpening, attacks with the weapon are _enhanced_ until STR damage is dealt.                                                                  |
-| **3** | **To the death, always**: You never back down from a fight, no matter the odds. Take a **Death-Whistle**, 1 charge. Its scream frightens away all who hear it (save WIL or flee). **Recharge**: Capture the final breath of a dying warrior.                                          |
-| **4** | **Revere the dead**: Death is a journey we all take, and it deserves respect. Take an extra **30gp**. You always place two gold pieces on the eyelids of a slain foe. Somehow, you always find the coin.                                                                              |
-| **5** | **Loyalty to the work**: Your word is your bond. Once you've accepted a job, you see it through to the end. Take a weathered **Tally Stick**. Once a vow is marked onto its face, the stick hardens (d8) until it is complete. The stick will snap in half if the vow is ever broken. |
-| **6** | **Always pay your debts**: You always repay what you owe, whether in coin or in kind. You expect nothing less from all others. Take a **Blacked-Out Ledger**, then roll a second time on the **Bonds** table.                                                                         |
+|       |                                                                                                                                                                                                                                                                                                      |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Nenhum sangue inocente**: Nenhum espectador sofrerá danos sob sua vigilância. Leve um **Broquel Firme** (+1 Armadura). Enquanto segura este escudo, você não pode ser movido enquanto ambos os pés estiverem plantados em solo firme.                                                              |
+| **2** | **Reverencie as ferramentas da morte**: Armas devem ser respeitadas e mantidas. Leve uma **Pedra de Afiar de Osso de Dragão**. Após um ritual de afiação de meia hora, ataques com a arma são _aprimorados_ até que dano de FOR seja causado.                                                        |
+| **3** | **Até a morte, sempre**: Você nunca recua de uma luta, não importa as chances. Leve um **Apito da Morte**, 1 carga. Seu grito assusta todos que o ouvem (teste de VON ou fuja). **Recarga**: Capture o último suspiro de um guerreiro moribundo.                                                     |
+| **4** | **Reverencie os mortos**: A morte é uma jornada que todos nós fazemos, e merece respeito. Leve **30po** extras. Você sempre coloca duas peças de ouro nas pálpebras de um inimigo morto. De alguma forma, você sempre encontra a moeda.                                                              |
+| **5** | **Lealdade ao trabalho**: Sua palavra é seu vínculo. Uma vez que você aceitou um trabalho, você o vê até o fim. Leve uma **Vara de Contagem** desgastada. Uma vez que um voto é marcado em sua face, a vara endurece (d8) até que esteja completo. A vara se partirá ao meio se o voto for quebrado. |
+| **6** | **Sempre pague suas dívidas**: Você sempre paga o que deve, seja em moeda ou em espécie. Você não espera nada menos de todos os outros. Leve um **Livro-Razão Apagado**, depois role uma segunda vez na tabela de **Vínculos**.                                                                      |
 
 
-## What breed is your horse? Roll 1d6:
+## Qual é a raça do seu cavalo? Role 1d6:
 
-|       |                       |                                                                                                                 |
-| ----- | --------------------- | --------------------------------------------------------------------------------------------------------------- |
-| **1** | **Heavy Destrier**    | A beast built for war, an imposing creature. 8 HP, 1 Armor, hooves (d10+d10), +2 slots.                         |
-| **2** | **Blacklegged Dandy** | Hardy and adaptable. **Tough** or **Perilous** terrain are one step easier. 6 HP. +4 slots.                     |
-| **3** | **Rivertooth**        | Impressively strong, capable of carrying heavy loads. 4 HP. +6 slots (only +2 slots if carrying two people).    |
-| **4** | **Piebald Cob**       | Intelligent, it can understand simple commands and even has an instinct for danger. 6 HP. +4 slots.            |
-| **5** | **Linden White**      | Highly trained and agile, it can perform intricate maneuvers in a time of need (no DEX save to flee). 4 HP. +3 slots. |
-| **6** | **Stray Fogger**      | Wild but very fast (even in **Tough** terrain). Rides light. 4 HP. +2 slots.                                 |
+|       |                           |                                                                                                                                           |
+| ----- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Destcel Pesado**        | Uma besta construída para a guerra, uma criatura imponente. 8 PV, 1 Armadura, cascos (d10+d10), +2 espaços.                               |
+| **2** | **Dândi de Patas Negras** | Resistente e adaptável. Terreno **Difícil** ou **Perigoso** é um passo mais fácil. 6 PV. +4 espaços.                                      |
+| **3** | **Dente-de-Rio**          | Impressionantemente forte, capaz de carregar cargas pesadas. 4 PV. +6 espaços (apenas +2 espaços se carregar duas pessoas).               |
+| **4** | **Cob Malhado**           | Inteligente, pode entender comandos simples e até tem instinto para o perigo. 6 PV. +4 espaços.                                           |
+| **5** | **Branco Tília**          | Altamente treinado e ágil, pode realizar manobras intrincadas em momentos de necessidade (sem teste de DES para fugir). 4 PV. +3 espaços. |
+| **6** | **Nevoeiro Errante**      | Selvagem, mas muito rápido (mesmo em terreno **Difícil**). Viaja leve. 4 PV. +2 espaços.                                                  |

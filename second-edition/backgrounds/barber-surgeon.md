@@ -1,46 +1,46 @@
 ---
-title: Barber-Surgeon
+title: Barbeiro-Cirurgião
 layout: default
 parent: Backgrounds
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
-# Barber-Surgeon
+# Barbeiro-Cirurgião [Barber-Surgeon]
 
-> You walk the line between healer and harrower, knowing the frailty of the flesh but also the secrets that lie within. With the right tools, life and death are merely words.
+> Você caminha na linha entre curandeiro e flagelador, conhecendo a fragilidade da carne, mas também os segredos que residem em seu interior. Com as ferramentas certas, a vida e a morte são apenas palavras.
 
-## Names
+## Nomes
 
-Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johanna  
+Mota, Remendo, Lanceta, Serra-osso, Teodoro, Humor, Vau, Olho-bom, Joana, Fleuma, Vêneto
 
-## Starting Gear
+## Equipamento Inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Bonesaw (d6)
-- Bandages (3 uses)
-- Leech (restores 1 STR, 3 uses)
-- Stained Medical Finery (_petty_)
+- 3d6 Peças de Ouro
+- Rações (3 usos)
+- Tocha (3 usos)
+- Serra de Ossos (d6)
+- Bandagens (3 usos)
+- Sanguessugas (restaura 1 FOR, 3 usos)
+- Roupas Médicas Manchadas (_miudezas_)
 
-## How have you "improved" yourself? Roll 1d6:
+## Como você “melhorou” a si mesmo? Role 1d6:
 
-|       |                                                                                                                                                                                                                                                            |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | You have a replacement **eye** that can magnify objects, act as a telescope, and provide minimal night vision. You cannot wear anything metal on your head, and the presence of strong magnets make you _deprived_.                                                |
-| **2** | One **foot** is mostly metal (kick, d6), and you treat some Tough terrain as **Easy**. Carry a **Oil Can** (6 uses). Without a daily application, you are _deprived_ and noisy.    |
-| **3** | One of your fingers has been swapped, the bone replaced by gold and iron. Take a **Hook** and a **Screwdriver** that can attach to the fingertip.                                                                                                            |
-| **4** | Both **ears** have been surgically enhanced, tripling your hearing. You can focus on a specific sound, such as a conversation, at a great distance. You wear an ear flap to protect against sudden loud noises (WIL save to avoid temporary paralysis). |
-| **5** | Your **chest** is lined with alchemical sigils, _toughening the skin_ (1 Armor). Wearing other metallic armor nullifies the effect.                                                                                                                              |
-| **6** | One **arm** is fully metal and comes off at the shoulder. It can be used as a weapon (d8, _bulky_ when not attached) and can move independently if you are within sight of it.                                                                                 |
+| [1d6] | Melhoria                                                                                                                                                                                                                                                                                              |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Você tem um **olho** substituto que pode ampliar objetos, funcionar como um telescópio e fornecer visão noturna mínima. Você não pode usar nada metálico na cabeça, e a presença de ímãs fortes o deixa _privado_.                                                                                    |
+| **2** | Um **pé** é basicamente de metal (chute, d6), e você trata alguns terrenos Difíceis como **Fáceis**. Carregue uma **Lata de Óleo** (6 usos). Sem aplicação diária, você fica _privado_ e barulhento.                                                                                                  |
+| **3** | Um dos seus dedos foi trocado, o osso substituído por ouro e ferro. Pegue um **Gancho** e uma **Chave de Fenda** que podem ser acoplados à ponta do dedo.                                                                                                                                             |
+| **4** | Ambos os **ouvidos** foram cirurgicamente aprimorados, triplicando sua audição. Você pode se focar em um som específico, como uma conversa, a uma grande distância. Você usa uma aba protetora para se proteger contra ruídos altos repentinos (Salvaguarda de VON para evitar paralisia temporária). |
+| **5** | Seu **peito** é marcado com sigilos alquímicos que _endurecem a pele_ (1 Armadura). Vestir outra armadura metálica anula o efeito.                                                                                                                                                                    |
+| **6** | Um **braço** é totalmente metálico e se solta no ombro. Pode ser usado como arma (d8, _volumoso_ quando não acoplado) e consegue se mover de forma independente se estiver ao alcance de sua visão.                                                                                                   |
 
-## What rare tool is essential to your work? Roll 1d6:
+## Que ferramenta rara é essencial para o seu trabalho? Role 1d6:
 
-|       |                    |                                                                                                                                                                   |
-| ----- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Regrowth Salve** | Regrows a body part over the course of a day. 1 use.                                                                                                                    |
-| **2** | **Graftgrub**      | A small worm that can fuse inanimate objects with parts of the body.  1 use.                                                                                      |
-| **3** | **Woundwax**       | Heals wounds from fire or chemicals (restoring full STR) but nothing else. 2 uses.                                                                               |
-| **4** | **Quicksilver**    | A stimulant. Go first in combat, and automatically pass any WIL saves for one hour. _Addictive_: Save STR or become _deprived_ after 24 hours without it. 4 uses. |
-| **5** | **Pneuma Pump**    | Portable iron lungs (_bulky_). Enables life-saving surgery or underwater breathing.                                                                               |
-| **6** | **Lodestone**      | Draws out dangerous elements from the body and acts as a powerful magnetic force.                                                                                 |
+| 1d6   | Ferramenta                  | DDescrição                                                                                                                                                                              |
+| ----- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Unguento de Regeneração** | Faz um membro do corpo crescer novamente ao longo de um dia. 1 uso.                                                                                                                     |
+| **2** | **Verme-Enxerto**           | Um pequeno verme que pode fundir objetos inanimados com partes do corpo.  1 uso.                                                                                                        |
+| **3** | **Cera de Ferida**          | Cura ferimentos de fogo ou químicos (restaurando toda a FOR), mas nada além disso. 2 usos. 2 usos.                                                                                      |
+| **4** | **Mercúrio Vivo**           | Um estimulante. Você age primeiro no combate e passa automaticamente qualquer Salvaguarda de VON por uma hora. _Vício_: Salvaguarda de FOR ou fique _privado_ após 24h sem uso. 4 usos. |
+| **5** | **Bomba de Pneuma**         | Pulmões de ferro portáteis (_volumoso_). Permite realizar cirurgias de emergência ou respirar debaixo d’água.                                                                           |
+| **6** | **Magnetita**               | Extrai elementos perigosos do corpo e atua como uma poderosa força magnética.                                                                                                           |

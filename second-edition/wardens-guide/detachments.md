@@ -2,7 +2,7 @@
 layout: default
 title: Detachments
 parent: Warden's Guide 
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
 # Detachments

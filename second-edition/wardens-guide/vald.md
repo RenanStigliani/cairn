@@ -2,7 +2,7 @@
 title: Vald
 layout: default
 parent: Warden's Guide 
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
 # Vald
@@ -179,7 +179,7 @@ There are 24 hours in a day and 6 days in a week. Each month has 24 days (4 week
 |               | Afternoon on the 24th (Resting Day)                        | _Parade of Ash_: In celebration of the final day of the Dry season, participants mark their faces with ash and play music. Most kinds of labor are frowned upon.           |
 | **Flood**     |                                                            |                                                                                                                                                                            |
 |               | Midnight on the 4th (Tithe Day)                            | Wet season begins.                                                                                                                                                         |
-|               | 3 days starting on the 5th (Bathing Day to Market Day)       | _Splash Festival_: Celebrates the abundance of water, with boat races, contests, gifts, and water blessings.                                                               |
+|               | 3 days starting on the 5th (Bathing Day to Market Day)     | _Splash Festival_: Celebrates the abundance of water, with boat races, contests, gifts, and water blessings.                                                               |
 |               | All day on the 14th (Garden Day)                           | _Float_: Communities build and decorate enormous boats or rafts to float down rivers.                                                                                      |
 | **Highwater** |                                                            |                                                                                                                                                                            |
 |               | Dawn until midnight on the 1st (Market Day)                | _Highwater Fair_: A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets.                               |
@@ -193,12 +193,12 @@ There are 24 hours in a day and 6 days in a week. Each month has 24 days (4 week
 |               | Afternoon on the 4th (Tithe Day)                           | _Harvest Festival_: Celebrates the start of the harvest with feasting and communal gatherings to begin harvesting crops.                                                   |
 |               | Dusk on the 24th (Resting Day)                             | _Gathering Night_: Communities come together to collect and store the harvested crops, followed by a night of storytelling and music.                                      |
 | **Bane**      |                                                            |                                                                                                                                                                            |
-|               | Daylight hours of the 12th (Resting Day)                    | _The Golden Hind_: Hunters from far and wide join a great hunt in search of a mythical stag amid great revelry.                                                            |
+|               | Daylight hours of the 12th (Resting Day)                   | _The Golden Hind_: Hunters from far and wide join a great hunt in search of a mythical stag amid great revelry.                                                            |
 |               | All day on the 18th (Resting Day)                          | _Firelight_: A day of kite-flying, wind chimes, and noisemakers. At night, massive bonfires are lit as dancers perform impressive fire dances.                             |
 | **Sunset**    |                                                            |                                                                                                                                                                            |
 |               | Midnight on the 10th (Tithe Day)                           | Harvest Equinox: Marks the midpoint of the Harvest season.                                                                                                                 |
-|               | Evening on the 11th (Bathing Day)                          | _Ember_: Pays homage to the setting sun and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice.                          |
-|               | Evening of the 24th (Resting Day)                          | _Gloam_: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common.                                |
+|               | Evening on the 11th (Bathing Day)                          | _Ember_: Pays homage to the setting sun and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice.                           |
+|               | Evening of the 24th (Resting Day)                          | _Gloam_: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common.                                    |
 
 
 

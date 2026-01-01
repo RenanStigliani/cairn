@@ -2,7 +2,7 @@
 layout: default
 title: Setting Seeds
 parent: Warden's Guide 
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
 # Setting Seeds
@@ -420,7 +420,7 @@ The weather can have a great impact on the people, culture, and terrain of a reg
 | **8**   | Fog that fills the belly (no need for rations). Tomorrow, vomiting.                                         |
 | **9**   | Lakes and streams evaporate in minutes, filling storm clouds that drench the landscape.                     |
 | **10**  | Periodic rains of small aquatic creatures (tadpoles, frogs, small fish). No one knows where they come from. |
-| **11**  | Rainbows lack most of their colors and occasionally flicker. Raindrops fall in various colors.             |
+| **11**  | Rainbows lack most of their colors and occasionally flicker. Raindrops fall in various colors.              |
 | **12**  | Rolling dust clouds that smell of cinnamon. The coughing lasts long after they've moved on.                 |
 | **13**  | Shadows disappear at random. Animals become more reluctant.                                                 |
 | **14**  | The air is thicker than usual, and breathing is difficult.                                                  |
@@ -428,7 +428,7 @@ The weather can have a great impact on the people, culture, and terrain of a reg
 | **16**  | The moon appears larger and softly hums at night.                                                           |
 | **17**  | The rain glows gently at night. It can be gathered, but the light eventually fades.                         |
 | **18**  | The stars rearrange themselves in intricate patterns, making navigation difficult.                          |
-| **19**  | The winds carry whispers. Some say they tell hints of the future.                                 |
+| **19**  | The winds carry whispers. Some say they tell hints of the future.                                           |
 | **20**  | When it snows, the flakes are warm and dry.                                                                 |
 
 ## Points of Interest

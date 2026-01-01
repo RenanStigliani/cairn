@@ -2,37 +2,37 @@
 layout: default
 title: Vald
 parent: Player's Guide
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
 # Vald
 
-## Introduction
+## Introdução
 
-The implied setting of Cairn is called **Vald**, encompassing all developed or settled lands, cities, towns, forests, etc. The specific ruler is irrelevant, as most adventures will take place in smaller towns and villages, the forest, and the margins of the realm. Most inhabitants (regardless of region) refer to the local centers of power as the _Cities_, occasionally as a pejorative. 
+O cenário implícito de _Cairn_ é chamado **Vald**, abrangendo todas as terras desenvolvidas ou habitadas — cidades, vilas, florestas etc. O governante específico é irrelevante, pois a maioria das aventuras se passa em vilas e povoados menores, nas florestas e nas margens do reino. A maior parte dos habitantes (independentemente da região) se refere aos centros de poder locais como as _Cidades_, geralmente de forma pejorativa. 
 
-Towns and villages are built near water and lumber sources, within a day's walk of each other. Larger villages may rely on nearby farms and hunters. Settlements are often organized around specific industries like lumber, brewing, fishing, or mining, with a Fieldwarden or Beast Handler protecting their most valued assets. 
+As vilas e povoados são construídos próximos a fontes de água e madeira, a uma distância de até um dia de caminhada uma da outra. Vilas maiores podem depender de fazendas e caçadores das redondezas. Os assentamentos costumam se organizar em torno de indústrias específicas, como madeira, cervejaria, pesca ou mineração, com um **Guarda-Campo** ou **Domador de Feras** protegendo seus bens mais valiosos. 
 
-Established trails between larger towns are fairly common, while maintained roads are almost non-existent except to the distant cities. Itinerant merchants, Kettlewrights, and various peddlers pass through settlements on a semi-regular basis, sometimes hiring Outriders to protect and escort larger caravans, or Rill Runners to help ferry passengers in the Riverlands.
+Trilhas estabelecidas entre os povoados maiores são relativamente comuns, enquanto estradas bem conservadas quase não existem, exceto para as cidades distantes. Comerciantes itinerantes, **Caldeireiros** e diversos mascates passam pelos povoados de forma semirregular, às vezes contratando **Batedores** para proteger e escoltar caravanas maiores, ou **Corredeiros** para ajudar a transportar passageiros pelas Terras Ribeirinhas.
 
-Even the smallest village may play host to scholarly types from the cities: a Scrivener, Aurifex, or Greenwise with keen interest in nearby tombs, barrows, and Gates. Often a Bonekeeper or Fungal Forager will be hired for their expertise, while clever adventurers will ensure that a Barber-Surgeon is never far away, or a Cutpurse if there is unsavory business that needs tending to. Of course, Mountebanks and Jongleurs often accompany these sorts, riding their coattails in hopes that they too will benefit from the next major discovery.
+Mesmo a menor vila pode receber visitantes eruditos vindos das cidades: um **Escrivão**, **Ourivex** ou **Herbologista** com interesse em tumbas, túmulos e Portões próximos. Frequentemente, um **Guardião de Ossos** ou **Coletor de Fungos** é contratado por sua experiência, enquanto aventureiros astutos garantem que um **Cirurgião-Barbeiro** esteja sempre por perto — ou um **Corta-Bolsas**, caso haja negócios menos honrosos a tratar. Claro que **Charlatães** e **Trovadores** costumam acompanhar esse tipo de comitiva, aproveitando-se da fama alheia na esperança de também colher os frutos da próxima grande descoberta.
 
-Those who enter the Wood hire a guide familiar with the territory, such as a Prowler or Fletchwind, while the truly determined traveler will seek the wisdom of a Half Witch or Foundling with some connection to its darker secrets. Closer to the border, the Marchguard work to keep the realm free of outside influence, while the Hexenbane seek to protect it from forces within.
+Quem entra no **Bosque** costuma contratar um guia familiarizado com o território, como um **Vigilante** ou **Flecheiro dos Ventos**, enquanto viajantes realmente determinados buscam a sabedoria de uma **Meia-Bruxa** ou de um **Abandonado** com alguma ligação com seus segredos mais sombrios. Perto das fronteiras, o **Patrulheiro de Fronteira** trabalha para manter o reino livre de influências externas, enquanto os **Caçador de Bruxas** procuram protegê-lo de ameaças internas.
 
-## The Wood
+## O Bosque
 
-The **Wood** surrounds and divides the realm, representing not just one forest, but _all_ forests. Denizens of the Wood are fiercely independent, believing they are subject solely to its rules. Its various peoples, creatures, and unrelenting natural elements have kept the outside world at bay since time immemorial. 
+O **Bosque** circunda e divide o reino, representando não apenas uma, mas _todas_ as florestas. Seus habitantes são ferozmente independentes, acreditando estarem sujeitos apenas às regras dela. Seus diversos povos, criaturas e elementos naturais implacáveis mantiveram o mundo exterior afastado desde tempos imemoriais. 
 
-At the core of each forest is a Heart Tree, the place where the forest is at its most powerful as well as its most dangerous. Each Heart Tree is born from a single Heartseed, acquired exclusively from a Heart Tree that is dying or dead. 
+No coração de cada floresta há uma **Árvore-Mãe**, local onde a floresta é ao mesmo tempo mais poderosa e mais perigosa. Cada Árvore-Mãe nasce de uma única **Semente-Mãe**, obtida exclusivamente de uma Mãe moribunda ou morta. 
 
-The Wood is populated by creatures strange and wondrous, such as Goblins, Spirits, Treants, Trolls, Werewolves, Witches, and even talking plants and animals. Most are openly hostile to outsiders (particularly humans), but others will (on occasion) parley with those that have shown respect for the Wood. Of course, all demonstrate utter respect for the Fae (sometimes called the **Pale Folk**, or the **Neighbors**).
+O Bosque é habitado por criaturas estranhas e maravilhosas, como Goblins, Espíritos, Ents, Trolls, Lobisomens, Bruxas e até plantas e animais falantes. A maioria é abertamente hostil a forasteiros (especialmente humanos), mas alguns — em ocasiões raras — aceitam negociar com aqueles que mostram respeito pelo Bosque. Todos, no entanto, demonstram reverência absoluta pelas Fadas (às vezes chamadas de **Povo Pálido** ou **Vizinhas**).
 
-Of course, the Wood is not empty of people. Those who can survive (or even thrive) in such places learn to live according to the rules of the forest, for those who ignore or foolishly oppose these rules often meet grisly ends. 
+Isso não significa que o Bosque esteja desabitado. Aqueles que conseguem sobreviver (ou até prosperar) em tais lugares aprendem a viver segundo suas regras, pois quem as ignora ou as enfrenta de forma imprudente normalmente encontra um fim brutal. 
 
-## The Roots
+## As Raízes
 
-The **Roots** is a realm of mystery and horror underground, where vast caves loom as large as an emptied ocean, without even a hint of sunlight. The various creatures and wild animals that survive there have developed natural means to live in the utter darkness, adapting their eyesight to function in even the dimmest light or eschewing vision altogether.
+**As Raízes** formam um reino misterioso e aterrador no subsolo, onde vastas cavernas se estendem tão largas quanto um oceano esvaziado, sem qualquer traço de luz solar. As diversas criaturas e animais selvagens que ali sobrevivem desenvolveram meios naturais de viver na escuridão total, adaptando a visão para funcionar na penumbra ou abandonando-a por completo.
 
-Entrances to the Roots, known as Gates, are scattered across the lands and are usually hidden or protected by powerful forces. Once opened, Gates permit dangerous creatures to pass through, giving them free reign over the weak and vulnerable.
+As entradas para as Raízes, conhecidas como **Portões**, ficam espalhadas pelas terras e geralmente estão ocultas ou protegidas por forças poderosas. Uma vez abertos, permitem que criaturas perigosas atravessem, ganhando livre acesso aos fracos e vulneráveis.
 
-Only the brave and foolish enter the Roots, and most do not return. The few that do whisper of the indescribable horrors and evil intelligence guarding these lost treasures. Still, there will always be those who cannot resist the draw of forgotten Relics, profound wealth, or knowledge, for there are rumors that creatures far more interesting than wild beasts make their home in the depths below.
+Apenas os valentes — ou tolos — entram nas Raízes, e a maioria não retorna. Os poucos que o fazem sussurram sobre horrores indescritíveis e inteligências malignas que guardam esses tesouros perdidos. Ainda assim, sempre haverá aqueles que não resistem ao chamado de Relíquias esquecidas, riquezas imensas ou conhecimento proibido, pois correm boatos de que criaturas muito mais fascinantes do que simples feras habitam as profundezas.

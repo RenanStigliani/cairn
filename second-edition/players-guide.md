@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Player's Guide
-parent: Second Edition
+title: Guia do Jogador
+parent: Segunda Edição
 has_children: true
 nav_order: 1
 ---
 
-# Player's Guide
+# Guia do Jogador

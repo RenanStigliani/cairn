@@ -1,46 +1,45 @@
 ---
-title: Fungal Forager
+title: Coletor de Fungos
 layout: default
 parent: Backgrounds
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
-# Fungal Forager
+# Coletor de Fungos [Fungal Forager]
 
-> You follow the whisperings of the deep earth, the rhythmic pulse of the mycelium forest that grows beneath the surface. The dark holds no terror for you. Also, you really love mushrooms.
+> Você segue os sussurros da terra profunda, o pulso rítmico da floresta de micélio que cresce sob a superfície. A escuridão não lhe traz terror algum. Além disso, você realmente ama cogumelos.
 
-## Names
+## Nomes
 
 Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
 
-## Starting Gear
+## Equipamento Inicial
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Sharpened Trowel (d6)
-- Candle Helmet (+1 Armor, dim, 6 uses)
-- Rope (25ft)
-- Metal Pail
+- 3d6 Peças de Ouro  
+- Rações (3 usos)  
+- Enxadão Afiado (d6)  
+- Capacete com Vela (+1 Armadura, luz fraca, 6 usos)  
+- Corda (7,5m)  
+- Balde de Metal
 
-## What strange fungus did you discover? Roll 1d6:
+## What strange fungus did you discover? Role 1d6:
 
-|       |                                                                                                                                                                                |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Shrieking Trumpet**. When exposed to light, it screams so loudly that all nearby attacks (including your own) are _impaired_. 2 uses.                                        |
-| **2** | **Torch Fungus**. When crushed, it creates a cold blue light for a short while. 2 uses.                                                                                        |
-| **3** | **Murderous Truffle**. Pungent, highly toxic, and very rare (worth 50gp to assassins).  Illegal pretty much everywhere. 1 use.                                                 |
-| **4** | **Hellcap**. Exposure to its aroma causes intense nausea and vomiting. Either way, it clears the room. Bottled (1 use).                                                        |
-| **5** | **Sproutcup**. Ingest to shrink down to the size of a mouse. (Your belongings stay the same size.) You return to normal size within the hour, often in fits and starts. 1 use. |
-| **6** | **Rootflower**. A white fungus found only on corpses deep underground. Ingest to restore d6 WIL. You will dream of the dead and their stories. 1 use.                          |
- 
+| 1d6   | Fungo                                                                                                                                                                                                         |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Trombeta Gritante**. Quando exposta à luz, grita tão alto que todos os ataques ao redor (inclusive os seus) ficam em _Desvantagem_. 2 usos.                                                                 |
+| **2** | **Fungo-Tocha**. Quando esmagado, emite uma luz azul fria por um curto período. 2 usos.                                                                                                                       |
+| **3** | **Trufa Assassina**. Pungente, altamente tóxica e muito rara (vale 50 PO para assassinos).  Ilegal em praticamente todo lugar. 1 uso.                                                                         |
+| **4** | **Chapéu-do-Inferno**. A exposição ao seu aroma causa náusea intensa e vômitos. De todo modo, ele esvazia qualquer sala. Engarrafado (1 uso).                                                                 |
+| **5** | **Copinho-Brotante**. Ao ingerir, você encolhe até o tamanho de um rato. (Seus pertences permanecem do mesmo tamanho.) Você retorna ao tamanho normal dentro de uma hora, muitas vezes aos solavancos. 1 uso. |
+| **6** | **Flor-de-Raiz**. Um fungo branco encontrado apenas em cadáveres nas profundezas da terra. Ao ingerir, restaura 1d6 VON.  Você sonhará com os mortos e suas histórias. 1 uso.                                 |
 
-## What keeps you sane, even in utter darkness? Roll 1d6:
+## O que mantém você são, mesmo na escuridão total? Role 1d6:
 
-|       |                     |                                                                                                |
-| ----- | ------------------- | ---------------------------------------------------------------------------------------------- |
-| **1** | **Glowsnail**       | Casts a soft, bioluminescent light. Feeds on one ration every two days.                        |
-| **2** | **Silk Moth Shawl** | A weatherproof blanket, it can also douse a fire without being damaged.                        |
-| **3** | **Milkflower**      | A gentle stimulant. Chewing it makes you immune to _panic_ for the next hour. 3 uses.          |
-| **4** | **Luxcompass**      | Hums softly as it moves closer to the Sun. Eventually the noise becomes unbearably loud.       |
-| **5** | **Sloth-Tarp**      | A tough and weatherproof fabric, useful for hanging off trees. When inside, you have +1 Armor. |
-| **6** | **Miner's Grease**  | Great for dislodging a gem, tool, or limb from a tight crack. Highly explosive. 3 uses.        |
+| 1d6   | Item                    | Descrição                                                                                                   |
+| ----- | ----------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **1** | **Caracol-Luminoso**    | Emite uma luz bioluminescente suave. Se alimenta de uma ração a cada dois dias.                             |
+| **2** | **Xale de Mariposa**    | Um cobertor à prova d’água, também pode apagar um fogo sem sofrer dano.                                     |
+| **3** | **Flor-de-Leite**       | Um estimulante suave. Mastigá-la o torna imune ao _pânico_ pela próxima hora. 3 usos. 3 usos.               |
+| **4** | **Luxbússola**          | Emite um zumbido suave ao se aproximar do Sol. Com o tempo, o ruído se torna insuportável.                  |
+| **5** | **Lona-Bicho-Preguiça** | Um tecido resistente e impermeável, útil para se pendurar em árvores. Dentro dela, você recebe +1 Armadura. |
+| **6** | **Gordura de Mineiro**  | Ótima para soltar uma gema, ferramenta ou membro preso em uma fenda estreita. Altamente explosiva. 3 usos.  |

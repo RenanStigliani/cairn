@@ -2,300 +2,298 @@
 layout: default
 title: Procedures
 parent: Player's Guide
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
-# Procedures
+# Procedimentos
 
-## Dungeon Exploration
+## Exploração de Masmorras
 
-### The Basics
+### O Básico
 
-- The dungeon exploration cycle (see below) is divided into a series of **Turns**, **Actions**, and their consequences. 
-- On their **turn**, a character can move a distance equal to their torchlight's perimeter (about 40ft), and perform one **action**. Players can use their **action** to move up to three times that distance though that will increase the chance of triggering a roll on the [**Dungeon Events**](#dungeon-events) table.
-- The **Warden** should present obvious information about an area and its dangers freely and at no cost. Moving quickly or without caution may increase the chance of encountering a wandering monster, springing a trap, or triggering a roll on the [**Dungeon Events**](#dungeon-events) table.
+- O ciclo de exploração de masmorras (veja abaixo) é dividido em uma série de **Turnos**, **Ações** e suas consequências. 
+- No seu **turno**, um personagem pode se mover por uma distância igual ao perímetro da luz de sua tocha (cerca de 12 metros) e realizar **uma ação**. Os jogadores podem usar sua **ação** para se mover até três vezes essa distância, mas isso aumentará a chance de acionar uma rolagem na tabela de [**Eventos da Masmorra**](#Eventos-da-Masmorra).
+- O **Guardião** deve apresentar informações óbvias sobre uma área e seus perigos livremente e sem custo. Mover-se rapidamente ou sem cautela pode aumentar a chance de encontrar um monstro errante, acionar uma armadilha ou provocar uma rolagem na tabela de [**Eventos da Masmorra**](#Eventos-da-Masmorra).
 
-> Although the term "dungeon" is used here, it can mean any dangerous locale (mansions, farmhouses, adventure site, etc).
+> Embora o termo “masmorra” [Dungeon] seja usado aqui, ele pode significar qualquer local perigoso (mansões, fazendas, locais de aventura, etc.).
 
-### Dungeon Exploration Cycle
+### Ciclo de Exploração da Masmorra
 
-1. The **Warden** describes the party's surroundings and any immediate dangers (combat, traps, surprises, etc.). The players then declare their character's intended movements and **actions**. 
-2. The Warden resolves the **actions** of each character simultaneously, along with any **actions** that are already in progress. Remember, the Die of Fate can be a useful tool whenever the Warden is in doubt!
-3. The players record any loss of resources and any new conditions (i.e. item use, _deprivation_, etc). The cycle then begins again. If appropriate, the **Warden** should roll on the [**Dungeon Events**](#dungeon-events) table. Keep common sense in mind when interpreting the results! 
+1. O **Guardião** descreve o que cerca o grupo e quaisquer perigos imediatos (combate, armadilhas, surpresas etc.). Os jogadores então declaram os movimentos e **ações** pretendidos de seus personagens. 
+2. O Guardião resolve as **ações** de cada personagem simultaneamente, juntamente com quaisquer **ações** já em andamento. Lembre-se: o Dado do Destino pode ser uma ferramenta útil sempre que o Guardião estiver em dúvida!
+3. Os jogadores registram qualquer perda de recursos e quaisquer novas condições (uso de itens, _privação_, etc.). O ciclo então começa novamente. e apropriado, o **Guardião** deve rolar na tabela de [**Eventos da Masmorra**](#Eventos-da-Masmorra). Use o bom senso ao interpretar os resultados! 
 
-### Dungeon Events
+### Eventos da Masmorra
 
-Exploring a dungeon is always dangerous, and time must always be weighed against the risk of awakening the location's denizens, natural hazards, and worse.  
-When the party:
+Explorar uma masmorra é sempre perigoso, e o tempo deve ser sempre ponderado em relação ao risco de despertar os habitantes do local, perigos naturais e piores ameaças.    
+Quando o grupo:
 
-- Spends more than one dungeon cycle in a single room or location 
-- Moves quickly or haphazardly through a room
-- Moves into a new area, level, or zone
-- Creates a loud disturbance 
+- Passa mais de um ciclo de masmorra em uma única sala ou local
+- Move-se rapidamente ou de forma descuidada por um cômodo
+- Entra em uma nova área, nível ou zona
+- Cria uma perturbação barulhenta 
 
-**Roll on the table below.**
+**Role na tabela abaixo:**
 
-|       |                 |                                                                                                           |
-| :---: | :-------------: | :-------------------------------------------------------------------------------------------------------: |
-| **1** |  **Encounter**  |    Roll on an encounter table. Possibly **hostile**. (See [Reactions](/second-edition/players-guide/core-rules/#reactions).)    |
-| **2** |    **Sign**     |                  A clue, spoor, track, abandoned lair, scent, victim, etc is discovered.                  |
-| **3** | **Environment** |      Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.      |
-| **4** |    **Loss**     | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
-| **5** | **Exhaustion**  |   The party must rest (triggering another roll on this table), add a **Fatigue**, or consume a ration.    |
-| **6** |    **Quiet**    |                          The party is left alone (and safe) for the time being.                           |
+|  1d6  |              |                                                                                                         |
+| :---: | :----------: | :------------------------------------------------------------------------------------------------------ |
+| **1** | **Encontro** | Role em uma tabela de encontros. Possivelmente **hostil**. (Veja [Reações](core-rules.md#Reações).)     |
+| **2** |  **Sinal**   | Um indício, rastro, pegada, covil abandonado, cheiro, vítima etc. é descoberto.                         |
+| **3** | **Ambiente** | O ambiente muda ou se agrava. A água sobe, tetos desabam, um ritual se aproxima da conclusão etc.       |
+| **4** |  **Perda**   | Tochas se apagam, uma magia em andamento se desfaz etc. O grupo deve resolver o efeito antes de seguir. |
+| **5** | **Exaustão** | O grupo deve descansar (acionando outra rolagem nesta tabela), ganhar **Fadiga** ou consumir uma ração. |
+| **6** | **Silêncio** | O grupo fica sozinho (e seguro) por enquanto.                                                           |
 
-### Actions
+### Ações
 
-- **Actions** are any non-passive activities, such as _searching for traps_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, _casting a spell_, _dodging a trap_, _running away_, _resting_, etc. 
-- Some **actions** have special rules (see below), while others may take multiple **turns** to complete. 
-- Loud or noticeable **actions** may also trigger an **encounter** with the dungeon's denizens. 
+- **Ações** são quaisquer atividades não passivas, como _procurar por armadilhas_, _forçar a abertura de uma porta_, _ouvir em busca de perigo_, _desarmar uma armadilha_, _engajar um inimigo em combate_, _lançar uma magia_, _esquivar de uma armadilha_, _fugir_, _descansar_, etc.
+    
+- Algumas **ações** têm regras especiais (veja abaixo), enquanto outras podem levar vários **turnos** para serem concluídas. 
+- **Ações** barulhentas ou chamativas também podem desencadear um **encontro** com os habitantes da masmorra. 
 
-#### Searching
+#### Vasculhando
 
-- A character can spend a **turn** performing an _exhaustive_ search of **one** object or location in an area, revealing any relevant hidden treasure, traps, secret doors, etc. 
-- Larger rooms and difficult or complex dungeon terrain may take a few **turns** to properly search.
-- Searching a room _first_ is a safer way to explore the dungeon, but it has a steep cost: time.
+- Um personagem pode gastar **um turno** realizando uma busca _exaustiva_ de **um** objeto ou local em uma área, revelando qualquer tesouro oculto relevante, armadilhas, portas secretas etc.
+- Salas maiores e terrenos de masmorra difíceis ou complexos podem exigir alguns **turnos** para serem devidamente examinados.
+- Vasculhar uma sala _primeiro_ é uma forma mais segura de explorar a masmorra, mas tem um custo alto: tempo.
 
-#### Resting
+#### Descansando
 
-- A character can spend a turn **resting** to restore all **HP**.
-- A light source and a _safe location_ are required to **rest**. Present or oncoming danger makes **rest** impossible.
-- **Resting** does not restore **Fatigue**, as it is impossible to safely **Make Camp** in a dungeon.
+- Um personagem pode gastar **um turno** **descansando** para restaurar todos os **PG**.
+- É necessário ter uma fonte de luz e um _local seguro_ para **descansar**. Perigo presente ou iminente torna o **descanso** impossível.
+- **Descansar** não recupera **Fadiga**, pois é impossível **Acampar** com segurança em uma masmorra.
 
-## Panic
+## Pânico
 
-- A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
-- A _panicked_ character must make a **WIL** **save** to overcome their condition as an **action** on their **turn**.
-- A _panicked_ character has 0 **HP**, does not act in the first round of combat, and all of their attacks are _impaired_.  
+- Um personagem que esteja cercado por inimigos, envolto pela escuridão ou enfrentando seus maiores medos pode entrar em _pânico_. Normalmente, é necessário um **teste** de **VON** para evitar perder o controle e ficar _em pânico_. 
+- Um personagem _em pânico_ deve fazer um **teste** de **VON** para superar sua condição como **ação** em seu **turno**.
+- Um personagem _em pânico_ tem 0 **PV**, não age no primeiro turno de combate e todos os seus ataques têm _Desvantagem_.  
 
-### Dungeon Elements
+### Elementos da Masmorra
 
-#### Light
-- Torches and other radial sources of light illuminate 40ft of dungeon and beyond that only a dim outline of objects. Torches last until they are put out by a character or their environment.
-- A torch can be lit 3 times before permanently degrading. A lantern can be relit 6 times per oil can, but requires more inventory slots.
-- Characters without a light source may suffer from _panic_ until their situation is remedied. 
+#### Luz
+- Tochas e outras fontes de luz radial iluminam 12 metros da masmorra e, além disso, apenas um contorno tênue dos objetos. As tochas duram até serem apagadas por um personagem ou pelo ambiente.
+- Uma tocha pode ser acesa 3 vezes antes de se degradar permanentemente. Uma lamparina pode ser reacendida 6 vezes por lata de óleo, mas exige mais espaços de inventário.
+- Personagens sem uma fonte de luz podem sofrer de _pânico_ até que a situação seja resolvida. 
 
-#### Doors
+#### Portas
 
-- Doors and entryways may be locked, stuck, or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue) or through raw ability. 
-- The party's marching order determines who is most impacted by whatever lies beyond a door.
-- A character can detect, through careful observation (listening, smelling, etc.), signs of life and other hazards through nearby doors and walls.
+- Portas e entradas podem estar trancadas, emperradas ou completamente bloqueadas. Personagens podem tentar forçar uma porta (ou travá-la) usando recursos disponíveis (estacas, cola) ou pura força. 
+- A ordem de marcha do grupo determina quem será mais impactado pelo que quer que esteja além da porta.
+- Um personagem pode detectar, por meio de observação cuidadosa (ouvindo, cheirando, etc.), sinais de vida e outros perigos através de portas e paredes próximas.
 
-#### Traps 
+#### Armadilhas 
 
-- A cautious character should be presented with any and all information that would allow them the opportunity to _avoid_ springing a trap. An unwitting character will trigger a trap according to the fiction, or otherwise will have a 2-in-6 chance.
-- **Traps** can usually be detected by carefully **searching** a room.
-- Damage from traps is taken from Attributes (usually **STR** or **DEX**) and _not_ from **HP**. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas).
+- Um personagem cauteloso deve receber todas as informações que lhe permitam ter a oportunidade de _evitar_ acionar uma armadilha. Um personagem desprevenido acionará uma armadilha conforme a ficção indicar ou, caso contrário, terá uma chance de 2 em 6.
+- **Armadilhas** normalmente podem ser detectadas ao **vasculhar** cuidadosamente uma sala.
+- O dano causado por armadilhas é retirado dos Atributos (geralmente **FOR** ou **DES**) e _não_ dos **PG**. A armadura pode reduzir o dano, mas apenas se aplicável (por exemplo, um escudo não reduziria o dano de um gás venenoso).
 
-## Wilderness Exploration
+## Exploração na Natureza
 
-### Watches
+### Turnos de Vigia
 
-- A day is divided into three **watches**, called _morning_, _afternoon_, and _night_. 
-- Each character can choose _one_ [**Wilderness Action**](#wilderness-actions) per **watch**. 
-- If the characters split up, each group is treated as an independent entity.
+- Um dia é dividido em três **turnos de vigia**, chamados de _manhã_, _tarde_ e _noite_. 
+- Cada personagem pode escolher _uma_ [**Ação na Natureza**](#Ação-na-Natureza) por **turno de vigia**. 
+- Se os personagens se separarem, cada grupo será tratado como uma entidade independente.
 
-### Points
+### Pontos
 
-- Potential destinations on a map are called **points**. 
-- One or more **watches** may be required to journey between two **points** on a map, depending on the path, terrain, weather, and party status.
-- The party has a rough idea of the challenges involved to get to their destination, but rarely any specifics. 
+- Destinos potenciais em um mapa são chamados de **pontos**. 
+- Um ou mais **turnos de vigia** podem ser necessários para viajar entre dois **pontos** no mapa, dependendo do caminho, terreno, clima e condição do grupo.
+- O grupo tem uma noção geral dos desafios envolvidos para chegar ao destino, mas raramente detalhes específicos. 
 
-### Travel Duration
+### Duração da Viagem
 
-Travel time in Cairn is counted in watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third watch of the day resting, one can use "days" as a shorthand for travel time.
+O tempo de viagem em _Cairn_ é contado em turnos de vigia, divididos em três segmentos de oito horas por dia. No entanto, como a maioria dos grupos opta por usar o terceiro turno de vigia para descansar, pode-se usar “dias” como uma forma simplificada de indicar a duração da viagem.
 
-To determine the distance between two points, combine all penalties from the path, terrain, and weather difficulty tables, taking into account any changes to those elements along the route. For travel via waterways, refer to the surrounding terrain difficulty. For especially vast terrain, assign a penalty of up to +2 watches to the journey.
+Para determinar a distância entre dois pontos, combine todas as penalidades das tabelas de dificuldade de caminho, terreno e clima, levando em conta quaisquer mudanças nesses elementos ao longo da rota. Para viagens por cursos d’água, consulte a dificuldade do terreno ao redor. Para terrenos especialmente vastos, atribua uma penalidade de até +2 turnos de vigia à jornada.
 
-The weather, terrain, darkness, injured party members, and other obstacles can impact travel or even make it impossible! In some cases, the party may need to add **Fatigue** or expend resources in order to sustain their pace. Mounts, guides, and maps can increase the party’s travel speed or even negate certain penalties.
+O clima, o terreno, a escuridão, membros feridos do grupo e outros obstáculos podem impactar a viagem ou até torná-la impossível! Em alguns casos, o grupo pode precisar adicionar **Fadiga** ou gastar recursos para manter o ritmo. Montarias, guias e mapas podem aumentar a velocidade de viagem ou até anular certas penalidades.
 
-### Path Difficulty
+### Dificuldade do Caminho
 
-|            |             |                          |
-| ---------- | ----------- | ------------------------ |
-| **Path**   | **Penalty** | **Odds of Getting Lost** |
-| Roads      | None        | None                     |
-| Trails     | +1 Watch    | 2-in-6                   |
-| Wilderness | +2 Watches  | 3-in-6                   |
+| **Caminho**       | **Penalidade**     | **Chances de se Perder** |
+| ----------------- | ------------------ | ------------------------ |
+| Estradas          | Nenhuma            | Nenhuma                  |
+| Trilhas           | +1 Turno de Vigia  | 2 em 6                   |
+| Natureza Selvagem | +2 Turnos de Vigia | 3 em 6                   |
 
-|                   |             |
-| ----------------- | ----------- |
-| **Path Distance** | **Penalty** |
-| Short             | +1 Watch    |
-| Medium            | +2 Watches  |
-| Long              | +3 Watches  |
+| **Distância do Caminho** | **Penalidade**     |
+| ------------------------ | ------------------ |
+| Curta                    | +1 Turno de Vigia  |
+| Média                    | +2 Turnos de Vigia |
+| Longa                    | +3 Turnos de Vigia |
 
-## Terrain Difficulty
+## Dificuldade do Terreno
 
-|                |                               |             |                                                                                                       |
-| -------------- | ----------------------------- | ----------- | ----------------------------------------------------------------------------------------------------- |
-| **Difficulty** | **Terrain**                   | **Penalty** | **Factors**                                                                                           |
-| **Easy**       | **Plains, plateaus, valleys** | none        | _Safe areas for rest, fellow travelers, good visibility_                                              |
-| **Tough**      | **Forests, deserts, hills**   | +1 Watch    | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
-| **Perilous**   | **Mountains, jungles, swamp** | +2 Watches  | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
+| **Dificuldade** | **Terreno**                      | **Penalidade**     | **Fatores**                                                                                                        |
+| --------------- | -------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| **Fácil**       | **Planícies, planaltos, vales**  | Nenhuma            | _Áreas seguras para descanso, outros viajantes, boa visibilidade_                                                  |
+| **Difícil**     | **Florestas, desertos, colinas** | +1 Turno de Vigia  | _Animais selvagens, enchentes, equipamentos quebrados, quedas de rochas, abrigos inseguros, armadilhas de caçador_ |
+| **Perigoso**    | **Montanhas, selvas, pântanos**  | +2 Turnos de Vigia | _Areia movediça, lama sugadora, cipós sufocantes, água impura, plantas e animais venenosos, navegação ruim_        |
 
-### Weather
+### Clima
 
-Each day, the Warden should roll on the weather table for the appropriate season. If the "**Extreme**" weather result is rolled twice in a row, the weather turns to "**Catastrophic**". A squall becomes a hurricane, a storm floods the valley, etc.
+A cada dia, o Guardião deve rolar na tabela de clima para a estação apropriada. Se o resultado "**Extremo**" for rolado duas vezes seguidas, o clima muda para "**Catastrófico**". Uma tempestade se torna um furacão, uma tormenta inunda o vale, etc.
 
-#### Weather Type
+#### Tipo de Clima
 
-|        |            |            |            |            |
-| :----: | :--------: | :--------: | :--------: | :--------: |
-| **d6** | **Spring** | **Summer** |  **Fall**  | **Winter** |
-| **1**  |    Nice    |    Nice    |    Fair    |    Fair    |
-| **2**  |    Fair    |    Nice    |    Fair    | Unpleasant |
-| **3**  |    Fair    |    Fair    | Unpleasant | Inclement  |
-| **4**  | Unpleasant | Unpleasant | Inclement  | Inclement  |
-| **5**  | Inclement  | Inclement  | Inclement  |  Extreme   |
-| **6**  |  Extreme   |  Extreme   |  Extreme   |  Extreme   |
+|        | **Primavera** |  **Verão**   |  **Outono**  | **Inverno**  |
+| :----: | :-----------: | :----------: | :----------: | :----------: |
+| **d6** |   Agradável   |  Agradável   |     Bom      |     Bom      |
+| **1**  |   Agradável   |  Agradável   |     Bom      |     Bom      |
+| **2**  |      Bom      |  Agradável   |     Bom      | Desagradável |
+| **3**  |      Bom      |     Bom      | Desagradável |     Ruim     |
+| **4**  | Desagradável  | Desagradável |     Ruim     |     Ruim     |
+| **5**  |     Ruim      |     Ruim     |     Ruim     |   Extremo    |
+| **6**  |    Extremo    |   Extremo    |   Extremo    |   Extremo    |
 
-#### Weather Difficulty
+#### Dificuldade Climática
 
-|                  |                                                                                                         |                                                           |
-| :--------------: | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-|   **Weather**    | **Effect**                                                                                              | **Examples**                                              |
-|     **Nice**     | Favorable conditions for travel.                                                                        | _Clear skies, sunny_                                      |
-|     **Fair**     | Favorable conditions for travel.                                                                        | _Overcast, breezy_                                        |
-|  **Unpleasant**  | Add a **Fatigue** _or_ add one **watch** to the journey.                                                | _Gusting winds, rain showers, sweltering heat, chill air_ |
-|  **Inclement**   | Add a **Fatigue** _or_ add **+1 watch**. Increase terrain **Difficulty** by a step.  | _Thunderstorms, lightning, rain, muddy ground_           |
-|   **Extreme**    | Add a **Fatigue** _and_ add **+1 watch**. Increase terrain **Difficulty** by a step. | _Blizzards, freezing winds, flooding, mud slides_         |
-| **Catastrophic** | Most parties cannot travel under these conditions.                                                      | _Tornados, tidal waves, hurricane, volcanic eruption_     |
+|    **Clima**     | **Efeito**                                                                                                                       | **Exemplos**                                               |
+| :--------------: | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+|  **Agradável**   | Condições favoráveis para viagem.                                                                                                | _Céu limpo, ensolarado_                                    |
+|     **Bom**      | Condições favoráveis para viagem.                                                                        _Céu limpo, ensolarado_ |
+|     **Bom**      | Condições favoráveis para viagem.                                                                                                | _Nublado, com brisa_                                       |
+| **Desagradável** | Adicione **Fadiga** _ou_ adicione **+1 turno de vigia** à viagem.                                                                | _Ventos fortes, pancadas de chuva, calor intenso, ar frio_ |
+|     **Ruim**     | Adicione **Fadiga** _ou_ **+1 turno de vigia**. Aumente a **Dificuldade** do terreno em um nível.                                | _Tempestades, relâmpagos, chuva, solo enlameado_           |
+|   **Extremo**    | Adicione **Fadiga** _e_ **+1 turno de vigia**. Aumente a **Dificuldade** do terreno em um nível.                                 | _Nevascas, ventos congelantes, enchentes, deslizamentos_   |
+| **Catastrófico** | A maioria dos grupos não pode viajar nessas condições.                                                                           | _Tornados, maremotos, furacões, erupção vulcânica_         |
 
-### Wilderness Exploration Cycle
+### Ciclo de Exploração na Natureza Selvagem
 
-1. The **Warden** describes the current **point** or **region** on the map and how the path, weather, terrain, or party status might affect **travel speed**. The party plots or adjusts a given course towards their destination. 
-2. Each party member chooses a single **Wilderness Action**. The **Warden** narrates the results and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
-3. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc), and the cycle repeats. 
+1. O **Guardião** descreve o **ponto** ou **região** atual no mapa e como o caminho, o clima, o terreno ou o estado do grupo podem afetar a **velocidade de viagem**. O grupo traça ou ajusta um curso em direção ao destino. 
+2. Cada membro do grupo escolhe uma única **Ação na Natureza Selvagem**. O **Guardião** narra os resultados e, em seguida, rola na tabela de [**Eventos na Natureza Selvagem**](#Eventos-na-Natureza-Selvagem). O grupo reage aos resultados.
+3. Os **jogadores** e o **Guardião** registram qualquer perda de recursos e novas condições (por exemplo, uso de tochas, _privação_, etc.), e o ciclo se repete. 
 
-### Wilderness Events
+### Eventos na Natureza Selvagem
 
-|       |                 |                                                                                                                                                                                                                            |
-| ----- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Encounter**   | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/second-edition/players-guide/core-rules.md/#reactions) if applicable.                                                                               |
-| **2** | **Sign**        | The party discovers a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.                                                                                      |
-| **3** | **Environment** | A shift in weather or terrain.                                                                                                                                                                                             |
-| **4** | **Loss**        | The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort.                                                                                                                        |
-| **5** | **Exhaustion**  | The party encounters a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties. |
-| **6** | **Discovery**   | The party finds food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.                                                                                    |
+|       |                |                                                                                                                                                                                                                                           |
+| ----- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Encontro**   | Role em uma tabela de encontros para aquele tipo de terreno ou local. Não se esqueça de rolar para [reações](core-rules.md#Reações) de NPCs, se aplicável.                                                                                |
+| **2** | **Sinal**      | O grupo descobre uma pista, rastro ou indício de um encontro próximo, localidade, elemento oculto ou informação sobre uma área próxima.                                                                                                   |
+| **3** | **Ambiente**   | Uma mudança no clima ou no terreno.                                                                                                                                                                                                       |
+| **4** | **Perda**      | O grupo se depara com uma escolha que lhes custa um recurso (mantimentos, ferramentas, etc.), tempo ou esforço.                                                                                                                           |
+| **5** | **Exaustão**   | O grupo encontra uma barreira, forçando esforço, cuidado ou atrasos. Isso pode significar gastar mais tempo (e uma **Ação na Natureza Selvagem** adicional) ou adicionar **Fadiga** ao inventário do PJ para representar as dificuldades. |
+| **6** | **Descoberta** | O grupo encontra comida, tesouro ou outros recursos úteis. O **Guardião** pode, alternativamente, escolher revelar a característica principal da área.                                                                                    |
 
-### Wilderness Elements
+### Elementos da Natureza Selvagem
 
-#### Night
+#### Noite
 
-- The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
-- Traveling at night is always more dangerous! The **Warden** should roll _twice_ on the [**Wilderness Events**](#wilderness-events) table.
-- Some terrain and weather may be easier to traverse at night (desert, for example). The **Warden** should balance these challenges along with any other.
+- O grupo pode optar por viajar à noite e descansar durante o dia, mas a viagem noturna é muito mais lenta e traiçoeira!
+- Viajar à noite é sempre mais perigoso! O **Guardião** deve rolar _duas vezes_ na tabela de [**Eventos na Natureza Selvagem**](Eventos-na-Natureza-Selvagem).
+- Alguns terrenos e climas podem ser mais fáceis de atravessar à noite (o deserto, por exemplo). O **Guardião** deve equilibrar esses benefícios com os outros desafios.
 
-#### Sleep
+#### Sono
 
-- The last **watch** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
-- Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
-- If the party skips the **Make Camp** action, they each add a **Fatigue** to their inventory and are _deprived_. Additionally, traveling when sleep-deprived raises the terrain **Difficulty** by a step (i.e. _Easy_ becomes _Tough_).
+- O último **turno de vigia** do dia normalmente é reservado para a ação [**Montar Acampamento**](#Montar-Acampamento).
+- Os personagens geralmente precisam dormir todos os dias. Qualquer interrupção que vá além de algo menor pode anular ou cancelar os benefícios do sono.
+- Se o grupo pular a ação **Montar Acampamento**, cada um adiciona **Fadiga** ao inventário e fica _privado_. Além disso, viajar com privação de sono aumenta a **Dificuldade** do terreno em um nível (por exemplo, _Fácil_ se torna _Difícil_).
 
-#### Light
+#### Luz
 
-- Torches and other radial sources of light illuminate 40ft ahead of the party, but beyond that only provides a dim outline of objects.
-- Characters without a light source may suffer from _panic_ until their situation is remedied. 
-- Environmental conditions (sudden gusts of wind, dust, water, etc.) can easily blow out a torch.
+- Tochas e outras fontes de luz radial iluminam até 12 metros à frente do grupo, mas além disso apenas delineiam de forma difusa os objetos.
+- Personagens sem uma fonte de luz podem sofrer de _pânico_ até que a situação seja resolvida. 
+- Condições ambientais (rajadas de vento, poeira, água, etc.) podem facilmente apagar uma tocha.
 
-##### Light Sources
+##### Fontes de Luz
 
-- A torch can be lit 3 times before degrading. 
-- A lantern can be relit indefinitely but requires a separate oil can (6 uses).
+- Uma tocha pode ser acesa 3 vezes antes de se degradar. 
+- Uma lanterna pode ser reacendida indefinidamente, mas requer um recipiente separado de óleo (6 usos).
 
-### Wilderness Actions
+### Ações na Natureza Selvagem
 
-#### Travel
+#### Viajar
 
-- Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. This action is typically taken by the entire party as one.
-- The party rolls 1d6 to see if they get lost along the way. This risk can increase or decrease, depending on path **Difficulty**, maps, party skills, and guides.
-- If lost, the party may need to spend a **Wilderness Action** to recover their way. Otherwise, the party reaches the next **point** along their route. 
+- A viagem começa. Locais óbvios, características e o terreno das áreas próximas são revelados de acordo com a distância. Essa ação é normalmente realizada por todo o grupo junto.
+- O grupo rola 1d6 para ver se se perde no caminho. Esse risco pode aumentar ou diminuir, dependendo da **Dificuldade** da rota, mapas, habilidades do grupo e guias.
+- Se estiver perdido, o grupo pode precisar gastar uma **Ação na Natureza Selvagem** para reencontrar o caminho. Caso contrário, o grupo alcança o próximo **ponto** ao longo de sua rota. 
 
-> Remember to compare the results of getting lost to the relevant path **Difficulty**. 
+> Lembre-se de comparar os resultados de se perder com a **Dificuldade** relevante do caminho. 
 
-#### Explore
+#### Explorar
 
-- One or more party members search a large area, searching for hidden features, scouting ahead, or treading carefully.
-- A Location (shelter, village, cave, etc.) or Feature (geyser, underground river, beached ship, etc.) is discovered.
-- The **Travel** action is still required to _leave_ the current area, even if it has been completely explored.
+- Um ou mais membros do grupo vasculham uma área grande, procurando por elementos ocultos, explorando adiante ou avançando com cuidado.
+- Um Local (abrigo, vila, caverna, etc.) ou Elemento (gêiser, rio subterrâneo, navio encalhado, etc.) é descoberto.
+- A ação **Viajar** ainda é necessária para _deixar_ a área atual, mesmo que ela tenha sido completamente explorada.
 
-#### Supply
+#### Abastecer
 
-- One or more party members may hunt, fish, or forage for food, collecting 1d4 **Rations** (3 uses each). The chance of a greater bounty increases with each additional participant (e.g. 1d4 becomes 1d6, up to a maximum of 1d12). 
-- Relevant experience or equipment may also increase the bounty collected.
-- The party may encounter homes and small villages, spending gold and a full **watch** to resupply. 
+- Um ou mais membros do grupo podem caçar, pescar ou coletar comida, obtendo 1d4 **Mantimentos** (3 usos cada). A chance de um resultado maior aumenta com cada participante adicional (por exemplo, 1d4 vira 1d6, até o máximo de 1d12). 
+- Experiência ou equipamento relevantes também podem aumentar a quantidade coletada.
+- O grupo pode encontrar casas ou pequenas vilas, gastando ouro e um turno completo de **vigia** para reabastecer. 
 
-#### Make Camp
+#### Montar Acampamento
 
-- The party stops to set up camp in the wilds. Each party member (and their mounts) consumes a **Ration**.
-- A **lookout rotation** is set so that the party can sleep unmolested. A smaller party may need to risk sleeping unguarded or switch off sleeping over multiple days.
-- Party members that were able to rest remove all of **Fatigue** from their inventory.
+- O grupo para para montar acampamento na natureza. Cada membro (e suas montarias) consome um **Mantimento**.
+- É definida uma **rotação de vigia** para que o grupo possa dormir sem ser perturbado. Um grupo pequeno pode precisar arriscar dormir sem guarda ou alternar o sono ao longo de vários dias.
+- Membros que conseguiram descansar removem toda a **Fadiga** do inventário.
 
-## Downtime
+## Tempo de Inatividade
 
-Between game sessions, players can engage in a variety of activities such as research, following up on leads, improving skills, or building relationships. A PC is limited to one **Downtime Action** at a time. These actions cannot be undertaken in unsafe conditions or while a character is in recovery. A character cannot perform an action if it would put their safety at risk.
+Entre as sessões de jogo, os jogadores podem realizar diversas atividades, como pesquisa, seguir pistas, aprimorar habilidades ou construir relacionamentos. Um PJ está limitado a uma **Ação de Tempo de Inatividade** por vez. Essas ações não podem ser realizadas em condições inseguras ou enquanto o personagem estiver em recuperação. Um personagem não pode realizar uma ação se isso colocar sua segurança em risco.
 
-### Milestones
+### Marcos
 
-For activities requiring multiple steps, the **Warden** assigns 1-5 **Milestones** for players to track progress. Each **Milestone** represents a comprehensive, non-interactive task. The **Warden** may present different strategies to achieve these goals, each with distinct **Milestones**. Depending on the unfolding events in the game, the **Warden** is also empowered to introduce new **Milestones** or discard existing ones.
+Para atividades que exigem múltiplas etapas, o **Guardião** atribui de 1 a 5 **Marcos** para que os jogadores acompanhem o progresso. Cada **Marco** representa uma tarefa abrangente e não interativa. O **Guardião** pode apresentar diferentes estratégias para atingir esses objetivos, cada uma com **Marcos** distintos. Dependendo dos acontecimentos no jogo, o **Guardião** também pode introduzir novos **Marcos** ou descartar os existentes.
 
-### Costs
+### Custos
 
-PCs can complete individual **Milestones** by taking a **Downtime Action** and paying its respective **Cost**. If a character is unable to pay the **Cost**, they may have to find some other way to achieve their goal. A few examples of **Cost**: 
-- **Gold**: Direct payment of gold from a character's inventory.
-- **Resources**: Non-monetary costs such as material goods, specific common items, and so on. 
-- **Reputation**: Betting on a character's renown, personality, presence, social connections, etc.
-- **Loss**: Offering something specific and unique. A finger, a soul, a **Relic**, etc.
+Os PJs podem completar **Marcos** individuais realizando uma **Ação de Entreatempo** e pagando o respectivo **Custo**.  Se um personagem não puder pagar o **Custo**, talvez precise encontrar outra forma de alcançar seu objetivo. Alguns exemplos de **Custo**:
+- **Ouro**: Pagamento direto em ouro do inventário do personagem.
+- **Recursos**: Custos não monetários, como bens materiais, itens comuns específicos, e assim por diante. 
+- **Reputação**: Apostar na fama, personalidade, presença, conexões sociais etc. de um personagem.
+- **Perda**: Oferecer algo específico e único. Um dedo, uma alma, uma **Relíquia**, etc.
 
-Some **Costs** can be reduced or disregarded through character skills, connections, or force of will. For example, a PC may have already acquired the necessary reputation to gain access to a renowned institution, and thus the **cost** is abated. On the other hand, another character may not be so lucky and must rely on their force of personality instead. In this case, the Warden should state the risk (a permanent ban on entry, a loss of reputation, etc.). The PC then makes a **WIL** save; on a success, the cost is either reduced or avoided entirely. 
+Alguns **Custos** podem ser reduzidos ou ignorados por meio das habilidades, conexões ou força de vontade de um personagem. Por exemplo, um PJ pode já ter adquirido a reputação necessária para conseguir acesso a uma instituição renomada e, assim, o **custo** é dispensado. Por outro lado, outro personagem pode não ter a mesma sorte e precisa contar com sua força de personalidade. Nesse caso, o Guardião deve expor o risco (uma proibição permanente de entrada, uma perda de reputação, etc.). O PJ então faz um teste de **VON**; em caso de sucesso, o custo é reduzido ou totalmente evitado. 
 
-## Downtime Actions
+## Ações de Tempo Livre
 
-The following activities represent some of the most common **Downtime Actions** a players can choose. The **Warden** can also create custom actions based on the needs of play.
+As atividades a seguir representam algumas das **Ações de Entreatempo** mais comuns que os jogadores podem escolher. O **Guardião** também pode criar ações personalizadas conforme as necessidades do jogo.
 
-### Research
+### Pesquisa
 
-A PC investigates a question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. To take this action, the player must have a clearly formulated question they'd like to answer and a **Source** of knowledge in the game world that their character can interact with. If the PC does not have a **Source**, then they can spend a **Downtime Action** trying to find one. There is no guarantee that they will be successful. Once a question is posed and an appropriate **Source** has been identified, the **Warden** should provide any **Milestones** and associated **Costs**. 
+Um PJ investiga uma pergunta sobre um conhecimento perdido ou esquecido, a localização de um item perdido, o paradeiro de um NPC importante e assim por diante. Para realizar esta ação, o jogador deve ter uma pergunta claramente formulada que deseja responder e uma **Fonte** de conhecimento no mundo do jogo com a qual seu personagem possa interagir. Se o PJ não tiver uma **Fonte**, ele pode gastar uma **Ação de Entreatempo** tentando encontrar uma. Não há garantia de que será bem-sucedido. Uma vez feita a pergunta e identificada uma **Fonte** adequada, o **Guardião** deve fornecer os **Marcos** e **Custos** associados. 
 
-#### Questions
+#### Perguntas
 
-As always, the question must come from an experience that occurred during play.
+Como sempre, a pergunta deve surgir de uma experiência ocorrida durante o jogo.
 
-**Examples:**
+**Exemplos:**
 
-- "Where is the **Lost Temple of East Nipoor**?" 
-- "Who in **Fortune City** might know how to crack an ancient vault?"
-- "Where can I find the cure to **curly sickness**?" 
+- “Onde fica o **Templo Perdido de Leste Nipoor**?”
+- “Quem, na **Cidade da Fortuna**, pode saber como abrir um cofre antigo?”
+- “Onde posso encontrar a cura para a **doença encaracolada**?” 
 
-#### Sources
+#### Fontes
 
-A **Source** is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. They can be NPCs, Factions, spirits, or even other PCs. 
+Uma **Fonte** é uma pessoa, lugar, facção ou entidade que possui parte ou toda a resposta que o personagem busca.  Pode ser NPCs, Facções, espíritos ou até outros PJs. 
 
-##### Examples: 
+##### Exemplos: 
 
-- **Kewr the Mouth**, a frequent contact for the **Conclave of Merchants**. Despite their excellent relationship with this faction, asking for help in an illicit activity might come at a high cost.
-- A **Woodwose** who makes his home deep in the **Forest of Knives**. The party encountered him in an earlier expedition and the meeting did not end well. Still, he is said to know the nature of every herb and their healing properties.
-- The **Temple of Puppets**, a nomadic circus troupe who have travelled the known and unknown lands. The party assisted one of their members during the **Rain of Fire**, when even the creatures of the Wood were preparing to flee their homes. If anyone has heard of forgotten places, it's them.
+- **Kewr, o Boca**, contato frequente da **Conclave dos Mercadores**. Apesar da excelente relação com essa facção, pedir ajuda em uma atividade ilícita pode ter um custo alto.
+- Um **Woodwose** que vive no fundo da **Floresta das Facas**. O grupo o encontrou em uma expedição anterior, e o encontro não terminou bem. Ainda assim, dizem que ele conhece a natureza de todas as ervas e suas propriedades curativas.
+- O **Templo dos Fantoches**, uma trupe de circo nômade que percorreu terras conhecidas e desconhecidas. O grupo ajudou um de seus membros durante a **Chuva de Fogo**, quando até as criaturas do Bosque se preparavam para abandonar suas casas. Se alguém ouviu falar de lugares esquecidos, são eles.
 
-### Training
+### Treinamento
 
-A character can improve their skills with an item or ability, with clear narrative or mechanical results. They might be interested in dealing greater damage with a particular weapon, decreasing their chances of getting lost in rough weather, or learning to read the languages of the ancients. A PC might spend multiple **Downtime Actions** sparring with a particular weapon, improving their skills week by week. Or they may need to travel to the home of a distant sage, improving themselves through short but intense study.
+Um personagem pode melhorar suas habilidades com um item ou capacidade, obtendo resultados claros, narrativos ou mecânicos. Ele pode querer causar mais dano com uma arma específica, reduzir as chances de se perder em clima ruim ou aprender a ler línguas antigas. Um PJ pode gastar várias **Ações de Entreatempo** treinando com uma arma, melhorando semana a semana. Ou pode precisar viajar até a casa de um sábio distante para um estudo curto, mas intenso.
 
-The player must describe precisely what they'd like to improve and a **Master** whom they might train with. And of course, the character's inspiration to improve should come from an experience in play. The **Warden** should provide any **Milestones** and associated **Costs**. 
+O jogador deve descrever exatamente o que quer melhorar e indicar um **Mestre** com quem possa treinar. E, claro, a motivação do personagem para melhorar deve vir de uma experiência em jogo. O **Guardião** deve fornecer os **Marcos** e **Custos** correspondentes. 
 
-**Examples:**
+**Exemplos:**
 
-- **The Two-Handed Parry**: When fighting with one hand free, a PC's HP temporarily increases by 1d4. The party took on a hireling from the **Cratered Lands**, whose fighters emphasize avoiding enemy attacks. She has agreed to train anyone who can best her in hand to hand combat.
-- **Herbology**: Given proper ingredients, a PC can create a **Healing Salve** (restores 4 STR) as a **Downtime Action**. After receiving care from an elderly herbalist in the **Verdant Glades**, the wounded PC asked to be trained in the healing arts. The **Master** has agreed, but asked that they collect three rare herbs before training can begin. 
-- **Troutmaster**: When taking the Supply **Action**, **Rations** gathered near cold freshwater sources increase by one step (e.g. 1d4 becomes 1d6). The party escorted a stranded naturalist from the famously dreadful **Silver Wastes** safely back to the city. As thanks, she has offered to train a PC to identify and capture a common lakefish that frequents colder waters.
+- **A Defesa de Duas Mãos**: Ao lutar com uma mão livre, o HP do PJ aumenta temporariamente em 1d4. O grupo contratou um mercenário das **Terras Crateradas**, cuja técnica é focada em evitar ataques inimigos. Ela aceitou treinar qualquer um que consiga vencê-la no combate corpo a corpo.
+- **Herbologia**: Com os ingredientes certos, um PJ pode criar um **Unguento de Cura** (restaura 4 FOR) como **Ação de Tempo Livre**. Depois de receber cuidados de um velho herbalista nos **Bosques Verdejantes**, o PJ ferido pediu para ser treinado nas artes de cura. O **Mestre** aceitou, mas pediu que coletasse três ervas raras antes de começar o treino. 
+- **Mestre das Trutas**: Ao realizar a ação de **Abastecer**, as **Ra- ções** coletadas próximas a fontes de água fria aumentam um passo (ex.: 1d4 se torna 1d6). O grupo escoltou uma naturalista perdida das temíveis **Terras Prateadas** até a cidade. Como agradecimento, ela ofereceu treinar um PJ para identificar e capturar um peixe-lago comum que vive em águas mais frias.
 
-### Strengthening Ties
+### Fortalecer Laços
 
-A character fosters a connection with an NPC or Faction in the game world. First, they must identify the entity with whom they wish to strengthen ties, as well as a specific **intent** (e.g., building trust, mending a friendship, seeking membership in a Faction, forming an alliance, and so on). The **Warden** then provides concrete measures (described as **Milestones** and **Costs**) that the PC can undertake to advance the relationship. With each completed **Milestone**, the **Warden** describes how the PC's relationship has grown or changed. 
+Um personagem cultiva uma conexão com um NPC ou Facção no mundo do jogo. Primeiro, deve identificar a entidade com quem deseja estreitar laços, bem como um **intento** específico (ex.: construir confiança, reparar uma amizade, buscar ingresso em uma facção, formar uma aliança, etc.). O **Guardião** então fornece medidas concretas (descritas como **Marcos** e **Custos**) que o PJ pode realizar para avançar na relação. A cada **Marco** concluído, o **Guardião** descreve como a relação do PJ cresceu ou mudou. 
 
-**Examples:**
+**Exemplos:**
 
-- After returning from an unsuccessful delve into the **Roots**, a PC discovers that they'd unknowingly brought along a stowaway: an eyeless devourer, barely hatched. They decide to keep the creature and train it in secret. 
-- During a play session, a PC becomes friendly with an agent of the **Order of the Helm**. Impressed by the Order's values, the PC asks what the requirements are to join.
-- An agent for a powerful faction dies during the **Battle of Frogs** while under the party's care. Now those responsible wish to provide redress, so that the party can once again perform tasks for that faction.
+- Após voltar de uma exploração malsucedida nas **Raízes**, um PJ descobre que trouxe sem saber um clandestino: um devorador sem olhos, recém-nascido. Ele decide manter a criatura e treiná-la em segredo. 
+- Durante uma sessão, um PJ torna-se amigo de um agente da **Ordem do Elmo**. Impressionado com os valores da Ordem, o PJ pergunta quais são os requisitos para se juntar.
+- Um agente de uma facção poderosa morre durante a **Batalha dos Sapos** enquanto estava sob a proteção do grupo. Agora, aqueles responsáveis querem compensar a perda para que o grupo possa voltar a prestar serviços para essa facção.

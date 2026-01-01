@@ -2,7 +2,7 @@
 layout: default
 title: Bestiary
 parent: Warden's Guide 
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
 # Bestiary

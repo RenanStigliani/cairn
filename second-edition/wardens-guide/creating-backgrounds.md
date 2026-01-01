@@ -2,7 +2,7 @@
 layout: default
 title: Creating Backgrounds
 parent: Warden's Guide
-grand_parent: Second Edition
+grand_parent: Segunda Edição
 ---
 
 # Creating Backgrounds
