@@ -1,11 +1,11 @@
 ---
-title: Meio-Bruxa
+title: Mestibruxo
 layout: default
 parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 
-# Meio-Bruxa
+# Mestibruxo
 
 > Nascido de ambos o mundo mortal e o invisível, você é um enigma para alguns e temido por muitos. A sua é a história do que acontece quando dois mundos colidem.
 
