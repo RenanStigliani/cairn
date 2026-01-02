@@ -11,7 +11,7 @@ grand_parent: Segunda Edição
  
 ## Nomes
 
-Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Artea, Gossamer, Hazel
+Fauno, Floco, Sopro, Serena, Brimo, Solstício, Olho d'Aço, Artéa, Teia, Avelã
 
 ## Equipamento Inicial
 
