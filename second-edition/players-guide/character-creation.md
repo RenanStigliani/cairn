@@ -18,7 +18,7 @@ nav_order: 1
 
 | ------- | ------------------------------------------------------ | ------- | -------------------------------------------------------- |
 | **d20** | **Antecedente**                                        | **d20** | **Antecedente**                                          |
-| **1**   | [Ourivex](../backgrounds/aurifex.md)                   | **11**  | [Meia-Bruxa](../backgrounds/half-witch.md)               |
+| **1**   | [Ourivex](../backgrounds/aurifex.md)                   | **11**  | [Mestibruxo](../backgrounds/half-witch.md)               |
 | **2**   | [Barbeiro-Cirurgião](../backgrounds/barber-surgeon.md) | **12**  | [Caçador de Bruxas](../backgrounds/hexenbane.md)         |
 | **3**   | [Domador de Feras](../backgrounds/beast-handler.md)    | **13**  | [Trovador](../backgrounds/jongleur.md)                   |
 | **4**   | [Guardião dos Ossos](../backgrounds/bonekeeper.md)     | **14**  | [Caldeireiro](../backgrounds/kettlewright.md)            |
@@ -27,7 +27,7 @@ nav_order: 1
 | **7**   | [Flecheiro dos Ventos](../backgrounds/fletchwind.md)   | **17**  | [Batedor Montado](../backgrounds/outrider.md)            |
 | **8**   | [Enjeitado](../backgrounds/foundling.md)               | **18**  | [Vigilante](../backgrounds/prowler.md)                   |
 | **9**   | [Coletor de Fungos](../backgrounds/fungal-forager.md)  | **19**  | [Corredor do Riacho](../backgrounds/rill-runner.md)      |
-| **10**  | [Herbologista](../backgrounds/greenwise.md)            | **20**  | [Escriba](../backgrounds/scrivener.md)                   |
+| **10**  | [Verdessábio](../backgrounds/greenwise.md)            | **20**  | [Escriba](../backgrounds/scrivener.md)                   |
 
 ## Atributos, Pontos de Guarda e Características 
 
