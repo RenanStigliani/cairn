@@ -1,5 +1,5 @@
 ---
-title: Herbologista
+title: Verdessábio
 layout: default
 parent: Antecedentes
 grand_parent: Segunda Edição
