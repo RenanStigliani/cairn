@@ -1,577 +1,577 @@
 ---
 layout: default
-title: Dungeon Seeds
+title: Sementes de Masmorra
 parent: Guia do Diretor 
 grand_parent: Segunda Edição
 ---
 
-# Dungeon Seeds
+# Sementes de Masmorra
 
-## Dungeon Principles
+## Princípios da Masmorra
 
-- **Purpose**: Consider what the dungeon's original purpose was, as well as what it is being used for today. Demonstrate a dungeon's history by including signs of its original inhabitants and their goals. Sometimes a dungeon will have multiple purposes, and these can collide against each other to create tension among its denizens.
-- **Levels**: Though they should make sense as part of the dungeon's construction and purpose, levels should also represent increasing danger. On each level, try to push players to weigh the risk of further exploration versus a potential reward. 
-- **Layout**: Create multiple entrances and exits, offer multiple routes, design choke points, and provide hiding spots. Add meaningful and obvious information to room entrances and exits.
-- **Verticality**: Incorporate tall rooms, climbable structures, and paths that allow movement around and over obstacles.
-- **Secret Areas**: Include hidden zones, including at least one that will likely remain undiscovered but is still worth finding. Try to avoid hiding crucial information behind secret rooms.
-- **Rooms**: Vary room shapes, sizes, and functions. Use architectural motifs to connect rooms and provide hints of what's to come. Room descriptions should be easy to map and recall.
-- **Treasure**: Incorporate a variety of treasures beyond mere gold, such as knowledge, allies, trade goods, and artifacts. Add narrative elements to treasure to increase its non-monetary value.
-- **Challenges**: Allow the characters to drive the story by writing challenges without prescribed outcomes. Create a sense of peril, but avoid making obstacles seem unbeatable. Overly dangerous areas and creatures should be obvious. Create encounters that can be avoided with critical thinking and problem-solving, not just violence. Remember that monsters and other obstacles are another way to tell the dungeon's story.
-- **NPCs**: Include engaging NPCs with their own goals and agendas. These characters may _want_ to stay in the dungeon; they may even love it! NPCs and monsters should communicate with the PCs, even during combat. Have them make threats, suggest compromises, or try to persuade the PCs whenever possible. Every character wants something, and has a limit to what they might do to get it. 
-- **Factions**: Factions should interact with both the characters and one another, acting on their own regardless of the character's actions. Give them hierarchies and divisions that can be exploited. 
-- **Puzzles**: Create puzzles that have clear, actionable goals. Puzzles should reinforce the themes of the dungeon and build on its history. Make the challenge of the puzzle obvious, but the solution less so. Allow for multiple solutions, and for players to solve them using intelligence and critical thinking, not just special abilities or tools. Create built-in clues suggesting the puzzle's origin and its effects. 
-- **The Dungeon Map**: Put boring or repetitive stuff (exits, room shapes, etc.) on the map, rather than in the room description. Obvious exits should be described using clear, distinct language. Number your rooms to help avoid confusion when referencing the map.
-- **Room Keying**: Emphasize a room's most important aspects (typically obvious threats or NPCs). Describe elements that help orient the party to their surroundings. Be specific, but avoid describing how the characters should _feel_. Only describe what's happening _now_. If there is history here, the characters will discover it in play. Name each room!
-- **Encounter Tables**: Create random events to help make a dungeon feel alive by making exploration tense and unpredictable, as parties may encounter wandering monsters, factions, NPCs, or signs of an approaching threat. Try to provide challenges, moments of respite, or opportunities for roleplay. 
+- **Propósito**: Considere qual era o propósito original da masmorra, bem como para o que ela está sendo usada hoje. Demonstre a história de uma masmorra incluindo sinais de seus habitantes originais e seus objetivos. Às vezes, uma masmorra terá múltiplos propósitos, e estes podem colidir uns contra os outros para criar tensão entre seus habitantes.
+- **Níveis**: Embora devam fazer sentido como parte da construção e propósito da masmorra, os níveis também devem representar um perigo crescente. Em cada nível, tente impulsionar os jogadores a pesar o risco de exploração adicional versus uma recompensa potencial.
+- **Layout**: Crie múltiplas entradas e saídas, ofereça múltiplas rotas, projete gargalos e forneça esconderijos. Adicione informações significativas e óbvias às entradas e saídas das salas.
+- **Verticalidade**: Incorpore salas altas, estruturas escaláveis e caminhos que permitam movimento ao redor e por cima de obstáculos.
+- **Áreas Secretas**: Inclua zonas ocultas, incluindo pelo menos uma que provavelmente permanecerá desconhecida, mas que ainda valha a pena ser encontrada. Tente evitar esconder informações cruciais atrás de salas secretas.
+- **Salas**: Varie as formas, tamanhos e funções das salas. Use motivos arquitetônicos para conectar salas e fornecer dicas do que está por vir. As descrições das salas devem ser fáceis de mapear e lembrar.
+- **Tesouro**: Incorpore uma variedade de tesouros além de mero ouro, como conhecimento, aliados, bens comerciais e artefatos. Adicione elementos narrativos ao tesouro para aumentar seu valor não monetário.
+- **Desafios**: Permita que os personagens conduzam a história escrevendo desafios sem resultados prescritos. Crie uma sensação de perigo, mas evite fazer com que os obstáculos pareçam imbatíveis. Áreas e criaturas excessivamente perigosas devem ser óbvias. Crie encontros que possam ser evitados com pensamento crítico e resolução de problemas, não apenas violência. Lembre-se de que monstros e outros obstáculos são outra maneira de contar a história da masmorra.
+- **PNJs**: Inclua PNJs (Personagens Não-Jogadores) envolventes com seus próprios objetivos e agendas. Esses personagens podem _querer_ ficar na masmorra; eles podem até amá-la! PNJs e monstros devem se comunicar com os PJs, mesmo durante o combate. Faça com que façam ameaças, sugiram compromissos ou tentem persuadir os PJs sempre que possível. Todo personagem quer algo e tem um limite do que faria para consegui-lo.
+- **Facções**: Facções devem interagir tanto com os personagens quanto umas com as outras, agindo por conta própria independentemente das ações dos personagens. Dê a elas hierarquias e divisões que possam ser exploradas.
+- **Enigmas**: Crie enigmas que tenham objetivos claros e acionáveis. Os enigmas devem reforçar os temas da masmorra e construir sobre sua história. Torne o desafio do enigma óbvio, mas a solução menos evidente. Permita múltiplas soluções e que os jogadores as resolvam usando inteligência e pensamento crítico, não apenas habilidades especiais ou ferramentas. Crie pistas embutidas sugerindo a origem do enigma e seus efeitos.
+- **O Mapa da Masmorra**: Coloque coisas chatas ou repetitivas (saídas, formatos de sala, etc.) no mapa, em vez de na descrição da sala. Saídas óbvias devem ser descritas usando linguagem clara e distinta. Numere suas salas para ajudar a evitar confusão ao referenciar o mapa.
+- **Mapeamento das Salas**: Enfatize os aspectos mais importantes de uma sala (tipicamente ameaças óbvias ou PNJs). Descreva elementos que ajudem a orientar o grupo em seus arredores. Seja específico, mas evite descrever como os personagens devem se _sentir_. Descreva apenas o que está acontecendo _agora_. Se houver história aqui, os personagens a descobrirão em jogo. Nomeie cada sala!
+- **Tabelas de Encontro**: Crie eventos aleatórios para ajudar a fazer uma masmorra parecer viva, tornando a exploração tensa e imprevisível, já que os grupos podem encontrar monstros errantes, facções, PNJs ou sinais de uma ameaça iminente. Tente fornecer desafios, momentos de descanso ou oportunidades para interpretação.
 
-## Creating a Dungeon
+## Criando uma Masmorra
 
-### Materials Required
+### Materiais Necessários
 
-- A sheet of paper and a notebook. Letter/A4 is fine.
-- Pencils and erasers.
-- At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
+- Uma folha de papel e um caderno. Carta/A4 está ótimo.
+- Lápis e borrachas.
+- Pelo menos um d6 e um d20, mas 6d6 e 2d20 seriam ideais.
 
-> Going forward, we will refer to the sheet of paper as the **dungeon map**.
-> As with any other rule, if you don't like a table result, roll again or tweak as desired!
+> Daqui para frente, nos referiremos à folha de papel como o **mapa da masmorra**.
+> Como em qualquer outra regra, se você não gostar do resultado de uma tabela, role novamente ou ajuste conforme desejado!
 
-Follow this procedure for any dungeon POIs in your setting. Refer to the dungeon type table results from earlier, reading the results from your map. What image springs immediately to mind? Where is the dungeon located? What does its entrance look like? Don't worry if you can't answer these questions yet. By the end of this process, you should be able to.
+Siga este procedimento para quaisquer PDIs (Pontos de Interesse) de masmorra em seu cenário. Consulte os resultados da tabela de tipo de masmorra anteriores, lendo os resultados do seu mapa. Qual imagem vem imediatamente à mente? Onde a masmorra está localizada? Como é a sua entrada? Não se preocupe se você não puder responder a essas perguntas ainda. Ao final deste processo, você deverá ser capaz.
 
-### Overview
+### Visão Geral
 
-1. Define the dungeon's original purpose, its construction, and finally its ruination.
-2. Define the dungeon's NPCs and factions, including their unique traits and agendas.
-3. Finalize the dungeon theme.
-4. Create the map.
-5. Stock the dungeon's rooms.
+1. Defina o propósito original da masmorra, sua construção e, finalmente, sua ruína.
+2. Defina os PNJs e facções da masmorra, incluindo seus traços únicos e agendas.
+3. Finalize o tema da masmorra.
+4. Crie o mapa.
+5. Preencha as salas da masmorra.
 
-### History
+### História
 
-Who built the dungeon? What was its originally used for? Perhaps it was once a great forge, capable of building the world's most powerful weapon. Or maybe it was once a burial site for ancient kings, binding their souls to the lands they once ruled. Roll on the tables below, noting the results in your notebook, keeping the following questions in mind: 
+Quem construiu a masmorra? Para que ela era usada originalmente? Talvez fosse uma grande forja, capaz de construir a arma mais poderosa do mundo. Ou talvez fosse um local de sepultamento para reis antigos, ligando suas almas às terras que um dia governaram. Role nas tabelas abaixo, anotando os resultados em seu caderno, mantendo as seguintes perguntas em mente:
 
-_"What kind of dungeon is this, and what makes it unusual?"_
+_"Que tipo de masmorra é essa e o que a torna incomum?"_
 
-_"Why was this dungeon built, how was it built, and what caused its downfall?"_
+_"Por que esta masmorra foi construída, como foi construída e o que causou sua queda?"_
 
-#### Purpose
+#### Propósito
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
-|         |                              |                        |
-| ------- | ---------------------------- | ---------------------- |
-| **d20** | **Original Use**             | **Built By**           |
-| **1**   | Ancestral Rites              | A Fallen Hero          |
-| **2**   | Arcane Library               | A Fanatical Cult       |
-| **3**   | Astral Trading Hub           | A Forgotten Empire     |
-| **4**   | Bestial Creations            | A Long-Dead Poet       |
-| **5**   | Breeding Grounds             | A Militant Order       |
-| **6**   | Burial Site                  | A Renowned Alchemist   |
-| **7**   | Celestial Observations       | A Royal Dynasty        |
-| **8**   | Covert Experiments           | A Secret Society       |
-| **9**   | Forbidden Trysts             | A Tyrannical Ruler     |
-| **10**  | Forge for a Great Weapon     | A Warrior Tribe        |
-| **11**  | Hideout                      | A Wealthy Recluse      |
-| **12**  | Impenetrable Vault           | Desperate Rebels       |
-| **13**  | Invasion of Dreams           | Heretical Alchemists   |
-| **14**  | Isolated Refuge              | Heretical Monks        |
-| **15**  | Military Outpost             | Immoral Sorcerers      |
-| **16**  | Observatory                  | Inverted Astrologers   |
-| **17**  | Pilgrimage Site              | Mob Families           |
-| **18**  | Protection of Rare Artifacts | Opulent Merchants      |
-| **19**  | Secret Meeting Place         | Pilgrims to a Dead God |
-| **20**  | Treasure Horde               | Rogue Scholars         |
+|         |                              |                          |
+| ------- | ---------------------------- | ------------------------ |
+| **d20** | **Uso Original** | **Construído Por** |
+| **1** | Ritos Ancestrais             | Um Herói Caído           |
+| **2** | Biblioteca Arcana            | Um Culto Fanático        |
+| **3** | Centro de Comércio Astral    | Um Império Esquecido     |
+| **4** | Criações Bestiais            | Um Poeta Morto há Muito  |
+| **5** | Campos de Reprodução         | Uma Ordem Militante      |
+| **6** | Local de Sepultamento        | Um Alquimista Renomado   |
+| **7** | Observações Celestiais       | Uma Dinastia Real        |
+| **8** | Experimentos Secretos        | Uma Sociedade Secreta    |
+| **9** | Encontros Proibidos          | Um Governante Tirânico   |
+| **10** | Forja para uma Grande Arma   | Uma Tribo Guerreira      |
+| **11** | Esconderijo                  | Um Recluso Rico          |
+| **12** | Cofre Impenetrável           | Rebeldes Desesperados    |
+| **13** | Invasão de Sonhos            | Alquimistas Hereges      |
+| **14** | Refúgio Isolado              | Monges Hereges           |
+| **15** | Posto Militar                | Feiticeiros Imorais      |
+| **16** | Observatório                 | Astrólogos Invertidos    |
+| **17** | Local de Peregrinação        | Famílias da Máfia        |
+| **18** | Proteção de Artefatos Raros  | Mercadores Opulentos     |
+| **19** | Local de Reunião Secreta     | Peregrinos a um Deus Morto|
+| **20** | Grande Tesouro               | Eruditos Renegados       |
 
-#### Construction
+#### Construção
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
-|         |                       |                    |
-| ------- | --------------------- | ------------------ |
-| **d20** | **Entrance**          | **Composition**    |
-| **1**   | A Creature's Lair     | Bone               |
-| **2**   | A Dream               | Coral              |
-| **3**   | A Massive Tree        | Crystal            |
-| **4**   | A Well                | Earth              |
-| **5**   | An Enormous Grave     | Ethereal Fabric    |
-| **6**   | Behind a Waterfall    | Flesh              |
-| **7**   | Between Menhirs       | Floating Platforms |
-| **8**   | Cave                  | Fungi              |
-| **9**   | Center of a Maze      | Glass              |
-| **10**  | Cliff door            | Ice                |
-| **11**  | Hollow Statue         | Living Plants      |
-| **12**  | Illusory Wall         | Marble             |
-| **13**  | Mine Shaft            | Metal              |
-| **14**  | Sinking Sand          | Obsidian           |
-| **15**  | Skyward Beam of Light | Petrified Wood     |
-| **16**  | Starlight Path        | Sand               |
-| **17**  | Through a Painting    | Shadow Material    |
-| **18**  | Under a Bridge        | Stone              |
-| **19**  | Underwater Tunnel     | Webs               |
-| **20**  | Veil of Mist          | Wood               |
+|         |                       |                        |
+| ------- | --------------------- | ---------------------- |
+| **d20** | **Entrada** | **Composição** |
+| **1** | Covil de uma Criatura | Osso                   |
+| **2** | Um Sonho              | Coral                  |
+| **3** | Uma Árvore Maciça     | Cristal                |
+| **4** | Um Poço               | Terra                  |
+| **5** | Um Túmulo Enorme      | Tecido Etéreo          |
+| **6** | Atrás de uma Cachoeira| Carne                  |
+| **7** | Entre Menires         | Plataformas Flutuantes |
+| **8** | Caverna               | Fungos                 |
+| **9** | Centro de um Labirinto| Vidro                  |
+| **10** | Porta no Penhasco     | Gelo                   |
+| **11** | Estátua Oca           | Plantas Vivas          |
+| **12** | Parede Ilusória       | Mármore                |
+| **13** | Poço de Mina          | Metal                  |
+| **14** | Areia Movediça        | Obsidiana              |
+| **15** | Feixe de Luz para o Céu| Madeira Petrificada    |
+| **16** | Caminho Estelar       | Areia                  |
+| **17** | Através de uma Pintura| Material de Sombra     |
+| **18** | Sob uma Ponte         | Pedra                  |
+| **19** | Túnel Subaquático     | Teias                  |
+| **20** | Véu de Névoa          | Madeira                |
 
-#### Ruination
+#### Ruína
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
-|         |                  |                             |
-| ------- | ---------------- | --------------------------- |
-| **d20** | **Condition**    | **Cause**                   |
-| **1**   | Corpse           | Alchemical Accident         |
-| **2**   | Crumbling        | Ancient Curse               |
-| **3**   | Cursed           | Cataclysmic Flood           |
-| **4**   | Desecrated       | Civil War                   |
-| **5**   | Devoured         | Competing Rituals           |
-| **6**   | Displaced        | Consumed by a Beast         |
-| **7**   | Divided          | Disease                     |
-| **8**   | Frozen           | Hedonism                    |
-| **9**   | Haunted          | Invasion                    |
-| **10**  | Infested         | Long-Term Abandonment       |
-| **11**  | Overgrown        | Magic Gone Awry             |
-| **12**  | Overpopulated    | Magical Seal                |
-| **13**  | Petrified        | Natural Disaster            |
-| **14**  | Plundered        | Natural Erosion             |
-| **15**  | Poisoned         | Obfuscation                 |
-| **16**  | Scorched         | Overrun with Monsters       |
-| **17**  | Shrouded in Mist | Sudden Change in Climate    |
-| **18**  | Submerged        | Teleported to Another Realm |
-| **19**  | Unending         | Turned to Stone             |
-| **20**  | Warped           | Unresolved Spirits          |
+|         |                    |                             |
+| ------- | ------------------ | --------------------------- |
+| **d20** | **Condição** | **Causa** |
+| **1** | Cadáver            | Acidente Alquímico          |
+| **2** | Desmoronando       | Maldição Antiga             |
+| **3** | Amaldiçoado        | Inundação Cataclísmica      |
+| **4** | Profanado          | Guerra Civil                |
+| **5** | Devorado           | Rituais Concorrentes        |
+| **6** | Deslocado          | Consumido por uma Besta     |
+| **7** | Dividido           | Doença                      |
+| **8** | Congelado          | Hedonismo                   |
+| **9** | Assombrado         | Invasão                     |
+| **10** | Infestado          | Abandono de Longo Prazo     |
+| **11** | Coberto de Mato    | Magia que Deu Errado        |
+| **12** | Superpovoado       | Selo Mágico                 |
+| **13** | Petrificado        | Desastre Natural            |
+| **14** | Saqueado           | Erosão Natural              |
+| **15** | Envenenado         | Ofuscação                   |
+| **16** | Chamuscado         | Tomado por Monstros         |
+| **17** | Envolto em Névoa   | Mudança Súbita no Clima     |
+| **18** | Submerso           | Teletransportado para Outro Reino |
+| **19** | Sem Fim            | Transformado em Pedra       |
+| **20** | Deformado          | Espíritos Mal Resolvidos    |
 
-### Dungeon Denizens
+### Habitantes da Masmorra
 
-Most dungeons will have creatures that _live_ there and make it their home. The following table can be used to describe the general attitude of any or all of the intelligent creatures in the dungeon. Roll on the Traits table, writing the results in your notebook. This describes the general attitude of the creatures found in the dungeon.
+A maioria das masmorras terá criaturas que _vivem_ lá e fazem dela seu lar. A tabela a seguir pode ser usada para descrever a atitude geral de qualquer uma ou de todas as criaturas inteligentes na masmorra. Role na tabela de Traços, anotando os resultados em seu caderno. Isso descreve a atitude geral das criaturas encontradas na masmorra.
 
-Meanwhile, every dungeon should have at least one NPC that stands out from all the others. These types _prefer_ the dungeon life over any other, but still act differently from their brethren. They should be NPCs that the party can interact with, trade with, hire, aid, and so on. These strange creatures can be deeply involved or entirely neutral towards the dungeon's other denizens and factions. Roll on the Traits table again, writing the results in your notebook, keeping the following questions in mind: 
+Enquanto isso, toda masmorra deve ter pelo menos um PNJ que se destaque de todos os outros. Esses tipos _preferem_ a vida na masmorra a qualquer outra, mas ainda agem de forma diferente de seus irmãos. Eles devem ser PNJs com os quais o grupo pode interagir, negociar, contratar, ajudar e assim por diante. Essas criaturas estranhas podem estar profundamente envolvidas ou totalmente neutras em relação aos outros habitantes e facções da masmorra. Role na tabela de Traços novamente, anotando os resultados em seu caderno, mantendo as seguintes perguntas em mente:
 
-_"What do we know about the creatures and factions that occupy the dungeon?"_
+_"O que sabemos sobre as criaturas e facções que ocupam a masmorra?"_
 
-_"What is each faction trying to achieve, and what stands in their way?"_
+_"O que cada facção está tentando alcançar e o que está em seu caminho?"_
 
-#### Traits
+#### Traços
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
-|         |                 |               |
-| ------- | --------------- | ------------- |
-| **d20** | **Virtues**     | **Vices**     |
-| **1**   | Compassionate   | Absent-Minded |
-| **2**   | Courageous      | Aloof         |
-| **3**   | Creative        | Critical      |
-| **4**   | Deductive       | Cynical       |
-| **5**   | Honest          | Greedy        |
-| **6**   | Incisive        | Impulsive     |
-| **7**   | Incorruptible   | Inflexible    |
-| **8**   | Individualistic | Naive         |
-| **9**   | Loyal           | Obstinate     |
-| **10**  | Methodical      | Passive       |
-| **11**  | Polite          | Pedantic      |
-| **12**  | Practical       | Perfectionist |
-| **13**  | Resilient       | Sarcastic     |
-| **14**  | Scholarly       | Selfish       |
-| **15**  | Self-Sufficient | Skeptical     |
-| **16**  | Solid           | Stubborn      |
-| **17**  | Studious        | Superficial   |
-| **18**  | Suave           | Unfocused     |
-| **19**  | Unwavering      | Unimaginative |
-| **20**  | Witty           | Vain          |
+|         |                 |                |
+| ------- | --------------- | -------------- |
+| **d20** | **Virtudes** | **Vícios** |
+| **1** | Compassivo      | Distraído      |
+| **2** | Corajoso        | Distante       |
+| **3** | Criativo        | Crítico        |
+| **4** | Dedutivo        | Cínico         |
+| **5** | Honesto         | Ganancioso     |
+| **6** | Incisivo        | Impulsivo      |
+| **7** | Incorruptível   | Inflexível     |
+| **8** | Individualista  | Ingênuo        |
+| **9** | Leal            | Obstinado      |
+| **10** | Metódico        | Passivo        |
+| **11** | Educado         | Pedante        |
+| **12** | Prático         | Perfeccionista |
+| **13** | Resiliente      | Sarcástico     |
+| **14** | Erudito         | Egoísta        |
+| **15** | Autossuficiente | Cético         |
+| **16** | Sólido          | Teimoso        |
+| **17** | Estudioso       | Superficial    |
+| **18** | Suave           | Desfocado      |
+| **19** | Inabalável      | Sem Imaginação |
+| **20** | Espirituoso     | Vaidoso        |
 
-### Dungeon Factions
+### Facções da Masmorra
 
-All dungeons should have one or more factions with their own unique agenda, obstacles, leaders, and hierarchy.
+Todas as masmorras devem ter uma ou mais facções com suas próprias agendas, obstáculos, líderes e hierarquia únicos.
 
 #### Agendas
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
 |         |                |              |
 | ------- | -------------- | ------------ |
-| **d20** | **Goal**       | **Obstacle** |
-| **1**   | Ascension      | Conflict     |
-| **2**   | Creation       | Corruption   |
-| **3**   | Destruction    | Cost         |
-| **4**   | Dominion       | Danger       |
-| **5**   | Enlightenment  | Decay        |
-| **6**   | Exploration    | Discord      |
-| **7**   | Growth         | Division     |
-| **8**   | Innovation     | Dogma        |
-| **9**   | Justice        | Exposure     |
-| **10**  | Knowledge      | Factionalism |
-| **11**  | Liberation     | Fear         |
-| **12**  | Peace          | Ignorance    |
-| **13**  | Power          | Incompetence |
-| **14**  | Preservation   | Injustice    |
-| **15**  | Protection     | Isolation    |
-| **16**  | Redemption     | Opposition   |
-| **17**  | Revenge        | Sacrifice    |
-| **18**  | Survival       | Stagnation   |
-| **19**  | Transformation | Tradition    |
-| **20**  | Wealth         | Weakness     |
+| **d20** | **Objetivo** | **Obstáculo**|
+| **1** | Ascensão       | Conflito     |
+| **2** | Criação        | Corrupção    |
+| **3** | Destruição     | Custo        |
+| **4** | Domínio        | Perigo       |
+| **5** | Iluminação     | Decadência   |
+| **6** | Exploração     | Discórdia    |
+| **7** | Crescimento    | Divisão      |
+| **8** | Inovação       | Dogma        |
+| **9** | Justiça        | Exposição    |
+| **10** | Conhecimento   | Faccionalismo|
+| **11** | Libertação     | Medo         |
+| **12** | Paz            | Ignorância   |
+| **13** | Poder          | Incompetência|
+| **14** | Preservação    | Injustiça    |
+| **15** | Proteção       | Isolamento   |
+| **16** | Redenção       | Oposição     |
+| **17** | Vingança       | Sacrifício   |
+| **18** | Sobrevivência  | Estagnação   |
+| **19** | Transformação  | Tradição     |
+| **20** | Riqueza        | Fraqueza     |
 
-## Build a Dungeon
+## Construa uma Masmorra
 
-### Create the Map
+### Crie o Mapa
 
-- Roll **6-20 d6** dice on the dungeon map, ignoring any dice that fall off the page. These are the dungeon's _rooms_.
-- Write the face-up results on the page using the [Dungeon Die Drop Table](#dungeon-die-drop-table). For example, the number **4** would indicate a **Special** room, which you can denote on the page with the letter "S."
-  - If a room feels "too far" from the rest, roll another die and follow the previous process to add a new room.
-- Select the room closest to the page border. This is the _entrance_ to the dungeon.
-- Starting with the entrance, number each room on the dungeon map.
+- Role **6-20 dados d6** sobre o mapa da masmorra, ignorando quaisquer dados que caiam fora da página. Estas são as _salas_ da masmorra.
+- Escreva os resultados voltados para cima na página usando a [Tabela de Queda de Dados de Masmorra](#tabela-de-queda-de-dados-de-masmorra). Por exemplo, o número **4** indicaria uma sala **Especial**, que você pode denotar na página com a letra "E".
+  - Se uma sala parecer "muito longe" das demais, role outro dado e siga o processo anterior para adicionar uma nova sala.
+- Selecione a sala mais próxima da borda da página. Esta é a _entrada_ da masmorra.
+- Começando pela entrada, numere cada sala no mapa da masmorra.
 
-#### Dungeon Die Drop Table
+#### Tabela de Queda de Dados de Masmorra
 
 |         |          |
 | ------- | -------- |
-| **d6**  | **Room** |
-| **1**   | Monster  |
-| **2-3** | Lore     |
-| **4**   | Special  |
-| **5-6** | Trap     |
+| **d6** | **Sala** |
+| **1** | Monstro  |
+| **2-3** | Saber    |
+| **4** | Especial |
+| **5-6** | Armadilha|
 
-## Draw Paths
+## Desenhe Caminhos
 
-### Path Types
+### Tipos de Caminho
 
-- **Standard** paths are obvious connectors between rooms. _Represented by a thick line._
-- **Hidden** paths do not appear on any known maps. Their discovery always requires some kind of cost. _Represented by a dashed line._
-- **Conditional** paths may be blocked, or requires specialized tools (hidden levers, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. _Represented by a crossed line._
+- Caminhos **Padrão** são conectores óbvios entre salas. _Representados por uma linha grossa._
+- Caminhos **Ocultos** não aparecem em nenhum mapa conhecido. Sua descoberta sempre requer algum tipo de custo. _Representados por uma linha tracejada._
+- Caminhos **Condicionais** podem estar bloqueados ou requerem ferramentas especializadas (alavancas escondidas, equipamento de escalada, etc.) para atravessar. Outros podem até ser impossíveis de navegar sem um mapa ou guia. _Representados por uma linha cruzada._
 
-- Starting with the entrance, create 1-4 paths between each room. 
- - Create loops, branching hallways, dead-ends, and shortcuts between rooms.
- - Some paths are Conditional, represented by a crossed line.
- - Some paths are Hidden, represented by a dashed line.
-- Create intersections (crossed lines) with no rooms in between.
+- Começando pela entrada, crie 1-4 caminhos entre cada sala.
+ - Crie loops, corredores ramificados, becos sem saída e atalhos entre as salas.
+ - Alguns caminhos são Condicionais, representados por uma linha cruzada.
+ - Alguns caminhos são Ocultos, representados por uma linha tracejada.
+- Crie interseções (linhas cruzadas) sem salas entre elas.
 
-### Stock the Rooms
+### Preencha as Salas
 
-- Roll on the relevant tables for each room, writing the results in your notebook. 
-- For each room, filter the table results through the theme you generated earlier in this process. 
+- Role nas tabelas relevantes para cada sala, anotando os resultados em seu caderno.
+- Para cada sala, filtre os resultados da tabela através do tema que você gerou anteriormente neste processo.
 
-#### Monster
+#### Monstro
 
-Monsters are any dangerous creature that lives in a dungeon. This does not mean it will attack intruders by default! Monsters are not simply "waiting around" for the characters to find them, but instead have their own wants and goals, even if they are simply looking for their next meal. Some monsters can talk, reason, and even beg for mercy. _People can be monsters, too_.
+Monstros são qualquer criatura perigosa que vive em uma masmorra. Isso não significa que eles atacarão intrusos por padrão! Monstros não estão simplesmente "esperando" que os personagens os encontrem, mas sim têm seus próprios desejos e objetivos, mesmo que estejam apenas procurando sua próxima refeição. Alguns monstros podem falar, raciocinar e até implorar por misericórdia. _Pessoas podem ser monstros também_.
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
 |         |               |              |
 | ------- | ------------- | ------------ |
-| **d20** | **Group**     | **Activity** |
-| **1**   | Avian         | Building     |
-| **2**   | Beast         | Devouring    |
-| **3**   | Behemoth      | Dying        |
-| **4**   | Construct     | Fighting     |
-| **5**   | Demon         | Growing      |
-| **6**   | Extraplanar   | Haunting     |
-| **7**   | Fey           | Hiding       |
-| **8**   | Giant         | Killing      |
-| **9**   | Goblinoid     | Mating       |
-| **10**  | Humanoid      | Mourning     |
-| **11**  | Hybrid        | Patrolling   |
-| **12**  | Incorporeal   | Praying      |
-| **13**  | Insectoid     | Protecting   |
-| **14**  | Lizard        | Recuperating |
-| **15**  | Magical       | Scheming     |
-| **16**  | Mythical      | Sleeping     |
-| **17**  | Plant         | Stalking     |
-| **18**  | Shape Shifter | Torturing    |
-| **19**  | Undead        | Training     |
-| **20**  | Unusual       | Trapped      |
-
-#### Lore
-
-Lore rooms should build on the theme of the dungeon, provide a valuable lesson, or connect the characters with an NPC or Faction. They might create a dilemma that unites the party or puts them at odds with their mission. At a minimum, these rooms act as a curiosity, adding something memorable to the experience beyond danger and puzzle-solving. Of course, the characters should not know that these rooms do not contain danger or challenges. This helps increase tension in the dungeon, while offering a potential respite and opportunity for growing the narrative. 
-
-Roll 1d20 for each column and combine the results.
-
-|         |               |               |
-| ------- | ------------- | ------------- |
-| **d20** | **Room Type** | **Clue**      |
-| **1**   | Armory        | Decay         |
-| **2**   | Barracks      | Decor         |
-| **3**   | Bath          | Draft         |
-| **4**   | Cistern       | Echoes        |
-| **5**   | Court         | Footprints    |
-| **6**   | Crypt         | Leavings      |
-| **7**   | Den           | Light         |
-| **8**   | Dining Hall   | Markings      |
-| **9**   | Guard Post    | Moisture      |
-| **10**  | Infirmary     | Noise         |
-| **11**  | Kitchen       | Paraphernalia |
-| **12**  | Latrine       | Residue       |
-| **13**  | Library       | Scurrying     |
-| **14**  | Shrine        | Signs         |
-| **15**  | Smith         | Smell         |
-| **16**  | Stable        | Stains        |
-| **17**  | Storage       | Tapping       |
-| **18**  | Study         | Temperature   |
-| **19**  | Vault         | Vibrations    |
-| **20**  | Workshop      | Writing       |
-
-#### Special
-
-Special rooms areas are uncommon areas that feature a hidden or interactive element. This element can be a challenge, an obstacle, a puzzle, or all of the above. These rooms should offer difficult choices with long-term impacts. They might make dungeon exploration easier, but with a serious cost.
-
-Roll 1d20 for each column and combine the results.
-
-|         |             |             |
-| ------- | ----------- | ----------- |
-| **d20** | **Special** | **Feature** |
-| **1**   | Books       | Ages        |
-| **2**   | Bridge      | Alarms      |
-| **3**   | Contraption | Animates    |
-| **4**   | Creature    | Attracts    |
-| **5**   | Door        | Charges     |
-| **6**   | Flames      | Closes      |
-| **7**   | Furniture   | Falls       |
-| **8**   | Hole        | Glows       |
-| **9**   | Liquid      | Grows       |
-| **10**  | Mirror      | Illusion    |
-| **11**  | Mural       | Levitates   |
-| **12**  | Pool        | Locks       |
-| **13**  | Shadows     | Opens       |
-| **14**  | Smoke       | Reflects    |
-| **15**  | Statue      | Repels      |
-| **16**  | Surface     | Reveals     |
-| **17**  | Treasure    | Shifts      |
-| **18**  | Voices      | Silences    |
-| **19**  | Wheel       | Teleport    |
-| **20**  | Writing     | Transforms  |
-
-#### Trap
-
-A trap is a dangerous and hidden object, typically triggered through interaction with a character. While traps are by their very nature not obvious, a good trap should contain hints as to their presence or the room's true purpose.
-
-Roll 1d20 for each column and combine the results.
-
-|         |            |               |
-| ------- | ---------- | ------------- |
-| **d20** | **Trap**   | **Trigger**   |
-| **1**   | Ages       | Activating    |
-| **2**   | Burns      | Breaking      |
-| **3**   | Captures   | Crossing      |
-| **4**   | Carries    | Disturbing    |
-| **5**   | Confuses   | Entering      |
-| **6**   | Crushes    | Extinguishing |
-| **7**   | Curses     | Focusing      |
-| **8**   | Cuts       | Interacting   |
-| **9**   | Deafens    | Lighting      |
-| **10**  | Drops      | Moving        |
-| **11**  | Drowns     | Opening       |
-| **12**  | Freezes    | Pulling       |
-| **13**  | Glues      | Pushing       |
-| **14**  | Hypnotizes | Reading       |
-| **15**  | Impales    | Speaking      |
-| **16**  | Infects    | Stepping      |
-| **17**  | Lifts      | Taking        |
-| **18**  | Poisons    | Talking       |
-| **19**  | Shocks     | Touching      |
-| **20**  | Shoots     | Tripping      |
+| **d20** | **Grupo** | **Atividade**|
+| **1** | Aviário       | Construindo  |
+| **2** | Besta         | Devorando    |
+| **3** | Behemoth      | Morrendo     |
+| **4** | Constructo    | Lutando      |
+| **5** | Demônio       | Crescendo    |
+| **6** | Extraplanar   | Assombrando  |
+| **7** | Férico        | Escondendo   |
+| **8** | Gigante       | Matando      |
+| **9** | Goblinoide    | Acasalando   |
+| **10** | Humanoide     | Lamentando   |
+| **11** | Híbrido       | Patrulhando  |
+| **12** | Incorpóreo    | Rezando      |
+| **13** | Insetoide     | Protegendo   |
+| **14** | Lagarto       | Recuperando  |
+| **15** | Mágico        | Maquinando   |
+| **16** | Mítico        | Dormindo     |
+| **17** | Planta        | Perseguindo  |
+| **18** | Metamorfo     | Torturando   |
+| **19** | Morto-vivo    | Treinando    |
+| **20** | Incomum       | Preso        |
+
+#### Saber
+
+Salas de Saber devem construir o tema da masmorra, fornecer uma lição valiosa ou conectar os personagens com um PNJ ou Facção. Elas podem criar um dilema que une o grupo ou os coloca em desacordo com sua missão. No mínimo, essas salas atuam como uma curiosidade, adicionando algo memorável à experiência além do perigo e da resolução de enigmas. Claro, os personagens não devem saber que essas salas não contêm perigo ou desafios. Isso ajuda a aumentar a tensão na masmorra, ao mesmo tempo em que oferece um potencial descanso e oportunidade para o crescimento da narrativa.
+
+Role 1d20 para cada coluna e combine os resultados.
+
+|         |                 |               |
+| ------- | --------------- | ------------- |
+| **d20** | **Tipo de Sala**| **Pista** |
+| **1** | Arsenal         | Decadência    |
+| **2** | Quartel         | Decoração     |
+| **3** | Banho           | Corrente de Ar|
+| **4** | Cisterna        | Ecos          |
+| **5** | Corte           | Pegadas       |
+| **6** | Cripta          | Dejetos       |
+| **7** | Toca/Covil      | Luz           |
+| **8** | Salão de Jantar | Marcas        |
+| **9** | Posto de Guarda | Umidade       |
+| **10** | Enfermaria      | Ruído         |
+| **11** | Cozinha         | Parafernália  |
+| **12** | Latrina         | Resíduos      |
+| **13** | Biblioteca      | Correrias     |
+| **14** | Santuário       | Sinais        |
+| **15** | Ferreiro        | Cheiro        |
+| **16** | Estábulo        | Manchas       |
+| **17** | Armazém         | Batidas       |
+| **18** | Estudo          | Temperatura   |
+| **19** | Cofre           | Vibrações     |
+| **20** | Oficina         | Escrita       |
+
+#### Especial
+
+Salas Especiais são áreas incomuns que apresentam um elemento oculto ou interativo. Este elemento pode ser um desafio, um obstáculo, um enigma ou tudo isso junto. Essas salas devem oferecer escolhas difíceis com impactos de longo prazo. Elas podem facilitar a exploração da masmorra, mas com um custo sério.
+
+Role 1d20 para cada coluna e combine os resultados.
+
+|         |             |              |
+| ------- | ----------- | ------------ |
+| **d20** | **Especial**| **Característica** |
+| **1** | Livros      | Envelhece    |
+| **2** | Ponte       | Alarmes      |
+| **3** | Engenhoca   | Anima        |
+| **4** | Criatura    | Atrai        |
+| **5** | Porta       | Carrega      |
+| **6** | Chamas      | Fecha        |
+| **7** | Mobília     | Cai          |
+| **8** | Buraco      | Brilha       |
+| **9** | Líquido     | Cresce       |
+| **10** | Espelho     | Ilusão       |
+| **11** | Mural       | Levita       |
+| **12** | Piscina     | Tranca       |
+| **13** | Sombras     | Abre         |
+| **14** | Fumaça      | Reflete      |
+| **15** | Estátua     | Repele       |
+| **16** | Superfície  | Revela       |
+| **17** | Tesouro     | Desloca      |
+| **18** | Vozes       | Silencia     |
+| **19** | Roda        | Teletransporta|
+| **20** | Escrita     | Transforma   |
+
+#### Armadilha
+
+Uma armadilha é um objeto perigoso e oculto, tipicamente acionado através da interação com um personagem. Embora armadilhas, por sua própria natureza, não sejam óbvias, uma boa armadilha deve conter dicas quanto à sua presença ou ao verdadeiro propósito da sala.
+
+Role 1d20 para cada coluna e combine os resultados.
+
+|         |             |               |
+| ------- | ----------- | ------------- |
+| **d20** | **Armadilha**| **Gatilho** |
+| **1** | Envelhece   | Ativando      |
+| **2** | Queima      | Quebrando     |
+| **3** | Captura     | Cruzando      |
+| **4** | Carrega     | Perturbando   |
+| **5** | Confunde    | Entrando      |
+| **6** | Esmaga      | Extinguindo   |
+| **7** | Amaldiçoa   | Focando       |
+| **8** | Corta       | Interagindo   |
+| **9** | Ensurdece   | Acendendo     |
+| **10** | Derruba     | Movendo       |
+| **11** | Afoga       | Abrindo       |
+| **12** | Congela     | Puxando       |
+| **13** | Cola        | Empurrando    |
+| **14** | Hipnotiza   | Lendo         |
+| **15** | Empala      | Falando       |
+| **16** | Infecta     | Pisando       |
+| **17** | Ergue       | Pegando       |
+| **18** | Envenena    | Conversando   |
+| **19** | Eletrocuta  | Tocando       |
+| **20** | Atira       | Tropeçando    |
 
-## Example Dungeon
+## Exemplo de Masmorra
 
-For this example, let's assume we are looking at a POI generated using the methods described in the Setting Seeds chapter. Our relevant results were:
+Para este exemplo, vamos assumir que estamos olhando para um PDI gerado usando os métodos descritos no capítulo Sementes de Cenário. Nossos resultados relevantes foram:
 
-- **Terrain**: _Forest_
-- **Type**: _Temple_
-- **Feature**: _Isolated_
+- **Terreno**: _Floresta_
+- **Tipo**: _Templo_
+- **Característica**: _Isolado_
 
-### What kind of dungeon is this, and what makes it unusual?
+### Que tipo de masmorra é essa e o que a torna incomum?
 
-_A remote forest temple, cut off from the world by a vast ocean of trees and shrubbery._
+_Um templo florestal remoto, isolado do mundo por um vasto oceano de árvores e arbustos._
 
-We then roll on the **Purpose**, **Construction**, and **Ruination** tables and get the following results:
+Então rolamos nas tabelas de **Propósito**, **Construção** e **Ruína** e obtemos os seguintes resultados:
 
-- **Purpose**: The _protection of rare artifacts_. Built by a _fanatical cult_. 
-- **Construction**: The entrance is _between a circle of menhirs_, and its foundation is built of the very same _petrified wood_ that surrounds it.
-- **Ruination**: _Divided_ (literally) by _competing rituals_.
+- **Propósito**: A _proteção de artefatos raros_. Construído por um _culto fanático_.
+- **Construção**: A entrada fica _entre um círculo de menires_, e sua fundação é construída da mesma _madeira petrificada_ que a cerca.
+- **Ruína**: _Dividido_ (literalmente) por _rituais concorrentes_.
 
-### Why was this dungeon built and what caused its downfall?
+### Por que esta masmorra foi construída e o que causou sua queda?
 
-_It was designed by an extremist cult of forest druids to house a reality-altering Relic. Its entrance is beneath a false stone in a circle of menhirs deep in the forest. The walls and ceiling of the dungeon are built from petrified wood, as the ancient artifact affects living plants, warping them to its will. A division within the cult faced off over control of the Relic but fell victim to their own hubris and nearly destroyed one another. When two opposing rituals collided, the temple was split in two, divided along Factional lines. The Relic was lost in the aftermath._
+_Ela foi projetada por um culto extremista de druidas da floresta para abrigar uma Relíquia capaz de alterar a realidade. Sua entrada fica sob uma pedra falsa em um círculo de menires nas profundezas da floresta. As paredes e o teto da masmorra são construídos de madeira petrificada, pois o artefato antigo afeta plantas vivas, deformando-as à sua vontade. Uma divisão dentro do culto se enfrentou pelo controle da Relíquia, mas foi vítima de sua própria arrogância e quase destruiu um ao outro. Quando dois rituais opostos colidiram, o templo foi partido em dois, dividido ao longo de linhas Faccionais. A Relíquia foi perdida na sequência._
 
-Continuing on to the current inhabitants of our dungeon, we get the following results (rolling for _two_ factions):
+Continuando com os habitantes atuais de nossa masmorra, obtemos os seguintes resultados (rolando para _duas_ facções):
 
-- **Denizens**: The creatures living here are _practical,_ yet _unimaginative_.
-- **Faction A**: Goal: _Destruction_. Obstacle: _Opposition_.
-- **Faction B**: Goal: _Redemption_. Obstacle: _Tradition_.
+- **Habitantes**: As criaturas vivendo aqui são _práticas_, porém _sem imaginação_.
+- **Facção A**: Objetivo: _Destruição_. Obstáculo: _Oposição_.
+- **Facção B**: Objetivo: _Redenção_. Obstáculo: _Tradição_.
 
-### What do we know about the creatures and Factions that occupy the dungeon?
+### O que sabemos sobre as criaturas e Facções que ocupam a masmorra?
 
-_The current denizens of this dungeon are the descendants of the original factions, are typically pragmatic about their ceaseless war, and cannot imagine a way out._
+_Os habitantes atuais desta masmorra são os descendentes das facções originais, são tipicamente pragmáticos sobre sua guerra incessante e não conseguem imaginar uma saída._
 
-### What is each Faction trying to achieve, and what stands in their way?
+### O que cada Facção está tentando alcançar e o que está em seu caminho?
 
-**The Crimson Path** would like to destroy their former brethren, the **Azure Legion**, but are cowed by their opponent's prowess in battle. The Azure Legion feel great shame over the actions of their forebears and believe that their redemption can only be achieved by way of finding and destroying the temple's hidden artifact. Unfortunately, an ancient custom decrees that no one wearing the Azure cloth may seek the lost Relic.
+**O Caminho Carmesim** gostaria de destruir seus antigos irmãos, a **Legião Lazúli**, mas estão intimidados pela destreza de seus oponentes em batalha. A Legião Lazúli sente grande vergonha pelas ações de seus antepassados e acredita que sua redenção só pode ser alcançada encontrando e destruindo o artefato oculto do templo. Infelizmente, um costume antigo decreta que ninguém vestindo o tecido Lazúli pode buscar a Relíquia perdida.
 
-### Dungeon Theme
+### Tema da Masmorra
 
-With some idea on the history, purpose, and denizens of the dungeon, we finally have our theme. Let's put it all together:
+Com alguma ideia sobre a história, propósito e habitantes da masmorra, finalmente temos nosso tema. Vamos juntar tudo:
 
-_Nestled within a dense, shrouded forest lies a temple made entirely of petrified wood. Built by a fanatical cult called the Children of Eolith, the temple was designed to protect the Woodturn, an ancient Relic that could turn any plant to stone. The cult eventually split into two opposing factions, and when their dueling rituals collided, the temple was shattered, with each Faction taking one half. Today the descendants of these factions still vie for control, destruction, and redemption but are hindered by power imbalances and ancient tradition._
+_Aninhado dentro de uma floresta densa e envolta em névoa, encontra-se um templo feito inteiramente de madeira petrificada. Construído por um culto fanático chamado Filhos de Eolith, o templo foi projetado para proteger o Torna-Lenho, uma Relíquia antiga que poderia transformar qualquer planta em pedra. O culto acabou se dividindo em duas facções opostas e, quando seus rituais de duelo colidiram, o templo foi despedaçado, com cada Facção ficando com uma metade. Hoje, os descendentes dessas facções ainda disputam controle, destruição e redenção, mas são impedidos por desequilíbrios de poder e tradições antigas._
 
-_The Crimson Path believe that if the original Relic were recovered, they might bend its power to destroy the Azure Legion forever. However, every attempt to plumb the temple's depths has been countered by their former brethren. A recent attack has left many of their number dead, and the remaining members have since fled the temple to regroup._
+_O Caminho Carmesim acredita que, se a Relíquia original fosse recuperada, eles poderiam usar seu poder para destruir a Legião Lazúli para sempre. No entanto, cada tentativa de sondar as profundezas do templo foi combatida por seus antigos irmãos. Um ataque recente deixou muitos de seus membros mortos, e os membros restantes fugiram do templo para se reagrupar._
 
-_The Azure Legion feel a great sense of shame over their ancestor's actions and believe that if the original Relic were destroyed, the temple would be healed again and their shame expunged. Unfortunately, a long-standing tradition prohibits any members from seeking the Relic, so as to avoid the mistakes of the past._
+_A Legião Lazúli sente um grande senso de vergonha pelas ações de seus ancestrais e acredita que, se a Relíquia original fosse destruída, o templo seria curado novamente e sua vergonha expurgada. Infelizmente, uma tradição de longa data proíbe qualquer membro de buscar a Relíquia, para evitar os erros do passado._
 
-_In the center of the temple (between **3** and **4**), a massive crack (the Fracture) splits the dungeon in two, acting as a sort of demilitarized zone. Both factions realize that only death lies across its threshold._
+_No centro do templo (entre **3** e **4**), uma enorme rachadura (a Fratura) divide a masmorra em duas, agindo como uma espécie de zona desmilitarizada. Ambas as facções percebem que apenas a morte jaz além de seu limiar._
 
-_Hidden deep within the dungeon is a Relic called the **Woodturn**. It is capable of petrifying trees, wood, or other plant life through mere contact. If not properly contained, it could turn an entire forest into a wasteland!_
+_Escondida nas profundezas da masmorra está uma Relíquia chamada **Torna-Lenho**. Ela é capaz de petrificar árvores, madeira ou outra vida vegetal através de mero contato. Se não for devidamente contida, poderia transformar uma floresta inteira em um deserto!_
 
-#### Hooks
+#### Ganchos
 
-- The Crimson Path has made a public offer of 300gp apiece for the safe retrieval of an "ancient relic" deep within the temple. The characters will be on their own in dealing with any "opposition." 
-- The party is contacted by an agent of the Azure Legion, acting in secret. The party is to find and destroy the **Woodturn**, an item of great power lost somewhere in the temple. The mission is to remain a secret, and members of any Faction will likely stand against them. The characters are to be paid 1000gp (total).
+- O Caminho Carmesim fez uma oferta pública de 300po cada pela recuperação segura de uma "relíquia antiga" nas profundezas do templo. Os personagens estarão por conta própria ao lidar com qualquer "oposição".
+- O grupo é contatado por um agente da Legião Lazúli, agindo em segredo. O grupo deve encontrar e destruir o **Torna-Lenho**, um item de grande poder perdido em algum lugar no templo. A missão deve permanecer em segredo, e membros de qualquer Facção provavelmente se oporão a eles. Os personagens receberão 1000po (total).
 
-### Map
+### Mapa
 
-[![Click Me!](/img/2e/dungeon-seed-example.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/dungeon-seed-example.webp)
+[![Clique aqui!](/img/2e/dungeon-seed-example.webp "Clique para aumentar"){:height="60%" width="60%"}](/img/2e/dungeon-seed-example.webp)
 
-### The Fractured Temple
+### O Templo Fraturado
 
-#### Features Throughout
+#### Características Gerais
 
-- **Light**: Wall sconces are built into the walls in every room. None are lit.
-- **Smell**: Damp, dirt, and hints of sulfur.
-- **Noise**: Distant shouting, along with an occasional rumbling and creaking throughout.
-- **Build**: The walls and floor are made of a white, petrified wood.
+- **Luz**: Arandelas estão embutidas nas paredes em todas as salas. Nenhuma está acesa.
+- **Cheiro**: Umidade, terra e notas de enxofre.
+- **Ruído**: Gritos distantes, juntamente com um estrondo ocasional e rangidos por toda parte.
+- **Construção**: As paredes e o chão são feitos de uma madeira branca e petrificada.
 
-### Entrance: Circle of Menhirs
+### Entrada: Círculo de Menires
 
-A small circle of 10' tall **stones** are set in a circle atop a **grassy** hill. White **trees** surround the glade on all sides.
+Um pequeno círculo de **pedras** de 3m de altura está disposto em círculo no topo de uma colina **gramada**. **Árvores** brancas cercam a clareira por todos os lados.
 
-- **Stones**: Moss-covered, with thin, ruined writing in an ancient script.
-  - An expert in such matters can still determine that the stones are many centuries old.
-- **Grass**: A patch in the center of the circle is browner than the rest.
-  - A trap door is concealed underneath. Petrified wooden steps lead down to **1**.
-- **Trees**: Petrified. As white as snow.
+- **Pedras**: Cobertas de musgo, com escrita fina e arruinada em uma escrita antiga.
+  - Um especialista em tais assuntos ainda pode determinar que as pedras têm muitos séculos de idade.
+- **Grama**: Um trecho no centro do círculo é mais marrom que o resto.
+  - Um alçapão está escondido embaixo. Degraus de madeira petrificada levam para baixo até **1**.
+- **Árvores**: Petrificadas. Tão brancas quanto a neve.
 
-### 1 - Dining Hall
+### 1 - Salão de Jantar
 
-**Lore**: _Dining Hall_. _Smell_.
+**Saber**: _Salão de Jantar_. _Cheiro_.
 
-Long, rustic **tables** are arranged in horizontal rows. The **smell** of root vegetables and cloves lingers in the air.
+Longas **mesas** rústicas estão dispostas em fileiras horizontais. O **cheiro** de raízes e cravo paira no ar.
 
-- **Tables**: Large enough for 80 people, used by the cult before the split. 
-- **Smell**: Strongest near the North passage (towards **4**).
+- **Mesas**: Grandes o suficiente para 80 pessoas, usadas pelo culto antes da divisão.
+- **Cheiro**: Mais forte perto da passagem Norte (em direção a **4**).
 
-### 2 - Sitting Room
+### 2 - Sala de Estar
 
-**Special**: _Furniture_. _Falls_.
+**Especial**: _Mobília_. _Cai_.
 
-Plush, **dust-covered** chairs and couches are arranged in a semi-circle around a black, wooden **chair**. The air in the room tastes stale.
+Cadeiras e sofás de pelúcia, **cobertos de poeira**, estão dispostos em um semicírculo ao redor de uma **cadeira** preta de madeira. O ar na sala tem gosto de velho.
 
-- **Dust**: Most of the furniture appears long-abandoned, but the black chair is dust-free.
-- **Chair**: Clean and shiny, as if new. Ankle straps are tied to the underside of the chair, which is bolted to the floor.
-  - A thin, nearly-invisible square line is cut around the chair.
-  - Sitting in the chair and attaching the straps causes the floor beneath the chair to lower, descending to **3**.
+- **Poeira**: A maior parte da mobília parece abandonada há muito tempo, mas a cadeira preta está sem poeira.
+- **Cadeira**: Limpa e brilhante, como se fosse nova. Tiras de tornozelo estão amarradas na parte inferior da cadeira, que está aparafusada ao chão.
+  - Uma linha quadrada fina e quase invisível está cortada ao redor da cadeira.
+  - Sentar na cadeira e prender as tiras faz com que o chão sob a cadeira baixe, descendo para **3**.
 
-### 3 - Basilisk Lair
+### 3 - Covil do Basilisco
 
-**Monster**: _Lizard_. _Recuperating_.
+**Monstro**: _Lagarto_. _Recuperando_.
 
-A Basilisk sleeps on a nest built atop a slab of **wall** on the East side of the room. In the center of the room, a tall glass **cage** runs from the floor to the **ceiling**. A long, broken **chain** is attached to the South wall.
+Um Basilisco dorme em um ninho construído sobre uma laje de **parede** no lado Leste da sala. No centro da sala, uma alta **gaiola** de vidro vai do chão ao **teto**. Uma longa **corrente** quebrada está presa à parede Sul.
 
-- **Basilisk**: Recuperating after having just birthed a new clutch of three eggs.
-  - She warms her eggs by sitting atop them and will not leave them for very long. 
-  - The eggs are worth 1000gp each. They are _bulky_ and extremely fragile.
-- **Wall**: The passage East is still accessible, despite having collapsed. The Basilisk is too large to traverse the rubble.
-- **Cage**: Acts as an observation chute from **2**, where new acolytes were lowered into the chamber to observe the Basilisk.
-- **Chain**: Once used to trap the Basilisk here.
+- **Basilisco**: Recuperando-se após ter acabado de dar à luz uma nova ninhada de três ovos.
+  - Ela aquece seus ovos sentando-se sobre eles e não os deixará por muito tempo.
+  - Os ovos valem 1000po cada. Eles são _volumosos_ e extremamente frágeis.
+- **Parede**: A passagem Leste ainda é acessível, apesar de ter desmoronado. O Basilisco é grande demais para atravessar os escombros.
+- **Gaiola**: Atua como um tubo de observação de **2**, onde novos acólitos eram baixados na câmara para observar o Basilisco.
+- **Corrente**: Uma vez usada para prender o Basilisco aqui.
 
-### Basilisk
+### Basilisco
 
-10 HP, 1 Armor, 12 STR, 13 DEX, 13 WIL, bite (d10)
+10 PG, 1 Armadura, 12 FOR, 13 DES, 13 VON, mordida (d10)
 
-- Long, serpentine lizards that nest deep below the earth or in brambles just underfoot. 
-- Fighting a **Basilisk** without meeting its gaze is difficult (attacks facing it are _impaired_).
-- **Gaze**: A target facing the Basilisk is slowly petrified, from the bottom up, completely frozen after three rounds. An antidote can be brewed from the Basilisk's gizzards. The creature's reflection is harmless.
+- Lagartos longos e serpentinos que fazem ninhos nas profundezas da terra ou em silvas logo abaixo dos pés.
+- Lutar contra um **Basilisco** sem encontrar seu olhar é difícil (ataques voltados para ele são _prejudicados_).
+- **Olhar**: Um alvo encarando o Basilisco é lentamente petrificado, de baixo para cima, completamente congelado após três rodadas. Um antídoto pode ser preparado a partir das moelas do Basilisco. O reflexo da criatura é inofensivo.
 
-### 4 - Kitchen
+### 4 - Cozinha
 
-**Trap**: _Poisons_. _Stepping_.
+**Armadilha**: _Envenena_. _Pisando_.
 
-The withered **corpse** of a man is stretched atop a large butcher block. A **sconce** on the West wall, over the West exit, burns with twin blue flames. Open **cupboards** stand at knee-height on the North wall.
+O **cadáver** mirrado de um homem está esticado sobre um grande bloco de açougueiro. Uma **arandela** na parede Oeste, sobre a saída Oeste, queima com chamas azuis gêmeas. **Armários** abertos ficam na altura do joelho na parede Norte.
 
-- **Corpse**: Dressed in the Red Robes of the Crimson Path. Looks at least two weeks dead.
-  - There are no obvious wounds or markings, save for a green crust around the man's lip.
-  - He carries a white dagger made of petrified wood (d8).
-- **Sconce**: Passing beneath the flames releases a poison gas spray into the room, dealing d4 STR damage to anyone nearby (save to avoid losing consciousness).
-- **Cupboards**: Bare. The arrangement of the cupboards and the block seem to imply that this room was once a communal kitchen. 
-  - One of the cupboards has a false back that can be depressed, disabling the poison gas trap for one minute.
+- **Cadáver**: Vestido com as Vestes Vermelhas do Caminho Carmesim. Parece morto há pelo menos duas semanas.
+  - Não há ferimentos ou marcas óbvias, exceto por uma crosta verde ao redor do lábio do homem.
+  - Ele carrega uma adaga branca feita de madeira petrificada (d8).
+- **Arandela**: Passar por baixo das chamas libera um spray de gás venenoso na sala, causando d4 de dano de FOR a qualquer um próximo (salvamento para evitar perder a consciência).
+- **Armários**: Vazios. A disposição dos armários e do bloco parece implicar que esta sala já foi uma cozinha comunitária.
+  - Um dos armários tem um fundo falso que pode ser pressionado, desativando a armadilha de gás venenoso por um minuto.
 
-### 5 - Study
+### 5 - Estudo
 
-**Lore**: _Study_. _Decor_.
+**Saber**: _Estudo_. _Decoração_.
 
-Bookshelves wrap around every inch of wall, their dusty **shelves** stacked with heaps of **books**. An unlit **candelabra** hangs from the ceiling.
+Estantes envolvem cada centímetro de parede, suas **prateleiras** empoeiradas empilhadas com montes de **livros**. Um **candelabro** apagado pende do teto.
 
-- **Shelves**: Despite the lack of furniture, the room looks like it may have been a well-used study at one time.
-- **Books**: Untouched for decades. Clearing the dust from the spines reveal all manner of subjects.
-  - Nearly every word in every book has been blacked out in stark black.
-- **Candelabra**: Unusual design, worth 500gp (four slots, brittle). 
-  - The candles (5 uses) are still accessible (assuming they can be reached). When lit, they produce around 20ft of darkness that is impenetrable by non-magical light. They were placed here as a final insult against the old study.
+- **Prateleiras**: Apesar da falta de mobília, a sala parece que pode ter sido um escritório muito usado em algum momento.
+- **Livros**: Intocados por décadas. Limpar a poeira das lombadas revela todo tipo de assunto.
+  - Quase todas as palavras em todos os livros foram censuradas em preto forte.
+- **Candelabro**: Design incomum, vale 500po (quatro espaços, frágil).
+  - As velas (5 usos) ainda estão acessíveis (assumindo que possam ser alcançadas). Quando acesas, produzem cerca de 6 metros de escuridão que é impenetrável por luz não mágica. Elas foram colocadas aqui como um insulto final contra o antigo escritório.
 
-### 6 - The Fractured Hall
+### 6 - O Salão Fraturado
 
-**Special**: _Smoke_. _Illusion_.
+**Especial**: _Fumaça_. _Ilusão_.
 
-Swirling **smoke** fills the air in a ceaseless typhoon of ash and embers, obscuring the exits. Faint **movement** is visible through the smoke, as well as occasional shouting from the West side of the room. The **floor** is not level, with the East side raised a full foot higher than the West.
+**Fumaça** rodopiante preenche o ar em um tufão incessante de cinzas e brasas, obscurecendo as saídas. Um leve **movimento** é visível através da fumaça, bem como gritos ocasionais do lado Oeste da sala. O **chão** não é nivelado, com o lado Leste elevado trinta centímetros acima do Oeste.
 
-- **Smoke**: Magical, it emits no sound or smell and cannot be dissolved by normal means. The exits in this room are obscured.
-  - The doorway near the SW corridor contains the broken statue of a robed figure (see Basilisk, **3**).
-- **Movement**: Robed soldiers engaged in melee combat with unseen opponents.
-  - There are always at least 3 members of either Faction engaged in skirmishes here. They will generally attack any shapes that try to cross the room but are easily confused by the smoke.
-  - Due to the smoke, all attacks within the room are _impaired_.
-- **Floor**: Split when the temple fractured. Along with the smoke, navigation in this room is extremely difficult.
+- **Fumaça**: Mágica, não emite som ou cheiro e não pode ser dissolvida por meios normais. As saídas nesta sala estão obscurecidas.
+  - A porta perto do corredor SO contém a estátua quebrada de uma figura de manto (veja Basilisco, **3**).
+- **Movimento**: Soldados de manto engajados em combate corpo a corpo com oponentes invisíveis.
+  - Há sempre pelo menos 3 membros de qualquer Facção engajados em escaramuças aqui. Eles geralmente atacarão quaisquer formas que tentem atravessar a sala, mas são facilmente confundidos pela fumaça.
+  - Devido à fumaça, todos os ataques dentro da sala são _prejudicados_.
+- **Chão**: Partido quando o templo fraturou. Junto com a fumaça, a navegação nesta sala é extremamente difícil.
 
-#### Druid Cultist 
+#### Cultista Druida
 
-5 HP, 11 STR, 12 DEX, 8 WIL, petrified short sword (d8)
+5 PG, 11 FOR, 12 DES, 8 VON, espada curta petrificada (d8)
 
-- Wears a red or blue robe to indicate their factional allegiance. Are otherwise indistinguishable.
+- Veste um manto vermelho ou azul para indicar sua lealdade faccional. São, de outra forma, indistinguíveis.
 
-### 7 - False Relic
+### 7 - Relíquia Falsa
 
-**Trap**: _Crushes_. _Interacting_.
+**Armadilha**: _Esmaga_. _Interagindo_.
 
-Four **pillars** are arranged in a **square** pattern around a white **rod** suspended in air. 
+Quatro **pilares** estão dispostos em um padrão **quadrado** ao redor de um **bastão** branco suspenso no ar.
 
-- **Pillars**: Built from floor to ceiling and made of petrified wood. 
-  - The space between the pillars is protected by a magical, impenetrable barrier. At least two pillars must be destroyed for the barrier to dissolve. 
-  - If two _adjacent_ pillars are destroyed, the room will collapse on its occupants (DEX save or take 12 STR damage).
-- **Rod**: A facsimile of the **Woodturn** found in **9**, but lacks any real power.
+- **Pilares**: Construídos do chão ao teto e feitos de madeira petrificada.
+  - O espaço entre os pilares é protegido por uma barreira mágica e impenetrável. Pelo menos dois pilares devem ser destruídos para que a barreira se dissolva.
+  - Se dois pilares _adjacentes_ forem destruídos, a sala desmoronará sobre seus ocupantes (salvamento de DES ou receba 12 de dano de FOR).
+- **Bastão**: Um fac-símile do **Torna-Lenho** encontrado em **9**, mas carece de qualquer poder real.
 
-### 8 - Nest
+### 8 - Ninho
 
-**Monster**: _Insectoid_. _Hiding_.
+**Monstro**: _Insetoide_. _Escondendo_.
 
-The floor is heavily broken, segmented by raised **tiles** of petrified flooring. Large **holes** are scattered throughout the low ceiling. There are no obvious exits.
+O chão está fortemente quebrado, segmentado por **ladrilhos** elevados de piso petrificado. Grandes **buracos** estão espalhados pelo teto baixo. Não há saídas óbvias.
 
-- **Tiles**: A maze of broken shards. The West exit is entirely obscured by the tiles.
-- **Holes**: Created by a _Burrowing Horror_. 
-  - If the party ignores the ceiling, it attacks the first PC that walks under a hole (ignore HP).
-  - A hole on the West side is actually a 30ft tunnel leading up to **9**. Small grooves along the tunnel make climbing easy, provided one can reach them.
+- **Ladrilhos**: Um labirinto de cacos quebrados. A saída Oeste está inteiramente obscurecida pelos ladrilhos.
+- **Buracos**: Criados por um _Horror Escavador_.
+  - Se o grupo ignorar o teto, ele ataca o primeiro PJ que andar sob um buraco (ignore a PG).
+  - Um buraco no lado Oeste é, na verdade, um túnel de 9 metros levando até **9**. Pequenos sulcos ao longo do túnel facilitam a escalada, desde que se consiga alcançá-los.
 
-#### Burrowing Horror
+#### Horror Escavador
 
-6 HP, 1 Armor, 16 STR, 11 DEX, 4 WIL, bite (d10), acid squirt (d8, _blast_)
+6 PG, 1 Armadura, 16 FOR, 11 DES, 4 VON, mordida (d10), esguicho de ácido (d8, _explosão_)
 
-- Huge insectoids with multiple legs and shiny black eyes. Subsists from dirt, roots, and flesh.
-- Burrows just beneath the surfaces to ambush unsuspecting creatures.
-- **Critical Damage**: Target loses a body part. Roll 1d6. 1: Head, 2-4: Leg, 5-6: Arm. 
+- Enormes insetoides com múltiplas pernas e olhos pretos brilhantes. Subsistem de terra, raízes e carne.
+- Escava logo abaixo das superfícies para emboscar criaturas desavisadas.
+- **Dano Crítico**: O alvo perde uma parte do corpo. Role 1d6. 1: Cabeça, 2-4: Perna, 5-6: Braço.
 
-### 9 - Mirror Room
+### 9 - Sala do Espelho
 
-**Special**: _Mirror_. _Opens_.
+**Especial**: _Espelho_. _Abre_.
   
-A **mirror** hangs on a **track** on the West wall. A large **hole** is dug into the ground on the East side.
+Um **espelho** está pendurado em um **trilho** na parede Oeste. Um grande **buraco** está cavado no chão no lado Leste.
 
-**Track**: Runs in a full circle around the room, allowing the mirror to be moved along the track.
-- **Mirror**: If moved to the North wall, the reflection will reveal a small, invisible alcove on the South side.
-  - The alcove is hidden behind an otherwise illusory piece of wall. Hidden inside is the **Woodturn**. 
-  - If damaged, the mirror will explode (d6 STR damage to any nearby). The victim is _deprived_, and their cuts do not heal until they have left the temple.
-- **Hole**: Tunnel to **8** (30ft).
+**Trilho**: Corre em um círculo completo ao redor da sala, permitindo que o espelho seja movido ao longo do trilho.
+- **Espelho**: Se movido para a parede Norte, o reflexo revelará uma pequena alcova invisível no lado Sul.
+  - A alcova está escondida atrás de um pedaço de parede que, de outra forma, seria ilusório. Escondido dentro está o **Torna-Lenho**.
+  - Se danificado, o espelho explodirá (d6 de dano de FOR a qualquer um próximo). A vítima fica _privada_, e seus cortes não cicatrizam até que tenham deixado o templo.
+- **Buraco**: Túnel para **8** (9 metros).
 
-#### Woodturn
+#### Torna-Lenho
 
-- A white rod made of polished wood. Touching the rod to any living plant petrifies it. 3 Charges.
-- **Recharge**: Burn the rod in heavy flames for a day and a night. Pour the ashes into pure spring water. The rod will reform. 
+- Um bastão branco feito de madeira polida. Tocar o bastão em qualquer planta viva a petrifica. 3 Cargas.
+- **Recarga**: Queime o bastão em chamas fortes por um dia e uma noite. Despeje as cinzas em água pura de nascente. O bastão se reformará.
