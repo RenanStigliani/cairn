@@ -1,671 +1,669 @@
 ---
 layout: default
-title: Bestiary
+title: Bestiário
 parent: Guia do Diretor 
 grand_parent: Segunda Edição
 ---
 
-# Bestiary
+# Bestiário
 
-## Monster Categories
+## Categorias de Monstros
 
 |         |               |                                                                             |
 | ------- | ------------- | --------------------------------------------------------------------------- |
-| **d20** | **Group**     | **Monsters**                                                                |
-| **1**   | Avian         | Phoenix, Roc, Wyvern                                                        |
-| **2**   | Beast         | Blood Elk, Grizzly Bear, Killer Bees, Night Cat, Viper, Wolf                |
-| **3**   | Behemoth      | Green Dragon, Purple Worm                                                   |
-| **4**   | Construct     | Bone Construct, Cobblehounds, Gargoyle                                      |
-| **5**   | Demon         | Hellhound, Nightmare                                                        |
-| **6**   | Extraplanar   | Eye of Terror, Mind Lasher                                                  |
-| **7**   | Fey           | Boggart, Dryad, Frost Elf, Pixie, Red Cap, Night Hag, Sea Hag, Will-o-Wisp  |
-| **8**   | Giant         | Ettin, Sky Giant, Storm Giant, Titan                                        |
-| **9**   | Goblinoid     | Bugbear, Goblin, Hobgoblin, Ogre, Root Goblin, Troll, Wood Troll            |
-| **10**  | Humanoid      | Acolyte, Bandit, Frost Elf, Gnoll, Hooded Men, Triton                       |
-| **11**  | Hybrid        | Centaur, Manticore, Minotaur, Owlbear                                       |
-| **12**  | Incorporeal   | Invisible Stalker, Shadow                                                   |
-| **13**  | Insectoid     | Aranea, Burrowing Horror, Cave Locust, Giant Scorpion                       |
-| **14**  | Lizard        | Basilisk, Hydra, Kobold, Naga, Reptilian                                    |
-| **15**  | Magical       | Blink Dog, Warp Panther, Water Elemental                                    |
-| **16**  | Mythical      | Banshee, Griffon, Harpy, Hydra, Lamia, Unicorn                              |
-| **17**  | Plant         | Creeping Vines, Root Witch, Shambling Mound, Treant                         |
-| **18**  | Shape Shifter | Swine Thing, Werewolf                                                       |
-| **19**  | Undead        | Crypt Guardian, Ghost, Ghoul, Lich, Mummy, Skeleton, Vampire, Wight, Zombie |
-| **20**  | Unusual       | Gelatinous Ooze, Mimic, Rust Monster, Warrior Snail                         |
+| **d20** | **Grupo** | **Monstros** |
+| **1** | Aviário       | Fênix, Roc, Wyvern                                               |
+| **2** | Besta         | Alce Sangrento, Urso Cinzento, Abelhas Assassinas, Gato Noturno, Víbora, Lobo |
+| **3** | Colosso       | Dragão Verde, Verme Púrpura                                      |
+| **4** | Construto     | Construto de Ossos, Cães de Pedra, Gárgula                      |
+| **5** | Demônio       | Cão do Inferno, Pesadelo                                         |
+| **6** | Extraplanar   | Olho do Terror, Açoitador de Mentes                              |
+| **7** | Feérico       | Boggart, Dríade, Elfo Gélido, Pixie, Barrete Vermelho, Bruxa da Noite, Bruxa do Mar, Fogo-fátuo |
+| **8** | Gigante       | Ettin, Gigante do Céu, Gigante da Tempestade, Titã              |
+| **9** | Gobliinoide   | Bugbear, Goblin, Hobgoblin, Ogro, Goblin Raiz, Troll, Troll do Bosque |
+| **10** | Humanoide     | Acólito, Bandido, Elfo Gélido, Gnoll, Homens Encapuzados, Tritão |
+| **11** | Híbrido       | Centauro, Mantícora, Minotauro, Urso-Coruja                      |
+| **12** | Incorpóreo     | Perseguidor Invisível, Sombra                                   |
+| **13** | Insetoide     | Aranea, Horror Escavador, Gafanhoto das Cavernas, Escorpião Gigante |
+| **14** | Lagarto       | Basilisco, Hidra, Kobold, Naga, Reptiliano                       |
+| **15** | Mágico        | Cão de Fase, Pantera de Dobra, Elemental da Água                |
+| **16** | Mítico        | Banshee, Grifo, Harpia, Hidra, Lâmia, Unicórnio                  |
+| **17** | Planta        | Vinhas Rastejantes, Bruxa Raiz, Monte Cambaleante, Treante      |
+| **18** | Transmorfo    | Coisa Suína, Lobisomem                                          |
+| **19** | Morto-vivo    | Guardião de Cripta, Fantasma, Carniçal, Lich, Múmia, Esqueleto, Vampiro, Wight, Zumbi |
+| **20** | Incomum       | Gosma Gelatinosa, Mímico, Monstro da Ferrugem, Caracol Guerreiro |
 
-## Acolyte
+## Acólito
 
-4 HP, 1 Armor, 8 STR, 11 DEX, 14 WIL, ceremonial dagger (d6)
+4 PG, 1 Armadura, 8 FOR, 11 DES, 14 VON, adaga cerimonial (d6)
 
-- Holy servants bound to a particular deity. Typically travel in groups of four or more.
-- Carry a holy symbol (_Ward_ once per day).
+- Servos sagrados vinculados a uma divindade específica. Tipicamente viajam em grupos de quatro ou mais.
+- Carregam um símbolo sagrado (_Proteger_ uma vez por dia).
 
 ## Aranea
 
-6 HP, 13 STR, 12 DEX, 15 WIL, bite (d8)
+6 PG, 13 FOR, 12 DES, 15 VON, mordida (d8)
 
-- Enormous spiders with greenish-black skin and large brains. Can shape shift into human form at will. 
-- Conduct their magical research in dark, web-filled caverns. Carry the _Charm_ and _Command_ spellbooks at all times.
-- Fire damage against Aranea is _enhanced_.
+- Aranhas enormes com pele preto-esverdeada e cérebros grandes. Podem se transformar em forma humana à vontade.
+- Conduzem suas pesquisas mágicas em cavernas escuras e cheias de teias. Carregam os livros de feitiço _Encantar_ e _Comandar_ em todos os momentos.
+- Dano de fogo contra Araneas é _aprimorado_.
 
-## Bandit
+## Bandido
 
-4 HP, 1 Armor, 12 STR, 12 DEX, 9 WIL, short sword (d6) or short bow (d6)
+4 PG, 1 Armadura, 12 FOR, 12 DES, 9 VON, espada curta (d6) ou arco curto (d6)
 
-- Outlaws who raid settlements, attack ships, or ambush travelers. Groups of four or more are a _detachment_.
-- A detachment always travels with one leader wearing chain mail or similar (2 Armor) and a long sword (d10) or crossbow (d8).
-- **Loyal**: When testing Morale, save using the leader's WIL (13). If the leader dies, the others will flee.
+- Fora-da-lei que saqueiam assentamentos, atacam navios ou emboscam viajantes. Grupos de quatro ou mais são um _destacamento_.
+- Um destacamento sempre viaja com um líder vestindo cota de malha ou similar (2 Armadura) e uma espada longa (d10) ou besta (d8).
+- **Leal**: Ao testar Moral, faça o salvamento usando a VON do líder (13). Se o líder morrer, os outros fugirão.
 
 ## Banshee
 
-8 HP, 6 STR, 12 DEX, 15 WIL, ghostly touch (d8)
+8 PG, 6 FOR, 12 DES, 15 VON, toque fantasmagórico (d8)
 
-- Incorporeal spirits that linger long after death to haunt the living.
-- Unharmed by cold, heat, or the elements. Iron weapon damage is _enhanced_.
-- **Wail**: Anyone in earshot must make a WIL save or fall unconscious.
+- Espíritos incorpóreos que permanecem muito tempo após a morte para assombrar os vivos.
+- Não são feridas por frio, calor ou pelos elementos. Dano de armas de ferro é _aprimorado_.
+- **Lamento**: Qualquer um que possa ouvir deve fazer um salvamento de VON ou cairá inconsciente.
 
-## Basilisk
+## Basilisco
 
-10 HP, 1 Armor, 12 STR, 13 DEX, 13 WIL, bite (d10)
+10 PG, 1 Armadura, 12 FOR, 13 DES, 13 VON, mordida (d10)
 
-- Long, serpentine lizards that nest deep below the earth or in brambles just underfoot. 
-- Fighting a **Basilisk** without meeting its gaze is difficult. (Attacks facing it are _impaired_.)
-- **Gaze**: A target facing the Basilisk is slowly petrified from the bottom up and completely frozen after three rounds. An antidote can be brewed from the Basilisk's gizzards. The creature's reflection is harmless.
+- Lagartos longos e serpentinos que fazem ninhos nas profundezas da terra ou em arbustos sob os pés.
+- Lutar contra um **Basilisco** sem encontrar seu olhar é difícil (ataques voltados para ele são _prejudicados_).
+- **Olhar**: Um alvo de frente para o Basilisco é lentamente petrificado de baixo para cima e fica completamente congelado após três rodadas. Um antídoto pode ser preparado com a moela do Basilisco. O reflexo da criatura é inofensivo.
 
-## Blink Dog
+## Cão de Fase
 
-5 HP, 11 STR, 14 DEX, 5 WIL, bite (d6)
+5 PG, 11 FOR, 14 DES, 5 VON, mordida (d6)
 
-- Teleporting canines in service of a powerful master.
-- Can phase out of reality at will. Melee attacks against them are _impaired_.
+- Caninos teletransportadores a serviço de um mestre poderoso.
+- Podem sair da realidade à vontade. Ataques corpo a corpo contra eles são _prejudicados_.
 
-## Blood Elk
+## Alce Sangrento
 
-4 HP, 12 STR, 13 DEX, 5 WIL, horns (d8)
+4 PG, 12 FOR, 13 DES, 5 VON, chifres (d8)
 
-- Born from violence resulting from a greedy or selfish act.
-- Kill their victims for sustenance, but gains no succor. They are always hungry.
-- **Critical Damage**: Gores its victims by ripping out their entrails.
+- Nascido da violência resultante de um ato ganancioso ou egoísta.
+- Matam suas vítimas para sustento, mas não obtêm alívio; estão sempre com fome.
+- **Dano Crítico**: Encarna suas vítimas arrancando suas entranhas.
 
 ## Boggart
 
-3 HP, 4 STR, 17 DEX, 13 WIL
+3 PG, 4 FOR, 17 DES, 13 VON
 
-- Wild, hairy tricksters that prize shiny trinkets above coin.
-- Boggarts have true names that describe their true nature. Knowing these names gives a person control over them.
-- **Magic**: The Boggart can _bring objects to life_,  _sow confusion_, _create magical disguises_, use _telekinesis_, and _teleport_.
+- Trapaceiros selvagens e peludos que valorizam bugigangas brilhantes acima de moedas.
+- Boggarts possuem nomes verdadeiros que descrevem sua natureza real; saber esses nomes dá a uma pessoa controle sobre eles.
+- **Magia**: O Boggart pode _animar objetos_, _semear confusão_, _criar disfarces mágicos_, usar _telecinese_ e _teletransportar_.
 
-## Bone Construct
+## Construto de Ossos
 
-8 HP, 3 Armor, 15 STR, 5 DEX, 3 WIL, sharpened arms (d8+d8), _detachment_
+8 PG, 3 Armadura, 15 FOR, 5 DES, 3 VON, braços afiados (d8+d8), _destacamento_
 
-- Gigantic, four-armed constructs made of bone and sorcery.
-- Mindless guardians that stand ready to attack any creature other than their creator.
+- Construtos gigantescos de quatro braços feitos de osso e feitiçaria.
+- Guardiões sem mente que estão prontos para atacar qualquer criatura que não seja seu criador.
 
 ## Bugbear
 
-8 HP, 1 Armor, 14 STR, 12 DEX, 11 WIL, club (d8)
+8 PG, 1 Armadura, 14 FOR, 12 DES, 11 VON, porrete (d8)
 
-- Large, goblin-like creatures covered in fur.
-- Prefer stealth and trickery to gain an advantage.
-- Often command parties of like creatures (typically goblins).
+- Criaturas grandes, semelhantes a goblins, cobertas de pelo.
+- Preferem furtividade e trapaça para obter vantagem.
+- Frequentemente comandam grupos de criaturas semelhantes (tipicamente goblins).
 
-## Burrowing Horror
+## Horror Escavador
 
-6 HP, 1 Armor, 16 STR, 11 DEX, 4 WIL, bite (d10), acid squirt (d8, _blast_)
+6 PG, 1 Armadura, 16 FOR, 11 DES, 4 VON, mordida (d10), jato de ácido (d8, _explosivo_)
 
-- Huge insectoids with multiple legs and shiny black eyes. Subsist from dirt, roots, and flesh.
-- Burrow just beneath surfaces to ambush unsuspecting creatures.
-- **Critical Damage**: Target loses a body part. Roll 1d6. 1: Head, 2-4: Leg, 5-6: Arm.
+- Insetoides enormes com múltiplas patas e olhos pretos brilhantes. Subsistem de terra, raízes e carne.
+- Escavam logo abaixo da superfície para emboscar criaturas desavisadas.
+- **Dano Crítico**: O alvo perde uma parte do corpo. Role 1d6. 1: Cabeça, 2-4: Perna, 5-6: Braço.
 
-## Cave Locust
+## Gafanhoto das Cavernas
 
-2 HP, 6 STR, 12 DEX, 3 WIL, bite (d6)
+2 PG, 6 FOR, 12 DES, 3 VON, mordida (d6)
 
-- Giant plant-eating crickets that dwell in caves. Immune to most types of poison.
-- Their natural coloration allows them to blend in with the stone. They emit loud shrieks when threatened.
+- Grilos gigantes comedores de plantas que habitam cavernas. Imunes à maioria dos tipos de veneno.
+- Sua coloração natural permite que se misturem com a pedra. Emitem gritos altos quando ameaçados.
 
-## Centaur
+## Centauro
 
-6 HP, 1 Armor, 14 STR, 12 DEX, 14 WIL, spear (d8) or short bow (d6)
+6 PG, 1 Armadura, 14 FOR, 12 DES, 14 VON, lança (d8) ou arco curto (d6)
 
-- Creatures with the lower body and legs of a horse, but a humanoid upper body.
-- Rarely found alone, preferring the company of their own.
+- Criaturas com a parte inferior e pernas de um cavalo, mas o tronco humanoide.
+- Raramente encontrados sozinhos, preferindo a companhia de sua própria espécie.
 
-## Cobblehounds
+## Cães de Pedra
 
-12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
+12 PG, 2 Armadura, 14 FOR, 1 DES, 8 VON, mordida (d10)
 
-- Immobile constructs typically used as guardians to great tombs or artifacts.
-- Unaffected by mundane persuasion techniques, but love a good bone.
+- Construtos imóveis tipicamente usados como guardiões de grandes tumbas ou artefatos.
+- Não são afetados por técnicas de persuasão mundanas, mas amam um bom osso.
 
-## Creeping Vines
+## Vinhas Rastejantes
 
-8 HP, 10 STR, 12 DEX, 2 WIL, vines (d4, _blast_)
+8 PG, 10 FOR, 12 DES, 2 VON, vinhas (d4, _explosivo_)
 
-- Appear as an inert, typical vine. Attacks passing creatures to use their corpses as fertilizer.
-- **Critical Damage**: Target is pulled into the air where they asphyxiate within a few minutes.
+- Aparecem como uma vinha comum e inerte. Atacam criaturas que passam para usar seus cadáveres como fertilizante.
+- **Dano Crítico**: O alvo é puxado para o ar, onde asfixia em poucos minutos.
 
-## Crypt Guardian
+## Guardião de Cripta
 
-12 HP, 12 STR, 11 DEX, 14 WIL, ethereal claws (d8+d8)
+12 PG, 12 FOR, 11 DES, 14 VON, garras etéreas (d8+d8)
 
-- Animated skeletons clothed in billowing robes. Their eye sockets are hypnotically red. Defend crypts and tombs, but will not attack if left undisturbed.
-- Non-magical attacks against them are _impaired_.
-- Can teleport any target in eyesight to a random room nearby.
+- Esqueletos animados vestidos com mantos esvoaçantes. Suas órbitas oculares são hipnoticamente vermelhas. Defendem criptas e tumbas, mas não atacam se não forem perturbados.
+- Ataques não mágicos contra eles são _prejudicados_.
+- Podem teletransportar qualquer alvo em vista para uma sala aleatória próxima.
 
-## Dryad
+## Dríade
 
-4 HP, 8 STR, 12 DEX, 14 WIL, knotted arms (d6)
+4 PG, 8 FOR, 12 DES, 14 VON, braços nodosos (d6)
 
-- Shy, protective tree spirits that manifest as beautiful, green-skinned humanoids.
-- Unable to travel far from the tree they are bound to. They perish if the tree is destroyed.
-- **Befuddle**: Target becomes confused, gradually moving further and further away from the host tree. WIL save once per round to break free.
+- Espíritos de árvores tímidos e protetores que se manifestam como humanoides bonitos de pele verde.
+- Incapazes de viajar para longe da árvore à qual estão vinculadas. Perecem se a árvore for destruída.
+- **Atordoar**: O alvo fica confuso, movendo-se gradualmente para cada vez mais longe da árvore hospedeira. Salvamento de VON uma vez por rodada para se libertar.
 
 ## Ettin
 
-10 HP, 16 STR, 8 DEX, 6 WIL, club (d10)
+10 PG, 16 FOR, 8 DES, 6 VON, porrete (d10)
 
-- The two-headed kin of giants. Prefer caves and underground hovels.
-- Cannot be surprised.
+- Parentes de duas cabeças dos gigantes. Preferem cavernas e casebres subterrâneos.
+- Não podem ser surpreendidos.
 
-## Eye of Terror
+## Olho do Terror
 
-15 HP, 9 STR, 8 DEX, 16 WIL, bite (d8)
+15 PG, 9 FOR, 8 DES, 16 VON, mordida (d8)
 
-- Floating spheres with large mouths, enormous eyes, and several small eyes set atop long stalks. 
-- They are highly intelligent, intensely greedy, and completely insane. 
-- Can cast the following spells at will: _Charm, Phobia, Telekinesis, Sleep, Shuffle, Vision_. Magic used against them requires a WIL save or it fizzles out.
+- Esferas flutuantes com bocas grandes, olhos enormes e vários olhos pequenos situados no topo de longas hastes.
+- São altamente inteligentes, intensamente gananciosos e completamente insanos.
+- Podem lançar os seguintes feitiços à vontade: _Encantar, Fobia, Telecinese, Adormecer, Bagunçar, Visão_. Magia usada contra eles requer um salvamento de VON ou falha.
 
-## Frost Elf
+## Elfo Gélido
 
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6)
+14 PG, 1 Armadura, 8 FOR, 13 DES, 14 VON, adaga de gelo (d6)
 
-- Beautiful, amoral, and long-lived.
-- Resistant to most forms of magic.
-- Can cast the following spells at will: _Sleep_, _Teleport_, _Detect Magic_.
+- Lindos, amorais e longevos.
+- Resistentes à maioria das formas de magia.
+- Podem lançar os seguintes feitiços à vontade: _Adormecer_, _Teletransportar_, _Detectar Magia_.
 
-## Gargoyle
+## Gárgula
 
-8 HP, 3 Armor, 14 STR, 4 DEX, 12 WIL, claws (d8+d8)
+8 PG, 3 Armadura, 14 FOR, 4 DES, 12 VON, garras (d8+d8)
 
-- Magical, slow-moving statues of monstrous winged creatures, typically employed as guards or watchdogs. 
-- Prowl at nights but fear the day, when the sun's light freezes them in place.
-- Immune to charms and magical sleep.
+- Estátuas mágicas e lentas de criaturas aladas monstruosas, tipicamente empregadas como guardas ou cães de guarda.
+- Mergulham nas noites, mas temem o dia, quando a luz do sol as congela no lugar.
+- Imunes a encantamentos e sono mágico.
 
-## Gelatinous Ooze
+## Gosma Gelatinosa
 
-8 HP, 1 Armor, 15 STR, 6 DEX, 3 WIL, devouring touch (d8)
+8 PG, 1 Armadura, 15 FOR, 6 DES, 3 VON, toque devorador (d8)
 
-- Large shapeless masses of transparent jelly. Mindlessly hunt for food in dungeons and underground caverns.
-- **Critical Damage**: The target is engulfed, losing d6 STR damage per round until they are consumed.
+- Massas disformes grandes de geleia transparente. Caçam comida sem mente em masmorras e cavernas subterrâneas.
+- **Dano Crítico**: O alvo é engolfado, perdendo d6 de FOR por rodada até ser consumido.
 
-## Ghost
+## Fantasma
 
-8 HP, 14 STR, 12 DEX, 15 WIL, life drain (d6)
+8 PG, 14 FOR, 12 DES, 15 VON, dreno de vida (d6)
 
-- Incorporeal spirits of the restless dead, vulnerable only to magic and specific anointed rites.
-- **Critical Damage**: Target must save WIL or is possessed, acting only on behalf of the ghost's whims.
+- Espíritos incorpóreos dos mortos inquietos, vulneráveis apenas à magia e a ritos ungidos específicos.
+- **Dano Crítico**: O alvo deve fazer um salvamento de VON ou será possuído, agindo apenas conforme os caprichos do fantasma.
 
-## Ghoul
+## Carniçal
 
-6 HP, 14 STR, 8 DEX, 3 WIL, elongated claws (d6+d6)
+6 PG, 14 FOR, 8 DES, 3 VON, garras alongadas (d6+d6)
 
-- Grey-skinned man-things wearing shredded clothes that crave only the flesh of the living.
-- **Critical Damage**: Target is _deprived_ from their necrotic wound, dying in d4 days unless treated by a priest or skilled healer. If the body is not burned it later rises as a Ghoul as well.
+- Coisas-homens de pele cinza vestindo roupas rasgadas que desejam apenas a carne dos vivos.
+- **Dano Crítico**: O alvo fica _privado_ devido ao ferimento necrótico, morrendo em d4 dias a menos que seja tratado por um sacerdote ou curandeiro habilidoso. Se o corpo não for queimado, ele se erguerá mais tarde como um Carniçal também.
 
-## Giant Scorpion
+## Escorpião Gigante
 
-8 HP, 1 Armor, 11 STR, 12 DEX, 4 WIL, claws (d10+d10)
+8 PG, 1 Armadura, 11 FOR, 12 DES, 4 VON, garras (d10+d10)
 
-- Horse-sized arachnids commonly found in dry terrain or caverns.
-- **Critical Damage**: The stinger's poison liquefies the target's insides for an additional d8 STR damage. The STR loss is permanent.
+- Aracnídeos do tamanho de um cavalo comumente encontrados em terrenos secos ou cavernas.
+- **Dano Crítico**: O veneno do ferrão liquefaz o interior do alvo causando d8 de dano adicional à FOR. A perda de FOR é permanente.
 
 ## Gnoll
 
-6 HP, 1 Armor, 12 STR, 14 DEX, 8 WIL, spear (d8)
+6 PG, 1 Armadura, 12 FOR, 14 DES, 8 VON, lança (d8)
 
-- Ferocious humanoid hyenas spawned from arcane experiments long ago.   
-- Deadly warriors, they attack as a pack (as _detachment_) or on their own.
+- Hienas humanoides ferozes geradas por experimentos arcanos há muito tempo.
+- Guerreiros mortais, atacam em bando (como _destacamento_) ou por conta própria.
 
 ## Goblin
 
-4 HP, 8 STR, 12 DEX, 8 WIL, dagger (d6) or sling (d6)
+4 PG, 8 FOR, 12 DES, 8 VON, adaga (d6) ou estilingue (d6)
 
-- Small, grotesque humanoids with skin in earthly tones of green, brown, and grey.
-- Avoid combat, only attacking when advantageous, using hit-and-run tactics.
-- Sometimes are found using dire wolves as mounts.
+- Humanoides pequenos e grotescos com pele em tons terrestres de verde, marrom e cinza.
+- Evitam o combate, atacando apenas quando vantajoso, usando táticas de bater e correr.
+- Às vezes são encontrados usando lobos atrozes como montarias.
 
-## Green Dragon
+## Dragão Verde
 
-12 HP, 2 Armor, 14 STR, 15 DEX, 18 WIL, bite (d12), _detachment_
+12 PG, 2 Armadura, 14 FOR, 15 DES, 18 VON, mordida (d12), _destacamento_
 
-- Forest-dwelling snakes topped with tall green scales. Collect great hoards of treasure.
-- Use intelligence and cunning to manipulate the weak into their service.
-- **Chlorine Gas**: Anyone nearby must make a DEX save to escape its reach or lose 1d4 STR and becomes _deprived_.
+- Serpentes habitantes de florestas cobertas por escamas verdes altas. Coletam grandes tesouros.
+- Usam inteligência e astúcia para manipular os fracos ao seu serviço.
+- **Gás Cloro**: Qualquer pessoa próxima deve fazer um salvamento de DES para escapar do seu alcance ou perderá 1d4 de FOR e ficará _privada_.
 
-## Griffon
+## Grifo
 
-7 HP, 14 STR, 15 DEX, 12 WIL, claws (d6+d6), _detachment_
+7 PG, 14 FOR, 15 DES, 12 VON, garras (d6+d6), _destacamento_
 
-- Ravenous hybrids, with the head and wings of an eagle and the lower body of a lion.
-- Can be used as mounts if taken young and properly trained.
-- Fly and attack at astonishing speeds, diving in to scoop up their prey.
-- **Critical Damage**: Tears flesh and bone from its victim with its razor-sharp beak.
+- Híbridos vorazes, com a cabeça e asas de uma águia e a parte inferior do corpo de um leão.
+- Podem ser usados como montarias se capturados jovens e treinados adequadamente.
+- Voam e atacam em velocidades espantosas, mergulhando para agarrar suas presas.
+- **Dano Crítico**: Rasga carne e osso de sua vítima com seu bico afiado como navalha.
 
-## Grizzly Bear
+## Urso Cinzento
 
-6 HP, 15 STR, 13 DEX, 5 WIL, claws (d8+d8)
+6 PG, 15 FOR, 13 DES, 5 VON, garras (d8+d8)
 
-- Reddish-brown bears commonly found in mountains, woodlands, and prairies. 
-- Prefer to eat fish and meat, and will attack the rare unfortunate who crosses their path.
-- **Critical Damage**: Bites the victim for an additional d6 STR damage. They bleed out very quickly.
+- Ursos marrom-avermelhados comumente encontrados em montanhas, bosques e pradarias.
+- Preferem comer peixe e carne, e atacarão o raro infeliz que cruzar seu caminho.
+- **Dano Crítico**: Morde a vítima causando um dano adicional de d6 à FOR. Elas sangram muito rapidamente.
 
-## Harpy
+## Harpia
 
-8 HP, 7 STR, 12 DEX, 14 WIL, claws (d6+d6)
+8 PG, 7 FOR, 12 DES, 14 VON, garras (d6+d6)
 
-- Hideous monstrosities with the body of a giant eagle and a humanoid head.
-- Their movements and flight are clumsy due to their disproportionate size. Rely on charmed victims to do anything of note. 
-- **Song**: Anyone nearby must save WIL or be charmed by its voice, following the harpy and defending it from any threat.
+- Monstrosidades hediondas com o corpo de uma águia gigante e cabeça humanoide.
+- Seus movimentos e voo são desajeitados devido ao seu tamanho desproporcional. Dependem de vítimas encantadas para realizar qualquer coisa digna de nota.
+- **Canção**: Qualquer pessoa próxima deve fazer um salvamento de VON ou será encantada por sua voz, seguindo a harpia e defendendo-a de qualquer ameaça.
 
-## Hellhound
+## Cão do Inferno
 
-8 HP, 12 STR, 15 DEX, 9 WIL, bite (d8), fire breath (d6, _blast_)
+8 PG, 12 FOR, 15 DES, 9 VON, mordida (d8), sopro de fogo (d6, _explosivo_)
 
-- Monstrous, intelligent dogs that dwell near volcanoes.
-- Immune to fire and heat damage. Hot enough to melt iron simply by biting it.
+- Cães monstruosos e inteligentes que habitam perto de vulcões.
+- Imunes a danos de fogo e calor. Quentes o suficiente para derreter ferro simplesmente ao mordê-lo.
 
 ## Hobgoblin
 
-6 HP, 2 Armor, 14 STR, 8 DEX, 11 WIL, mace (d8)
+6 PG, 2 Armadura, 14 FOR, 8 DES, 11 VON, maça (d8)
 
-- Large and burly relatives of goblins. Dwell in underground fortresses until called for war.
-- Automatically succeed in Morale Saves if a commander is present. 
-- Trained to fight together. Damage dealt is _enhanced_ if an ally is also engaged with the same enemy.
+- Parentes grandes e robustos dos goblins. Habitam fortalezas subterrâneas até serem chamados para a guerra.
+- Têm sucesso automático em salvamentos de Moral se um comandante estiver presente.
+- Treinados para lutar juntos. O dano causado é _aprimorado_ se um aliado também estiver engajado com o mesmo inimigo.
 
-## Hooded Men
+## Homens Encapuzados
 
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8)
+12 PG, 9 FOR, 12 DES, 14 VON, cajado rúnico (d8)
 
-- The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
-- **Critical Damage**: Leech a part of the victim's soul (1d4 WIL damage).
-- Carries two of the following spellbooks: _Charm, Hypnotize, Push/Pull, Shield_.
+- Os Vigilantes da Floresta; um culto que deriva seu poder de linhas de energia, pedras rúnicas e afins.
+- **Dano Crítico**: Suga uma parte da alma da vítima (1d4 de dano de VON).
+- Carregam dois dos seguintes livros de feitiço: _Encantar, Hipnotizar, Empurrar/Puxar, Escudo_.
 
-## Hydra
+## Hidra
 
-12 HP, 2 Armor, 13 STR, 7 DEX, 12 WIL, bite (d12, _blast_), _detachment_
+12 PG, 2 Armadura, 13 FOR, 7 DES, 12 VON, mordida (d12, _explosivo_), _destacamento_
 
-- Large reptilians with nine serpentine heads. Very difficult to throw off once their quarry is detected.
-- On taking **Critical Damage**, the hydra loses one head. It then continues fighting until no heads remains.
+- Reptilianos grandes com nove cabeças serpentinas. Muito difícil de despistar uma vez que sua presa é detectada.
+- Ao sofrer **Dano Crítico**, a hidra perde uma cabeça. Ela então continua lutando até que não reste nenhuma cabeça.
 
-## Invisible Stalker
+## Perseguidor Invisível
 
-8 HP, 12 STR, 12 DEX, 15 WIL, fists (d4+d4)
+8 PG, 12 FOR, 12 DES, 15 VON, punhos (d4+d4)
 
-- Intelligent beings shaped into reality by a powerful wizard. Completely invisible and silent.
-- Attacks deal direct STR damage (subtracting Armor).
+- Seres inteligentes moldados na realidade por um mago poderoso. Completamente invisíveis e silenciosos.
+- Ataques causam dano direto à FOR (subtraindo Armadura).
 
-## Killer Bees
+## Abelhas Assassinas
 
-6 HP, 6 STR, 14 DEX, 8 WIL, sting (d6), _detachment_
+6 PG, 6 FOR, 14 DES, 8 VON, ferrão (d6), _destacamento_
 
-- Oversized bees that build underground hives. Hyper-aggressive, attack anything that comes near.
-- Produce special honey that heals 1d6 STR. 3 uses.
-- When the bees cause STR damage, the stingers are lodged into the target, dealing d4 damage each round until removed.
+- Abelhas superdimensionadas que constroem colmeias subterrâneas. Hiperagressivas, atacam qualquer coisa que se aproxime.
+- Produzem mel especial que cura 1d6 de FOR. 3 usos.
+- Quando as abelhas causam dano à FOR, os ferrões ficam alojados no alvo, causando d4 de dano a cada rodada até serem removidos.
 
 ## Kobold
 
-3 HP, 8 STR, 13 DEX, 4 WIL, bite (d6), spear (d8)
+3 PG, 8 FOR, 13 DES, 4 VON, mordida (d6), lança (d8)
 
-- Hairless humanoids with canine-like features and scaly skin. Can see perfectly in the dark, but are harmed by direct sunlight. 
-- Use traps and ambush to defeat opponents. Often act in service of a more powerful creatures.
+- Humanoides sem pelos com características semelhantes a caninos e pele escamosa. Podem ver perfeitamente no escuro, mas são feridos pela luz solar direta.
+- Usam armadilhas e emboscadas para derrotar oponentes. Frequentemente agem a serviço de criaturas mais poderosas.
 
-## Lamia
+## Lâmia
 
-6 HP, 11 STR, 12 DEX, 16 WIL, toothy bite (d8)
+6 PG, 11 FOR, 12 DES, 16 VON, mordida dentada (d8)
 
-- Centaur-like creatures that prey on the life force of others, seducing their victims through heightened charm and intelligence. Their upper bodies are typically humanoid, the lower half any number of animal hybrids.
-- Inherently magical. Can create illusions, charm creatures, and disguise themselves at will.
-- **Critical Damage**: The target takes d6 WIL damage as their spirit is slowly sapped away. They then become enthralled to the Lamia, obeying its every command while in its presence.
+- Criaturas semelhantes a centauros que predam a força vital de outros, seduzindo suas vítimas através de charme e inteligência aumentados. Seus troncos são tipicamente humanoides, a metade inferior qualquer número de híbridos animais.
+- Inerentemente mágicas. Podem criar ilusões, encantar criaturas e se disfarçar à vontade.
+- **Dano Crítico**: O alvo sofre d6 de dano à VON enquanto seu espírito é lentamente drenado. Eles então tornam-se cativos da Lâmia, obedecendo a todos os seus comandos enquanto em sua presença.
 
 ## Lich
 
-14 HP, 1 Armor, 8 STR, 8 DEX, 18 WIL, soul dagger (d8)
+14 PG, 1 Armadura, 8 FOR, 8 DES, 18 VON, adaga da alma (d8)
 
-- Powerful sorcerers that paid the ultimate price for immortality: their own life. Now their thirst for power knows no bounds.
-- Maintain unlife by binding themselves to an earthly artifact, which is typically protected by at least d6 other undead servants.
-- Carry up to six of the following spellbooks: _Animate Object_, _Arcane Eye_, _Deafen_, _Disassemble_, _Elemental Wall_, _Frenzy_, _Gate_, _Hover_, _Hatred_, _Identify Owner_, _Knock_, _Pacify_, _Raise Dead_, _Raise Spirit_, _Shield_, _Sleep_, _Smoke Form_, _Telekinesis_, _Telepathy_, _Teleport_, _Vision_, _Wizard Mark_.
+- Magos poderosos que pagaram o preço final pela imortalidade: suas próprias vidas. Agora sua sede por poder não conhece limites.
+- Mantêm a não-vida vinculando-se a um artefato terreno, que é tipicamente protegido por pelo menos d6 outros servos mortos-vivos.
+- Carregam até seis dos seguintes livros de feitiço: _Animar Objeto, Olho Arcano, Ensurdecer, Desmontar, Parede Elemental, Frenesi, Portão, Flutuar, Ódio, Identificar Proprietário, Arrombar, Pacificar, Levantar os Mortos, Levantar Espírito, Escudo, Adormecer, Forma de Fumaça, Telecinese, Telepatia, Teletransporte, Visão, Marca de Mago_.
 
-## Manticore
+## Mantícora
 
-6 HP, 15 STR, 14 DEX, 12 WIL, claws (d6+d6), tail spike (d8)
+6 PG, 15 FOR, 14 DES, 12 VON, garras (d6+d6), espinho da cauda (d8)
 
-- Spiteful monstrosities that wear a humanoid face, a lion's body, wings of a bat, and a scorpion's tail. Dwell in mountainous regions, abandoned castles, and forgotten dungeons.
-- Tail spikes act like darts, regrowing after a few days. A single spike is worth 150gp to a collector.
-- **Critical Damage**: Target is _deprived_ until they get a good night's sleep. Until then, they act boorish, selfish, and cruel (or more so, if that already is their nature).
+- Monstrosidades rancorosas que possuem um rosto humanoide, corpo de leão, asas de morcego e cauda de escorpião. Habitam regiões montanhosas, castelos abandonados e masmorras esquecidas.
+- Espinhos da cauda agem como dardos, crescendo novamente após alguns dias. Um único espinho vale 150po para um colecionador.
+- **Dano Crítico**: O alvo fica _privado_ até ter uma boa noite de sono. Até lá, ele age de forma rude, egoísta e cruel (ou mais ainda, se essa já for sua natureza).
 
-## Mimic
+## Mímico
 
-9 HP, 2 Armor, 13 STR, 6 DEX, 12 WIL, bite (d8)
+9 PG, 2 Armadura, 13 FOR, 6 DES, 12 VON, mordida (d8)
 
-- Malicious shape shifters that take on the form of inanimate objects commonly found in dungeons.
-- Remain motionless while in disguise, surprising anyone that comes near.
-- The mimic's saliva is extremely sticky and difficult to remove. Alchemists will pay up to 150gp for even the smallest vial.
+- Transformistas maliciosos que assumem a forma de objetos inanimados comumente encontrados em masmorras.
+- Permanecem imóveis enquanto disfarçados, surpreendendo qualquer um que se aproxime.
+- A saliva do mímico é extremamente pegajosa e difícil de remover. Alquimistas pagarão até 150po por mesmo o menor frasco.
 
-## Mind Lasher
+## Açoitador de Mentes
 
-12 HP, 8 STR, 12 DEX, 18 WIL, tentacles (d6, _blast_)
+12 PG, 8 FOR, 12 DES, 18 VON, tentáculos (d6, _explosivo_)
 
-- Humanoid creatures with purple skin and squid-like heads. Dwell deep underground or in spacefaring vessels. Feed on the brains of other humanoids, absorbing their memories and life essence. Highly intelligent, but evil beyond belief.
-- **Mind Blast**: Nearby targets must save WIL or lose 1d4 WIL and become paralyzed.
-- **Critical Damage**: A tentacle rips the victim's brain out of their skull.
+- Criaturas humanoides com pele roxa e cabeças de lula. Habitam as profundezas subterrâneas ou naves espaciais. Alimentam-se dos cérebros de outros humanoides, absorvendo suas memórias e essência vital. Altamente inteligentes, mas malignos além de qualquer crença.
+- **Explosão Mental**: Alvos próximos devem fazer um salvamento de VON ou perdem 1d4 de VON e ficam paralisados.
+- **Dano Crítico**: Um tentáculo arranca o cérebro da vítima de seu crânio.
 
-## Minotaur
+## Minotauro
 
-12 HP, 1 Armor, 16 STR, 12 DEX, 8 WIL, two-handed axe (d10), charge (d12)
+12 PG, 1 Armadura, 16 FOR, 12 DES, 8 VON, machado de duas mãos (d10), investida (d12)
 
-- Large humanoids (typically male) with the head of a bull. Dwell in mazes or dungeons.
-- Extraordinary trackers with an excellent sense of smell and navigation skills.
+- Humanoides grandes (tipicamente machos) com cabeça de touro. Habitam labirintos ou masmorras.
+- Rastreadores extraordinários com excelente olfato e habilidades de navegação.
 
-## Mummy
+## Múmia
 
-6 HP, 12 STR, 8 DEX, 6 WIL, necrotic touch (d10)
+6 PG, 12 FOR, 8 DES, 6 VON, toque necrótico (d10)
 
-- Undead humanoids wrapped in funerary cloth. Found in pyramids, ruins, temples, and tombs.
-- **Critical Damage**: Target is infected with mummy rot, and is unable to recover STR until they are cured by a specialist healer. The target is also _deprived_.
+- Humanoides mortos-vivos envoltos em panos funerários. Encontrados em pirâmides, ruínas, templos e tumbas.
+- **Dano Crítico**: O alvo é infectado com podridão de múmia e é incapaz de recuperar FOR até ser curado por um curandeiro especialista. O alvo também fica _privado_.
 
 ## Naga
 
-6 HP, 1 Armor, 14 STR, 12 DEX, 14 WIL, sword (d6), bite (d10)
+6 PG, 1 Armadura, 14 FOR, 12 DES, 14 VON, espada (d6), mordida (d10)
 
-- Humanoids with the lower body, tail, and neck of snakes. Dwell in hot jungles and temples lost to time.
-- Use cunning and hypnosis to capture other creatures to be enslaved.
-- **Gaze**: A target facing the Naga is hypnotized, falling under its will. Its victims cannot be compelled to violence.
+- Humanoides com a parte inferior do corpo, cauda e pescoço de cobras. Habitam selvas quentes e templos perdidos no tempo.
+- Usam astúcia e hipnose para capturar outras criaturas para serem escravizadas.
+- **Olhar**: Um alvo de frente para a Naga é hipnotizado, caindo sob sua vontade. Suas vítimas não podem ser compelidas à violência.
 
-## Night Cat
+## Gato Noturno
 
-6 HP, 9 STR, 14 DEX, 5 WIL, claws (d6+d6)
+6 PG, 9 FOR, 14 DES, 5 VON, garras (d6+d6)
 
-- Intelligent, nocturnal marsupials that make their homes in forests and swamps. Hunt in
-packs.
-- Critical Damage: The Night Cat begins to eat the target (d4 STR damage) while they are
-still alive.
+- Marsupiais noturnos inteligentes que fazem seus lares em florestas e pântanos. Caçam em bandos.
+- **Dano Crítico**: O Gato Noturno começa a comer o alvo (d4 de dano de FOR) enquanto ele ainda está vivo.
 
-## Night Hag
+## Bruxa da Noite
 
-8 HP, 9 STR, 11 DEX, 16 WIL, talons (d8+d8)
+8 PG, 9 FOR, 11 DES, 16 VON, garras (d8+d8)
 
-- Hideous old women that dwell in dead forests, swamps, and bogs.
-- Carry three of the following spellbooks: _Arcane Eye_, _Disguise_, _Fog Cloud_, _Identify Owner_, _Smoke Form_.
+- Mulheres velhas e hediondas que habitam florestas mortas, pântanos e banhados.
+- Carregam três dos seguintes livros de feitiço: _Olho Arcano, Disfarce, Névoa, Identificar Proprietário, Forma de Fumaça_.
 
-## Nightmare
+## Pesadelo
 
-8 HP, 15 STR, 12 DEX, 8 WIL, flaming hooves (d8+d8)
+8 PG, 15 FOR, 12 DES, 8 VON, cascos flamejantes (d8+d8)
 
-- Intelligent, demonic horses with eyes like burning coals, smoldering nostrils, and flaming hooves.
-- Melee attacks against the Nightmare are _impaired_ due to the thick clouds of smoke it produces.
+- Cavalos demoníacos e inteligentes com olhos como brasas ardentes, narinas fumegantes e cascos flamejantes.
+- Ataques corpo a corpo contra o Pesadelo são _prejudicados_ devido às nuvens espessas de fumaça que ele produz.
 
-## Ogre
+## Ogro
 
-6 HP, 1 Armor, 16 STR, 8 DEX, 6 WIL, club (d10)
+6 PG, 1 Armadura, 16 FOR, 8 DES, 6 VON, porrete (d10)
 
-- Massive, gluttonous brutes of ill-spirit and low intelligence.
-- Easily impressed by shiny materials, keeping sacks of gold and treasure in their lairs.
+- Brutos massivos e glutões de espírito maligno e baixa inteligência.
+- Facilmente impressionados por materiais brilhantes, mantendo sacos de ouro e tesouros em seus covis.
 
-## Owlbear
+## Urso-Coruja
 
-9 HP, 16 STR, 12 DEX, 5 WIL, beak (d10), claws (d8+d8)
+9 PG, 16 FOR, 12 DES, 5 VON, bico (d10), garras (d8+d8)
 
-- Bear-like carnivores with the face of an owl. Found in dense forests. Rumored spawn of a magical mishap.
-- **Critical Damage**: A piece of armor is rent and destroyed.
+- Carnívoros semelhantes a ursos com o rosto de uma coruja. Encontrados em florestas densas. Rumores dizem ser fruto de um erro mágico.
+- **Dano Crítico**: Uma peça de armadura é rasgada e destruída.
 
-## Phoenix
+## Fênix
 
-4 HP, 15 STR, 13 DEX, 12 WIL, talons (d10+d10)
+4 PG, 15 FOR, 13 DES, 12 VON, garras (d10+d10)
 
-- Intelligent, hawk-like spirits of pure flame, found in isolated deserts and high mountains.
-- If killed, they explode in a burst of flames. They are reborn 1d3 days later from the ashes.
-- Their feathers are highly-sought after for their healing properties.
+- Espíritos inteligentes, semelhantes a falcões, de pura chama, encontrados em desertos isolados e montanhas altas.
+- Se mortas, elas explodem em uma rajada de chamas. Renascem 1d3 dias depois das cinzas.
+- Suas penas são muito procuradas por suas propriedades curativas.
 
 ## Pixie
 
-3 HP, 3 STR, 15 DEX, 13 WIL
+3 PG, 3 FOR, 15 DES, 13 VON
 
-- Tiny humanoids with insectoid wings. Naturally invisible.
-- Can cast _Sleep_ and _Masquerade_ at will.
+- Humanoides minúsculos com asas de inseto. Naturalmente invisíveis.
+- Podem lançar _Adormecer_ e _Máscara_ à vontade.
 
-## Purple Worm
+## Verme Púrpura
 
-18 HP, 1 Armor, 18 STR, 8 DEX, 6 WIL, bite (d12), _detachment_
+18 PG, 1 Armadura, 18 FOR, 8 DES, 6 VON, mordida (d12), _destacamento_
 
-- Gargantuan worms that lair in enormous burrows deep underground, only coming to the surface to eat. Found in high deserts and hot tundra.
-- **Critical Damage**: The target is devoured, taking d8 STR damage from the acid in the worm's stomach.
+- Vermes gargantuescos que habitam em enormes tocas nas profundezas da terra, vindo à superfície apenas para comer. Encontrados em desertos altos e tundra quente.
+- **Dano Crítico**: O alvo é devorado, sofrendo d8 de dano à FOR devido ao ácido no estômago do verme.
 
-## Red Cap
+## Barrete Vermelho
 
-6 HP, 6 STR, 12 DEX, 8 WIL, dual sickles (d6+d6)
+6 PG, 6 FOR, 12 DES, 8 VON, foices duplas (d6+d6)
 
-- Born from blood left to rot in the land of Fairy. Their hats are a deep red from the blood they bathe in.
-- Ignore those with little to live for, as there is no pleasure in their murder.
-- **Critical Damage**: Target is eviscerated, the spray of their blood restoring STR loss suffered by the Red Cap.
+- Nascidos do sangue deixado para apodrecer na terra das Fadas. Seus chapéus são de um vermelho profundo devido ao sangue em que se banham.
+- Ignoram aqueles com pouco pelo que viver, pois não há prazer em seu assassinato.
+- **Dano Crítico**: O alvo é eviscerado; o respingo de seu sangue restaura a perda de FOR sofrida pelo Barrete Vermelho.
 
-## Reptilian
+## Reptiliano
 
-5 HP, 1 Armor, 14 STR, 12 DEX, 5 WIL, bone spear (d8)
+5 PG, 1 Armadura, 14 FOR, 12 DES, 5 VON, lança de osso (d8)
 
-- Amphibian humanoids that live in large tribes near swamps and jungles.
-- Craft their armor and weapons from the bones of their prey. They will eat anything, including humanoids.
+- Humanoides anfíbios que vivem em grandes tribos perto de pântanos e selvas.
+- Fabricam suas armaduras e armas dos ossos de suas presas. Comem qualquer coisa, incluindo humanoides.
 
-## Root Goblin
+## Goblin Raiz
 
-4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
+4 PG, 8 FOR, 14 DES, 8 VON, lança (d6)
 
-- Avoid combat unless they have the advantage (such as greater numbers).
-- Guard their stolen goods to the death.
-- Root Goblins prize spellbooks and are always willing to trade.
+- Evitam combate a menos que tenham a vantagem (como maior número).
+- Guardam seus bens roubados até a morte.
+- Goblins Raiz valorizam livros de feitiço e estão sempre dispostos a negociar.
 
-## Root Witch
+## Bruxa Raiz
 
-8 HP, 9 STR, 16 DEX, 14 WIL, tuber-fingers (d6)
+8 PG, 9 FOR, 16 DES, 14 VON, dedos-tubérculo (d6)
 
-- Excellent tunnelers that hide underground near water. Wiggle tiny fronds into the air as lures.
-- Above-ground, appear vaguely humanoid with the face of a rotted tree stump.
-- Will exchange rare minerals for a “fresh corpse” of any kind.
+- Excelentes escavadoras que se escondem no subsolo perto da água. Agitam pequenas folhagens no ar como iscas.
+- Acima do solo, aparecem vagamente humanoides com o rosto de um tronco de árvore podre.
+- Trocarão minerais raros por um "cadáver fresco" de qualquer tipo.
 
-## Rust Monster
+## Monstro da Ferrugem
 
-5 HP, 16 STR, 13 DEX, 5 WIL, bite (d6)
+5 PG, 16 FOR, 13 DES, 5 VON, mordida (d6)
 
-- Armadillo-like creatures with club-like tails and long antennae. Feed on iron and rusted metal.
-- Any mundane metals their antennae touch instantly become rust. Can smell metal from a long distance away.
-- **Critical Damage**: Metal armor rusts into useless weight.
+- Criaturas semelhantes a tatu com caudas em forma de porrete e antenas longas. Alimentam-se de ferro e metal enferrujado.
+- Qualquer metal mundano que suas antenas toquem torna-se ferrugem instantaneamente. Podem cheirar metal a uma longa distância.
+- **Dano Crítico**: Armadura de metal enferruja tornando-se peso inútil.
 
-## Sea Hag
+## Bruxa do Mar
 
-6 HP, 11 STR, 15 DEX, 14 WIL, long claws (d6+d6)
+6 PG, 11 FOR, 15 DES, 14 VON, garras longas (d6+d6)
 
-- Ghostly, green-skinned hags that dwell in seaweed forests and warm shallow waters.
-- Immune to magic from spellbooks. 
-- **Hideous Gaze**: A target is overcome with fear (HP drops to 0). WIL save each round to break the spell.
+- Bruxas fantasmagóricas de pele verde que habitam florestas de algas e águas rasas e quentes.
+- Imunes à magia de livros de feitiço.
+- **Olhar Hediondo**: Um alvo é dominado pelo medo (PG cai para 0). Salvamento de VON a cada rodada para quebrar o feitiço.
 
-## Shadow
+## Sombra
 
-14 HP, 1 STR, 18 DEX, 14 WIL, draining touch (d6, ignores armor) 
+14 PG, 1 FOR, 18 DES, 14 VON, toque drenante (d6, ignora armadura)
 
-- Incorporeal monsters that look like animated shadows. Unharmed by mundane attacks, sleep or mind control.
-- **Critical Damage**: Target loses d4 STR. If reduced to 0 STR, they become a shadow as well.
+- Monstros incorpóreos que se parecem com sombras animadas. Não são feridas por ataques mundanos, sono ou controle mental.
+- **Dano Crítico**: O alvo perde d4 de FOR. Se reduzido a 0 de FOR, torna-se uma sombra também.
 
-## Shambling Mound
+## Monte Cambaleante
 
-9 HP, 15 STR, 6 DEX, 8 WIL, tendrils (d8+d8), _detachment_
+9 PG, 15 FOR, 6 DES, 8 VON, tentáculos (d8+d8), _destacamento_
 
-- Tall humanoids made of slimy vegetation. Dwell in dark swamps and damp undergrounds.
-- **Critical Damage**: Target is swallowed whole and dragged away.
+- Humanoides altos feitos de vegetação viscosa. Habitam pântanos escuros e locais subterrâneos úmidos.
+- **Dano Crítico**: O alvo é engolido inteiro e arrastado para longe.
 
-## Skeleton
+## Esqueleto
 
-5 HP, 1 Armor, 8 STR, 13 DEX, 0 WIL, rusty sword (d6) or bow (d6)
+5 PG, 1 Armadura, 8 FOR, 13 DES, 0 VON, espada enferrujada (d6) ou arco (d6)
 
-- Frequently found serving a master or necromancer, often in groups of 3 or more.
-- Found wearing whatever was on them at the time of their death.
-- If a skeleton is killed and its bones are not scattered, it reforms.
+- Frequentemente encontrados servindo a um mestre ou necromante, muitas vezes em grupos de 3 ou mais.
+- Encontrados vestindo o que estivessem usando no momento da morte.
+- Se um esqueleto é morto e seus ossos não forem espalhados, ele se reforma.
 
-## Sky Giant
+## Gigante do Céu
 
-12 HP, 1 Armor, 16 STR, 12 DEX, 14 WIL, mace (d10), _detachment_
+12 PG, 1 Armadura, 16 FOR, 12 DES, 14 VON, maça (d10), _destacamento_
 
-- Towering, white-skinned giants that live in castles high in the mountains.
-- Missile attacks against them are _impaired_ due to the powerful winds surrounding them.
+- Gigantes imponentes de pele branca que vivem em castelos no alto das montanhas.
+- Ataques de projéteis contra eles são _prejudicados_ devido aos ventos poderosos que os cercam.
 
-## Sphinx
+## Esfinge
 
-18 HP, 12 STR, 13 DEX, 18 WIL, claws (d8+d8, _blast_), beak (d10)
+18 PG, 12 FOR, 13 DES, 18 VON, garras (d8+d8, _explosivo_), bico (d10)
 
-- Mythical beasts with the upper body and head of a human, the wings of an eagle, and the body of a lion. Immune to magic of any kind.
-- Poses riddles to anyone they meet. Failure to answer correctly is usually met with death. They know almost everything worth knowing.
-- **Roar**: Anyone in earshot must save WIL or flee in fear.
+- Bestas míticas com o tronco e cabeça de um humano, as asas de uma águia e o corpo de um leão. Imune a magia de qualquer tipo.
+- Propõe enigmas a qualquer pessoa que encontre; falhar em responder corretamente é geralmente punido com a morte. Sabem quase tudo o que vale a pena saber.
+- **Rugido**: Qualquer um que possa ouvir deve fazer um salvamento de VON ou fugirá em pavor.
 
-## Storm Giant
+## Gigante da Tempestade
 
-18 HP, 2 Armor, 18 STR, 16 DEX, 18 WIL, great sword (d12), _detachment_
+18 PG, 2 Armadura, 18 FOR, 16 DES, 18 VON, espada grande (d12), _destacamento_
 
-- Building-sized humanoids with bronze-hued skin and light-colored hair. Live on the highest mountain peaks and rockiest coastlines.
-- Unharmed by lightning, can summon storm clouds at their will. Can fly with the wind as a their chariot.
-- **Thunderclap**: Deals 4 STR damage against a single target. Targets wearing metal armor take double damage.
+- Humanoides do tamanho de prédios com pele bronzeada e cabelos claros. Vivem nos picos das montanhas mais altas e nas costas mais rochosas.
+- Não são feridos por raios; podem invocar nuvens de tempestade à sua vontade. Podem voar com o vento como sua carruagem.
+- **Trovoada**: Causa 4 de dano de FOR contra um único alvo. Alvos usando armadura de metal recebem dano dobrado.
 
-## Swine Thing
+## Coisa Suína
 
-9 HP, 16 STR, 8 DEX, 13 WIL, gore (d6+d6)
+9 PG, 16 FOR, 8 DES, 13 VON, investida (d6+d6)
 
-- Obese humanoids that transform into massive porcine monstrosities to feast on human flesh.
-- Prefer to hunt in isolated settlements close to forests and wetlands. Can only shapeshift at night.
-- **Charm**: Target obeys the swine's every command until it is killed. WIL save once per round to break free.
+- Humanoides obesos que se transformam em monstruosidades porcinas massivas para se banquetear com carne humana.
+- Preferem caçar em assentamentos isolados perto de florestas e pântanos. Só podem mudar de forma à noite.
+- **Encanto**: O alvo obedece a todos os comandos do suíno até que este seja morto. Salvamento de VON uma vez por rodada para se libertar.
 
-## Titan
+## Titã
 
-18 HP, 3 Armor, 16 STR, 15 DEX, 18 WIL, lightning sword (d12), _detachment_
+18 PG, 3 Armadura, 16 FOR, 15 DES, 18 VON, espada de relâmpago (d12), _destacamento_
 
-- Mythical, humanoid giants of radiant beauty and powerfully athletic bodies. Beneficent of character, but prone to megalomania. 
-- Natives of other planes of existence, but sometimes have strongholds in the mortal world.
-- Can levitate, shape shift, and sculpt elements at will.
+- Gigantes humanoides míticos de beleza radiante e corpos poderosamente atléticos. Benfazejos de caráter, mas propensos à megalomania.
+- Nativos de outros planos de existência, mas às vezes possuem fortalezas no mundo mortal.
+- Podem levitar, mudar de forma e esculpir elementos à vontade.
 
-## Treant
+## Treante
 
-10 HP, 3 Armor, 15 STR, 3 DEX, 12 WIL, roots (d8+d8, _blast_)
+10 PG, 3 Armadura, 15 FOR, 3 DES, 12 VON, raízes (d8+d8, _explosivo_)
 
-- Sentient, bipedal trees with a vaguely humanoid face on their trunks. Found in the deepest part of the wood.
-- Speak slowly and ponderously, with a deep voice. Timeless, living for thousands of years.
+- Árvores sentientes e bípedes com um rosto vagamente humanoide em seus troncos. Encontrados na parte mais profunda do bosque.
+- Falam lenta e ponderadamente, com uma voz profunda. Atemporais, vivendo por milhares de anos.
 
-## Triton
+## Tritão
 
-6 HP, 12 STR, 15 DEX, 12 WIL, trident (d8)
+6 PG, 12 FOR, 15 DES, 12 VON, tridente (d8)
 
-- Aquatic humanoids with silvery skin, blue-green hair, and scaled legs ending in fins. Dwell in warmer waters close to land.
-- Lair in beautiful castles sculpted from sea rock and coral. Command vast schools of fish for both protection and food.
+- Humanoides aquáticos com pele prateada, cabelos azul-esverdeados e pernas escamosas terminando em nadadeiras. Habitam águas mais quentes perto da terra.
+- Vivem em castelos bonitos esculpidos em rocha marinha e coral. Comandam vastos cardumes de peixes tanto para proteção quanto para alimentação.
 
 ## Troll
 
-14 HP, 1 Armor, 14 STR, 12 DEX, 4 WIL, bite (d10), claws (d8+d8)
+14 PG, 1 Armadura, 14 FOR, 12 DES, 4 VON, mordida (d10), garras (d8+d8)
 
-- Giant, warty humanoids of flesh and bark. Dwell underground or in deep forests, as well as the ruined homes of their former victims. Carnivorous. 
-- When taking **Critical Damage**, a Troll will continue fighting, despite loss of flesh and limb. Only when their STR is 0 are they truly killed. Unless their heads are bathed in acid, fire, or powerful magic, they will fully regenerate within 1d4 days.
+- Humanoides gigantes e verruguentos de carne e casca. Habitam o subsolo ou florestas profundas, bem como os lares arruinados de suas antigas vítimas. Carnívoros.
+- Ao sofrer **Dano Crítico**, um Troll continuará lutando, apesar da perda de carne e membros. Apenas quando sua FOR é 0 eles são verdadeiramente mortos. A menos que suas cabeças sejam banhadas em ácido, fogo ou magia poderosa, eles se regenerarão totalmente dentro de 1d4 dias.
 
-## Unicorn
+## Unicórnio
 
-6 HP, 14 STR, 12 DEX, 14 WIL, horn (d10, ignores armor)
+6 PG, 14 FOR, 12 DES, 14 VON, chifre (d10, ignora armadura)
 
-- Magical horses with a single long horn on their foreheads. Timid, but proud and willful, are seen as divine beings.
-- Their hair is worth a small fortune due to its powerful healing properties.
+- Cavalos mágicos com um único chifre longo em suas testas. Tímidos, mas orgulhosos e obstinados, são vistos como seres divinos.
+- Seu pelo vale uma pequena fortuna devido às suas poderosas propriedades curativas.
 
-## Vampire
+## Vampiro
 
-12 HP, 1 Armor, 14 STR, 12 DEX, 16 WIL, bite (d10)
+12 PG, 1 Armadura, 14 FOR, 12 DES, 16 VON, mordida (d10)
 
-- Charming, undead creatures that drink the blood of mortals. Act at night and sleep in a coffin during the day. Can change into a bat at will.
-- **Regeneration**: A damaged vampire regains 6 HP when it bites a target that has blood. If killed, it becomes a cloud of gas and retreats to its coffin, reforming at the next nightfall. Can only be killed if exposed to sunlight or if the coffin is destroyed.
-- **Critical Damage**: The vampire drains the target's essence, dealing d12 damage to WIL. If the target reaches 0 WIL this way, it dies and is raised as a thrall of the vampire.
+- Criaturas mortas-vivas charmosas que bebem o sangue de mortais. Agem à noite e dormem em um caixão durante o dia. Podem se transformar em morcego à vontade.
+- **Regeneração**: Um vampiro ferido recupera 6 PG quando morde um alvo que possua sangue. Se morto, torna-se uma nuvem de gás e recua para seu caixão, reformando-se no cair da noite seguinte. Só pode ser morto se exposto à luz solar ou se o caixão for destruído.
+- **Dano Crítico**: O vampiro drena a essência do alvo, causando d12 de dano à VON. Se o alvo chegar a 0 de VON desta forma, ele morre e é erguido como um lacaio do vampiro.
 
-## Viper
+## Víbora
 
-3 HP, 5 STR, 12 DEX, 3 WIL, bite (d6)
+3 PG, 5 FOR, 12 DES, 3 VON, mordida (d6)
 
-- Poisonous snakes often found in caves, pits, and other dark places. An antitoxin can be made from their poison sacs.
-- Use heat and smell to track their victims.
-- **Critical Damage**: Target is poisoned, dying in 1d12 hours without a cure.
+- Cobras venenosas frequentemente encontradas em cavernas, fossos e outros lugares escuros. Uma antitoxina pode ser feita de suas bolsas de veneno.
+- Usam calor e cheiro para rastrear suas vítimas.
+- **Dano Crítico**: O alvo é envenenado, morrendo em 1d12 horas sem uma cura.
 
-## Warp Panther
+## Pantera de Dobra
 
-8 HP, 13 STR, 16 DEX, 12 WIL, tentacles (d8+d8, _blast_), bite (d10)
+8 PG, 13 FOR, 16 DES, 12 VON, tentáculos (d8+d8, _explosivo_), mordida (d10)
 
-- Grotesque panther-like predators with long razored tentacles growing out of their backs.
-- Resistant to magical attacks. Caster must make a WIL save for the intended effect to succeed.
-- Can teleport a short distance away at will. Hate Blink Dogs.
+- Predadores grotescos semelhantes a panteras com tentáculos longos e afiados crescendo em suas costas.
+- Resistente a ataques mágicos; o conjurador deve fazer um salvamento de VON para que o efeito pretendido tenha sucesso.
+- Pode teletransportar-se a uma curta distância à vontade. Odeiam Cães de Fase.
 
-## Warrior Snail
+## Caracol Guerreiro
 
-4 HP, 2 Armor, 14 STR, 6 DEX, 3 WIL, tentacles (d8+d8)
+4 PG, 2 Armadura, 14 FOR, 6 DES, 3 VON, tentáculos (d8+d8)
 
-- Giant armored snails with heavy, club-like tentacles. 
-- Some species have colorful shells that can reflect magical attacks.
+- Caracóis gigantes encouraçados com tentáculos pesados em forma de porrete.
+- Algumas espécies possuem conchas coloridas que podem refletir ataques mágicos.
 
-## Water Elemental
+## Elemental da Água
 
-14 HP, 15 STR, 16 DEX, 4 WIL, spray (d8)
+14 PG, 15 FOR, 16 DES, 4 VON, jato (d8)
 
-- Rare spirits of lakes, rivers, and seas. 
-- Mundane attacks against the Water Elemental are _impaired_.
-- **Critical Damage**: Target is enveloped by the water and drowns in three rounds.
+- Espíritos raros de lagos, rios e mares.
+- Ataques mundanos contra o Elemental da Água são _prejudicados_.
+- **Dano Crítico**: O alvo é envolvido pela água e se afoga em três rodadas.
 
-## Werewolf
+## Lobisomem
 
-8 HP, 15 STR, 14 DEX, 6 WIL, claws (d6+d6), bite (d8)
+8 PG, 15 FOR, 14 DES, 6 VON, garras (d6+d6), mordida (d8)
 
-- Ferocious lycanthropes that can transform into a wolf-shape at will.
-- Mundane attacks are _impaired_ against werewolves, but attacks with weapons made of silver are _enhanced_.
-- **Critical Damage**: Target becomes infected with lycanthropy, transforming into a werewolf by the next full moon.
+- Licantropos ferozes que podem se transformar em forma de lobo à vontade.
+- Ataques mundanos são _prejudicados_ contra lobisomens, mas ataques com armas feitas de prata são _aprimorados_.
+- **Dano Crítico**: O alvo torna-se infectado com licantropia, transformando-se em um lobisomem na próxima lua cheia.
 
 ## Wight
 
-12 HP, 3 Armor, 16 STR, 8 DEX, 12 WIL, long sword (d10)
+12 PG, 3 Armadura, 16 FOR, 8 DES, 12 VON, espada longa (d10)
 
-- Grotesque, fallen warriors, raised from death for ill purpose. Often astride equally nightmarish steeds, leading lesser undead creatures into battle.
-- **Critical Damage**: On a fail, any STR loss is permanent.
+- Guerreiros caídos grotescos, erguidos da morte para propósitos malignos. Muitas vezes montados em corcéis igualmente pesadelescos, liderando criaturas mortas-vivas menores para a batalha.
+- **Dano Crítico**: Em caso de falha, qualquer perda de FOR é permanente.
 
-## Will-o-Wisp
+## Fogo-fátuo
 
-3 HP, 6 STR, 17 DEX, 12 WIL
+3 PG, 6 FOR, 17 DES, 12 VON
 
-- Nocturnal spirits of cool flame, commonly found in dense woodlands, marshes, and swamps.
-- Known to lead travelers astray, to a corpse, or back home again.
+- Espíritos noturnos de chama fria, comumente encontrados em bosques densos, pântanos e banhados.
+- Conhecidos por desviar viajantes, levá-los a um cadáver ou de volta para casa.
 
-## Wolf
+## Lobo
 
-6 HP, 12 STR, 14 DEX, 8 WIL, bite (d8)
+6 PG, 12 FOR, 14 DES, 8 VON, mordida (d8)
 
-- Large canines that dwell primarily in forest or tundra. 
-- Can be trained with effort if captured at a young age.
+- Caninos grandes que habitam principalmente florestas ou tundras.
+- Podem ser treinados com esforço se capturados jovens.
 
-## Wood Troll
+## Troll do Bosque
 
-10 HP, 15 STR, 12 DEX, 7 WIL, bite (d8), club (d10)
+10 PG, 15 FOR, 12 DES, 7 VON, mordida (d8), porrete (d10)
 
-- Large humanoids with elongated arms made of bark or root. They live in forests, sharing a deep connection with the vegetation around them.
-- If killed, they will slowly regenerate unless their corpse is taken out of the forest or burned with fire.
-- **Critical Damage**: Moss and twigs begin growing out of target's wounds.
+- Humanoides grandes com braços alongados feitos de casca ou raiz. Vivem em florestas, compartilhando uma conexão profunda com a vegetação ao redor.
+- Se mortos, regenerarão lentamente a menos que seu cadáver seja levado para fora da floresta ou queimado com fogo.
+- **Dano Crítico**: Musgo e gravetos começam a crescer nas feridas do alvo.
 
 ## Wyvern
 
-11 HP, 15 STR, 14 DEX, 13 WIL, stinger (d10)
+11 PG, 15 FOR, 14 DES, 13 VON, ferrão (d10)
 
-- Large, intelligent, winged reptiles. Dwell in any terrain, but favor dry cliffs.
-- Shy away from other creatures, preferring to silently stalk their targets from afar.
-- **Critical Damage**: The victim is impaled and held in place. The wyvern then bites their head off.
+- Répteis alados grandes e inteligentes. Habitam qualquer terreno, mas favorecem penhascos secos.
+- Evitam outras criaturas, preferindo espreitar silenciosamente seus alvos de longe.
+- **Dano Crítico**: A vítima é empalada e mantida no lugar; o wyvern então arranca sua cabeça com uma mordida.
 
-## Zombie
+## Zumbi
 
-2 HP, 12 STR, 6 DEX, 3 WIL, jagged nails (d6)
+2 PG, 12 FOR, 6 DES, 3 VON, unhas serrilhadas (d6)
 
-- Re-animated corpse brought back through necromantic ritual or fell influence. Immune to all mind-influencing effects.
-- If not utterly destroyed (by fire, complete dismemberment, etc.), the Zombie will rise again within a few minutes.
-- **Critical Damage**: Target is infected and becomes _deprived_. Without the services of a specialist or healer, they will become a zombie in 1d4 days.
+- Cadáver reanimado trazido de volta através de ritual necromântico ou influência maligna. Imune a todos os efeitos que influenciam a mente.
+- Se não for totalmente destruído (por fogo, desmembramento completo, etc.), o Zumbi se erguerá novamente em poucos minutos.
+- **Dano Crítico**: O alvo é infectado e torna-se _privado_. Sem os serviços de um especialista ou curandeiro, ele se tornará um zumbi em 1d4 dias.
