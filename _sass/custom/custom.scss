@@ -100,3 +100,12 @@ img {
   font-size: 1.25rem; /* 20px */
   font-family: 'Alegreya', Georgia, serif;
 }
+
+/* Fix differences from built-in theme and official cairnrpg.com site version */
+.site-footer {
+  color: #959396 !important;
+}
+.nav-list .nav-list-item .nav-list-link:hover,
+.nav-list .nav-list-item .nav-list-link.active {
+  color: var(--link-color) !important;
+}
