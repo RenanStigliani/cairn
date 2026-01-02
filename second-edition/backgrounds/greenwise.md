@@ -5,7 +5,7 @@ parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 
-# Herbologista
+# Verdessábio
 
 > Você se aprofunda no **Bosque**, arrancando seus segredos de entre galhos ásperos e folhas sussurrantes.  Para este reino verdejante, você não é apenas um estudioso, mas também um confidente.
 
