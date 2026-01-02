@@ -1,81 +1,81 @@
 ---
 layout: default
-title: Combat
+title: Combate
 parent: Guia do Diretor
 grand_parent: Segunda Edição
 ---
 
-# Combat
+# Combate
 
-## Introduction
+## Introdução
 
-Combat in Cairn is fast, hectic, and often lethal. In addition, the rules of combat are unique in a few key ways:
+O combate em Cairn é rápido, frenético e frequentemente letal. Além disso, as regras de combate são únicas em alguns aspectos principais:
 
-- **Side Initiative**: With the exception of the first round (when PCs must first save DEX to secure their turn), both the PCs and their opponents take turns acting together. The results of a side's individual actions occur simultaneously.
-- **Attacks Automatically Hit**: Combatants typically deal damage to their targets automatically, without rolling to see whether an attack "hits." When multiple attackers target the same foe, only the highest dice result is used in the attack.
-- **Hit Protection and Scars**: Hit Protection acts as a measurement of skill, stamina, resilience, and luck. It also refills automatically when the PC is safe and comfortable. If damage reduces a PC's HP to exactly 0, they receive a _Scar_, which can yield both positive and negative consequences.
-- **Critical Damage**: Damage that reduces a target’s HP below zero is subtracted from their STR by the amount of damage remaining. The target must then immediately make a STR save to avoid taking Critical Damage, using their new STR score. On a fail, the target is defeated.
+- **Iniciativa de Lado**: Com exceção da primeira rodada (quando os PJs devem primeiro fazer um salvamento de DES para garantir seu turno), tanto os PJs quanto seus oponentes agem juntos em seus respectivos turnos. Os resultados das ações individuais de um lado ocorrem simultaneamente.
+- **Ataques Acertam Automaticamente**: Os combatentes geralmente causam dano aos seus alvos automaticamente, sem rolar para ver se um ataque "acerta". Quando vários atacantes visam o mesmo inimigo, apenas o resultado mais alto do dado é usado no ataque.
+- **Proteção contra Golpes e Cicatrizes**: A Proteção contra Golpes (PG) atua como uma medida de habilidade, vigor, resiliência e sorte. Ela também se recupera automaticamente quando o PJ está seguro e confortável. Se o dano reduzir a PG de um PJ a exatamente 0, ele recebe uma _Cicatriz_, que pode gerar consequências tanto positivas quanto negativas.
+- **Dano Crítico**: O dano que reduz a PG de um alvo abaixo de zero é subtraído de sua FOR pela quantidade de dano restante. O alvo deve então fazer imediatamente um salvamento de FOR para evitar sofrer Dano Crítico, usando seu novo valor de FOR. Em caso de falha, o alvo é derrotado.
 
-## Example
+## Exemplo
 
-> After days of stepping through endless muck and gloom, the party has finally found the barrow belonging to the Cutlass King, the notorious bandit of a bygone age. 
+> Após dias caminhando por lama e escuridão sem fim, o grupo finalmente encontrou o túmulo pertencente ao Rei do Alfanje, o notório bandido de uma era passada.
 
-**Warden**: _"Finally, you reach the point marked on your map, and in the early morning light, the barrow's entrance becomes visible through the thick mist. But as the rolling fog begins to clear, you see a flash of colorful movement near the tomb's entrance."_
+**Facilitador**: _"Finalmente, vocês chegam ao ponto marcado no mapa e, sob a luz do início da manhã, a entrada do túmulo torna-se visível através da névoa espessa. Mas, à medida que a neblina começa a se dissipar, vocês veem um flash de movimento colorido perto da entrada da tumba."_
 
-**Freya**: _"Nothing is ever easy, is it? That must be our dear friends from the Ursine Conclave, trying to steal our thunder!"_ 
+**Freya**: _"Nada nunca é fácil, não é? Devem ser nossos queridos amigos do Conclave Ursino, tentando roubar a nossa cena!"_
 
-**Lucius**: _"Come now, we don't know that there is an immediate danger. Right?"_
+**Lucius**: _"Vamos lá, não sabemos se há um perigo imediato. Certo?"_
 
-**Wolfram**: _"It doesn't matter; we must be prepared for whatever comes next. Keep your weapons down, and I'll a shout. Perhaps we can avoid bloodshed yet."_
+**Wolfram**: _"Não importa; devemos estar preparados para o que vier a seguir. Mantenham suas armas abaixadas e eu darei um grito. Talvez ainda possamos evitar o derramamento de sangue."_
 
-**Warden**: _"You bark a traditional warning in the direction of the barrow. There is no immediate response, then only a snicker. They appear to be laughing at you! Moments later, three figures step out of the mist and directly into your line of view, each brandishing a weapon. The largest of the three grins as he wields a two-handed war ax, and the other two (a man and woman who are clearly siblings) carry identical swords. Everyone roll a DEX save to see if you can act before they do."_
+**Facilitador**: _"Você brada um aviso tradicional na direção do túmulo. Não há resposta imediata, apenas uma risada abafada depois. Eles parecem estar rindo de vocês! Momentos depois, três figuras saem da névoa diretamente para o campo de visão de vocês, cada uma brandindo uma arma. O maior dos três sorri enquanto empunha um machado de guerra de duas mãos, e os outros dois (um homem e uma mulher que são claramente irmãos) carregam espadas idênticas. Todos rolem um salvamento de DES para ver se conseguem agir antes deles."_
 
-> Wolfram, Lucius, and Freya each save DEX to see whether they can take a turn in the first round. Wolfram and Freya succeed, but Lucius does not.
+> Wolfram, Lucius e Freya fazem um salvamento de DES cada um para ver se podem jogar na primeira rodada. Wolfram e Freya têm sucesso, mas Lucius não.
 
-**Lucius**: _"Well, shoot. I guess I fumbled my cane sword in all the excitement?"_
+**Lucius**: _"Bem, droga. Acho que me atrapalhei com minha bengala-espada com toda essa emoção?"_
 
-**Warden**: _"Indeed. Alright, Wolfram and Freya, each of you can move and take one action this turn. Assuming they survive, your three opponents will then have a chance to retaliate. Then it will be the PCs' turn to act, including Lucius."_
+**Facilitador**: _"De fato. Muito bem, Wolfram e Freya, cada um de vocês pode se mover e realizar uma ação neste turno. Assumindo que sobrevivam, seus três oponentes terão então a chance de retaliar. Depois, será a vez dos PJs agirem, incluindo Lucius."_
 
-**Wolfram**: _"I don't have my crossbow ready, so I'm going to go after the big one with my silver knife. If we can take him down, the others might flee."_
+**Wolfram**: _"Não estou com minha besta pronta, então vou para cima do grandão com minha faca de prata. Se conseguirmos derrubá-lo, os outros podem fugir."_
 
-**Freya**: _"Hey, that was my plan as well! Why don't we both go after him?"_
+**Freya**: _"Ei, esse era o meu plano também! Por que não vamos os dois para cima dele?"_
 
-> Wolfram and Freya each make individual attack rolls, but only the highest number counts as damage against the large man [8 HP, 15 STR, 7 DEX, 9 WIL, battleax (d10)]. Wolfram rolls a 4, and Freya a 5 and a 1 for each dagger respectively.
+> Wolfram e Freya fazem rolagens de dano individuais, mas apenas o número mais alto conta como dano contra o homem grande [8 PG, 15 FOR, 7 DES, 9 VON, machado de batalha (d10)]. Wolfram rola um 4, e Freya um 5 e um 1 para cada adaga, respectivamente.
 
-**Warden**: _"You each rush the man with the war ax. He easily sidesteps Wolfram's initial jab but nearly isn't quick enough for Freya! He is nearly eviscerated as her twin daggers slice the air where he stood only a millisecond before. That was a close one!"_
+**Facilitador**: _"Vocês avançam contra o homem com o machado de guerra. Ele facilmente se esquiva da estocada inicial de Wolfram, mas por pouco não é rápido o suficiente para Freya! Ele é quase eviscerado quando as adagas gêmeas dela cortam o ar onde ele estava apenas um milissegundo antes. Essa foi por pouco!"_
 
-**Freya**: _"Thanks. That isn't much comfort though."_
+**Freya**: _"Obrigada. Isso não é muito reconfortante, no entanto."_
 
-> It is now the opponents' turn to attack or take an action. Although the description of these events is delivered consecutively, the results happen roughly at the same time. The Warden rolls an attack die for each enemy combatant, targeting each PC only once. The large man rolls a d10 but deals only 3 damage against Freya, while his associates each roll a d6, dealing 1 and a 6 damage against Wolfram and Lucius respectively. As the Warden narrates the results, each player records any lost HP or STR on their character sheet.
+> Agora é a vez dos oponentes atacarem ou realizarem uma ação. Embora a descrição desses eventos seja entregue consecutivamente, os resultados acontecem aproximadamente ao mesmo tempo. O Facilitador rola um dado de ataque para cada combatente inimigo, visando cada PJ apenas uma vez. O homem grande rola um d10, mas causa apenas 3 de dano contra Freya, enquanto seus associados rolam um d6 cada, causando 1 e 6 de dano contra Wolfram e Lucius, respectivamente. Enquanto o Facilitador narra os resultados, cada jogador registra qualquer PG ou FOR perdida em sua ficha de personagem.
 
-**Warden**: _"Now your opponents will get a crack at it. The large man swings his ax at Freya, but it misses, leaving a wide gap between her and the ax edge. You don't know if you'll be so lucky next time, however. Next, the shorter man stabs at Wolfram, who is the closer of the three. Luckily, the man's blade only glances off his armor. Now on to the man's sister, who nearly takes Lucius's head off with her blade. Somehow the blade doesn't draw blood but instead knocks him back so hard he nearly keels over, and his vision is filled with bright lights and sparkling things."_
+**Facilitador**: _"Agora seus oponentes terão a chance deles. O homem grande balança seu machado em direção a Freya, mas erra, deixando uma grande distância entre ela e o fio do machado. Você não sabe se terá tanta sorte da próxima vez, no entanto. Em seguida, o homem mais baixo estoca contra Wolfram, que é o mais próximo dos três. Felizmente, a lâmina do homem apenas resvala em sua armadura. Agora a irmã dele, que quase arranca a cabeça de Lucius com sua lâmina. De alguma forma, a lâmina não tira sangue, mas o empurra para trás com tanta força que ele quase tomba, e sua visão é preenchida por luzes brilhantes e coisas cintilantes."_
 
-**Lucius**: _"Ouch. I think that takes me to exactly 0 HP. I should check the Scars table, right?"_
+**Lucius**: _"Ai. Acho que isso me leva a exatamente 0 de PG. Devo verificar a tabela de Cicatrizes, certo?"_
 
-**Warden**: _"Yes, and you'll need to reference how much HP you lost in the attack. Now let's see... You had 6 HP but no armor, and you took 6 damage in the attack. That means you should receive a **Reorienting Head Wound**!"_
+**Facilitador**: _"Sim, e você precisará referenciar quanta PG você perdeu no ataque. Vejamos... Você tinha 6 de PG, mas nenhuma armadura, e sofreu 6 de dano no ataque. Isso significa que você deve receber um **Traumatismo Reorientador**!"_
 
-**Lucius**: _"You sound a little too excited about this. OK, it says I need to roll 1d6... I got a 3, which indicates DEX. Now I need to roll 3d6, and if the total is greater than my current Dexterity score, I get to keep it, right? Alright... hey, a 14! That's slightly higher than what I have already! Maybe getting knocked in the head isn't all that bad?"_
+**Lucius**: _"Você soa um pouco empolgado demais com isso. OK, diz aqui que preciso rolar 1d6... tirei um 3, o que indica DES. Agora preciso rolar 3d6 e, se o total for maior que meu valor atual de Destreza, posso manter o novo valor, certo? Certo... ei, um 14! Isso é um pouco mais alto do que o que eu já tenho! Talvez levar uma pancada na cabeça não seja tão ruim assim?"_
 
-**Warden**: _"Perhaps. One point fewer and you'd have been diseased, and one point greater and you'd lose your hearing for a while. Write down your new DEX score. You really are lucky, you know that? Anyway, it's now time for the PCs to act again."_
+**Facilitador**: _"Talvez. Um ponto a menos e você estaria doente, e um ponto a mais e perderia sua audição por um tempo. Anote seu novo valor de DES. Você é realmente sortudo, sabia disso? De qualquer forma, agora é hora dos PJs agirem novamente."_
 
-**Wolfram**: _"I shall riposte against the shorter man!"_
+**Wolfram**: _"Eu vou ripostar contra o homem mais baixo!"_
 
-**Freya**: _"I'm going to take another swing at the big fella."_
+**Freya**: _"Vou tentar outro golpe no grandalhão."_
 
-**Lucius**: _"I am going to try and stab that woman with my cane sword."_
+**Lucius**: _"Vou tentar estocar aquela mulher com minha bengala-espada."_
 
-> Wolfram rolls a d6, dealing 2 damage to the shorter man, who has enough HP to absorb the attack. Freya rolls a d6 for each of her daggers, dealing a 1 and a 3. She keeps only the higher die, and the large man is able to absorb the damage, taking his HP down to 0 (but only PCs gain Scars). Lucius rolls a 6 against the woman [5 HP, 11 STR, 8 DEX, 14 WIL]. She loses 1 point of STR in the attack and so must then roll a Critical Damage save using her _new_ STR score.
+> Wolfram rola um d6, causando 2 de dano ao homem mais baixo, que tem PG suficiente para absorver o ataque. Freya rola um d6 para cada uma de suas adagas, causando um 1 e um 3. Ela mantém apenas o dado mais alto, e o homem grande consegue absorver o dano, reduzindo sua PG a 0 (mas apenas PJs ganham Cicatrizes). Lucius rola um 6 contra a mulher [5 PG, 11 FOR, 8 DES, 14 VON]. Ela perde 1 ponto de FOR no ataque e, portanto, deve rolar um salvamento de Dano Crítico usando seu _novo_ valor de FOR.
 
-**Warden**: _"Wolfram, you stab at the shorter man, but he deftly avoids your attack! Freya, your daggers slice at the large man with impressive speed and intensity, and it's clear that you've put him on the defensive, as you can see the sweat begin pouring down the sides of his head. He is running out of steam! Lucius, your cane sword pierces the woman in the stomach! She makes a STR save to see if she can stay in the fight. She rolls a 13, a fail! She goes down!"_
+**Facilitador**: _"Wolfram, você estoca contra o homem mais baixo, mas ele evita seu ataque com destreza! Freya, suas adagas cortam na direção do homem grande com velocidade e intensidade impressionantes, e está claro que você o colocou na defensiva, pois pode ver o suor começando a escorrer pelas laterais da cabeça dele. Ele está ficando sem fôlego! Lucius, sua bengala-espada perfura a mulher no estômago! Ela faz um salvamento de FOR para ver se consegue continuar na luta. Ela rola um 13, uma falha! Ela cai!"_
 
-> This is the first casualty of the fight, so the woman's allies must make a WIL save to continue or flee. The Warden rolls using the leader's WIL, and he fails!
+> Esta é a primeira baixa da luta, então os aliados da mulher devem fazer um salvamento de VON para continuar ou fugir. O Facilitador rola usando a VON do líder, e ele falha!
 
-**Warden**: _"The short man sees his sister fall and screams a cry of anguish. He drops his sword and commands the larger man to drop his ax. 'Please,' he begs. 'I don't care about whatever is in that barrow. I beg of you: have mercy. Save my sister, if you have the means.'"_
+**Facilitador**: _"O homem baixo vê sua irmã cair e solta um grito de angústia. Ele larga sua espada e ordena ao homem maior que largue seu machado. 'Por favor', ele implora. 'Não me importo com o que quer que esteja naquele túmulo. Eu imploro a vocês: tenham piedade. Salvem minha irmã, se tiverem os meios.'"_
 
-**Wolfram**: _"My order takes mercy on all folk willing to forge a new path. If we save your sister with our skills and resources, will you vow to pledge yourself to a life of piety, poverty, and kindness?"_
+**Wolfram**: _"Minha ordem tem piedade de todo povo disposto a trilhar um novo caminho. Se salvarmos sua irmã com nossas habilidades e recursos, você jurará dedicar-se a uma vida de piedade, pobreza e bondade?"_
 
-**Warden**: _"The shorter man nods, then rushes to his sister. The larger man only smiles, then says, 'I ain't swearin' nothin'. But I do what he says, so long as he pays. Just let me keep my ax.'"_
+**Facilitador**: _"O homem mais baixo assente, depois corre para sua irmã. O homem maior apenas sorri e diz: 'Eu não juro nada. Mas faço o que ele diz, desde que ele pague. Só me deixem ficar com meu machado.'"_
 
-> The party bandage up the woman, stabilizing her. Had they not, she would have bled out within the hour. Now out of danger, the PCs take a quick swig of water and regain their lost HP. Lucius tries to impress Freya by showing off the new battle scar on his eyebrow, but it doesn't work.
+> O grupo faz curativos na mulher, estabilizando-a. Se não tivessem feito isso, ela teria sangrado até a morte em uma hora. Agora fora de perigo, os PJs tomam um gole rápido de água e recuperam sua PG perdida. Lucius tenta impressionar Freya exibindo a nova cicatriz de batalha em sua sobrancelha, mas não funciona.
 
-**Wolfram**: _"Alright, that's all sorted then. You lot make your way back to town, and we'll convene later. For now, we've got business with this Cutlass King I've read so much about."_
+**Wolfram**: _"Muito bem, tudo resolvido então. Vocês voltem para a cidade e nos reuniremos mais tarde. Por enquanto, temos negócios com esse Rei do Alfanje sobre o qual li tanto."_
