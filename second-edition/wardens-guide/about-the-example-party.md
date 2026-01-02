@@ -1,12 +1,12 @@
 ---
 layout: default
-title: About the Example Party
+title: Sobre o Grupo de Exemplo
 parent: Guia do Diretor 
 grand_parent: Segunda Edição
 ---
 
-# About the Example Party
+# Sobre o Grupo de Exemplo
 
-- **Wolfram**: A _Hexenbane_ belonging to the _Order of the Blank Eye_. Besides the usual equipment, he carries a Voidglass Shard and the _Disassemble_ Spellbook. He has taken a _Vow of Poverty_. 
-- **Lucius**: A _Mountebank_. Besides the usual equipment he carries Bandages (3 uses) and Miracle Oil (2 uses).
-- **Freya**: A _Cutpurse_. Besides the usual equipment she carries Smoke Pellets (3 uses) and a Catring (2 charges).
+- **Wolfram**: Um **Mestibruxo** pertencente à **Ordem do Olho Vazio**. Além do equipamento habitual, ele carrega um **Fragmento de Vidro do Vazio** e o Livro de Feitiço **Desmontar**. Ele fez um **Voto de Pobreza**.
+- **Lucius**: Um **Saltimbanco**. Além do equipamento habitual, ele carrega **Bandagens** (3 usos) e **Óleo Milagroso** (2 usos).
+- **Freya**: Uma **Batedora de Carteiras**. Além do equipamento habitual, ela carrega **Esferas de Fumaça** (3 usos) e um **Anel do Gato** (2 cargas).
