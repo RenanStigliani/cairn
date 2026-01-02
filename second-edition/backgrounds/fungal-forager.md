@@ -11,7 +11,7 @@ grand_parent: Segunda Edição
 
 ## Nomes
 
-Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
+Untro, Escorro, Hilda, Corrente, Folho, Ratano, Mourella, Láu, Per, Madrigal
 
 ## Equipamento Inicial
 
