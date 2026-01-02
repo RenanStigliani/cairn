@@ -1,295 +1,295 @@
 ---
-title: Creating Monsters
 layout: default
+title: Criando Monstros
 parent: Guia do Diretor 
 grand_parent: Segunda Edição
 ---
 
-# Creating Monsters
+# Criando Monstros
 
-## Overview
+## Visão Geral
 
-To create a unique monster, follow these steps:
-- Roll on the [Monster Appearance](#monster-appearance) table.
-- Roll on the [Monster Traits](#monster-traits) table.
-- Roll on the [Monster Attacks](#monster-attacks) table.
-- Roll on the [Monster Abilities](#monster-abilities) table.
-- Describe the creature's appearance, abilities, and attacks in plain English.
-- Create the creature's stats according to the principles, definitions, and stat block format below.
+Para criar um monstro único, siga estes passos:
+- Role na tabela de [Aparência do Monstro](#aparência-do-monstro).
+- Role na tabela de [Traços do Monstro](#traços-do-monstro).
+- Role na tabela de [Ataques do Monstro](#ataques-do-monstro).
+- Role na tabela de [Habilidades do Monstro](#habilidades-do-monstro).
+- Descreva a aparência, habilidades e ataques da criatura em linguagem simples.
+- Crie as estatísticas da criatura de acordo com os princípios, definições e o formato de bloco de estatísticas abaixo.
 
-## Principles
+## Princípios
 
-- Use **Critical Damage** to lean into the threat or strangeness of any aggressive NPC.
-- Use flavor and style to help creatures stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
-- Always adjust creature stats based on what is fun and interesting.
+- Use o **Dano Crítico** para enfatizar a ameaça ou a estranheza de qualquer PNJ agressivo.
+- Use descrição e estilo para ajudar as criaturas a se destacarem. Os jogadores se lembrarão de um humanoide com cara de porco procurando sua ovelha perdida com mais facilidade do que de um arqueiro goblin genérico.
+- Sempre ajuste as estatísticas da criatura com base no que for divertido e interessante.
 
-## **Hit Protection**
+## Proteção contra Golpes (PG)
 
-A creature's ability to avoid danger, whether through toughness, speed, or skill. Give average creatures 3 HP, give hardier ones 6 HP, and and give serious threats 10 or higher.
+A capacidade de uma criatura de evitar o perigo, seja por resistência, velocidade ou perícia. Dê a criaturas comuns 3 PG, às mais resistentes 6 PG e a ameaças sérias 10 ou mais.
 
-## Armor
+## Armadura
 
-For some creatures, this represents their natural toughness; for others, it may be from something that is worn or carried. If a creature is able to withstand an attack without moving, raise this number. 
+Para algumas criaturas, isso representa sua resistência natural; para outras, pode vir de algo usado ou carregado. Se uma criatura é capaz de resistir a um ataque sem se mover, aumente este número.
 
-## Ability Score
+## Valor de Atributo
 
-3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. 
+3 é deficiente, 6 é fraco, 10 é médio, 14 é notável e 18 é lendário.
 
-## Strength
+## Força (FOR)
 
-Tracks overall health, physical power, and resistance to poisons. It is the ability of a creature to survive a direct hit, not its ability to avoid danger! 
+Mede a saúde geral, o poder físico e a resistência a venenos. É a capacidade de uma criatura sobreviver a um golpe direto, não sua capacidade de evitar o perigo!
 
-## Dexterity
+## Destreza (DES)
 
-Start with **10** as a base, and if the creature is particularly quick, agile, or nimble, increase the number as necessary. If it is slow to respond, bulky, or clumsy, lower the number.
+Comece com **10** como base e, se a criatura for particularmente rápida, ágil ou habilidosa, aumente o número conforme necessário. Se for lenta para responder, volumosa ou desajeitada, diminua o número.
 
-## Willpower
+## Vontade (VON)
 
-Determines a creature's ability to withstand the influence of another, as well as their power over others. It also acts as a measurement of their defense in magical or spiritual matters.
+Determina a capacidade de uma criatura de resistir à influência de outra, bem como seu poder sobre os outros. Também atua como uma medida de sua defesa em questões mágicas ou espirituais.
 
-## Attacks
+## Ataques
 
-Typically an object (e.g. sword or bow) or a natural weapon (e.g. claws or teeth).
+Geralmente um objeto (ex: espada ou arco) ou uma arma natural (ex: garras ou dentes).
 
-## Abilities
+## Habilidades
 
-A unique action or power the creature can utilize both in and out of combat.
+Uma ação ou poder único que a criatura pode utilizar tanto dentro quanto fora de combate.
 
-- If an ability can be meaningfully avoided or defended against through traditional means, it is an Attack and interacts with HP.
-- If an ability cannot be meaningfully avoided or defended against through traditional means, it is an Ability.
-- If an ability only affects a single PC, it should generally have an immediate effect with no chance to Save in that round (possibly not at all).
-- If an ability is capable of affecting a group of PCs, it should generally call for an immediate Save.
+- Se uma habilidade pode ser evitada ou defendida de forma significativa por meios tradicionais, ela é um Ataque e interage com o PG.
+- Se uma habilidade não pode ser evitada ou defendida de forma significativa por meios tradicionais, ela é uma Habilidade.
+- Se uma habilidade afeta apenas um único PJ, ela geralmente deve ter um efeito imediato sem chance de Salvamento naquela rodada (possivelmente nunca).
+- Se uma habilidade for capaz de afetar um grupo de PJs, ela geralmente deve exigir um Salvamento imediato.
 
-## Monster Stat Block Format
+## Formato do Bloco de Estatísticas do Monstro
 
-X HP, X Armor, X STR, X DEX, X WIL, Attack (dX, special items, _qualities_)
-- An engaging descriptor of appearance, demeanor, or living habits.
-- A quirk, tactic, or peculiarity that distinguish this creature.
-- Special effect or consequence of critical damage.
+X PG, X Armadura, X FOR, X DES, X VON, Ataque (dX, itens especiais, _qualidades_)
+- Um descritor envolvente de aparência, comportamento ou hábitos de vida.
+- Uma peculiaridade, tática ou bizarria que distingue esta criatura.
+- Efeito especial ou consequência do dano crítico.
 
-## Monster Appearance
+## Aparência do Monstro
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
 |         |              |             |
 | ------- | ------------ | ----------- |
-| **d20** | **Physique** | **Feature** |
-| **1**   | Albino       | Antennae    |
-| **2**   | Black        | Beak        |
-| **3**   | Crystalline  | Carapace    |
-| **4**   | Emaciated    | Claws       |
-| **5**   | Eyeless      | Fangs       |
-| **6**   | Feathered    | Feathers    |
-| **7**   | Gelatinous   | Fur         |
-| **8**   | Glowing      | Gilled      |
-| **9**   | Hardened     | Horns       |
-| **10**  | Headless     | Markings    |
-| **11**  | Horned       | Scales      |
-| **12**  | Hunched      | Shell       |
-| **13**  | Iridescent   | Snout       |
-| **14**  | Polyocular   | Tail        |
-| **15**  | Scaled       | Talons      |
-| **16**  | Segmented    | Tentacles   |
-| **17**  | Skeletal     | Trunk       |
-| **18**  | Slimy        | Tusks       |
-| **19**  | Translucent  | Voice       |
-| **20**  | Twisted      | Wings       |
+| **d20** | **Físico** | **Característica** |
+| **1** | Albino       | Antenas     |
+| **2** | Negro        | Bico        |
+| **3** | Cristalino   | Carapaça    |
+| **4** | Esquelético  | Garras      |
+| **5** | Sem olhos    | Presas      |
+| **6** | Emplumado    | Penas       |
+| **7** | Gelatinoso   | Pelagem     |
+| **8** | Brilhante    | Guelras     |
+| **9** | Endurecido   | Chifres     |
+| **10** | Sem cabeça   | Marcas      |
+| **11** | Chifrudo     | Escamas     |
+| **12** | Corcunda     | Casco       |
+| **13** | Iridescente  | Focinho     |
+| **14** | Poliocular   | Cauda       |
+| **15** | Escamoso     | Garras de ave|
+| **16** | Segmentado   | Tentáculos  |
+| **17** | Esquelético  | Tromba      |
+| **18** | Viscoso      | Presas (Elefante)|
+| **19** | Translúcido  | Voz         |
+| **20** | Retorcido    | Asas        |
 
-## Monster Traits
+## Traços do Monstro
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
 |         |                          |                 |
 | ------- | ------------------------ | --------------- |
-| **d20** | **Quirks**               | **Weakness**    |
-| **1**   | Alters Its Size at Will  | Alcohol         |
-| **2**   | Changes Color at Will    | Cold            |
-| **3**   | Collects Rare Flowers    | Conversation    |
-| **4**   | Collects Trophies        | Flattery        |
-| **5**   | Does Not Die of Old Age  | Games           |
-| **6**   | Draws Symbols            | Gifts           |
-| **7**   | Fascinated by Fire       | Iron            |
-| **8**   | Hoards Books             | Loud Noises     |
-| **9**   | Loves a Specific Color   | Mirrors         |
-| **10**  | Reborn Each Day          | Bright Colors   |
-| **11**  | Loves Shiny Objects      | Moonlight       |
-| **12**  | Mimics Voices            | Music           |
-| **13**  | Moves in a Straight Line | Prepared Meals  |
-| **14**  | Narrates Everything      | Puzzles         |
-| **15**  | Obsessively Cleans       | Religious Icons |
-| **16**  | Plants Grow in Its Wake  | Salt            |
-| **17**  | Sleeps Upside Down       | Silver          |
-| **18**  | Speaks in Rhymes         | Sunlight        |
-| **19**  | Sweats Rare Minerals     | True Name       |
-| **20**  | Reproduces Asexually     | Weak Spot       |
+| **d20** | **Peculiaridades** | **Fraqueza** |
+| **1** | Altera seu tamanho à vontade | Álcool      |
+| **2** | Muda de cor à vontade    | Frio            |
+| **3** | Coleciona flores raras   | Conversa        |
+| **4** | Coleciona troféus        | Adulação        |
+| **5** | Não morre de velhice     | Jogos           |
+| **6** | Desenha símbolos         | Presentes       |
+| **7** | Fascinado por fogo       | Ferro           |
+| **8** | Acumula livros           | Ruídos altos    |
+| **9** | Ama uma cor específica   | Espelhos        |
+| **10** | Renasce a cada dia       | Cores berrantes |
+| **11** | Ama objetos brilhantes   | Luar            |
+| **12** | Imita vozes              | Música          |
+| **13** | Move-se em linha reta    | Refeições prontas|
+| **14** | Narra tudo               | Enigmas         |
+| **15** | Limpa obsessivamente     | Ícones religiosos|
+| **16** | Plantas crescem em seu rastro | Sal        |
+| **17** | Dorme de cabeça para baixo | Prata         |
+| **18** | Fala em rimas            | Luz solar       |
+| **19** | Sua suor é mineral raro  | Nome Verdadeiro |
+| **20** | Reproduz-se assexuadamente | Ponto fraco   |
 
-## Monster Attacks
+## Ataques do Monstro
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
 |         |          |                     |
 | ------- | -------- | ------------------- |
-| **d20** | **Type** | **Critical Damage** |
-| **1**   | Bites    | Asphyxiates         |
-| **2**   | Blunts   | Bleeds              |
-| **3**   | Burns    | Blinds              |
-| **4**   | Freezes  | Breaks              |
-| **5**   | Gases    | Crushes             |
-| **6**   | Kicks    | Decays              |
-| **7**   | Punches  | Dissolves           |
-| **8**   | Shoots   | Ensnares            |
-| **9**   | Slams    | Explodes            |
-| **10**  | Slashes  | Grapples            |
-| **11**  | Slices   | Incapacitates       |
-| **12**  | Smashes  | Lacerates           |
-| **13**  | Sprays   | Liquefies           |
-| **14**  | Squeezes | Paralyzes           |
-| **15**  | Stabs    | Petrifies           |
-| **16**  | Stings   | Poisons             |
-| **17**  | Throws   | Punctures           |
-| **18**  | Touches  | Severs              |
-| **19**  | Whips    | Tramples            |
-| **20**  | Zaps     | Weakens             |
+| **d20** | **Tipo** | **Dano Crítico** |
+| **1** | Morde    | Asfixia             |
+| **2** | Bate (Corte Cego) | Sangra       |
+| **3** | Queima   | Cega                |
+| **4** | Congela  | Quebra              |
+| **5** | Expele gás| Esmaga              |
+| **6** | Chuta    | Apodrece            |
+| **7** | Soca     | Dissolve            |
+| **8** | Atira    | Enreda              |
+| **9** | Golpeia  | Explode             |
+| **10** | Corta (Rasga)| Agarra           |
+| **11** | Fatia    | Incapacita          |
+| **12** | Estraçalha| Lacera             |
+| **13** | Borrifa   | Liquefaz           |
+| **14** | Aperta   | Paralisa            |
+| **15** | Perfura  | Petrifica           |
+| **16** | Ferroa   | Envenena            |
+| **17** | Arremessa| Punciona            |
+| **18** | Toca     | Decepa              |
+| **19** | Chicoteia| Pisoteia            |
+| **20** | Eletrocuta| Enfraquece         |
 
-## Monster Abilities
+## Habilidades do Monstro
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
 |         |             |              |
 | ------- | ----------- | ------------ |
-| **d20** | **Ability** | **Target**   |
-| **1**   | Absorbs     | Body         |
-| **2**   | Amplifies   | Dreams       |
-| **3**   | Attracts    | Element      |
-| **4**   | Binds       | Emotions     |
-| **5**   | Camouflages | Energy       |
-| **6**   | Conjures    | Health       |
-| **7**   | Controls    | Hearing      |
-| **8**   | Disables    | Illusions    |
-| **9**   | Duplicates  | Light        |
-| **10**  | Grows       | Memory       |
-| **11**  | Manipulates | Metal        |
-| **12**  | Reflects    | Plants       |
-| **13**  | Regenerates | Spirit       |
-| **14**  | Resists     | Stone        |
-| **15**  | Reverses    | Surroundings |
-| **16**  | Shapes      | Time         |
-| **17**  | Shrinks     | Vision       |
-| **18**  | Transforms  | Water        |
-| **19**  | Traps       | Weather      |
-| **20**  | Zaps        | Weakens      |
+| **d20** | **Habilidade** | **Alvo** |
+| **1** | Absorve     | Corpo        |
+| **2** | Amplifica   | Sonhos       |
+| **3** | Atrai       | Elemento     |
+| **4** | Vincula     | Emoções      |
+| **5** | Camufla     | Energia      |
+| **6** | Conjura     | Saúde        |
+| **7** | Controla    | Audição      |
+| **8** | Desabilita  | Ilusões      |
+| **9** | Duplica     | Luz          |
+| **10** | Cresce      | Memória      |
+| **11** | Manipula    | Metal        |
+| **12** | Reflete     | Plantas      |
+| **13** | Regenera    | Espírito     |
+| **14** | Resiste     | Pedra        |
+| **15** | Inverte     | Arredores    |
+| **16** | Molda       | Tempo        |
+| **17** | Encolhe     | Visão        |
+| **18** | Transforma  | Água         |
+| **19** | Aprisiona   | Clima        |
+| **20** | Eletrocuta  | Fraqueza     |
 
-## Monster Example
+## Exemplo de Monstro
 
-- **Appearance**: _Hunched_ + _Carapace_.
-- **Traits**: _Moves in a straight line_ + _Weak Spot_
-- **Attack**: _Smashes_ + _Grapples_.
-- **Abilities**: _Disables_ + _Hearing_
+- **Aparência**: *Corcunda* + *Casco*.
+- **Traços**: *Move-se em linha reta* + *Ponto fraco*.
+- **Ataque**: *Estraçalha* + *Agarra*.
+- **Habilidades**: *Desabilita* + *Audição*.
 
-_A snail-like creature with a hard shell. It moves only in straight lines, and has a soft underbelly. It rolls into opponents, pulling them into its wild orbit. The roar of its movement drowns out any other sounds._
+*Uma criatura semelhante a um caracol com uma concha dura. Ela se move apenas em linhas retas e tem uma barriga macia. Ela rola contra os oponentes, puxando-os para sua órbita selvagem. O rugido de seu movimento abafa qualquer outro som.*
 
-This creature is physically tough, with higher than average **STR** and strong armor. It is probably fast but not maneuverable, and likely doesn't rely on skill or dexterity to avoid danger. It is brutish, but it is still a wild beast and only as willful as any creature just looking for its next meal. It attacks by rolling in a straight line and should impact multiple targets.
+Esta criatura é fisicamente resistente, com **FOR** acima da média e armadura forte. Ela provavelmente é rápida, mas não manobrável, e provavelmente não depende de perícia ou destreza para evitar o perigo. É bruta, mas ainda é uma fera selvagem e apenas tão decidida quanto qualquer criatura procurando sua próxima refeição. Ela ataca rolando em linha reta e deve impactar vários alvos.
 
-### Thunder Snail
+### Caracol do Trovão
 
-6 HP, 2 Armor, 14 STR, 6 DEX, 4 WIL, smash & roll (d10, _blast_)
+6 PG, 2 Armadura, 14 FOR, 6 DES, 4 VON, esmagar & rolar (d10, _explosivo_)
 
-- Thick-shelled beasts that attack by rolling over their opponents in a straight line. The noise of their tumbling shells is deafening.
-- **Critical Damage**: Target is pulled into its rolling momentum, losing an additional 1 STR per round until freed (STR save to escape).
+- Bestas de concha grossa que atacam rolando sobre seus oponentes em linha reta. O barulho de suas conchas tombando é ensurdecedor.
+- **Dano Crítico**: O alvo é puxado para o momento do rolamento, perdendo 1 ponto adicional de FOR por rodada até ser libertado (Salvamento de FOR para escapar).
 
-## Converting Monsters
+## Convertendo Monstros
 
-There is no perfect system for converting from other systems. Here are some tips that might help with the process!
+Não existe um sistema perfeito para conversão de outros sistemas. Aqui estão algumas dicas que podem ajudar no processo!
 
-- **Hit Protection**: A good rule of thumb is to give the creature +1 HP for every **HD**, on top of a minimum **3 HP** (the average person). I usually think of **HD** as equivalent to a d6, which has a _mean_ of 3.5. Always start with a creature's **HP** _first_, _then_ do their **STR**.
-- **Armor**: Look for phrases like "as leather" and "as plate" in the original stat blocks. When converting from B/X style games like Old School Essentials, ignore THAC0 and use descending AC whenever possible (7 = Leather, 5 = Chainmail, 3 = Plate mail). If only ascending AC is given, you can use (12 = Leather, 14 = Chainmail, 16 = Plate mail). Whichever system you're converting from, the Armor values range from 1-3 only.
-- **Strength**: Look at the creature's **HD** and **HP**. If a creature is difficult to kill but _not_ because they are nimble or skilled, give them more **STR** (but _not_ more **HP**). Start with 10 **STR** (the average) and go up or down from there.
-- **Dexterity**: Start with **10** as a base, and if the creature is particularly quick (often referred to as "speed" or SP), agile, or nimble-fingered, raise the number. If it is slow to respond, bulky, or clumsy, lower the number. See [Saving Throws](#saving-throws) below for more!
-- **Willpower**: **Morale** (**ML**) can be a good guidepost, and it typically ranges between 2-12. The greater the creature's personality, spirit, or presence, the higher the WIL they should have. The following table offers a decent guide on converting **ML** to **WIL**.
+- **Proteção contra Golpes**: Uma boa regra é dar à criatura +1 PG para cada **Ddv** (Dado de vida), além de um mínimo de **3 PG** (uma pessoa comum). Geralmente considera-se **Ddv** como equivalente a um d6, que tem uma média de 3,5. Sempre defina o **PG** da criatura *primeiro*, *depois* a sua **FOR**.
+- **Armadura**: Procure frases como "como couro" e "como placas" nos blocos de estatísticas originais. Ao converter de jogos estilo B/X como Old School Essentials, ignore o THAC0 e use CA descendente sempre que possível (7 = Couro, 5 = Cota de Malha, 3 = Armadura de Placas). Se apenas a CA ascendente for fornecida, você pode usar (12 = Couro, 14 = Cota de Malha, 16 = Armadura de Placas). Independentemente do sistema de origem, os valores de Armadura variam apenas de 1 a 3.
+- **Força**: Observe o **Ddv** e o **HP** da criatura. Se uma criatura é difícil de matar mas *não* porque é ágil ou habilidosa, dê a ela mais **FOR** (mas *não* mais **PG**). Comece com 10 **FOR** (a média) e suba ou desça a partir daí.
+- **Destreza**: Comece com **10** como base e, se a criatura for particularmente rápida (frequentemente referido como "velocidade" ou Speed), ágil ou de mãos leves, aumente o número. Se for lenta para responder, volumosa ou desajeitada, diminua o número. Veja [Salvamentos](#salvamentos) abaixo para mais detalhes!
+- **Vontade**: A **Moral** (**ML**) pode ser um bom guia e geralmente varia entre 2 e 12. Quanto maior a personalidade, espírito ou presença da criatura, maior deve ser a VON. A tabela a seguir oferece um guia razoável para converter **ML** em **VON**.
 
 |         |     |     |     |     |
 | ------- | --- | --- | --- | --- |
-| **ML**  | 4   | 8   | 10  | 12  |
-| **WIL** | 6   | 12  | 15  | 18  |
+| **ML** | 4   | 8   | 10  | 12  |
+| **VON** | 6   | 12  | 15  | 18  |
 
-### Saving Throws
+### Salvamentos
 
-- You can rely on _saving throws_ to glean more information about a creature's abilities, specifically their ability to avoid death by physical trauma, magic, or poison. 
-- Stat blocks will use a shorthand like (E1) or (F1) (Level 1 Elf or Fighter respectively). These are really helpful for quickly identifying the creature's abilities.
-- Consider adding descriptive tags such as "immune to toxic gas" or "good at dodging" based on the saving throws. The following table should help determine which saving throws should result in an increase in one of the relevant ability scores.
+- Você pode contar com os *salvamentos* para obter mais informações sobre as habilidades de uma criatura, especificamente sua capacidade de evitar a morte por trauma físico, magia ou veneno.
+- Blocos de estatísticas usam abreviações como (E1) ou (G1) (Elfo de Nível 1 ou Guerreiro, respectivamente). Elas são muito úteis para identificar rapidamente as habilidades da criatura.
+- Considere adicionar etiquetas descritivas como "imune a gás tóxico" ou "bom em esquiva" com base nos salvamentos. A tabela a seguir ajuda a determinar quais salvamentos devem resultar em um aumento em um dos atributos relevantes.
 
 |                                |                    |
 | ------------------------------ | ------------------ |
-| **Death or Poison**            | **STR**            |
-| **Wands**                      | **DEX**            |
-| **Paralysis or Petrification** | **WIL** or **STR** |
-| **Breath Attacks**             | **DEX** or **STR** |
-| **Spells, Rods or Staves**     | **WIL**            |
+| **Morte ou Veneno** | **FOR** |
+| **Varinhas** | **DES** |
+| **Paralisia ou Petrificação** | **VON** ou **FOR** |
+| **Ataques de Sopro** | **DES** ou **FOR** |
+| **Feitiços, Cajados ou Varas** | **VON** |
 
-### Combat
+### Combate
 
-- **Damage Die**: Can typically be copied "as is" from most OSR systems, but it's a good idea to check with the weapons listed in the Marketplace first.
-- **Multiple attacks**: Convert to _blast_ or to multiple dice (e.g. d6+d6).
-- **Devastating Attacks**: Consider making the damage _enhanced_, assign the _blast_ tag, or giving the attack multiple dice.
+- **Dado de Dano**: Geralmente pode ser copiado "como está" da maioria dos sistemas OSR, mas é uma boa ideia verificar primeiro com as armas listadas no Mercado.
+- **Ataques múltiplos**: Converta para *explosivo* ou para múltiplos dados (ex: d6+d6).
+- **Ataques Devastadores**: Considere tornar o dano *aprimorado*, atribuir a etiqueta *explosivo* ou dar ao ataque múltiplos dados.
 
-### Abilities
+### Habilidades
 
-- Sometimes the mechanics of the original system simply _do not translate_. That's OK! Try to focus on what's most interesting about the creature, and write a "version" of their ability more appropriate to Cairn.
-- Abilities can sometimes be made into attacks (with a damage die), leaving Critical Damage to reveal the real impact. 
-- If the monster has an attack that asks the PCs to attempt to dodge or save against some ability, consider making the ability an out-of-combat "trap" that the PCs can trigger. Otherwise, make it succeed automatically. Combat is dangerous, and it is up to the Warden to properly telegraph danger before the fighting begins.
+- Às vezes, as mecânicas do sistema original simplesmente *não se traduzem*. Tudo bem! Tente focar no que é mais interessante sobre a criatura e escreva uma "versão" de sua habilidade mais apropriada para Cairn.
+- Habilidades às vezes podem ser transformadas em ataques (com um dado de dano), deixando o Dano Crítico para revelar o impacto real.
+- Se o monstro tem um ataque que pede aos PJs para tentarem esquivar ou salvar contra alguma habilidade, considere transformar a habilidade em uma "armadilha" fora de combate que os PJs podem ativar. Caso contrário, faça-a ter sucesso automaticamente. O combate é perigoso, e cabe ao Diretor telegrafar adequadamente o perigo antes que a luta comece.
 
-### Magic
+### Magia
 
-- Magical creatures can "know" a bunch of spells without needing to carry Spellbooks. In this case, make their corpses magical (and dangerous)!
-- Spells are tricky; you can give magic-users Spellbooks, but remember, they might _drop_ them when defeated.
-- Consider making some of the dropped Spellbooks implode (use the Die of Fate to determine which).
+- Criaturas mágicas podem "conhecer" um monte de feitiços sem precisar carregar Livros de Feitiço. Nesse caso, torne seus cadáveres mágicos (e perigosos)!
+- Feitiços são complicados; você pode dar Livros de Feitiço a usuários de magia, mas lembre-se, eles podem *deixá-los cair* ao serem derrotados.
+- Considere fazer com que alguns dos Livros de Feitiço caídos implodam (use o Dado de Sorte para determinar quais).
 
-### Use the Fiction
+### Use a Ficção
 
-The easiest way to convert a monster from another system is to read the original stat block and any associated text, then write a few sentences about the creature in plain English. Finally, convert what you've written to the Cairn monster stat block.
+A maneira mais fácil de converter um monstro de outro sistema é ler o bloco de estatísticas original e qualquer texto associado, então escrever algumas frases sobre a criatura em linguagem simples. Por fim, converta o que você escreveu para o bloco de estatísticas de monstro do Cairn.
 
-Take for example this creature:
+Tome como exemplo esta criatura:
 
-#### Foxwoman
+#### Mulher-Raposa (Foxwoman)
 
-Can take the form of a fox or a 7' tall fox-headed woman. 
-_HD 5, Speed 120', Armor 14, Morale 11, Attack: +4 d8hp (claw, bite or choke)_
-- Defense: Cannot be harmed by metal
-- Special: Can transform into a fox or a maiden with one fox leg hidden (same stats) at will
+Pode assumir a forma de uma raposa ou de uma mulher de 2,10m com cabeça de raposa.
+_HD 5, Speed 120', Armor 14, Morale 11, Attack: +4 d8hp (garra, mordida ou estrangulamento)_
+- Defesa: Não pode ser ferida por metal
+- Especial: Pode se transformar em uma raposa ou em uma donzela com uma perna de raposa escondida (mesmas estatísticas) à vontade
 
-_**Using the example above, I can see that she:**_  
-- She appears as a 7-foot tall human woman with the head of a fox.
-- She doesn't have super high HP, and she's quite fast.
-- Her **ML** is pretty high, and she's obviously quite willful.
-- She is agile and lithe.
-- She attacks with teeth and claws (choking her prey if possible).
-- She can transform into a fox at will.
-- She is immune to metal weapons.
+_**Usando o exemplo acima, posso ver que:**_  
+- Ela aparece como uma mulher humana de 2,10m de altura com cabeça de raposa.
+- Ela não tem um PG super alto e é bastante rápida.
+- Sua **ML** é bem alta e ela é obviamente muito decidida.
+- Ela é ágil e flexível.
+- Ela ataca com dentes e garras (estrangulando sua presa, se possível).
+- Ela pode se transformar em uma raposa à vontade.
+- Ela é imune a armas de metal.
 
-_**What can we learn from this?**_
-- She's fast, and probably savvy in a fight. If we start from **3 HP** and add 1 **HP** per **HD**, that means she has **8 HP**.
-- I don't think foxes have protective hides, and she's otherwise human beside her head. **No Armor**.
-- She is decently strong. A normal human has 10 **STR** and she's a little bigger. **12 STR**.
-- I can imagine her hunting prey over the snowy tundra. She's fast. **14 DEX**.
-- Her **ML** is high, and foxes are known for their cunning. **15 WIL**.
-- For her attacks, I'd go with claws (d6+d6) and bite (d8).
+_**O que podemos aprender com isso?**_
+- Ela é rápida e provavelmente experiente em uma luta. Se começarmos com **3 PG** e adicionarmos 1 **PG** por **HD**, isso significa que ela tem **8 PG**.
+- Não creio que raposas tenham peles protetoras, e ela é humana fora a cabeça. **Sem Armadura**.
+- Ela é decentemente forte. Um humano normal tem 10 **FOR** e ela é um pouco maior. **12 FOR**.
+- Posso imaginá-la caçando presas na tundra nevada. Ela é rápida. **14 DES**.
+- Sua **ML** é alta e raposas são conhecidas por sua astúcia. **15 VON**.
+- Para seus ataques, eu escolheria garras (d6+d6) e mordida (d8).
 
-_**This information leaves us with the following:**_
-8 HP, 12 STR, 14 DEX, 15 WIL, claws (d6+d6), bite (d8)
+_**Essas informações nos deixam com o seguinte:**_
+8 PG, 12 FOR, 14 DES, 15 VON, garras (d6+d6), mordida (d8)
 
-_**Now on to her abilities:**_
-This is pretty straightforward. We simply read the fictional stat block we created earlier!
-- She appears as a 7-foot tall human woman with the head of a fox.
-- She can transforms into a fox at will.
-- She is immune to attacks from metal weapons.
-- She chokes her victims into unconsciousness.
+_**Agora passamos para as suas habilidades:**_
+Isso é bem direto. Simplesmente lemos o bloco ficcional que criamos antes!
+- Ela aparece como uma mulher humana de 2,10m de altura com cabeça de raposa.
+- Ela pode se transformar em uma raposa à vontade.
+- Ela é imune a ataques de armas de metal.
+- Ela estrangula suas vítimas até a inconsciência.
 
-_**The final result**_:
+_**O resultado final**_:
 
-#### Foxwoman
+#### Mulher-Raposa
 
-8 HP, 12 STR, 14 DEX, 15 WIL, claws (d6+d6), bite (d8)
+8 PG, 12 FOR, 14 DES, 15 VON, garras (d6+d6), mordida (d8)
 
-- Can take the form of a fox or a woman with a hidden fox leg.
-- Immune to attacks from metal weapons.
-- **Critical damage**: Victim is choked unconscious.
+- Pode assumir a forma de uma raposa ou de uma mulher com uma perna de raposa escondida.
+- Imune a ataques de armas de metal.
+- **Dano crítico**: A vítima é estrangulada até ficar inconsciente.
