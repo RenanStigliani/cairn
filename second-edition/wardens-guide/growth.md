@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Growth
-parent: Warden's Guide 
+parent: Guia do Diretor 
 grand_parent: Segunda Edição
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Knowledge And Perception
-parent: Warden's Guide 
+parent: Guia do Diretor 
 grand_parent: Segunda Edição
 ---
 

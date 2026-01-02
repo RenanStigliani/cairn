@@ -1,599 +1,599 @@
 ---
 title: Forest Seeds
 layout: default
-parent: Warden's Guide 
+parent: Guia do Diretor 
 grand_parent: Segunda Edição
 ---
 
-# Forest Seeds
+# Sementes Florestais
 
 ## Forestcrawls
 
-A forestcrawl is a simple method for exploring a large forested area, typically made up of branching trails connecting scattered points of interest. While a forestcrawl has some of the same properties as a traditional dungeon delve, it swaps stone walls and ceilings for the dense, non-linear design of a heavily wooded area. Instead of rooms, points of interest are defined as clearings or major changes in the forested landscape. However unlike exploring a dungeon, characters can take shortcuts, go "off-trail," or climb trees to get a better look around (with a cost, of course).
+Um *forestcrawl* é um método simples para explorar uma grande área florestal, geralmente composta por trilhas ramificadas que conectam pontos de interesse espalhados. Embora um *forestcrawl* compartilhe algumas propriedades com uma exploração de masmorra tradicional, ele troca paredes e tetos de pedra pelo design denso e não linear de uma área densamente arborizada. Em vez de salas, os pontos de interesse são definidos como clareiras ou grandes mudanças na paisagem florestal. No entanto, ao contrário da exploração de uma masmorra, os personagens podem tomar atalhos, sair da trilha ou subir em árvores para observar melhor os arredores (com um custo, é claro).
 
-### Exploring The Wood
+### Explorando o Bosque
 
-- Follow the _Dungeon_ exploration procedures found in the Player's Guide, but rather than rolling for Dungeon Events, use the Wilderness Events table instead.
-- If the party attempts to step off the trail and cut through the forest, the Warden should make any associated costs clear: added travel time, effort, special tools that may be required, and any obvious dangers. Going off-trail also automatically triggers a roll on the Wilderness Events table.
-- Points in a forestcrawl are close to each other. When traveling on clearly marked trails, a small forest (10-15 POIs) can be explored in a single Watch.
-- Rely on the fiction and common sense to determine how much daylight is available, whether a suitable area is available for rest, and what the costs or dangers the forest may contain in the darkness. 
+- Siga os procedimentos de exploração de *Masmorra* encontrados no Guia do Jogador, mas, em vez de rolar para Eventos de Masmorra, use a tabela de Eventos de Ermos.
+- Se o grupo tentar sair da trilha e cortar caminho pela floresta, o Diretor deve deixar claro quaisquer custos associados: tempo de viagem adicional, esforço, ferramentas especiais que possam ser necessárias e quaisquer perigos óbvios. Sair da trilha também ativa automaticamente uma rolagem na tabela de Eventos de Ermos.
+- Os pontos em um *forestcrawl* são próximos uns dos outros. Ao viajar por trilhas claramente marcadas, uma floresta pequena (10-15 PDIs) pode ser explorada em uma única Vigília.
+- Confie na ficção e no bom senso para determinar quanta luz do dia está disponível, se uma área adequada está disponível para descanso e quais custos ou perigos a floresta pode conter na escuridão.
 
-## Creating a Forest
+## Criando uma Floresta
 
-Follow this procedure for any forested terrain in a region. If a conflict or interesting pattern emerges, be open to restating or modifying any earlier results! 
+Siga este procedimento para qualquer terreno florestal em uma região. Se um conflito ou padrão interessante surgir, esteja aberto para reformular ou modificar quaisquer resultados anteriores!
 
-### Materials Required
+### Materiais Necessários
 
-- A sheet of paper and a notebook. Letter/A4 is fine.
-- Pencils and erasers. Colored pencils or crayons are good, too.
-- At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
+- Uma folha de papel e um caderno. Formato Carta/A4 serve.
+- Lápis e borrachas. Lápis de cor ou giz de cera também são bons.
+- Pelo menos um d6 e um d20, mas 6d6 e 2d20 seriam ideais.
 
-> Going forward, we will refer to the sheet of paper as the **map**.
-> As with any other rule, if you don't like a table result, roll again or tweak as desired!
+> Doravante, chamaremos a folha de papel de **mapa**.
+> Como em qualquer outra regra, se você não gostar do resultado de uma tabela, role novamente ou ajuste conforme desejar!
 
-### Overview
+### Visão Geral
 
-1. Describe the forest.
-2. Describe the spirit of the forest.
-3. Create the forest's POIs.
-4. Create the forest's trails.
-5. Create forest encounters.
-6. Name the forest.
+1. Descreva a floresta.
+2. Descreva o espírito da floresta.
+3. Crie os PDIs da floresta.
+4. Crie as trilhas da floresta.
+5. Crie encontros florestais.
+6. Nomeie a floresta.
 
-## Forest Description
+## Descrição da Floresta
 
-Roll on the [Forest Description](#forest-description) and write the results in your notebook. This table both indicates how outsiders perceive the forest as well as any unique natural features it may have. If the forested terrain was generated using the methods described in the Setting Seeds chapter, consider how the associated Landmark affects it as well.
+Role na tabela [Descrição da Floresta](#descrição-da-floresta) e escreva os resultados em seu caderno. Esta tabela indica tanto como os forasteiros percebem a floresta quanto quaisquer características naturais únicas que ela possa ter. Se o terreno florestal foi gerado usando os métodos descritos no capítulo Sementes de Cenário, considere como o Marco Geográfico associado o afeta também.
 
-> Landmarks help travelers navigate through the dense foliage, acting as geographic reference points: unusually tall trees, watchtowers, and so on. Most forest landmarks are visible only by climbing a tree, though a few are large enough to stand out from the green. Some landmarks are _heard_ rather than seen.
+> Marcos ajudam os viajantes a navegar pela folhagem densa, agindo como pontos de referência geográfica: árvores extraordinariamente altas, torres de vigia e assim por diante. A maioria dos marcos florestais só é visível ao subir em uma árvore, embora alguns sejam grandes o suficiente para se destacarem no verde. Alguns marcos são *ouvidos* em vez de vistos.
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
-|         |                 |                 |
-| ------- | --------------- | --------------- |
-| **d20** | **Description** | **Description** |
-| **1**   | Barren          | Ancient         |
-| **2**   | Crystalline     | Awakening       |
-| **3**   | Diseased        | Buzzing         |
-| **4**   | Dying           | Decaying        |
-| **5**   | Flowering       | Flooded         |
-| **6**   | Glowing         | Foggy           |
-| **7**   | Hallowed        | Frigid          |
-| **8**   | Mossy           | Frozen          |
-| **9**   | Murky           | Fungal          |
-| **10**  | Perilous        | Hidden          |
-| **11**  | Petrified       | Infested        |
-| **12**  | Polluted        | Misty           |
-| **13**  | Primeval        | Mossy           |
-| **14**  | Scorched        | Overgrown       |
-| **15**  | Secluded        | Sacred          |
-| **16**  | Suffocating     | Secluded        |
-| **17**  | Timeless        | Silent          |
-| **18**  | Uncharted       | Smoldering      |
-| **19**  | Unspoilt        | Sunlit          |
-| **20**  | Winding         | Wild            |
+|         |               |                |
+| ------- | ------------- | -------------- |
+| **d20** | **Descrição** | **Descrição**  |
+| **1**   | Estéril       | Antiga         |
+| **2**   | Cristalina    | Despertando    |
+| **3**   | Doente        | Zumbinte       |
+| **4**   | Moribunda     | Decadente      |
+| **5**   | Florida       | Inundada       |
+| **6**   | Brilhante     | Nevoenta       |
+| **7**   | Consagrada    | Gélida         |
+| **8**   | Musgosa       | Congelada      |
+| **9**   | Turva         | Fúngica        |
+| **10**  | Perigosa      | Escondida      |
+| **11**  | Petrificada   | Infestada      |
+| **12**  | Poluída       | Enevoada       |
+| **13**  | Primitiva     | Musgosa        |
+| **14**  | Queimada      | Sobrecarregada |
+| **15**  | Isolada       | Sagrada        |
+| **16**  | Sufocante     | Reclusa        |
+| **17**  | Atemporal     | Silenciosa     |
+| **18**  | Desconhecida  | Fumegante      |
+| **19**  | Intocada      | Iluminada      |
+| **20**  | Sinuosa       | Selvagem       |
 
-## The Spirit of the Forest
+## O Espírito da Floresta
 
-In some ways, the Wood is a single entity, its brain alive within every tree and plant, connected via a network of thorn and branch. The animals and plants are its limbs, directing its wants, desires, fears, and needs. The creatures that live within its boundaries are its blood, answering its call by delivering much needed defenses and rebuffing interlopers. The Wood will always protect itself and its children. Roll on the [Traits](#traits) and [Forest Agenda](#forest-agenda) tables, writing the results in your notebook. This describes the general attitude of the creatures found in the forest as well as what the forest _wants_ as a whole.
+De certa forma, o Bosque é uma única entidade, seu cérebro vivo dentro de cada árvore e planta, conectado através de uma rede de espinhos e galhos. Os animais e plantas são seus membros, direcionando seus desejos, anseios, medos e necessidades. As criaturas que vivem dentro de seus limites são seu sangue, respondendo ao seu chamado ao entregar defesas necessárias e repelir intrusos. O Bosque sempre protegerá a si mesmo e a seus filhos. Role nas tabelas de [Traços](#traços) e [Agenda da Floresta](#agenda-da-floresta), anotando os resultados em seu caderno. Isso descreve a atitude geral das criaturas encontradas na floresta, bem como o que a floresta *quer* como um todo.
 
-### Traits
+### Traços
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
-|         |             |                |
-| ------- | ----------- | -------------- |
-| **d20** | **Virtues** | **Vices**      |
-| **1**   | Adaptive    | Aggressive     |
-| **2**   | Balanced    | Aloof          |
-| **3**   | Brave       | Covetous       |
-| **4**   | Clever      | Detached       |
-| **5**   | Cultivating | Dominating     |
-| **6**   | Empathic    | Doubtful       |
-| **7**   | Enduring    | Invasive       |
-| **8**   | Graceful    | Judgmental     |
-| **9**   | Hardy       | Naive          |
-| **10**  | Harmonious  | Obscuring      |
-| **11**  | Independent | Overzealous    |
-| **12**  | Learned     | Parasitic      |
-| **13**  | Nurturing   | Passive        |
-| **14**  | Observant   | Polluting      |
-| **15**  | Purifying   | Predatory      |
-| **16**  | Resolute    | Prideful       |
-| **17**  | Sensible    | Rigid          |
-| **18**  | Sharp       | Scatterbrained |
-| **19**  | Stable      | Selfish        |
-| **20**  | Trusting    | Territorial    |
+|         |              |               |
+| ------- | ------------ | ------------- |
+| **d20** | **Virtudes** | **Vícios**    |
+| **1**   | Adaptável    | Agressiva     |
+| **2**   | Equilibrada  | Distante      |
+| **3**   | Corajosa     | Cobiçosa      |
+| **4**   | Astuta       | Desapegada    |
+| **5**   | Cultivadora  | Dominadora    |
+| **6**   | Empática     | Duvidosa      |
+| **7**   | Resiliente   | Invasiva      |
+| **8**   | Graciosa     | Julgadora     |
+| **9**   | Robusta      | Inocente      |
+| **10**  | Harmoniosa   | Obscura       |
+| **11**  | Independente | Fanática      |
+| **12**  | Erudita      | Parasitária   |
+| **13**  | Nutridora    | Passiva       |
+| **14**  | Observadora  | Poluidora     |
+| **15**  | Purificadora | Predadora     |
+| **16**  | Resoluta     | Orgulhosa     |
+| **17**  | Sensata      | Rígida        |
+| **18**  | Aguçada      | Desorganizada |
+| **19**  | Estável      | Egoísta       |
+| **20**  | Confiante    | Territorial   |
 
-#### Forest Agenda
+#### Agenda da Floresta
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
-|         |               |               |
-| ------- | ------------- | ------------- |
-| **d20** | **Goal**      | **Obstacle**  |
-| **1**   | Abundance     | Agreements    |
-| **2**   | Awakening     | Belief        |
-| **3**   | Balance       | Contamination |
-| **4**   | Cleansing     | Disease       |
-| **5**   | Conservation  | Exploitation  |
-| **6**   | Defense       | Fragmentation |
-| **7**   | Discovery     | Frailty       |
-| **8**   | Emancipation  | Greed         |
-| **9**   | Enrichment    | Ignorance     |
-| **10**  | Evolution     | Infestation   |
-| **11**  | Expansion     | Invasion      |
-| **12**  | Harmony       | Isolation     |
-| **13**  | Healing       | Leadership    |
-| **14**  | Integration   | Oppression    |
-| **15**  | Justice       | Pollution     |
-| **16**  | Metamorphosis | Scarcity      |
-| **17**  | Purification  | Stasis        |
-| **18**  | Rebirth       | Turmoil       |
-| **19**  | Tranquility   | Vulnerability |
-| **20**  | Unity         | Vulnerability |
+|         |                |                 |
+| ------- | -------------- | --------------- |
+| **d20** | **Objetivo**   | **Obstáculo**   |
+| **1**   | Abundância     | Acordos         |
+| **2**   | Despertar      | Crença          |
+| **3**   | Equilíbrio     | Contaminação    |
+| **4**   | Limpeza        | Doença          |
+| **5**   | Conservação    | Exploração      |
+| **6**   | Defesa         | Fragmentação    |
+| **7**   | Descoberta     | Fragilidade     |
+| **8**   | Emancipação    | Ganância        |
+| **9**   | Enriquecimento | Ignorância      |
+| **10**  | Evolução       | Infestação      |
+| **11**  | Expansão       | Invasão         |
+| **12**  | Harmonia       | Isolamento      |
+| **13**  | Cura           | Liderança       |
+| **14**  | Integração     | Opressão        |
+| **15**  | Justiça        | Poluição        |
+| **16**  | Metamorfose    | Escassez        |
+| **17**  | Purificação    | Estagnação      |
+| **18**  | Renascimento   | Tumulto         |
+| **19**  | Tranquilidade  | Vulnerabilidade |
+| **20**  | Unidade        | Vulnerabilidade |
 
-## Create the Map
+## Crie o Mapa
 
-### Create POIs
+### Crie os PDIs
 
-- Roll **8-12 d6** dice on the dungeon map, ignoring any dice that fall off the page. These are the Points of Interest (POI) in the forest.
-- Write the face-up results on the page using the [Forest Die Drop Table](#forest-die-drop-table). For example, the number **4** would indicate a **Shelter**, which you would denote with the letter "S".
-- Select two opposite points, preferably close to the page border. These are the forest's entrance and exit.
-- Starting with the entrance and ending at the exit, number each POI on the map.
-- Roll on the relevant tables for each point, writing the results in your notebook.
-- Filter the table results through the table results you generated earlier in this process.
+- Jogue **8-12 d6** sobre o mapa da masmorra, ignorando quaisquer dados que caiam fora da página. Estes são os Pontos de Interesse (PDI) na floresta.
+- Escreva os resultados voltados para cima na página usando a [Tabela de Lançamento de Dados de Floresta](#tabela-de-lançamento-de-dados-de-floresta). Por exemplo, o número **4** indicaria um **Abrigo**, que você denotaria com a letra "A".
+- Selecione dois pontos opostos, preferencialmente próximos à borda da página. Estes são a entrada e a saída da floresta.
+- Começando pela entrada e terminando na saída, numere cada PDI no mapa.
+- Role nas tabelas relevantes para cada ponto, anotando os resultados em seu caderno.
+- Filtre os resultados das tabelas através dos resultados que você gerou anteriormente neste processo.
 
-#### Forest Die Drop Table
+#### Tabela de Lançamento de Dados de Floresta
 
 |         |         |
 | ------- | ------- |
-| **d6**  | **POI** |
-| **1**   | Monster |
-| **2-3** | Ruins   |
-| **4**   | Shelter |
-| **5-6** | Hazard  |
+| **d6**  | **PDI** |
+| **1**   | Monstro |
+| **2-3** | Ruínas  |
+| **4**   | Abrigo  |
+| **5-6** | Perigo  |
 
-## Trails
+## Trilhas
 
-### Trail Types
+### Tipos de Trilhas
 
-- **Standard** trails are obvious or well-trod routes between two points. _Represented by a thick line._
-- **Hidden** trails do not appear on any known maps. Their discovery always requires some kind of cost. _Represented by a dashed line._
-- **Conditional** trails may be blocked, or requires specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. _Represented by a crossed line._
+- **Padrão:** Trilhas óbvias ou rotas bem trilhadas entre dois pontos. *Representadas por uma linha grossa.*
+- **Ocultas:** Trilhas que não aparecem em nenhum mapa conhecido. Sua descoberta sempre requer algum tipo de custo. *Representadas por uma linha pontilhada.*
+- **Condicionais:** Trilhas que podem estar bloqueadas ou exigem ferramentas especializadas (barcos, equipamento de escalada, etc.) para serem atravessadas. Outras podem até ser impossíveis de navegar sem um mapa ou guia. *Representadas por uma linha cruzada.*
 
-### Draw Trails
+### Desenhe as Trilhas
 
-- Starting with the entrance, draw 1-4 paths between each point.
-  - Create loops, branching paths, dead-ends, and shortcuts between points.
-  - Some paths are Conditional, represented by a crossed line.
-  - Some paths are Hidden, represented by a dashed line.
-  - If possible, create intersections (crossed lines) with no points in between.
-- Create trails by drawing over paths that connect 3-4 points in an obvious, consistent, or interesting manner. 
-  - Hidden paths and short, isolated routes are not usually a part of a trail.
-  - Use colored pencils or crayons to help distinguish different trails.
-- Roll on the [Trail Types](#trail-types) table for each trail, recording the results in your notebook. 
+- Começando pela entrada, desenhe 1-4 caminhos entre cada ponto.
+  - Crie loops, caminhos ramificados, becos sem saída e atalhos entre os pontos.
+  - Alguns caminhos são Condicionais, representados por uma linha cruzada.
+  - Alguns caminhos são Ocultos, representados por uma linha pontilhada.
+  - Se possível, crie interseções (linhas cruzadas) sem pontos entre elas.
+- Crie trilhas desenhando sobre caminhos que conectam 3-4 pontos de maneira óbvia, consistente ou interessante.
+  - Caminhos ocultos e rotas curtas e isoladas geralmente não fazem parte de uma trilha.
+  - Use lápis de cor ou giz de cera para ajudar a distinguir trilhas diferentes.
+- Role na tabela de [Tipos de Trilhas](#tipos-de-trilhas) para cada trilha, registrando os resultados em seu caderno.
 
-#### Trail Types
+#### Tipos de Trilhas
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
-|         |                    |                    |
-| ------- | ------------------ | ------------------ |
-| **d20** | **Type**           | **Marker**         |
-| **1**   | Animal Path        | Bear Rubbings      |
-| **2**   | Bandit's Run       | Bent Trees         |
-| **3**   | Bouldered Way      | Claw Marks         |
-| **4**   | Cloistered Grove   | Damaged Flora      |
-| **5**   | Deer Crossing      | Deer Tracks        |
-| **6**   | Dry Riverbed       | Distant Singing    |
-| **7**   | Fae Passage        | Faint Laughter     |
-| **8**   | Farm Trail         | Fox Prints         |
-| **9**   | Foraging Path      | Fresh Spiderwebs   |
-| **10**  | Hunter's Track     | Giant Feathers     |
-| **11**  | King's March       | Glowing Toadstools |
-| **12**  | Merchant's Road    | Muted Bells        |
-| **13**  | Old Logging Road   | Peripheral Images  |
-| **14**  | Orchard Path       | Rabbit Droppings   |
-| **15**  | Pilgrim's Footpath | Serpent Traces     |
-| **16**  | Spore Saturated    | Smoke              |
-| **17**  | Sticky Sap Path    | Stillness          |
-| **18**  | Trail Tree         | Stone Piles        |
-| **19**  | Treeline Heights   | Swaying Plants     |
-| **20**  | War Route          | Tree Carvings      |
+|         |                     |                       |
+| ------- | ------------------- | --------------------- |
+| **d20** | **Tipo**            | **Marcador**          |
+| **1**   | Caminho de Animais  | Marcas de Urso        |
+| **2**   | Rota de Bandidos    | Árvores Curvadas      |
+| **3**   | Caminho Pedregoso   | Marcas de Garras      |
+| **4**   | Bosque Claustral    | Flora Danificada      |
+| **5**   | Travessia de Cervos | Rastros de Cervo      |
+| **6**   | Leito de Rio Seco   | Canto Distante        |
+| **7**   | Passagem das Fadas  | Risadas Tênues        |
+| **8**   | Trilha de Fazenda   | Pegadas de Raposa     |
+| **9**   | Caminho de Coleta   | Teias de Aranha       |
+| **10**  | Rastro de Caçador   | Penas Gigantes        |
+| **11**  | Marcha do Rei       | Cogumelos Brilhantes  |
+| **12**  | Estrada Mercante    | Sinos Abafados        |
+| **13**  | Estrada Madeireira  | Imagens Periféricas   |
+| **14**  | Caminho de Pomar    | Excrementos de Coelho |
+| **15**  | Trilha de Peregrino | Rastros de Serpente   |
+| **16**  | Saturada de Esporos | Fumaça                |
+| **17**  | Trilha de Seiva     | Quietude              |
+| **18**  | Árvore de Trilha    | Pilhas de Pedra       |
+| **19**  | Topo das Árvores    | Plantas Balançando    |
+| **20**  | Rota de Guerra      | Entalhes em Árvore    |
 
-> If some of the results seem incongruous, that's OK! Turn these juxtapositions into questions like "Why _is_ there an old logging road leading to the bandit's hideout?" That said, don't be afraid to choose a more appropriate result if you're having a hard time making it work!
+> Se alguns dos resultados parecerem incongruentes, tudo bem! Transforme essas justaposições em perguntas como "Por que *há* uma antiga estrada madeireira levando ao esconderijo dos bandidos?". Dito isso, não tenha medo de escolher um resultado mais apropriado se estiver tendo dificuldade em fazê-lo funcionar!
 
-#### Monster
+#### Monstro
 
-Monsters are any dangerous creatures one might encounter in the forest. This does not mean they will attack intruders by default! Monsters are not "waiting around" for characters to stumble upon them, but have their own wants and goals. Some monsters can talk, reason, and even beg for mercy. _People can be monsters, too_.
+Monstros são quaisquer criaturas perigosas que se possa encontrar na floresta. Isso não significa que eles atacarão intrusos por padrão! Monstros não estão "esperando" que os personagens tropecem neles; eles têm seus próprios desejos e objetivos. Alguns monstros podem falar, raciocinar e até implorar por misericórdia. *Pessoas também podem ser monstros*.
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
-|         |              |              |
-| ------- | ------------ | ------------ |
-| **d20** | **Monster**  | **Activity** |
-| **1**   | Bandit       | Burrowing    |
-| **2**   | Blink Dog    | Burying      |
-| **3**   | Blood Elk    | Destroying   |
-| **4**   | Centaur      | Devouring    |
-| **5**   | Dryad        | Dying        |
-| **6**   | Ettin        | Fighting     |
-| **7**   | Gargoyle     | Foraging     |
-| **8**   | Green Dragon | Guarding     |
-| **9**   | Grizzly Bear | Hiding       |
-| **10**  | Killer Bees  | Hunting      |
-| **11**  | Naga         | Killing      |
-| **12**  | Night Cat    | Mating       |
-| **13**  | Owlbear      | Mourning     |
-| **14**  | Pixie        | Patrolling   |
-| **15**  | Skeleton     | Prowling     |
-| **16**  | Treant       | Recuperating |
-| **17**  | Unicorn      | Scouting     |
-| **18**  | Will-o-Wisp  | Stalking     |
-| **19**  | Wolf         | Torturing    |
-| **20**  | Wood Troll   | Trapped      |
+|         |                    |               |
+| ------- | ------------------ | ------------- |
+| **d20** | **Monstro**        | **Atividade** |
+| **1**   | Bandido            | Cavando       |
+| **2**   | Cão de Fase        | Enterrando    |
+| **3**   | Alce Sangrento     | Destruindo    |
+| **4**   | Centauro           | Devorando     |
+| **5**   | Dríade             | Morrendo      |
+| **6**   | Ettin              | Lutando       |
+| **7**   | Gargula            | Coletando     |
+| **8**   | Dragão Verde       | Guardando     |
+| **9**   | Urso Cinzento      | Escondendo-se |
+| **10**  | Abelhas Assassinas | Caçando       |
+| **11**  | Naga               | Matando       |
+| **12**  | Gato Noturno       | Acasalando    |
+| **13**  | Urso-Coruja        | Lamentando    |
+| **14**  | Pixie              | Patrulhando   |
+| **15**  | Esqueleto          | Mergulhando   |
+| **16**  | Treante            | Recuperando   |
+| **17**  | Unicórnio          | Explorando    |
+| **18**  | Fogo-fátuo         | Espreitando   |
+| **19**  | Lobo               | Torturando    |
+| **20**  | Troll do Bosque    | Encurralado   |
 
-#### Ruins
+#### Ruínas
 
-Forests are wild places, but that does not mean people haven't tried to tame them. The remnants of these attempts still show up from time to time, hinting at the folly of those who would stand against the Wood.
+As florestas são lugares selvagens, mas isso não significa que as pessoas não tentaram domesticá-las. Os restos dessas tentativas ainda aparecem de tempos em tempos, sugerindo a loucura daqueles que se opuseram ao Bosque.
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
-|         |                     |                                        |
-| ------- | ------------------- | -------------------------------------- |
-| **d20** | **Ruin**            | **Feature**                            |
-| **1**   | Abandoned Manor     | A Forest Spirit, Ready to Die          |
-| **2**   | Broken Sundial      | A Hag, Foraging for Ingredients        |
-| **3**   | Chipped Bell Tower  | A Mirror of Itself                     |
-| **4**   | Collapsed Megalith  | A Self-Obsessed Sprite                 |
-| **5**   | Crumbled Watchtower | A Silent, Ghostly Concert              |
-| **6**   | Decomposed Canoes   | A Very Tiny Ruined Village             |
-| **7**   | Entangled Pavilion  | Bound by an Unbreakable Curse          |
-| **8**   | Exposed Workshop    | Bound Creature                         |
-| **9**   | Flooded Monastery   | Broken Portal                          |
-| **10**  | Moldering Farmhouse | Fresh Corpses                          |
-| **11**  | Neglected Shrine    | Hidden Cache                           |
-| **12**  | Overrun Estate      | Hooded Men Completing a Ritual         |
-| **13**  | Petrified Campsite  | Inaudible Whispers from All Directions |
-| **14**  | Rotted Mill         | Marked by Battles Of Yore              |
-| **15**  | Ruined Cloister     | Overrun with Unusual Flora             |
-| **16**  | Rusted Market       | Realistic Toy Soldiers                 |
-| **17**  | Shattered Bridge    | Remnants of a Failed Ritual            |
-| **18**  | Splintered Obelisk  | The Veil Between Worlds Is Thin        |
-| **19**  | Sunken Gazebo       | Visions of the Past                    |
-| **20**  | Toppled Statue      | Warded Grounds                         |
+|         |                         |                                             |
+| ------- | ----------------------- | ------------------------------------------- |
+| **d20** | **Ruína**               | **Característica**                          |
+| **1**   | Mansão Abandonada       | Um Espírito da Floresta, Pronto para Morrer |
+| **2**   | Relógio de Sol Quebrado | Uma Bruxa, Coletando Ingredientes           |
+| **3**   | Torre de Sino Lascada   | Um Espelho de Si Mesma                      |
+| **4**   | Megálito Colapsado      | Um Espírito Auto-Obsessivo                  |
+| **5**   | Atalaia Desmoronada     | Um Concerto Fantasmagórico Silencioso       |
+| **6**   | Canoas Decompostas      | Uma Vila Arruinada Muito Pequena            |
+| **7**   | Pavilhão Entrelaçado    | Preso por uma Maldição Inquebrável          |
+| **8**   | Oficina Exposta         | Criatura Aprisionada                        |
+| **9**   | Mosteiro Inundado       | Portal Quebrado                             |
+| **10**  | Fazenda em Ruínas       | Cadáveres Frescos                           |
+| **11**  | Santuário Negligenciado | Esconderijo Secreto                         |
+| **12**  | Propriedade Invadida    | Homens Encapuzados Completando um Ritual    |
+| **13**  | Acampamento Petrificado | Sussurros Inaudíveis de Todas as Direções   |
+| **14**  | Moinho Apodrecido       | Marcado por Batalhas de Outrora             |
+| **15**  | Claustro Arruinado      | Tomado por Flora Incomum                    |
+| **16**  | Mercado Enferrujado     | Soldados de Brinquedo Realistas             |
+| **17**  | Ponte Estilhaçada       | Restos de um Ritual Fracassado              |
+| **18**  | Obelisco Lascado        | O Véu Entre os Mundos é Tênue               |
+| **19**  | Coreto Afundado         | Visões do Passado                           |
+| **20**  | Estátua Derrubada       | Terrenos Protegidos                         |
 
-#### Shelter
+#### Abrigo
 
-Despite its wild and unpredictable nature, there have always been those brave, skilled, or foolhardy enough to try and build a life in the Wood. And some do succeed, leaving their mark via smoldering campfire or gray tower, offering a welcome respite to weary travelers. 
+Apesar de sua natureza selvagem e imprevisível, sempre houve aqueles corajosos, habilidosos ou tolos o suficiente para tentar construir uma vida no Bosque. E alguns conseguem, deixando sua marca através de fogueiras fumegantes ou torres cinzentas, oferecendo um descanso bem-vindo aos viajantes cansados.
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
-|         |                   |                                    |
-| ------- | ----------------- | ---------------------------------- |
-| **d20** | **Shelter**       | **Feature**                        |
-| **1**   | Bandit Hideout    | Abandoned, for Now                 |
-| **2**   | Falconer's Tower  | Attracts Wild Beasts               |
-| **3**   | Fishing Hut       | Built in Defiance of Customs       |
-| **4**   | Forgotten Ruins   | Constructed Within a Giant Tree    |
-| **5**   | Hermit's Cabin    | Forest-Knight Offers a Challenge   |
-| **6**   | Hidden Village    | Guarded by Trained Animals         |
-| **7**   | Hillside Cave     | Haunted by Unhelpful Ghosts        |
-| **8**   | Hollow Tree       | Hides a Powerful Artifact          |
-| **9**   | Hunter's Lodge    | Hunting Is Forbidden               |
-| **10**  | Hut with Legs     | Inhabited by a Supernatural Entity |
-| **11**  | Ivy-Wrapped Tower | Occupied by Army Deserters         |
-| **12**  | Lean-To           | Overrun with Cultists              |
-| **13**  | Lumber Site       | Pale Folk Dinner Locale            |
-| **14**  | Monastic Retreat  | Parasitic Foliage                  |
-| **15**  | Mossy Pool        | Pig Folk Hunting Grounds           |
-| **16**  | Night Market      | Popular with Smugglers             |
-| **17**  | Pale Folk Stable  | Presents a Ready Meal              |
-| **18**  | Ranger's Outpost  | Protected by a Playful Spirit      |
-| **19**  | Smoky Cabin       | Site of an Ancient Murder          |
-| **20**  | Tattered Windmill | Thieves' Camp                      |
+|         |                         |                                          |
+| ------- | ----------------------- | ---------------------------------------- |
+| **d20** | **Abrigo**              | **Característica**                       |
+| **1**   | Covil de Bandidos       | Abandonado, por Enquanto                 |
+| **2**   | Torre do Falcoeiro      | Atrai Bestas Selvagens                   |
+| **3**   | Cabana de Pesca         | Construída em Desafio aos Costumes       |
+| **4**   | Ruínas Esquecidas       | Construída Dentro de uma Árvore Gigante  |
+| **5**   | Cabana do Eremita       | Cavaleiro-da-Floresta Oferece um Desafio |
+| **6**   | Vila Escondida          | Guardada por Animais Treinados           |
+| **7**   | Caverna na Colina       | Assombrada por Fantasmas Inúteis         |
+| **8**   | Árvore Oca              | Esconde um Artefato Poderoso             |
+| **9**   | Alojamento de Caça      | A Caça é Proibida                        |
+| **10**  | Cabana com Pernas       | Habitada por uma Entidade Sobrenatural   |
+| **11**  | Torre de Hera           | Ocupada por Desertores do Exército       |
+| **12**  | Puxadinho               | Tomada por Cultistas                     |
+| **13**  | Acampamento Madeireiro  | Local de Jantar do Povo Pálido           |
+| **14**  | Retiro Monástico        | Folhagem Parasitária                     |
+| **15**  | Lago Musgoso            | Terrenos de Caça do Povo Suíno           |
+| **16**  | Mercado Noturno         | Popular entre Contrabandistas            |
+| **17**  | Estábulo do Povo Pálido | Apresenta uma Refeição Pronta            |
+| **18**  | Posto de Patrulheiro    | Protegido por um Espírito Brincalhão     |
+| **19**  | Cabana Fumegante        | Local de um Assassinato Antigo           |
+| **20**  | Moinho esfarrapado      | Acampamento de Ladrões                   |
 
-#### Hazard
+#### Perigo
 
-The Wood is a dangerous place and not to be trifled with. The forest and its inhabitants do what they must to survive, and even sated, are still preparing for their next meal. The trees, the plants, and the earth itself will leave deadly traps and dangers to root out those unworthy to pass beneath the boughs.
+O Bosque é um lugar perigoso e não deve ser subestimado. A floresta e seus habitantes fazem o que precisam para sobreviver e, mesmo saciados, ainda estão se preparando para a próxima refeição. As árvores, as plantas e a própria terra deixarão armadilhas mortais e perigos para erradicar aqueles que não forem dignos de passar sob os galhos.
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
-|         |                   |                              |
-| ------- | ----------------- | ---------------------------- |
-| **D20** | **Hazard**        | **Feature**                  |
-| **1**   | Animal Trap       | A Pet Basilisk               |
-| **2**   | Bog Shadows       | A Spell Gone Wrong           |
-| **3**   | Bone Orchard      | Animated Armor               |
-| **4**   | Bramble Tunnels   | Bird Spies                   |
-| **5**   | Frozen Troll      | Bleeding Trees               |
-| **6**   | Giant Spider Nest | Ghosts Trapped in Crystal    |
-| **7**   | Insect Swarm      | Giant Rodent Feeding Grounds |
-| **8**   | Moving Thickets   | Highly Localized Weather     |
-| **9**   | Poisonous Plants  | Howling Stones               |
-| **10**  | Psychic Fog       | Injured Creature             |
-| **11**  | Sap Trap          | Invisible Webs               |
-| **12**  | Sleeping Giant    | Living Scarecrows            |
-| **13**  | Slippery Moss     | Memory Stealers              |
-| **14**  | Slow Quicksand    | Mimic Vines                  |
-| **15**  | Spiked Pit        | Paths that Change Randomly   |
-| **16**  | Stinging Nettles  | Scavengers that Wait         |
-| **17**  | Thorny Thickets   | Watchful Dead                |
-| **18**  | Toxic Spores      | Tracks Erased by Mist        |
-| **19**  | Troll Den         | Trees that Grow From Bones   |
-| **20**  | Unstable Ground   | Will-o-Wisps Congregate      |
+|         |                         |                                              |
+| ------- | ----------------------- | -------------------------------------------- |
+| **D20** | **Perigo**              | **Característica**                           |
+| **1**   | Armadilha de Animal     | Um Basilisco de Estimação                    |
+| **2**   | Sombras do Pântano      | Um Feitiço que Deu Errado                    |
+| **3**   | Pomar de Ossos          | Armadura Animada                             |
+| **4**   | Túneis de Espinhos      | Pássaros Espiões                             |
+| **5**   | Troll Congelado         | Árvores Sangrentas                           |
+| **6**   | Ninho de Aranha Gigante | Fantasmas Presos em Cristal                  |
+| **7**   | Enxame de Insetos       | Terrenos de Alimentação de Roedores Gigantes |
+| **8**   | Moitas Movediças        | Clima Altamente Localizado                   |
+| **9**   | Plantas Venenosas       | Pedras Uivantes                              |
+| **10**  | Névoa Psíquica          | Criatura Ferida                              |
+| **11**  | Armadilha de Seiva      | Teias Invisíveis                             |
+| **12**  | Gigante Adormecido      | Espantalhos Vivos                            |
+| **13**  | Musgo Escorregadio      | Ladrões de Memória                           |
+| **14**  | Areia Movediça Lenta    | Vinhas Mímicas                               |
+| **15**  | Fosso com Estacas       | Caminhos que Mudam Aleatoriamente            |
+| **16**  | Urtigas Picantes        | Carniceiros que Esperam                      |
+| **17**  | Moitas Espinhosas       | Mortos Vigilantes                            |
+| **18**  | Esporos Tóxicos         | Rastros Apagados pela Névoa                  |
+| **19**  | Toca de Troll           | Árvores que Crescem de Ossos                 |
+| **20**  | Solo Instável           | Fogos-fátuos se Congregam                    |
 
-## Example Forest
+## Exemplo de Floresta
 
-### Map
+### Mapa
 
-[![Click Me!](/img/2e/forest-seed-example.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/forest-seed-example.webp)
+(Veja a imagem no arquivo original)
 
-### The Forest
+### A Floresta
 
-**Description**: Diseased, Frozen
+**Descrição:** Doente, Congelada
 
-A thick forest infected with disease and rot. Parts of it are frozen solid.
+Uma floresta densa infectada por doenças e podridão. Partes dela estão congeladas solidamente.
 
-### Denizens
+### Habitantes
 
-**Traits**: Stable, Territorial
+**Traços:** Estável, Territorial
 
-Wish to return to the stability they once knew, but are threatened by ancient forest boundaries.
+Desejam retornar à estabilidade que outrora conheceram, mas sentem-se ameaçados pelos antigos limites da floresta.
 
-**Forest Agenda**: Purification, Infestation
+**Agenda da Floresta:** Purificação, Infestação
 
-The spirit of the forest wants nothing more than to purify itself of the disease that has taken hold. An infestation of Giant Spiders (**9**) has spun webs throughout, killing far too many creatures and undermining the ecosystem.
+O espírito da floresta deseja nada mais do que purificar-se da doença que se instalou. Uma infestação de Aranhas Gigantes (**9**) espalhou teias por toda parte, matando criaturas demais e minando o ecossistema.
 
-### Forest Theme
+### Tema da Floresta
 
-For decades, the order and stability of the forest was maintained through an agreement between the forest witch **Anglwyst** and **Sweeney**, the Wood's champion. The witch would use her magic to keep the trees and animals healthy, while the champion would ensure that hunters never kill any creatures deemed essential to the Wood (indicated by a shock of white in their fur). Their pact was permanent and immalleable, and the forest was divided, barring both the witch and the champion from crossing its boundary.
+Por décadas, a ordem e estabilidade da floresta foram mantidas através de um acordo entre a bruxa da floresta **Anglwyst** e **Sweeney**, o campeão do Bosque. A bruxa usaria sua magia para manter as árvores e animais saudáveis, enquanto o campeão garantiria que os caçadores nunca matassem qualquer criatura considerada essencial para o Bosque (indicada por uma mecha branca em seu pelo). O pacto deles era permanente e imutável, e a floresta foi dividida, impedindo tanto a bruxa quanto o campeão de cruzar seus limites.
 
-After the old witch died, one of her spells grew wild, then dangerous. Now a magical disease has begun to infect the trees and creatures, threatening to consume the entire forest. Hunters call it the _Withering_, because it drains the life of everything it touches.
+Após a morte da velha bruxa, um de seus feitiços tornou-se selvagem e depois perigoso. Agora, uma doença mágica começou a infectar as árvores e criaturas, ameaçando consumir toda a floresta. Os caçadores chamam isso de *O Definhamento*, porque drena a vida de tudo o que toca.
 
-## Trails 
+## Trilhas 
 
-### Old Logging Road, Tree Carvings
+### Estrada Madeireira Antiga, Entalhes em Árvore
 
-The path between **1** and **5** is blocked by a broad cliff face, requiring climbing gear to ascend. Carvings from the original loggers of this forest still mar the surface of some trees.
+O caminho entre **1** e **5** é bloqueado por uma face de penhasco larga, exigindo equipamento de escalada para subir. Entalhes dos madeireiros originais desta floresta ainda marcam a superfície de algumas árvores.
 
-### Treeline Heights, Stone Piles
+### Topo das Árvores, Pilhas de Pedra
 
-The monks at **7** left piles of stone alongside the path for each of their fallen members.
+Os monges em **7** deixaram pilhas de pedra ao longo do caminho para cada um de seus membros caídos.
 
-### Foraging Path, Distant Singing
+### Caminho de Coleta, Canto Distante
 
-Anglwyst survived largely on the plentiful fruit found on this trail. Her magic was so powerful that echoes of her presence still mark the path: those who travel it can still hear her faint, chipper singing.
+Anglwyst sobrevivia em grande parte das frutas abundantes encontradas nesta trilha. Sua magia era tão poderosa que ecos de sua presença ainda marcam o caminho: aqueles que viajam por ele ainda podem ouvir seu canto alegre e tênue.
 
-### Dry Riverbed, Fresh Spiderwebs
+### Leito de Rio Seco, Teias de Aranha Frescas
 
-A river once ran through the West end of the forest, but it dried up after a drought. Giant spiders travel the path as they make their way to **8**, spinning their web along the trail.
+Um rio corria outrora pela extremidade oeste da floresta, mas secou após uma seca. Aranhas gigantes percorrem o caminho enquanto se dirigem para **8**, tecendo suas teias ao longo da trilha.
 
-### Hunter's Track, Damaged Flora
+### Rastro de Caçador, Flora Danificada
 
-Sweeney allows outsiders to hunt their quarry on this trail and no other, so long as they never kill any creature with white in their fur.
+Sweeney permite que forasteiros cacem suas presas nesta trilha e em nenhuma outra, desde que nunca matem qualquer criatura com pelo branco.
 
-### POIs
+### PDIs
 
-### 1 - Diseased Campsite [Entrance]
+### 1 - Acampamento Doente [Entrada]
 
-**Ruin**: _Petrified Campsite_, _Overrun With Unusual Flora_ 
+**Ruína:** *Acampamento Petrificado*, *Tomado por Flora Incomum*
 
-At the forest edge is a dead **campfire** with piles of dark gray **bedding** laid out close by. Plants, flowers, and other **flora** grow thickly over the campsite. A **trail** to the **North** leads into the forest. 
+Na borda da floresta há uma **fogueira** apagada com pilhas de **agasalhos** cinza-escuros dispostos por perto. Plantas, flores e outra **flora** crescem densamente sobre o acampamento. Uma **trilha** ao **Norte** leva para dentro da floresta.
 
-- **Campfire**: The remaining wood is stained a deep gray, is very cold to the touch, and is as hard as iron.
-- **Bedding**: Splinters of gray wood are stuck in the cloth.
-  - Icy cold to the touch. The space beneath the cloth is partly blue and red, but gray circles grow out of the wood flecks. 
-- **Flora**: Rare and unique species not common to these parts.
-  - Skilled pruning and a few minutes of careful work produces a **Healing Salve** (restore 1d4 STR, 1 use).
-- **Trail**: Long grooves in the rough shape of a tree trunk are cut into the ground. 
-  - Fine spiderwebs block the forest entry, as if no one had walked through in a long while.
+- **Fogueira:** A madeira restante está manchada de um cinza profundo, é muito fria ao toque e dura como ferro.
+- **Agasalhos:** Lascas de madeira cinza estão presas no tecido.
+  - Gelados ao toque. O espaço sob o tecido é parcialmente azul e vermelho, mas círculos cinzas crescem a partir das lascas de madeira. 
+- **Flora:** Espécies raras e únicas, incomuns nestas partes.
+  - Poda habilidosa e alguns minutos de trabalho cuidadoso produzem um **Bálsamo de Cura** (restaura 1d4 FOR, 1 uso).
+- **Trilha:** Longos sulcos no formato bruto de um tronco de árvore estão cortados no chão. 
+  - Teias de aranha finas bloqueiam a entrada da floresta, como se ninguém tivesse passado por ali há muito tempo.
 
-### 2 - Amber Grave
+### 2 - Túmulo de Âmbar
 
-**Hazard**: _Sap Trap_, _Ghost Trapped In Crystal_
+**Perigo:** *Armadilha de Seiva*, *Fantasma Preso em Cristal*
 
-A rounded copse of vermilion **trees** surround a wide **puddle** of bubbling sap. A pointy green **object** is just visible in the center of the pool. 
+Um bosque arredondado de **árvores** vermelhão circunda uma ampla **poça** de seiva borbulhante. Um **objeto** verde pontiagudo é visível bem no centro da poça. 
  
-- **Trees**: The base of each tree bleeds golden sap that runs into the puddle below. They do not appear to be diseased.
-- **Puddle**: 12ft of sticky sap.
-  - Ankle-high and extremely sticky. Irritates the skin.
-- **Object**: Appears crystalline in nature.
-  - Very slippery. Difficult and time-consuming to extract without adequate tools (gloves, a pole, etc.).
-  - Trapped inside the crystal is the spirit of a familiar called **Gundersnatch**.
-  - If shattered, the shadow of a great bird will rise above the party, then disappear. Any characters with the _deprived_ condition will have it resolved. 
+- **Árvores:** A base de cada árvore sangra seiva dourada que escorre para a poça abaixo. Elas não parecem estar doentes.
+- **Poça:** 3,5 metros de seiva pegajosa.
+  - Altura do tornozelo e extremamente pegajosa. Irrita a pele.
+- **Objeto:** Parece ter natureza cristalina.
+  - Muito escorregadio. Difícil e demorado de extrair sem ferramentas adequadas (luvas, uma vara, etc.).
+  - Preso dentro do cristal está o espírito de um familiar chamado **Gundersnatch**.
+  - Se estilhaçado, a sombra de um grande pássaro se elevará acima do grupo e desaparecerá. Quaisquer personagens com a condição *privado* terão a condição resolvida. 
 
 #### Gundersnatch
 
-- Can communicate telepathically with anyone holding the crystal. 
-  - Will plead for anyone to destroy the crystal. (A good whack with something hard will do it.) 
-  - In exchange for his freedom, he will give the party a black feather, telling them that with it they can enter the Anglwyst's Chicken Hut at **4**.
+- Pode se comunicar telepaticamente com qualquer pessoa que segure o cristal. 
+  - Implorará para que alguém destrua o cristal. (Uma boa pancada com algo duro resolve.) 
+  - Em troca de sua liberdade, ele dará ao grupo uma pena negra, dizendo que com ela eles podem entrar na Cabana de Pé de Galinha de Anglwyst em **4**.
 
-### 3 - Sweeney's Cabin
+### 3 - Cabana do Sweeney
 
-**Shelter**: _Hermit's Cabin_, _Presents a Ready Meal_
+**Abrigo:** *Cabana do Eremita*, *Apresenta uma Refeição Pronta*
 
-Atop a small hill is a wooden **cabin**. Small **logs** are arranged in rows on the West side of the building, and a tall **rack** is installed on the East wall.
+No topo de uma pequena colina está uma **cabana** de madeira. Pequenos **troncos** estão organizados em fileiras no lado oeste da construção, e um grande **suporte** está instalado na parede leste.
 
-- **Cabin**: There is a 3-in-6 chance that Sweeney is here. Otherwise, he is out hunting. A ring of white dust is sprinkled across the doorway. 
-  - If the dust is disturbed, Sweeney will know and come investigate.
-- **Logs**: Arranged in rows of four by four. 
-  - A stained outline of an animal (bear, rabbit, beaver, etc.) is drawn on each. A drop of white is painted on the rabbit. It looks new.
-- **Rack**: Various animal skins are stretched tightly across, drying. 
-  - Stitched together, the skins are equal to two sets of protective clothing (1 Armor) and are highly resistant to environmental damage.  
+- **Cabana:** Há uma chance de 3-em-6 de Sweeney estar aqui. Caso contrário, ele está caçando. Um anel de pó branco está polvilhado pela entrada. 
+  - Se o pó for perturbado, Sweeney saberá e virá investigar.
+- **Troncos:** Organizados em fileiras de quatro por quatro. 
+  - Um contorno manchado de um animal (urso, coelho, castor, etc.) está desenhado em cada um. Uma gota de branco está pintada no coelho. Parece recente.
+- **Suporte:** Várias peles de animais estão esticadas firmemente, secando. 
+  - Costuradas, as peles equivalem a dois conjuntos de roupas protetoras (1 de Armadura) e são altamente resistentes a danos ambientais.  
 
-#### Inside the Cabin
+#### Dentro da Cabana
 
-Very austere, with only a simple **cot** and small dining **table**.
+Muito austera, apenas com um **beliche** simples e uma pequena **mesa** de jantar.
   
-- **Cot**: Speckled with green moss and twigs. Smells faintly of rain.
-  - The floor beneath the cot is thick with green moss. If Sweeney places his hands on the moss, it falls away, revealing an underground tunnel to **4**. Only Sweeney can activate this passage.
-- **Table**: On the table is a fully prepared meal of roast duck and root vegetables, equal to a full meal for 2.
-  - A gift from Anglwyst. If eaten, the meal will reform in d12 hours. 
+- **Beliche:** Salpicado de musgo verde e gravetos. Cheira levemente a chuva.
+  - O chão sob o beliche está coberto de musgo verde espesso. Se Sweeney colocar as mãos no musgo, ele se abre, revelando um túnel subterrâneo para **4**. Apenas Sweeney pode ativar esta passagem.
+- **Mesa:** Sobre a mesa há uma refeição totalmente preparada de pato assado e vegetais de raiz, equivalente a uma refeição completa para 2 pessoas.
+  - Um presente de Anglwyst. Se comida, a refeição se reformará em d12 horas. 
 
 #### Sweeney
 
-12 HP, 2 Armor, 13 STR, 15 DEX, 17 WIL, yew bow (d8)
+12 PG, 2 Armadura, 13 FOR, 15 DES, 17 VON, arco de teixo (d8)
 
-- A cantankerous, mossy old man. If he is injured, the Wood will protect and even heal him. Each time he dies, he returns more green than before.
-- Would like to stop the _Withering_, but cannot enter **6** due to his pact with Anglwyst. As a test of their honor and skill, he will ask the party for help expelling the Giant Spiders at **9**.
-  - If the party successfully completes their first task, he will give the party a **Pendant of Karnon**, as well as the promise of further riches if they can undo the magic that is ravaging the forest at **6**. 
-  - If the party is able to disrupt the _Withering_, he will open the secret path to **4**, telling them that they may enter the hut there.
+- Um velho musgoso e ranzinza. Se for ferido, o Bosque o protegerá e até o curará. Cada vez que ele morre, retorna mais "verde" do que antes.
+- Gostaria de parar *O Definhamento*, mas não pode entrar em **6** devido ao seu pacto com Anglwyst. Como um teste de honra e habilidade, ele pedirá ajuda ao grupo para expulsar as Aranhas Gigantes em **9**.
+  - Se o grupo completar com sucesso a primeira tarefa, ele dará ao grupo um **Pingente de Karnon**, bem como a promessa de mais riquezas se puderem desfazer a magia que está assolando a floresta em **6**. 
+  - Se o grupo for capaz de interromper *O Definhamento*, ele abrirá o caminho secreto para **4**, dizendo que eles podem entrar na cabana lá.
   
-#### Pendant of Karnon
+#### Pingente de Karnon
 
-- A wooden amulet of a bearded, horned man. When in the forest, add a Fatigue to borrow the senses of any nearby creature. _Petty_.
+- Um amuleto de madeira de um homem barbudo com chifres. Quando estiver na floresta, adicione uma Fadiga para emprestar os sentidos de qualquer criatura próxima. *Menor*.
 
-### 4 - Anglwyst's Chicken Hut
+### 4 - Cabana de Pé de Galinha de Anglwyst
 
-**Shelter**: _Hut with Legs_, _Hunting Is Forbidden_
+**Abrigo:** *Cabana com Pernas*, *A Caça é Proibida*
 
-A cylindrical, chimneyed **hut** covered in thick **foliage** sits at the edge of a small clearing. A wooden **sign** is pressed into the ground at the West entrance. A long spool of **chicken wire** is installed on the North side.
+Uma **cabana** cilíndrica com chaminé, coberta por uma **folhagem** densa, fica na borda de uma pequena clareira. Uma **placa** de madeira está fincada no chão na entrada oeste. Um longo carretel de **arame** de galinheiro está instalado no lado norte.
 
-- **Hut**: The front-facing windows are dark, and there is no light or smoke coming from inside. 
-  - The door has no keyhole and will only open to friends of Anglwyst, Sweeney, or Gundersnatch. 
-  - If the door is forced open or the hut is threatened, two legs will sprout from underneath and the hut will quickly retreat into the forest.
-- **Foliage**: Both the roof and the windows are covered in thick leafy vines. 
-  - None of the vines touch the ground, as they would be torn were the hut to stand.
-- **Sign**: Covered in vines. In red letters it says: "No Hunting Here. Harsh penalties." 
-  - The witch cast a spell of protection over this place. If an animal is killed here by anyone capable of speech, their killer immediately turns to stone (no save).
-  - Nothing dangerous  will follow the party into this part of the wood.
-- **Wire**: Encircles a small, shriveled garden. A vine-covered stone statue of a young hunter stands in the middle.
-  - The shocked-looking hunter (a victim of the clearing's spell) holds a limp rabbit upside-down, a knife held to its throat.
+- **Cabana:** As janelas frontais estão escuras e não há luz ou fumaça vindo de dentro. 
+  - A porta não tem fechadura e só abrirá para amigos de Anglwyst, Sweeney ou Gundersnatch. 
+  - Se a porta for forçada ou a cabana for ameaçada, duas pernas brotarão de baixo e a cabana recuará rapidamente para a floresta.
+- **Folhagem:** Tanto o telhado quanto as janelas estão cobertos por trepadeiras folhosas espessas. 
+  - Nenhuma das trepadeiras toca o chão, pois seriam arrancadas se a cabana se levantasse.
+- **Placa:** Coberta por trepadeiras. Em letras vermelhas diz: "Proibido Caçar Aqui. Penalidades severas." 
+  - A bruxa lançou um feitiço de proteção sobre este lugar. Se um animal for morto aqui por qualquer pessoa capaz de falar, o assassino imediatamente vira pedra (sem salvamento).
+  - Nada perigoso seguirá o grupo para esta parte do bosque.
+- **Arame:** Cercas de um pequeno jardim murcho. Uma estátua de pedra coberta de trepadeiras de um jovem caçador está no meio.
+  - O caçador com olhar chocado (uma vítima do feitiço da clareira) segura um coelho inerte de cabeça para baixo, com uma faca na garganta.
 
-#### Inside the Hut
+#### Dentro da Cabana
 
-Lavishly decorated. A tall wooden **barrel** is set near the North fireplace, a long broom sticking out. A large **stove** is installed on the East wall. A **string** of herbs and root vegetables hang from the ceiling.
-  - **Barrel**: Joined by thick mortar. Free of dust and empty save for the broom.
-    - The barrel can fit up to one person and is capable of flight. Use the broom to "paddle" the air. 
-  - **Stove**: Warm, and large enough to sleep on. A red scarf is tied around one of the iron handles.
-    - The scarf given to Anglwyst by Sweeney that is otherwise mundane. Sweeney would love to have it back.
-  - **String**: Goods of rare and extinct quality. Worth 500gp to the right buyer. 
-    - A mandrake root hangs from the string. If fed water daily, it will indicate a lie when it hears one. Screams loudly if cut.
+Lavremente decorada. Um grande **barril** de madeira está posicionado perto da lareira norte, com uma vassoura comprida saindo dele. Um grande **fogão** está instalado na parede leste. Um **varal** de ervas e vegetais de raiz pende do teto.
+  - **Barril:** Unido por argamassa espessa. Livre de poeira e vazio, exceto pela vassoura.
+    - O barril pode acomodar até uma pessoa e é capaz de voar. Use a vassoura para "remar" no ar. 
+  - **Fogão:** Quente e grande o suficiente para dormir em cima. Um cachecol vermelho está amarrado a uma das alças de ferro.
+    - O cachecol dado a Anglwyst por Sweeney, que de outra forma é mundano. Sweeney adoraria tê-lo de volta.
+  - **Varal:** Itens de qualidade rara e extinta. Vale 500po para o comprador certo. 
+    - Uma raiz de mandrágora pende do varal. Se receber água diariamente, indicará uma mentira quando a ouvir. Grita alto se for cortada.
 
-### 5 - Tree at the Crossroads
+### 5 - Árvore na Encruzilhada
 
-**Monster**: _Grizzly_, _Guarding_
+**Monstro:** *Cinzento*, *Guardando*
 
-A long **tree** lays across a small glade at the intersection of two **trails**. A sharp **cliff** to the South offers a steep climb to the bottom.
+Uma longa **árvore** jaz caída através de uma pequena clareira na interseção de duas **trilhas**. Um **penhasco** íngreme ao sul oferece uma descida difícil até a base.
 
-- **Tree**: Enormous and at least partially hollowed out. Bear prints mark the East entrance. 
-  - A Grizzly Bear and her three cubs make this tree their den. They hibernate in the winter, but any other time they are awake. The mother will attack anyone entering the tree (skip the reaction roll). 
-- **Trails**: Broken leaves and tree rubbings on the trail are clear evidence of the bear's habitation.
-- **Cliff**: Metal hoops are pounded into the cliff face.
-  - Installed when the forest was still being logged, but still solid. Perfect for ropes. 
+- **Árvore:** Enorme e pelo menos parcialmente oca. Pegadas de urso marcam a entrada leste. 
+  - Uma Ursa Cinzenta e seus três filhotes fazem desta árvore sua toca. Eles hibernam no inverno, mas em qualquer outra época estão acordados. A mãe atacará qualquer um que entre na árvore (pule a rolagem de reação). 
+- **Trilhas:** Folhas quebradas e marcas de fricção nas árvores na trilha são evidências claras da habitação do urso.
+- **Penhasco:** Aros de metal estão fincados na face do penhasco.
+  - Instalados quando a floresta ainda estava sendo explorada por madeireiros, mas ainda sólidos. Perfeitos para cordas. 
 
-#### Grizzly Bear
+#### Urso Cinzento
 
-6 HP, 15 STR, 13 DEX, 5 WIL, claws (d8+d8)
+6 PG, 15 FOR, 13 DES, 5 VON, garras (d8+d8)
 
-- Reddish-brown bears commonly found in mountains, woodlands, and prairies. 
-- Prefer to eat fish and meat, and will attack the rare unfortunate who crosses their path.
-- **Critical Damage**: Bite the targeting for an additional d6 STR damage. The target bleeds out very quickly.
+- Ursos marrom-avermelhados comumente encontrados em montanhas, bosques e pradarias. 
+- Preferem comer peixe e carne, e atacarão o raro infeliz que cruzar seu caminho.
+- **Dano Crítico:** Morde o alvo causando um dano adicional de d6 na FOR. O alvo sangra muito rapidamente.
 
-### 6 - Gray Sanctuary
+### 6 - Santuário Cinzento
 
-**Hazard**: _Frozen Troll_, _A Spell Gone Wrong_
+**Perigo:** *Troll Congelado*, *Um Feitiço que Deu Errado*
 
-A gray forest **sanctuary** stands at the intersection of four trails. In its center, two enormous **statues** appear to be wrestling.
+Um **santuário** florestal cinzento ergue-se na interseção de quatro trilhas. Em seu centro, duas enormes **estátuas** parecem estar lutando.
 
-- **Sanctuary**: All nearby plant life is lifeless and dull, as if all color has been bled away.
-  - The air shimmers with magic, emanating most strongly above the two statues.
-  - The _Withering_ effect is evident even before entering the clearing, as the _Withering_ has begun to spread in all directions.
-  - Plant matter brought into the clearing will soon begin to petrify, even without direct contact.
-- **Statues**: Two wood trolls are fighting over a shiny object held high in the air by the larger of the two.
-  - The object is a **Yore Glass**, a mirror Relic whose magic has disrupted the delicate spell that once made this place a verdant haven for forest life.
-  - The Witch's spell can only be disrupted by removing the mirror from the area or by destroying it completely. It is tightly held by the statue but can be removed by the application of grease, or by breaking the troll's arm.
-  - If the spell is broken, the magical effect will end, and the trolls will slowly awaken. They will immediately try to reclaim the mirror.
+- **Santuário:** Toda a vida vegetal próxima está sem vida e opaca, como se toda a cor tivesse sido drenada.
+  - O ar brilha com magia, emanando com mais força acima das duas estátuas.
+  - O efeito do *Definhamento* é evidente antes mesmo de entrar na clareira, pois ele começou a se espalhar em todas as direções.
+  - Matéria vegetal trazida para a clareira logo começará a petrificar, mesmo sem contato direto.
+- **Estátuas:** Dois trolls do bosque lutando por um objeto brilhante segurado no alto pelo maior dos dois.
+  - O objeto é um **Vidro de Outrora**, uma Relíquia em forma de espelho cuja magia perturbou o feitiço delicado que outrora tornava este lugar um refúgio verdejante para a vida florestal.
+  - O feitiço da Bruxa só pode ser interrompido removendo o espelho da área ou destruindo-o completamente. Ele está firmemente seguro pela estátua, mas pode ser removido com a aplicação de graxa ou quebrando o braço do troll.
+  - Se o feitiço for quebrado, o efeito mágico terminará e os trolls despertarão lentamente. Eles tentarão imediatamente recuperar o espelho.
 
-#### Yore Glass
+#### Vidro de Outrora
 
-- Once per day, the holder can replay 5 minutes of their life from the third-person. Long-term use can be addictive. Suffer _deprivation_ if not used regularly.
-- **Recharge**: Catch another's reflection in the glass without them knowing.
+- Uma vez por dia, o portador pode reprisar 5 minutos de sua vida em terceira pessoa. O uso prolongado pode ser viciante. Sofra *privação* se não for usado regularmente.
+- **Recarga:** Capturar o reflexo de outra pessoa no vidro sem que ela saiba.
 
-#### Wood Troll
+#### Troll do Bosque
 
-10 HP, 15 STR, 12 DEX, 7 WIL, bite (d8), club (d10)
+10 PG, 15 FOR, 12 DES, 7 VON, mordida (d8), porrete (d10)
 
-- Large humanoids with elongated arms made of bark or root. They live in forests, sharing a deep connection with the vegetation around them.
-- If killed, they will slowly regenerate unless their corpse is taken out of the forest or burned with fire.
-- **Critical Damage**: Moss and twigs begin growing out of the target's wounds.
+- Humanoides grandes com braços alongados feitos de casca ou raiz. Vivem em florestas, compartilhando uma conexão profunda com a vegetação ao redor.
+- Se mortos, regenerarão lentamente, a menos que seu cadáver seja levado para fora da floresta ou queimado com fogo.
+- **Dano Crítico:** Musgo e gravetos começam a crescer nas feridas do alvo.
 
-### 7 - Flooded Abbey
+### 7 - Abadia Inundada
 
-**Ruins**: _Flooded Monastery_, _Hidden Cache_
+**Ruínas:** *Mosteiro Inundado*, *Esconderijo Secreto*
 
-Three flooded **buildings** sprout from the center of a small pond, their **conical** roofs peaking out from beneath the waters. On the North side, a dry riverbed runs directly into the pond. The Eastern path is lined with dozens of piled **stones**.
+Três **edificações** inundadas brotam do centro de uma pequena lagoa, seus telhados **cônicos** espiando acima das águas. No lado norte, um leito de rio seco corre diretamente para a lagoa. O caminho leste está ladeado por dezenas de **pedras** empilhadas.
 
-- **Buildings**: Archaic, with subtly beautiful religious iconography. Obviously an abbey.
-  - Flooded after the dam at **8** was destroyed. 
-- **Roofs**: The tallest of the three buildings has a glass window high above the water.
-  -  The window is rusted shut but can be pried or broken open to enter the abbey's Chapter House.
-- **Stones**: Piled along the Southern side of the Eastern path. Names are engraved on most.
-  - The monks left piles of stone alongside the path for each of their fallen members.
+- **Edificações:** Arcaicas, com iconografia religiosa sutilmente bela. Obviamente uma abadia.
+  - Inundada após a destruição da represa em **8**. 
+- **Telhados:** A mais alta das três construções tem uma janela de vidro bem acima da água.
+  -  A janela está enferrujada e fechada, mas pode ser forçada ou quebrada para entrar na Sala Capitular da abadia.
+- **Pedras:** Empilhadas ao longo do lado sul do caminho leste. Nomes estão gravados na maioria.
+  - Os monges deixaram pilhas de pedra ao longo do caminho para cada um de seus membros caídos.
 
-#### Chapter House
+#### Sala Capitular
 
-**Tapestries** line the walls of this circular room, its wooden **floor** all but rotted away from water damage. A collapsed bannister on the Southwest side is all that remains of the flooded **stairwell** down into the rest of the building. 
+**Tapeçarias** revestem as paredes desta sala circular, cujo **chão** de madeira está quase todo apodrecido pela água. Um corrimão colapsado no lado sudoeste é tudo o que resta da **escadaria** inundada que desce para o resto do prédio.
 
-- **Tapestries**: Moldy and unsalvageable.
-  - Originally depicted the abbey in its former glory and the monks who lived here.
-- **Floor**: One of the wooden boards is less withered than the others. It smells faintly of something floral.
-  - Below the board is a hidden Spellbook, _Yearning Path_.
-- **Stairwell**: Completely underwater. The rooms below contain only floating corpses and ruined books.
+- **Tapeçarias:** Mofadas e irrecuperáveis.
+  - Originalmente retratavam a abadia em sua antiga glória e os monges que viviam aqui.
+- **Chão:** Uma das tábuas de madeira está menos murcha que as outras. Cheira levemente a algo floral.
+  - Abaixo da tábua está um Livro de Feitiço oculto, *Caminho do Anseio*.
+- **Escadaria:** Completamente submersa. As salas abaixo contêm apenas cadáveres flutuantes e livros arruinados.
 
-#### _Yearning Path_
+#### *Caminho do Anseio*
 
-- Shows the shortest path to the object of a heart's _true_ desire. _Smells of lavender. Adds an extra Fatigue if read more than once per day. The process is cumulative._
+- Mostra o caminho mais curto para o objeto do *verdadeiro* desejo do coração. *Cheira a lavanda. Adiciona uma Fadiga extra se lido mais de uma vez por dia. O processo é cumulativo.*
 
-### 8 - Black Mass
+### 8 - Massa Negra
 
-**Hazard**: _Giant Spider Nest_, _Injured Creature_
+**Perigo:** *Ninho de Aranha Gigante*, *Criatura Ferida*
 
-A black **boar** limps noisily near a large **mass** of black thread and trees. Fat, desiccated **carcasses** hang in spun silk from the treetops. A dry **riverbed** to the South is filled with piles of wood. 
+Um **javali** preto manca ruidosamente perto de uma grande **massa** de fios pretos e árvores. **Carcaças** gordas e dessecadas pendem em seda fiada do topo das árvores. Um **leito de rio** seco ao sul está cheio de pilhas de madeira.
 
-- **Boar**: Half-wrapped in thick black silk, it mews plaintively. 
-  - Poisoned by the spider bite in its hind quarters. If the party comes to its aid, the Wood will remember.
-- **Mass**: Threads of thick black silk hold together a 10ft pile of wood.
-  - The nest is home to 3 **Black Silk Spiders**. They will attack anyone that that interacts with their food or gets too close to their nest. 
-  - 200gp of black silk can be carefully gathered from the nest. It makes a fine rope (about 60ft) that is also incredibly strong and is sought after for its hydrophobic qualities.
-- **Carcasses**: Mostly animal corpses. A human shape is visible through the black webbing.
-  - The human was a hunter who ignored Sweeney's warnings and hunted North of the _Hunter's Track_. On the corpse are Rations (2 uses left), 33gp, and a hip-knife (d6).
-- **Riverbed**: Large piles of wood are thrown about. Bits of black silk can be seen tied around the longer pieces.
-  - A former beaver dam that kept the water to a trickle. The spiders brought the dam down to build their nest. The subsequent flooding destroyed the monastery at **7**, but the river only dried up after a drought earlier this year. 
+- **Javali:** Meio envolto em seda preta espessa, ele mia queixosamente. 
+  - Envenenado pela picada de aranha em seus quartos traseiros. Se o grupo vier em seu auxílio, o Bosque se lembrará.
+- **Massa:** Fios de seda preta espessa mantêm unida uma pilha de madeira de 3 metros.
+  - O ninho é o lar de 3 **Aranhas de Seda Negra**. Elas atacarão qualquer um que interaja com sua comida ou se aproxime demais do ninho. 
+  - 200po de seda negra podem ser coletados cuidadosamente do ninho. Ela produz uma corda fina (cerca de 18 metros) que também é incrivelmente forte e procurada por suas qualidades hidrofóbicas.
+- **Carcaças:** Principalmente cadáveres de animais. Uma forma humana é visível através da teia preta.
+  - O humano era um caçador que ignorou os avisos de Sweeney e caçou ao norte do *Rastro de Caçador*. No cadáver há Rações (2 usos restantes), 33po e uma faca de cinto (d6).
+- **Leito de Rio:** Grandes pilhas de madeira estão espalhadas. Pedaços de seda negra podem ser vistos amarrados nas peças mais longas.
+  - Uma antiga represa de castores que mantinha a água em um filete. As aranhas derrubaram a represa para construir seu ninho. A inundação subsequente destruiu o mosteiro em **7**, mas o rio só secou após uma seca no início deste ano. 
 
-#### Boar
+#### Javali
 
-4 HP, 12 STR, 5 DEX, 6 WIL, tusks (d6+d6)
+4 PG, 12 FOR, 5 DES, 6 VON, presas (d6+d6)
 
-#### **Black Silk Spider**
+#### **Aranha de Seda Negra**
 
-4 HP, 4 STR, 13 DEX, 5 WIL, bite (d8)
+4 PG, 4 FOR, 13 DES, 5 VON, mordida (d8)
 
-- **Critical Damage:** Poison paralyzes the victim and deals an additional d4 DEX damage. The victim is then dragged to the spider's nest to be eaten.
+- **Dano Crítico:** O veneno paralisa a vítima e causa d4 de dano adicional na DES. A vítima é então arrastada para o ninho da aranha para ser devorada.
 
-### 9 - Fishing Hut
+### 9 - Cabana de Pesca
 
-**Shelter**: _Fishing Hut_, _Occupied by Army Deserters_ [Exit]
+**Abrigo:** *Cabana de Pesca*, *Ocupada por Desertores do Exército* [Saída]
 
-A ramshackle **hut** built beside a small **lake** to the North. **Smoke** streams from a cooking rack on the West side, and loud **voices** echo through the South-facing window.
+Uma **cabana** capenga construída ao lado de um pequeno **lago** ao norte. **Fumaça** sai de um suporte de cozinha no lado oeste, e **vozes** altas ecoam pela janela voltada para o sul.
 
-- **Hut**: Built from simple logs tied together with rope, which appears fresh. Fishing wire can be seen leading out of the North side and into the lake.
-- **Lake**: Placid, but filled with bugs. A path on the West side leads away from the forest.
-  - The lake hasn't been fished for some time and has become overpopulated. Fishing is easy pickings.
-- **Smoke**: Spills from a wooden cooking rack adjacent to a pile of fried fish (4 x Rations, 3 uses each). 
-- **Voices**: Laughing and muffled speech. At least two voices can be heard from inside.
-  - There are three ex-soldiers squatting in this hut. They are pacifists who were forcibly conscripted into military service. They are seeking refuge in the abbey at **7** but haven't made it that far yet. They are jovial and kind-hearted but absolute cowards. 
-  - They know little about the forest, other than that there used to be a river running South from the lake that ended somewhere near an abbey.
+- **Cabana:** Construída com troncos simples amarrados com corda, que parece nova. Linha de pesca pode ser vista saindo do lado norte em direção ao lago.
+- **Lago:** Plácido, mas cheio de insetos. Um caminho no lado oeste leva para fora da floresta.
+  - O lago não é pescado há algum tempo e tornou-se superpovoado. Pescar aqui é fácil.
+- **Fumaça:** Sai de um suporte de madeira adjacente a uma pilha de peixes fritos (4 x Rações, 3 usos cada). 
+- **Vozes:** Risadas e fala abafada. Pelo menos duas vozes podem ser ouvidas lá dentro.
+  - Há três ex-soldados agachados nesta cabana. Eles são pacifistas que foram conscriptos à força para o serviço militar. Estão buscando refúgio na abadia em **7**, mas ainda não chegaram lá. São alegres e bondosos, mas covardes absolutos. 
+  - Eles sabem pouco sobre a floresta, além de que costumava haver um rio correndo para o sul a partir do lago que terminava em algum lugar perto de uma abadia.
 
-### Encounters
+### Encontros
 
-|         |                                                                                            |
-| ------- | ------------------------------------------------------------------------------------------ |
-| **d20** | **Encounter**                                                                              |
-| **1**   | A tiny bearded man argues with a squawking raven. It holds something shiny in its beak.    |
-| **2**   | A dryad sits atop a stone, a purple fungus lining her arms. There is violence in her eyes. |
-| **3**   | A patch of quicksand is disguised as soft ground. A broken spool of rope lies nearby.      |
-| **4**   | A snarling pack of wolves surround a fresh kill. They are not keen to share.               |
-| **5**   | Wild berries grow here in abundance. None have been eaten, not even by birds.              |
-| **6**   | A trap, hastily set and poorly concealed. It smells strongly of urine.                     |
+|         |                                                                                                        |
+| ------- | ------------------------------------------------------------------------------------------------------ |
+| **d20** | **Encontro**                                                                                           |
+| **1**   | Um homenzinho barbudo discute com um corvo grasnante. Ele segura algo brilhante no bico.               |
+| **2**   | Uma dríade senta-se sobre uma pedra, um fungo roxo revestindo seus braços. Há violência em seus olhos. |
+| **3**   | Um trecho de areia movediça disfarçado de solo macio. Um carretel de corda quebrado jaz por perto.     |
+| **4**   | Uma matilha de lobos rosnando cerca uma presa fresca. Eles não estão dispostos a compartilhar.         |
+| **5**   | Bagas silvestres crescem aqui em abundância. Nenhuma foi comida, nem mesmo por pássaros.               |
+| **6**   | Uma armadilha, montada às pressas e mal escondida. Cheira fortemente a urina.                          |

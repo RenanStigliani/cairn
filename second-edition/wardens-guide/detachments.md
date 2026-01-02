@@ -1,68 +1,68 @@
 ---
 layout: default
-title: Detachments
-parent: Warden's Guide 
+title: Destacamentos
+parent: Guia do Diretor 
 grand_parent: Segunda Edição
 ---
 
-# Detachments
+# Destacamentos
 
-## Introduction
+## Introdução
 
-Detachments are large groups of enemies treated as a single entity. They are more difficult to hit and deal damage to multiple opponents at the same time. Crucially, they remain a single unit until they take critical damage, after which they are broken up or defeated entirely. Occasionally, a large creature (such as a dragon or giant) will be treated as a detachment as well. 
+Destacamentos são grandes grupos de inimigos tratados como uma única entidade. Eles são mais difíceis de atingir e causam dano a vários oponentes ao mesmo tempo. Crucialmente, eles permanecem como uma única unidade até sofrerem dano crítico, momento em que são dispersados ou derrotados inteiramente. Ocasionalmente, uma criatura grande (como um dragão ou gigante) também será tratada como um destacamento.
 
-## Example
+## Exemplo
 
-> The party is setting up camp deep in the forest, adjacent to a modest waterfall. It is nearly nightfall, and everyone is on high alert. Unbeknownst to the party, a colony of Traitor-Rats [3 HP, 5 STR, 15 DEX, 4 WIL, bite (d6), _detachment_] makes its home here.
+> O grupo está montando acampamento nas profundezas da floresta, próximo a uma cachoeira modesta. É quase noite e todos estão em alerta máximo. Sem o conhecimento do grupo, uma colônia de Ratos-Traidores [3 PG, 5 FOR, 15 DES, 4 VON, mordida (d6), _destacamento_] habita este local.
 
-**Warden**: _"Just as the sun finally dips behind the trees, you each hear an unusual noise, not unlike the tsk-tsk-tsk of an overbearing uncle. As you listen, it begins to grow both in volume and tempo, then quickly becomes somewhat uncomfortable to listen to. As you survey the perimeter of the campsite, you see dozens of small, rat-like creatures with enormous eyes watching your party. They appear to be the source of the strange sound, and they are moving closer! By the way, we're going to treat these creatures as a detachment until further notice."_
+**Diretor**: _"Assim que o sol finalmente mergulha atrás das árvores, cada um de vocês ouve um ruído incomum, semelhante ao 'tsc-tsc-tsc' de um tio autoritário. Enquanto escutam, o som começa a crescer tanto em volume quanto em ritmo, tornando-se rapidamente desconfortável de ouvir. Ao examinarem o perímetro do acampamento, vocês veem dezenas de pequenas criaturas semelhantes a ratos, com olhos enormes, observando o grupo. Elas parecem ser a fonte do som estranho e estão se aproximando! A propósito, vamos tratar essas criaturas como um destacamento até segunda ordem."_
 
-**Freya**: _"Will we need to make DEX saves in order to attack before these things? Assuming they intend to do us harm, that is."_
+**Freya**: _"Precisaremos fazer salvamentos de DES para atacar antes dessas coisas? Assumindo que elas pretendem nos ferir, é claro."_
 
-**Warden**: _"No, you have enough time to make the first move."_
+**Diretor**: _"Não, vocês têm tempo suficiente para fazer o primeiro movimento."_
 
-**Freya**: _"OK. I'm going to see how many of these things I can take out at once."_
+**Freya**: _"Certo. Vou ver quantos desses bichos consigo derrubar de uma vez."_
 
-**Wolfram**: _"I'm going to find their queen and shoot her. Assuming there even is a queen!"_
+**Wolfram**: _"Vou procurar a rainha deles e atirar nela. Assumindo que exista uma rainha!"_
 
-**Lucius**: _"I hate to do this, but I am going to sacrifice 1 use of my bandages to use as stuffing for my ears. Just in case._"
+**Lucius**: _"Odeio fazer isso, mas vou sacrificar 1 uso das minhas bandagens para usar como tampão para meus ouvidos. Só por precaução."_
 
-**Warden**: _"Let's start with Lucius, who sacrifices 1 use of bandages and stuffs them in his ears. The sound all but disappears. That ends his turn. Freya, go ahead and roll your attack dice."_
+**Diretor**: _"Vamos começar com Lucius, que sacrifica 1 uso de bandagens e as enfia nos ouvidos. O som quase desaparece. Isso encerra o turno dele. Freya, vá em frente e role seus dados de ataque."_
 
-> Freya rolls two d4 dice, resulting in a 2 and a 2.
+> Freya rola dois dados d4, resultando em um 2 e um 2.
 
-**Warden**: _"Freya, you run into the mess of creatures, stabbing two of them with the Twins. They perish easily, but two more quickly fill their place. Even at the edge of the swarm, the sound they make is intense. You start to feel confused."_
+**Diretor**: _"Freya, você corre para o meio do amontoado de criaturas, esfaqueando duas delas com as Gêmeas. Elas morrem facilmente, mas duas outras rapidamente preenchem seus lugares. Mesmo na borda do enxame, o som que elas fazem é intenso. Você começa a se sentir confusa."_
 
-**Warden**: _"Wolfram, you move into the colony, passing through the swarm as you search for any sign of a queen. You spend your entire turn searching and are unable to take another action. However, in the fading light, you see a taller creature in the distance, a white stripe on its stomach."_
+**Diretor**: _"Wolfram, você entra na colônia, passando pelo enxame enquanto procura por qualquer sinal de uma rainha. Você gasta todo o seu turno procurando e não consegue realizar outra ação. No entanto, na luz fraca, você vê uma criatura mais alta à distância, com uma faixa branca na barriga."_
 
-**Wolfram**: _"Bingo. That's the one. A careful shot, that's all I need."_
+**Wolfram**: _"Bingo. É aquela ali. Um tiro cuidadoso, é tudo o que preciso."_
 
-**Warden**: _"Standing amongst all the creatures, the sound becomes unbearable for both Freya and Wolfram. Please make a WIL save, each of you."_
+**Diretor**: _"Estando no meio de todas as criaturas, o som torna-se insuportável tanto para Freya quanto para Wolfram. Por favor, cada um de vocês faça um salvamento de VON."_
 
-**Freya**: _"Uh oh. I rolled a 15, a fail."_
+**Freya**: _"Ih, rapaz. Rolei um 15, falhei."_
 
-**Wolfram**: _"I roll an 11, a success!"_
+**Wolfram**: _"Eu rolei um 11, sucesso!"_
 
-**Warden**: _"Freya collapses on the ground, the noise in her ears has grown so loud it has become an explosion of agony. Wolfram, you grit your teeth and carry on. Lucius is unaffected."_
+**Diretor**: _"Freya desaba no chão; o ruído em seus ouvidos cresceu tanto que se tornou uma explosão de agonia. Wolfram, você range os dentes e continua. Lucius não é afetado."_
 
-**Freya**: _"Eek. Do I lose my next turn?"_
+**Freya**: _"Eek. Eu perco meu próximo turno?"_
 
-**Warden**: _"That's right, but you can try to succeed at a WIL save to snap out of it. A few of the creatures nearby begin to nibble at your clothes as you writhe around. Finally, they attack both you and Wolfram!"_
+**Diretor**: _"Isso mesmo, mas você pode tentar ter sucesso em um salvamento de VON para se recuperar. Algumas das criaturas próximas começam a morder suas roupas enquanto você se contorce. Finalmente, elas atacam você e Wolfram!"_
 
-> As a detachment, the Traitor-Rats have both the _blast_ property and deal _enhanced_ damage. The Warden rolls a d12 twice, dealing 1 damage to Freya and 6 to Wolfram.
+> Como um destacamento, os Ratos-Traidores têm a propriedade _explosivo_ e causam dano _aprimorado_. O Diretor rola um d12 duas vezes, causando 1 de dano a Freya e 6 a Wolfram.
 
-**Warden**: _"Freya, you do not have HP as you are prone. However, your leather armor has protected you from taking any damage from the rats nipping at your back. Wolfram, you take 6 damage, but your HP and armor absorb the bulk of it. Next time you might not be so lucky."_
+**Diretor**: _"Freya, você não tem PG pois está caída. No entanto, sua armadura de couro a protegeu de sofrer qualquer dano dos ratos mordiscando suas costas. Wolfram, você sofre 6 de dano, mas seu PG e armadura absorvem a maior parte. Da próxima vez, você pode não ter tanta sorte."_
 
-**Wolfram**: "_That's OK, because there won't be a next time! I take aim at the taller creature and fire. I realize I have to roll a d4, but that's the best we've got!"_
+**Wolfram**: "_Tudo bem, porque não haverá uma próxima vez! Eu miro na criatura mais alta e disparo. Percebo que tenho que rolar um d4, mas é o melhor que temos!"_
 
-**Freya**: "_All I can do is make a WIL save... and it's a success! Phew."_
+**Freya**: "_Tudo o que posso fazer é um salvamento de VON... e é um sucesso! Ufa."_
 
-**Lucius**: _"I rush towards Freya and try to drag her out of that mess."_
+**Lucius**: _"Eu corro em direção a Freya e tento arrastá-la para fora dessa bagunça."_
 
-> Wolfram rolls a 2, which is enough to deal damage to STR. The detachment must now make a Critical Damage save using its STR Attribute. The Warden rolls a 7, a fail.
+> Wolfram rola um 2, o que é suficiente para causar dano à FOR. O destacamento deve agora fazer um salvamento de Dano Crítico usando seu atributo FOR. O Diretor rola um 7, uma falha.
 
-**Warden**: _"The crossbow bolt zings through the air, striking the white-furred creature in the heart. It screeches and keels over, and immediately the terrible noise stops, as the creatures begin to run off! Lucius, you pull Freya out of the danger zone just as she is coming around."_
+**Diretor**: _"O virote da besta zune pelo ar, atingindo a criatura de pelo branco no coração. Ela guincha e cai morta; imediatamente o ruído terrível para, enquanto as criaturas começam a fugir! Lucius, você tira Freya da zona de perigo bem no momento em que ela está voltando a si."_
 
-**Wolfram**: _"Thank goodness that's done with. I'm going to go grab whatever I just shot, though. Might make for a good dinner."_ 
+**Wolfram**: _"Graças a Deus isso acabou. Mas vou pegar o que quer que eu tenha acabado de abater. Pode render um bom jantar."_
 
-> The party rests for the night, and dines well.
+> O grupo descansa durante a noite e janta bem.
