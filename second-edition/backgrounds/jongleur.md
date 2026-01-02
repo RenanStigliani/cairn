@@ -11,7 +11,7 @@ grand_parent: Segunda Edição
 
 ## Nomes
 
-Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo   
+Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Eco, Jubilo   
 
 ## Equipamento Inicial
 
