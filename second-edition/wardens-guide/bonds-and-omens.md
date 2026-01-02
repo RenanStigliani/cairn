@@ -1,33 +1,33 @@
 ---
 layout: default
-title: Bonds and Omens
+title: Vínculos e Augúrios
 parent: Guia do Diretor 
 grand_parent: Segunda Edição
 ---
 
-# Bonds and Omens
+# Vínculos e Augúrios
 
-## Introduction
+## Introdução
 
-Bonds and Omens provide new player characters with adventure hooks, starting gear, and abilities. And while they are distinct from character Backgrounds, they are equally useful for building a setting, or even a complete adventure!
+Vínculos e Augúrios fornecem aos novos personagens de jogador ganchos de aventura, equipamento inicial e habilidades. E embora sejam distintos dos Antecedentes dos personagens, são igualmente úteis para construir um cenário ou até mesmo uma aventura completa!
 
-## Bonds
+## Vínculos
 
-Bonds can often tie a player character to another PC, the setting, and its characters. A PC can resolve a Bond by discovering the truth behind its mysteries or by solving its root cause. In this case, the character should experience Growth of some kind, and the Warden can optionally create a new Bond for the PC. Player characters are not required to resolve their Bonds. 
+Vínculos geralmente ligam um personagem de jogador a outro PJ, ao cenário e aos seus personagens. Um PJ pode resolver um Vínculo ao descobrir a verdade por trás de seus mistérios ou ao resolver sua causa raiz. Nesse caso, o personagem deve experimentar algum tipo de Crescimento, e o Diretor pode opcionalmente criar um novo Vínculo para o PJ. Os personagens de jogador não são obrigados a resolver seus Vínculos.
 
-### Bonds Should...
+### Vínculos Devem...
 
-- Give a character an item (often _petty_) _or_ a unique ability.
-- Encourage character engagement with the implied setting.
-- Flesh out a character's history without relying on events tied to specific Backgrounds. 
-- Provide a character with a quest, opportunity, or plan of action. 
+- Dar a um personagem um item (geralmente *menor*) *ou* uma habilidade única.
+- Incentivar o engajamento do personagem com o cenário sugerido.
+- Detalhar a história de um personagem sem depender de eventos ligados a Antecedentes específicos.
+- Fornecer a um personagem uma missão, oportunidade ou plano de ação.
 
-## Omens
+## Augúrios
 
-Omens are the seeds of an adventure yet to come, premonitions of a future disaster, or the cause of a problem the characters are currently facing. An Omen is resolved when the characters reveal the truth behind its origin or resolve its dangers. Resolving an Omen should yield Growth of some kind, either for the party as a collective or to an entangled individual. If an Omen is ignored, it should come to pass and wreak whatever havoc it may.
+Augúrios são as sementes de uma aventura por vir, premonições de um desastre futuro ou a causa de um problema que os personagens estão enfrentando atualmente. Um Augúrio é resolvido quando os personagens revelam a verdade por trás de sua origem ou resolvem seus perigos. Resolver um Augúrio deve gerar algum tipo de Crescimento, seja para o grupo como um coletivo ou para um indivíduo envolvido. Se um Augúrio for ignorado, ele deve se concretizar e causar o caos que for necessário.
 
-### Omens Should...
+### Augúrios Devem...
 
-- Never rely on a specific player character for relevance.
-- Alway tell the characters something about the setting they did not already know.
-- Reveal a pattern or other obvious indicator that something terrible is going on. 
+- Nunca depender de um personagem de jogador específico para ter relevância.
+- Sempre dizer aos personagens algo sobre o cenário que eles ainda não sabiam.
+- Revelar um padrão ou outro indicador óbvio de que algo terrível está acontecendo.
