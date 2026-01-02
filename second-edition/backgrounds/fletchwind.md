@@ -1,11 +1,11 @@
 ---
 title: Flecheiro dos Ventos
 layout: default
-parent: Backgrounds
+parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 
-# Flecheiro dos Ventos [Fletchwind]
+# Flecheiro dos Ventos
 
 > Você ataca de longe, mas isso não faz de você um covarde. Você é um músico, a canção da sua corda de arco nada mais é que um aviso, cantando a promessa silenciosa de uma morte rápida. 
 

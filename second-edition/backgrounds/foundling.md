@@ -1,11 +1,11 @@
 ---
 title: Enjeitado
 layout: default
-parent: Backgrounds
+parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 
-# Enjeitado [Foundling]
+# Enjeitado
 
 > Uma marca de nascença estranha, um cheiro incomum: de algum modo, o toque do _alhures_ ainda persiste em você. Onde quer que esteja, sempre encontra dificuldade para se encaixar. Role na tabela de **Presságios** (mesmo que você não seja o jogador mais jovem), mas mantenha o resultado em segredo por enquanto.
  

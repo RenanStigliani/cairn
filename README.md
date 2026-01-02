@@ -5,8 +5,29 @@ nav_order: 1
 permalink: /
 ---
 
-Cairn is an adventure game about exploring a dark and mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is quick and random, adventures are tense and reward careful exploration, and combat is frantic and deadly. The game was written by [Yochai Gal](https://newschoolrevolution.com). There are now multiple editions (see sidebar) that are all rules-compatible.
+## Sobre Cairn
 
-The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You can find the source files [here](https://github.com/yochaigal/cairn).
+Cairn é um jogo de aventura sobre a exploração de um bosque sombrio e misterioso, repleto de pessoas estranhas, tesouros escondidos e monstruosidades indescritíveis. A criação de personagens é rápida e aleatória, as aventuras são tensas e recompensam a exploração cuidadosa, e os combates são frenéticos e mortais.
 
-This is a game that values community contributions! If you'd like to submit an adventure, hack, monster, or conversion take a look at the [submission guide](/submissions/submission-guide).
+O jogo foi criado por [Yochai Gal](https://newschoolrevolution.com). Existem atualmente várias edições, duas das quais estão disponíveis aqui (ver barra lateral), todas compatíveis entre si em termos de regras.
+
+Este é um jogo que valoriza as contribuições da comunidade! Se você quiser enviar uma aventura, hack, monstro ou conversão, dê uma olhada no [guia de envio oficial](https://cairnrpg.com/submissions/submission-guide) (em inglês).
+
+---
+
+## Sobre esta Edição Brasileira
+
+- Este é um **projeto em andamento**.
+- Esta versão é uma **tradução feita por fã**, sem qualquer pretensão de ser profissional ou oficial.
+- Algumas partes e termos foram adaptados da tradução da [Primeira Edição](https://cairnrpg.com/localization/first-edition/brazilian-portuguese/), realizada por [Xenio](https://xenioinabottle.blogspot.com/).
+- Outras partes da tradução foram baseadas no [trabalho de robsonfvilela](https://github.com/robsonfvilela/Cairn-2e-ptbr).
+- Esse conteúdo foi revisado com auxílio de IA e posteriormente revisado manualmente por mim.
+
+---
+
+## Licença e Código-Fonte
+
+O texto completo está licenciado sob [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Você pode encontrar os arquivos-fonte:
+- [desta tradução aqui](https://github.com/renanStigliani/cairn).
+- [da versão original em inglês](https://github.com/yochaigal/cairn).

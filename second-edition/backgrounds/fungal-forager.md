@@ -1,11 +1,11 @@
 ---
 title: Coletor de Fungos
 layout: default
-parent: Backgrounds
+parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 
-# Coletor de Fungos [Fungal Forager]
+# Coletor de Fungos
 
 > Você segue os sussurros da terra profunda, o pulso rítmico da floresta de micélio que cresce sob a superfície. A escuridão não lhe traz terror algum. Além disso, você realmente ama cogumelos.
 

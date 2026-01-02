@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Overview & Principles
+title: Visão Geral & Princípios
 parent: Guia do Jogador
 grand_parent: Segunda Edição
+nav_order: 4
 ---
 
 # Visão Geral & Princípios

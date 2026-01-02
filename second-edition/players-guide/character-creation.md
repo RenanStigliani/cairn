@@ -3,6 +3,7 @@ layout: default
 title: Criação de Personagem 
 parent: Guia do Jogador
 grand_parent: Segunda Edição
+nav_order: 1
 ---
 
 # Criação de Personagem 
@@ -10,13 +11,13 @@ grand_parent: Segunda Edição
 ## Role ou escolha um Antecedente
 
 - Primeiro, role ou escolha da tabela de [Antecedentes](#Antecedentes) abaixo e anote o número da página. Você consultará essa página para os próximos passos.
-- Escolha um nome da lista disponível e registre cada um dos itens iniciais do seu personagem Veja [Inventário](#Inventário) e [Espaços de Inventário](#Espaços-de-Inventário) para saber como registrar os itens. 
-- Role em cada uma das tabelas incluídas em Antecedente. Registre os itens, perícias ou habilidades do seu personagem em cada resultado. Alguns antecedentes podem pedir que você consulte também as tabelas do [Mercado](marketplace.md).
+- Escolha um nome da lista disponível e anote cada um dos itens iniciais do seu personagem. Veja [Inventário](#Inventário) e [Espaços de Inventário](#Espaços-de-Inventário) para saber como registrar os itens. 
+- Role em cada uma das tabelas incluídas no seu antecedente. Anote os itens, perícias ou habilidades do seu personagem para cada resultado. Alguns antecedentes também podem te direcionar às tabelas do [Mercado](marketplace.md).
 
 ## Antecedentes
 
-| **d20** | **Antecedente**                                        | **d20** | **Antecedente**                                          |
 | ------- | ------------------------------------------------------ | ------- | -------------------------------------------------------- |
+| **d20** | **Antecedente**                                        | **d20** | **Antecedente**                                          |
 | **1**   | [Ourivex](../backgrounds/aurifex.md)                   | **11**  | [Meia-Bruxa](../backgrounds/half-witch.md)               |
 | **2**   | [Barbeiro-Cirurgião](../backgrounds/barber-surgeon.md) | **12**  | [Caçador de Bruxas](../backgrounds/hexenbane.md)         |
 | **3**   | [Domador de Feras](../backgrounds/beast-handler.md)    | **13**  | [Trovador](../backgrounds/jongleur.md)                   |
@@ -30,30 +31,30 @@ grand_parent: Segunda Edição
 
 ## Atributos, Pontos de Guarda e Características 
 
-Role para definir os **Atributos** e **Pontos de Guarda** do Personagem.
+- Role para definir os **Atributos** e **Pontos de Guarda** do Personagem.
 - Role para definir o restante das [Características](#Características-de-Personagem-(d10)) e depois na tabela de [Vínculos](#Vínculos).
 - Finalmente, role para determinar a **Idade** do seu personagem (2d20+10). Se você for _o personagem mais jovem_, role na tabela de [Presságios](#Presságios). O resultado deve ser lido em voz alta para os outros jogadores. O Guardião deve incorporar Presságios ao cenário conforme achar adequado.
 
 ## Atributos
 
-Um Personagem Jogador tem apenas três Atributos: **Força (FOR)**, **Destreza (DES)** e **Força de Vontade (VON)**. 
-[parcial]- Role 3d6 para cada um dos **Atributos** do seu personagem, em ordem. Você pode então trocar quaisquer dois dos resultados. 
+- Um Personagem Jogador tem apenas três Atributos: **Força (FOR)**, **Destreza (DES)** e **Força de Vontade (VON)**. 
+- Role 3d6 para cada um dos **Atributos** do seu personagem, em ordem. Você pode então trocar quaisquer dois dos resultados entre sí. 
 - Atributos não são descritores universais. Um personagem com FOR baixa não é necessariamente irremediavelmente fraco; ele ainda pode tentar levantar uma porta pesada ou sobreviver a uma luta mortal! O risco é simplesmente maior. 
 
-Pontos de Guarda
+## Pontos de Guarda
 
 - Role 1d6 para determinar a **Pontos de Guarda** (PG) inicial do seu PJ, que reflete sua capacidade de evitar danos em combate. PG não indica a saúde ou fortitude de um personagem; nem ele a perde por muito tempo. Veja [Cura & Recuperação](core-rules.md#Cura-&-Recuperação) 
 - Se um ataque levar a PG de um PJ exatamente a 0, o jogador deve rolar na tabela de [**Cicatrizes**](core-rules.md#Cicatrizes).
 
 ## Inventário
 
-- Os personagens têm um total de 10 espaços de inventário, mas só podem carregar quatro ou cinco itens confortavelmente sem a ajuda de bolsas, mochilas, cavalos, carrinhos, etc.
-- Cada PJ começa com uma **Mochila** que pode ter até seis espaços de itens ou fica com **Fadiga**. Carirnhos (que devem ser puxadas com as duas mãos), cavalos ou mulas podem fazer uma grande diferença em quanto um PJ pode levar consigo em uma aventura. **Mercenários** também podem ser contratados para transportar equipamentos. 
+- Personagens têm um total de 10 espaços de inventário, mas só conseguem carregar quatro ou cinco itens confortavelmente sem a ajuda de bolsas, mochilas, cavalos, carriolas, etc.
+- Cada PJ começa com uma **Mochila** que carrega até seis espaços de itens ou **Fadiga**. Carriolas (que devem ser puxadas com as duas mãos), cavalos ou mulas podem fazer uma grande diferença em quanto um PJ pode levar consigo em uma aventura. **Mercenários** também podem ser contratados para transportar equipamentos. 
 - O inventário é abstrato, dependendo apenas da ficção e do julgamento do Guardião. Qualquer um que esteja com o inventário cheio (ou seja, preenchendo todos os 10 espaços) é reduzido a 0 PG. Um personagem não pode preencher mais do que dez espaços.
 
 ### Espaços de Inventário
 
-- A maioria dos itens ocupa apenas um espaço, a menos que indicado de outra forma. 
+- A maioria dos itens ocupa um espaço, exceto se indicado ao contrário.
 - _Miudezas_ não ocupam espaço. Itens _Volumosos_ ocupam **dois** espaços. 
 - Um saco de moedas com valor inferior a 100 PO é considerado _miudeza_ e não ocupa espaço.
 
@@ -141,8 +142,9 @@ Pontos de Guarda
 
 ## Vínculos
 
-| **d20** | **Vínculo**                                                                                                                                                                                                                              |
+|         |                                                                                                                                                                                                                                          |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **d20** | **Vínculo**                                                                                                                                                                                                                              |
 | **1**   | Você herdou uma **Única Gema** (500 PO, fria e quebradiça) de um parente há muito falecido. Ela veio acompanhada de um aviso: se desperdiçar sua nova fortuna, uma dívida há muito esquecida será cobrada.                               |
 | **2**   | Um primo distante lhe deixou uma pequena herança. Receba **20 PO** e uma **Bússola Estranha** (_miudeza_) que sempre aponta para algo nas profundezas do Bosque.                                                                         |
 | **3**   | Você carrega um **Retrato** num medalhão (_miudeza_) de um antigo amor que desapareceu no Bosque há muito tempo. De alguma forma, você sabe que essa pessoa ainda está viva.                                                             |
@@ -167,8 +169,8 @@ Pontos de Guarda
 
 ## Presságios
 
-| **d20** | **Presságio**                                                                                                                                                                                                                                          |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **d20** | **Presságio**                                                                                                                                                                                                                                          |
 | **1**   | As outrora ricas águas de um rio vital tornaram-se negras e fétidas, contaminando a terra e adoecendo quem delas bebe. Um ancião da aldeia aponta uma recente profanação como causa, mas a maioria ignora suas palavras.                               |
 | **2**   | Parece que o inverno chegou cedo demais este ano, com geadas e neves aparecendo muito antes do esperado. Há quem fale sobre um padrão no gelo encontrado em janelas, lagoas e rachaduras no solo. Quase parece um mapa.                                |
 | **3**   | Uma névoa espessa e antinatural começou a invadir um bosque antigo e sagrado. Dizem ser obra de um grande espírito da floresta, enfurecido pelo desmatamento próximo.                                                                                  |

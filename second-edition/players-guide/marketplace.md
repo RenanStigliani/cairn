@@ -3,6 +3,7 @@ layout: default
 title: Mercado
 parent: Guia do Jogador
 grand_parent: Segunda Edição
+nav_order: 3
 ---
 
 # Mercado 

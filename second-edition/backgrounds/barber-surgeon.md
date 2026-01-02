@@ -1,11 +1,11 @@
 ---
 title: Barbeiro-Cirurgião
 layout: default
-parent: Backgrounds
+parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 
-# Barbeiro-Cirurgião [Barber-Surgeon]
+# Barbeiro-Cirurgião
 
 > Você caminha na linha entre curandeiro e flagelador, conhecendo a fragilidade da carne, mas também os segredos que residem em seu interior. Com as ferramentas certas, a vida e a morte são apenas palavras.
 

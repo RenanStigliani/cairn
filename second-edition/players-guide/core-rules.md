@@ -3,6 +3,7 @@ layout: default
 title: Regras Básicas
 parent: Guia do Jogador
 grand_parent: Segunda Edição
+nav_order: 2
 ---
 
 # Regras Básicas
@@ -131,20 +132,20 @@ Se o dano a um PJ reduzir seus PG exatamente a 0, consulte o resultado na tabela
 
 ### Tabela de Cicatrizes
 
-| **PG Perdidos** | **Resultado**                                                                                                                                                                                                                                                 |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **PG Perdidos** | **Resultado**                                                                                                                                                                                                                                                 |
 | 1               | Cicatriz Duradoura: Role 1d6. Pescoço, 2: Mãos, 3: Olho, 4: Peito, 5: Pernas, 6: Orelha. Role 1d6: Se o total for maior que seus PG máximos, adote o novo resultado.                                                                                          |
-| **2**           | Golpe Chocante: Você está desorientado e abalado. Descreva como volta a se concentrar. Role 1d6: Se o total for maior que seus PG máximos, adote o novo resultado.                                                                                            |
-| **3**           | Sacudido: Você é lançado para longe e cai de cara no chão, sem fôlego. Você fica privado até descansar por algumas horas. Depois, role 1d6 e adicione esse valor aos seus PG máximos.                                                                         |
-| **4**           | Membro Quebrado: Role 1d6. 1–2: Perna, 3–4: Braço, 5: Costela, 6: Crânio. Uma vez curado, role 2d6. Se o total for maior que seus PG máximos, adote o novo resultado.                                                                                         |
-| **5**           | Doença: Você é afligido por uma infecção grotesca e desconfortável. Quando você se recuperar, role 2d6. Se o total for maior que seus PG máximos, adote o novo resultado.                                                                                     |
-| **6**           | Ferimento Desorientador na Cabeça: Role 1d6. 1–2: FOR, 3–4: DES, 5–6: VON. Role 3d6: Se o total for maior que seu atributo atual, use o novo resultado.                                                                                                       |
+| 2               | Golpe Chocante: Você está desorientado e abalado. Descreva como volta a se concentrar. Role 1d6: Se o total for maior que seus PG máximos, adote o novo resultado.                                                                                            |
+| 3               | Sacudido: Você é lançado para longe e cai de cara no chão, sem fôlego. Você fica privado até descansar por algumas horas. Depois, role 1d6 e adicione esse valor aos seus PG máximos.                                                                         |
+| 4               | Membro Quebrado: Role 1d6. 1–2: Perna, 3–4: Braço, 5: Costela, 6: Crânio. Uma vez curado, role 2d6. Se o total for maior que seus PG máximos, adote o novo resultado.                                                                                         |
+| 5               | Doença: Você é afligido por uma infecção grotesca e desconfortável. Quando você se recuperar, role 2d6. Se o total for maior que seus PG máximos, adote o novo resultado.                                                                                     |
+| 6               | Ferimento Desorientador na Cabeça: Role 1d6. 1–2: FOR, 3–4: DES, 5–6: VON. Role 3d6: Se o total for maior que seu atributo atual, use o novo resultado.                                                                                                       |
 | 7               | Tendão Partido: Você mal consegue se mover até receber ajuda médica e descanso. Após se recuperar, role 3d6. Se o total for maior que sua DES máxima, use o novo resultado.                                                                                   |
-| **8**           | Ensurdecido: Você não pode ouvir nada até encontrar ajuda extraordinária. De qualquer forma, faça uma salvaguarda de VON. Se passar, aumente sua VON máxima em 1d4.                                                                                           |
-| **9**           | Reconfiguração Mental: Alguma parte oculta da sua psique é deslocada. Role 3d6: Se o total for maior que sua VON máxima, use o novo resultado.                                                                                                                |
-| **10**          | Membro Estropiado: Um membro é arrancado, inutilizado ou aleijado. (O Guardião lhe dirá qual.) Então faça uma Salvaguarda de VON. Se passar, aumente sua VON máxima em 1d6.                                                                                   |
+| 8               | Ensurdecido: Você não pode ouvir nada até encontrar ajuda extraordinária. De qualquer forma, faça uma salvaguarda de VON. Se passar, aumente sua VON máxima em 1d4.                                                                                           |
+| 9               | Reconfiguração Mental: Alguma parte oculta da sua psique é deslocada. Role 3d6: Se o total for maior que sua VON máxima, use o novo resultado.                                                                                                                |
+| 10              | Membro Estropiado: Um membro é arrancado, inutilizado ou aleijado. (O Guardião lhe dirá qual.) Então faça uma Salvaguarda de VON. Se passar, aumente sua VON máxima em 1d6.                                                                                   |
 | 11              | Ferimento Mortal: Você está privado e fora de ação. Você morre em uma hora a menos que seja curado. Após se recuperar, role 2d6. Considere o novo resultado como seus PG máximo.                                                                              |
-| **12**          | Condenado: A morte esteve perigosamente próxima, mas de alguma forma você sobreviveu. Se sua próxima Salvaguarda de dano crítico falhar, você terá uma morte horrível. Se passar, role 3d6. Se o total for maior que seus PG máximos, adote o novo resultado. |
+| 12              | Condenado: A morte esteve perigosamente próxima, mas de alguma forma você sobreviveu. Se sua próxima Salvaguarda de dano crítico falhar, você terá uma morte horrível. Se passar, role 3d6. Se o total for maior que seus PG máximos, adote o novo resultado. |
 
 ## Magia
 

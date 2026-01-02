@@ -1,11 +1,11 @@
 ---
 title: Ourivex
 layout: default
-parent: Backgrounds
+parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 
-# Ourivex [Aurifex]
+# Ourivex
 
 > Você é um artesão do arcano, um ferreiro de forças sutis. No cadinho de sua oficina, as leis que regem este mundo se distorcem para atender às suas necessidades. 
 

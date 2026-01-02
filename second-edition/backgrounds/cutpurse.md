@@ -1,11 +1,11 @@
 ---
 title: Corta-Bolsas
 layout: default
-parent: Backgrounds
+parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 
-# Corta-Bolsas [Cutpurse]
+# Corta-Bolsas
 
 > Você vive no espaço cinzento entre aqueles que têm poder e aqueles que não têm. Encontra oportunidade onde outros veem apenas caos. Com dedos ágeis, alivia tanto o mais rico comerciante quanto o mais humilde guarda. 
 

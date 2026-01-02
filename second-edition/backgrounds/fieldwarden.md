@@ -1,11 +1,11 @@
 ---
 title: Guarda-Campo
 layout: default
-parent: Backgrounds
+parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 
-# Guarda-Campo [Fieldwarden]
+# Guarda-Campo
 
 > Protetores da colheita, defensores contra pragas, ladrões e feras. Uma posição de grande honra, enquanto dura: muitos guardiões não vivem até o fim natural de suas vidas. Role uma segunda vez na tabela de **Vínculos**. 
 

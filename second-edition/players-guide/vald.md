@@ -3,6 +3,7 @@ layout: default
 title: Vald
 parent: Guia do Jogador
 grand_parent: Segunda Edição
+nav_order: 6
 ---
 
 # Vald

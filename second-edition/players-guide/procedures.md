@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Procedures
+title: Procedimentos
 parent: Guia do Jogador
 grand_parent: Segunda Edição
+nav_order: 5
 ---
 
 # Procedimentos

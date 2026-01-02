@@ -1,7 +1,7 @@
 ---
 title: Corredor de Riacho
 layout: default
-parent: Backgrounds
+parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 

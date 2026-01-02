@@ -1,7 +1,7 @@
 ---
 title: Guarda da Marca
 layout: default
-parent: Backgrounds
+parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 

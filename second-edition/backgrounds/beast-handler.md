@@ -1,11 +1,11 @@
 ---
 title: Domador de Feras
 layout: default
-parent: Backgrounds
+parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 
-# Domador de Feras [Beast Handler]
+# Domador de Feras
 
 > Mesmo sozinho você pode andar entre as criaturas selvagens, destemido e no controle. Você compartilha uma conexão com os animais que outros só podem sonhar em ter... contanto que não vire o lanche deles.
 

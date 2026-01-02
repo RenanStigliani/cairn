@@ -1,7 +1,7 @@
 ---
 title: Espreitador
 layout: default
-parent: Backgrounds
+parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 
