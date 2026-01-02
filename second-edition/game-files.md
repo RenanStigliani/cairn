@@ -1,21 +1,23 @@
 ---
-title: Game Files
+title: Arquivos Digitais
 parent: Segunda Edição
 nav_order: 6
 ---
 
-# Game Files
+# Arquivos Digitais
+
+Encontre abaixo arquivos digitais do jogo (em inglês).
 
 ## Itch.io
 
-- [Player's Guide](https://yochaigal.itch.io/cairn-players-guide)
-- [Warden's Guide](https://yochaigal.itch.io/cairn-wardens-guide)
+- [Guia do Jogador](https://yochaigal.itch.io/cairn-players-guide)
+- [Guia do Guardião](https://yochaigal.itch.io/cairn-wardens-guide)
 
 ## DriveThru RPG
 
-- [Player's Guide](https://www.drivethrurpg.com/en/product/500476/cairn-player-s-guide-2nd-edition)
-- [Warden's Guide](https://www.drivethrurpg.com/en/product/500478/cairn-warden-s-guide-2nd-edition)
+- [Guia do Jogador](https://www.drivethrurpg.com/en/product/500476/cairn-player-s-guide-2nd-edition)
+- [Guia do Guardião](https://www.drivethrurpg.com/en/product/500478/cairn-warden-s-guide-2nd-edition)
 
 ## Google Drive
 
-- To peruse the PDFs without creating an account, click [here](https://drive.google.com/drive/folders/17sKa96Sh1V5K3Pr22blJfXzUsELhZq8V?usp=sharing)!
+- Para acessar os PDFs sem criar uma aconta, clique [aqui](https://drive.google.com/drive/folders/17sKa96Sh1V5K3Pr22blJfXzUsELhZq8V?usp=sharing)!
