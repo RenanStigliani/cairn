@@ -1,377 +1,378 @@
 ---
 layout: default
-title: Naming Procedures
+title: Procedimentos de Nomenclatura
 parent: Guia do Diretor 
 grand_parent: Segunda Edição
 ---
 
-# Naming Procedures
+# Procedimentos de Nomenclatura
 
-- Settlements are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. The residents then add a noun or adjective: _Windy Gulch_, _Black Tree Fort_, etc.
-- Important places should have important names, like those of heroes, religious or political figures, and other events. _The Chalet of Saint Ibiz, Queen's Harvest, Light of the Nine_, etc.
-- Proper nouns can be added to or even replace parts of a name, e.g. **Bruna's Ugly Gulch**. 
-- Wild and dangerous places are named after obvious hazards: _Poison Lake_, _Foggy Cliffs_, etc. 
-- Some names tell a story: _Luka's Folly, Dead Man's Path_, etc. 
-- Use the region's local terrain and the location's details where appropriate. 
+- Assentamentos geralmente recebem o nome de suas características únicas: a forma do rio próximo ou o grande moinho de vento no centro da cidade. Os moradores então adicionam um substantivo ou adjetivo: _Ravina Ventosa_, _Forte da Árvore Negra_, etc.
+- Lugares importantes devem ter nomes importantes, como os de heróis, figuras religiosas ou políticas e outros eventos. _O Chalé de São Ibiz, Colheita da Rainha, Luz dos Nove_, etc.
+- Nomes próprios podem ser adicionados ou até substituir partes de um nome, por exemplo, **Ravina Feia de Bruna**.
+- Lugares selvagens e perigosos recebem nomes de perigos óbvios: _Lago do Veneno_, _Penhascos Nebulosos_, etc.
+- Alguns nomes contam uma história: _Loucura de Luka, Caminho do Homem Morto_, etc.
+- Use o terreno local da região e os detalhes do local onde for apropriado.
 
-## Generating Names
+## Gerando Nomes
 
-- Roll on the [Names Formula](#poi-names-formula) table for each POI. 
-- Roll on the [Adjectives](#adjectives) and [Nouns](#nouns) tables where appropriate.
-- To roll **1d100**, roll **2d10**, using one die for the tens place, and one die for the ones place.
+- Role na tabela de [Fórmula de Nomes](#fórmula-de-nomes) para cada PDI.
+- Role nas tabelas de [Adjetivos](#adjetivos) e [Substantivos](#substantivos) onde apropriado.
+- Para rolar **1d100**, role **2d10**, usando um dado para a casa das dezenas e um dado para a casa das unidades.
 
-> To name regions based on Terrain, swap out "POI" with the terrain type, and consult the [Terrain Synonyms](#terrain-synonyms) table for inspiration. 
+> Para nomear regiões com base no Terreno, troque "PDI" pelo tipo de terreno e consulte a tabela de [Sinônimos de Terreno](#sinônimos-de-terreno) para inspiração.
 
-### Names Formula
+### Fórmula de Nomes
 
-|        |                                               |
-| ------ | --------------------------------------------- |
-| **d6** | **Formula**                                   |
-| **1**  | (The) **[Noun]** **[POI]**                    |
-| **2**  | (The) **[Adjective]** **[POI]**               |
-| **3**  | **[POI]** of (the) **[Noun]**                 |
-| **4**  | **[Adjective]** **[POI]** of (the) **[Noun]** |
-| **5**  | (The) **[Noun]** **[Adjective]** **[POI]**    |
-| **6**  | **[POI]** of (the) **[Adjective]** **[Noun]** |
+|        |                                                    |
+| ------ | -------------------------------------------------- |
+| **d6** | **Fórmula** |
+| **1** | (O/A) **[PDI]** (do/da) **[Substantivo]** |
+| **2** | (O/A) **[PDI]** **[Adjetivo]** |
+| **3** | **[PDI]** (do/da) **[Substantivo]** |
+| **4** | **[PDI]** **[Adjetivo]** (do/da) **[Substantivo]** |
+| **5** | (O/A) **[PDI]** **[Adjetivo]** (do/da) **[Substantivo]**|
+| **6** | **[PDI]** (do/da) **[Substantivo]** **[Adjetivo]** |
 
-## Adjectives
+> *Nota de Tradução: A estrutura das fórmulas foi adaptada para a sintaxe do português (Substantivo + Adjetivo), diferindo da ordem do inglês (Adjective + Noun).*
+
+## Adjetivos
 
 |          |               |          |               |
 | -------- | ------------- | -------- | ------------- |
-| **d100** | **Adjective** | **d100** | **Adjective** |
-| **1**    | Aging         | **51**   | Furious       |
-| **2**    | Amber         | **52**   | Gaping        |
-| **3**    | Ancient       | **53**   | Gleaming      |
-| **4**    | Angry         | **54**   | Glow          |
-| **5**    | Ashen         | **55**   | Granite       |
-| **6**    | Bare          | **56**   | Grim          |
-| **7**    | Battered      | **57**   | Grizzled      |
-| **8**    | Bitter        | **58**   | Hazy          |
-| **9**    | Blackened     | **59**   | Heated        |
-| **10**   | Blazing       | **60**   | Hellish       |
-| **11**   | Bleak         | **61**   | Hideous       |
-| **12**   | Blighted      | **62**   | Jagged        |
-| **13**   | Blistered     | **63**   | Lone          |
-| **14**   | Blistering    | **64**   | Lonely        |
-| **15**   | Blustery      | **65**   | Luminous      |
-| **16**   | Brisk         | **66**   | Lurching      |
-| **17**   | Bright        | **67**   | Lustrous      |
-| **18**   | Broad         | **68**   | Miserable     |
-| **19**   | Calm          | **69**   | Misty         |
-| **20**   | Celestial     | **70**   | Mournful      |
-| **21**   | Choking       | **71**   | Muddy         |
-| **22**   | Cold          | **72**   | Narrow        |
-| **23**   | Colorful      | **73**   | Ominous       |
-| **24**   | Copper        | **74**   | Overgrown     |
-| **25**   | Cracked       | **75**   | Patched       |
-| **26**   | Crimson       | **76**   | Peeling       |
-| **27**   | Crumbling     | **77**   | Plunging      |
-| **28**   | Curled        | **78**   | Ragged        |
-| **29**   | Curling       | **79**   | Rotting       |
-| **30**   | Curved        | **80**   | Salty         |
-| **31**   | Curvy         | **81**   | Savage        |
-| **32**   | Dampened      | **82**   | Shifting      |
-| **33**   | Dark          | **83**   | Shimmering    |
-| **34**   | Dazzling      | **84**   | Shining       |
-| **35**   | Dead          | **85**   | Shivering     |
-| **36**   | Deathly       | **86**   | Shrouded      |
-| **37**   | Diamond       | **87**   | Singed        |
-| **38**   | Dismal        | **88**   | Sinking       |
-| **39**   | Dreary        | **89**   | Slaughter     |
-| **40**   | Empty         | **90**   | Smoky         |
-| **41**   | Endless       | **91**   | Soggy         |
-| **42**   | Fierce        | **92**   | Sour          |
-| **43**   | Flaming       | **93**   | Sputtering    |
-| **44**   | Flashing      | **94**   | Stained       |
-| **45**   | Foggy         | **95**   | Starved       |
-| **46**   | Forbidden     | **96**   | Stinking      |
-| **47**   | Forgotten     | **97**   | Stuffed       |
-| **48**   | Fragile       | **98**   | Sunken        |
-| **49**   | Frayed        | **99**   | Thin          |
-| **50**   | Frozen        | **100**  | Withered      |
+| **d100** | **Adjetivo** | **d100** | **Adjetivo** |
+| **1** | Envelhecido   | **51** | Furioso       |
+| **2** | Âmbar         | **52** | Aberto        |
+| **3** | Antigo        | **53** | Reluzente     |
+| **4** | Irado         | **54** | Brilhante     |
+| **5** | Acinzentado   | **55** | Granito       |
+| **6** | Nu            | **56** | Sinistro      |
+| **7** | Surrado       | **57** | Grisalho      |
+| **8** | Amargo        | **58** | Nebuloso      |
+| **9** | Encaurecido   | **59** | Aquecido      |
+| **10** | Flamejante    | **60** | Infernal      |
+| **11** | Desolador     | **61** | Horrendo      |
+| **12** | Arruinado     | **62** | Irregular     |
+| **13** | Empolado      | **63** | Solitário     |
+| **14** | Escaldante    | **64** | Ermo          |
+| **15** | Tempestuoso   | **65** | Luminoso      |
+| **16** | Vigoroso      | **66** | Cambaleante   |
+| **17** | Claro         | **67** | Lustroso      |
+| **18** | Largo         | **68** | Miserável     |
+| **19** | Calmo         | **69** | Enevoado      |
+| **20** | Celestial     | **70** | Melancólico   |
+| **21** | Sufocante     | **71** | Enlameado     |
+| **22** | Frio          | **72** | Estreito      |
+| **23** | Colorido      | **73** | Ameaçador     |
+| **24** | Cobre         | **74** | Coberto       |
+| **25** | Rachado       | **75** | Remendado     |
+| **26** | Carmesim      | **76** | Descascando   |
+| **27** | Desmoronando  | **77** | Mergulhante   |
+| **28** | Enrolado      | **78** | Esfarrapado   |
+| **29** | Ondulando     | **79** | Apodrecendo   |
+| **30** | Curvado       | **80** | Salgado       |
+| **31** | Curvilíneo    | **81** | Selvagem      |
+| **32** | Umedecido     | **82** | Mutável       |
+| **33** | Escuro        | **83** | Cintilante    |
+| **34** | Deslumbrante  | **84** | Brilhoso      |
+| **35** | Morto         | **85** | Tremendo      |
+| **36** | Mortal        | **86** | Envolto       |
+| **37** | Diamante      | **87** | Chamuscado    |
+| **38** | Sombrio       | **88** | Afundando     |
+| **39** | Monótono      | **89** | Massacre      |
+| **40** | Vazio         | **90** | Esfumaçado    |
+| **41** | Infinito      | **91** | Encharcado    |
+| **42** | Feroz         | **92** | Azedo         |
+| **43** | Em Chamas     | **93** | Crepitante    |
+| **44** | Piscante      | **94** | Manchado      |
+| **45** | Nevento       | **95** | Faminto       |
+| **46** | Proibido      | **96** | Fedorento     |
+| **47** | Esquecido     | **97** | Recheado      |
+| **48** | Frágil        | **98** | Afundado      |
+| **49** | Desfiado      | **99** | Fino          |
+| **50** | Congelado     | **100** | Murcho        |
 
-## Nouns
+## Substantivos
 
 |          |            |          |           |
 | -------- | ---------- | -------- | --------- |
-| **d100** | **Noun**   | **d100** | **Noun**  |
-| **1**    | Abyss      | **51**   | Haven     |
-| **2**    | Alliance   | **52**   | Horror    |
-| **3**    | Amber      | **53**   | Iron      |
-| **4**    | Ambition   | **54**   | Island    |
-| **5**    | Apple      | **55**   | Jade      |
-| **6**    | Aurora     | **56**   | King      |
-| **7**    | Bastion    | **57**   | Lavender  |
-| **8**    | Black      | **58**   | Life      |
-| **9**    | Blight     | **59**   | Light     |
-| **10**   | Blue       | **60**   | Marble    |
-| **11**   | Bone       | **61**   | Mist      |
-| **12**   | Bright     | **62**   | Mold      |
-| **13**   | Chasm      | **63**   | Moon      |
-| **14**   | Chip       | **64**   | Mud       |
-| **15**   | Copper     | **65**   | Nightmare |
-| **16**   | Country    | **66**   | Patch     |
-| **17**   | Crack      | **67**   | Peril     |
-| **18**   | Crimson    | **68**   | Purple    |
-| **19**   | Curl       | **69**   | Radiance  |
-| **20**   | Darkness   | **70**   | Rag       |
-| **21**   | Dawn       | **71**   | Rain      |
-| **22**   | Dead       | **72**   | Rainbow   |
-| **23**   | Death      | **73**   | Red       |
-| **24**   | Decay      | **74**   | Refuge    |
-| **25**   | Dent       | **75**   | Regret    |
-| **26**   | Desolation | **76**   | Rot       |
-| **27**   | Despair    | **77**   | Ruin      |
-| **28**   | Devil      | **78**   | Shadow    |
-| **29**   | Dirt       | **79**   | Silver    |
-| **30**   | Doom       | **80**   | Skull     |
-| **31**   | Doorway    | **81**   | Sky       |
-| **32**   | Echo       | **82**   | Smoke     |
-| **33**   | Ember      | **83**   | Snake     |
-| **34**   | Fate       | **84**   | Sorrow    |
-| **35**   | Fear       | **85**   | Spark     |
-| **36**   | Fire       | **86**   | Stone     |
-| **37**   | Flame      | **87**   | Storm     |
-| **38**   | Folly      | **88**   | Sun       |
-| **39**   | Fray       | **89**   | Tempest   |
-| **40**   | Frost      | **90**   | Terror    |
-| **41**   | Fury       | **91**   | Thorn     |
-| **42**   | Ghost      | **92**   | Thunder   |
-| **43**   | Giant      | **93**   | Toxic     |
-| **44**   | Glimmer    | **94**   | Tranquil  |
-| **45**   | God        | **95**   | Troll     |
-| **46**   | Gold       | **96**   | Valor     |
-| **47**   | Green      | **97**   | Violet    |
-| **48**   | Harmony    | **98**   | War       |
-| **49**   | Harvest    | **99**   | Whisper   |
-| **50**   | Haunt      | **100**  | Zephyr    |
+| **d100** | **Substantivo** | **d100** | **Substantivo** |
+| **1** | Abismo     | **51** | Refúgio   |
+| **2** | Aliança    | **52** | Horror    |
+| **3** | Âmbar      | **53** | Ferro     |
+| **4** | Ambição    | **54** | Ilha      |
+| **5** | Maçã       | **55** | Jade      |
+| **6** | Aurora     | **56** | Rei       |
+| **7** | Bastião    | **57** | Lavanda   |
+| **8** | Preto      | **58** | Vida      |
+| **9** | Praga      | **59** | Luz       |
+| **10** | Azul       | **60** | Mármore   |
+| **11** | Osso       | **61** | Névoa     |
+| **12** | Brilho     | **62** | Mofo      |
+| **13** | Abismo     | **63** | Lua       |
+| **14** | Lasca      | **64** | Lama      |
+| **15** | Cobre      | **65** | Pesadelo  |
+| **16** | País       | **66** | Remendo   |
+| **17** | Rachadura  | **67** | Perigo    |
+| **18** | Carmesim   | **68** | Roxo      |
+| **19** | Cacho      | **69** | Resplendor|
+| **20** | Escuridão  | **70** | Trapo     |
+| **21** | Amanhecer  | **71** | Chuva     |
+| **22** | Morto      | **72** | Arco-íris |
+| **23** | Morte      | **73** | Vermelho  |
+| **24** | Decadência | **74** | Abrigo    |
+| **25** | Dente      | **75** | Arrependimento|
+| **26** | Desolação  | **76** | Podridão  |
+| **27** | Desespero  | **77** | Ruína     |
+| **28** | Diabo      | **78** | Sombra    |
+| **29** | Sujeira    | **79** | Prata     |
+| **30** | Perdição   | **80** | Crânio    |
+| **31** | Portal     | **81** | Céu       |
+| **32** | Eco        | **82** | Fumaça    |
+| **33** | Brasa      | **83** | Cobra     |
+| **34** | Destino    | **84** | Tristeza  |
+| **35** | Medo       | **85** | Faísca    |
+| **36** | Fogo       | **86** | Pedra     |
+| **37** | Chama      | **87** | Tempestade|
+| **38** | Loucura    | **88** | Sol       |
+| **39** | Briga      | **89** | Vendaval  |
+| **40** | Geada      | **90** | Terror    |
+| **41** | Fúria      | **91** | Espinho   |
+| **42** | Fantasma   | **92** | Trovão    |
+| **43** | Gigante    | **93** | Tóxico    |
+| **44** | Vislumbre  | **94** | Tranquilo |
+| **45** | Deus       | **95** | Troll     |
+| **46** | Ouro       | **96** | Valor     |
+| **47** | Verde      | **97** | Violeta   |
+| **48** | Harmonia   | **98** | Guerra    |
+| **49** | Colheita   | **99** | Sussurro  |
+| **50** | Assombração| **100** | Zéfiro    |
 
-## Terrain Synonyms
+## Sinônimos de Terreno
 
-|                |                                                         |
-| -------------- | ------------------------------------------------------- |
-| **Terrain**    | **Synonym**                                             |
-| **Beaches**    | seaside, shore, coast, seaboard, foreshore, marina      |
-| **Bogs**       | marsh, morass, quad, slough, fens                       |
-| **Canyons**    | ravine, chasm, abyss, gulf, gulch                       |
-| **Caverns**    | grotto, cavity, tunnels, dugout, cave                   |
-| **Cliffs**     | precipice, face, crag, bluff, ridge, escarpment, steep  |
-| **Desert**     | dunes, sands, vasts, wastes, blight, erg                |
-| **Farmlands**  | tillage, holding, acreage, steading, grange, plantation |
-| **Forest**     | bush, woods, woodland, weald, grove, copse              |
-| **Grasslands** | pasture, fields, savanna, greenery                      |
-| **Hills**      | hillock, mound, mount, knoll, hummock, slope            |
-| **Hollows**    | dip, hole, pit, cavity, crater, trough, holes           |
-| **Jungle**     | _See forest_                                            |
-| **Lakes**      | pond, pool, tarn, lagoon, loch, bayou                   |
-| **Mountains**  | peaks, ridge, range, summit, pinnacle, butte            |
-| **Oasis**      | spring, well, fountain, haven, watering hole, refuge    |
-| **Plains**     | heath, meadow, veldt, flats, lowlands, sward            |
-| **Plateau**    | uplands, mesa, highlands, downs, reach                  |
-| **River**      | waterway, stream, brook, runnel creek, channel          |
-| **Sea**        | _See beaches_                                           |
-| **Swamp**      | moors, wetlands                                         |
-| **Thickets**   | chaparral, boscage, covert, coppice, fells              |
-| **Tundra**     | expanse, boreal, ley                                    |
-| **Valley**     | dale, vale, basin, gorge, gap, glen                     |
-| **Wasteland**  | _See desert_                                            |
+|                |                                                             |
+| -------------- | ----------------------------------------------------------- |
+| **Terreno** | **Sinônimo** |
+| **Praias** | beira-mar, costa, litoral, orla, marina                     |
+| **Pântanos** | brejo, atoleiro, charco, lamaçal, fens                      |
+| **Cânions** | ravina, abismo, golfo, garganta, desfiladeiro               |
+| **Cavernas** | gruta, cavidade, túneis, abrigo, cova                       |
+| **Penhascos** | precipício, face, rochedo, blefe, cume, escarpa, íngreme    |
+| **Deserto** | dunas, areias, vastidões, ermos, praga, erg                 |
+| **Fazendas** | lavoura, propriedade, acre, herdade, granja, plantação      |
+| **Floresta** | mata, bosque, arvoredo, souto, bosquete                     |
+| **Pastagens** | pasto, campos, savana, verdor                               |
+| **Colinas** | outeiro, monte, morro, ladeira, elevação                    |
+| **Buracos** | depressão, cova, poço, cavidade, cratera, vala              |
+| **Selva** | _Veja floresta_                                             |
+| **Lagos** | lagoa, poça, lagamar, baía                                  |
+| **Montanhas** | picos, cume, cordilheira, topo, pináculo, pico              |
+| **Oásis** | fonte, poço, nascente, refúgio, bebedouro                   |
+| **Planícies** | charneca, prado, campina, baixada, gramado                  |
+| **Planalto** | terras altas, mesa, elevações                               |
+| **Rio** | hidrovia, riacho, córrego, regato, canal                    |
+| **Mar** | _Veja praias_                                               |
+| **Pântano** | brejos, áreas úmidas                                        |
+| **Mato** | chaparral, brenha, esconderijo, talhadia                    |
+| **Tundra** | expansão, boreal                                            |
+| **Vale** | val, bacia, garganta, brecha, vale                          |
+| **Ermo** | _Veja deserto_                                              |
 
-### Faction Names
+### Nomes de Facção
 
-1. Roll on the [Faction Names Formula](#faction-names-formula) table below.
-2. Roll on the [Adjectives](#adjectives), [Nouns](#nouns), and [Group Types](#group-types) table where appropriate. 
+1. Role na tabela [Fórmula de Nomes de Facção](#fórmula-de-nomes-de-facção) abaixo.
+2. Role nas tabelas [Adjetivos](#adjetivos), [Substantivos](#substantivos) e [Tipos de Grupo](#tipos-de-grupo) onde apropriado.
 
-#### Group Types
+#### Tipos de Grupo
 
 |         |             |
 | ------- | ----------- |
-| **d20** | **Group**   |
-| **1**   | Assembly    |
-| **2**   | Brotherhood |
-| **3**   | Circle      |
-| **4**   | Clan        |
-| **5**   | Coalition   |
-| **6**   | Collective  |
-| **7**   | Covenant    |
-| **8**   | Enclave     |
-| **9**   | Fellowship  |
-| **10**  | Guild       |
-| **11**  | Horde       |
-| **12**  | League      |
-| **13**  | Legion      |
-| **14**  | Market      |
-| **15**  | Ministry    |
-| **16**  | Movement    |
-| **17**  | Network     |
-| **18**  | Order       |
-| **19**  | Pact        |
-| **20**  | Syndicate   |
+| **d20** | **Grupo** |
+| **1** | Assembleia  |
+| **2** | Irmandade   |
+| **3** | Círculo     |
+| **4** | Clã         |
+| **5** | Coalizão    |
+| **6** | Coletivo    |
+| **7** | Pacto       |
+| **8** | Enclave     |
+| **9** | Sociedade   |
+| **10** | Guilda      |
+| **11** | Horda       |
+| **12** | Liga        |
+| **13** | Legião      |
+| **14** | Mercado     |
+| **15** | Ministério  |
+| **16** | Movimento   |
+| **17** | Rede        |
+| **18** | Ordem       |
+| **19** | Pacto       |
+| **20** | Sindicato   |
 
-#### Faction Names Formula
+#### Fórmula de Nomes de Facção
 
-|        |                                                 |
-| ------ | ----------------------------------------------- |
-| **d6** | **Formula**                                     |
-| **1**  | (The) **[Noun]** **[Group]**                    |
-| **2**  | (The) **[Adjective]** **[Group]**               |
-| **3**  | **[Group]** of (the) **[Noun]**                 |
-| **4**  | **[Adjective]** **[Group]** of (the) **[Noun]** |
-| **5**  | (The) **[Noun]** **[Adjective]** **[Group]**    |
-| **6**  | **[Group]** of (the) **[Adjective]** **[Noun]** |
+|        |                                                    |
+| ------ | -------------------------------------------------- |
+| **d6** | **Fórmula** |
+| **1** | (O/A) **[Grupo]** (do/da) **[Substantivo]** |
+| **2** | (O/A) **[Grupo]** **[Adjetivo]** |
+| **3** | **[Grupo]** (do/da) **[Substantivo]** |
+| **4** | **[Grupo]** **[Adjetivo]** (do/da) **[Substantivo]** |
+| **5** | (O/A) **[Grupo]** **[Adjetivo]** (do/da) **[Substantivo]**|
+| **6** | **[Grupo]** (do/da) **[Substantivo]** **[Adjetivo]** |
 
-## Realm Names
+### Nomes de Reino
 
-1. Roll on the [Ruler Names Formula](#ruler-names-formula) table below.
-2. Roll on the [Adjectives](#adjectives), [Nouns](#nouns), [Terrain](#terrain), and [Ruler Types](#ruler-types) table, and add "of" or "the" where appropriate
+1. Role na tabela [Fórmula de Nomes de Governante](#fórmula-de-nomes-de-governante) abaixo.
+2. Role nas tabelas [Adjetivos](#adjetivos), [Substantivos](#substantivos), [Terreno](#terreno) e [Tipos de Governante](#tipos-de-governante), e adicione "de" ou "o/a" onde apropriado.
 
-| Optionally, replace any value with the dominant terrain synonym, e.g. "_The Misty Bluffs_". 
+| Opcionalmente, substitua qualquer valor pelo sinônimo de terreno dominante, ex: "_Os Penhascos Nebulosos_".
 
-### Ruler Names Formula
+### Fórmula de Nomes de Governante
 
-|        |                                                  |
-| ------ | ------------------------------------------------ |
-| **d6** | **Formula**                                      |
-| **1**  | (The) **[Noun]** **[Rulers]**                    |
-| **2**  | (The) **[Adjective]** **[Rulers]**               |
-| **3**  | **[Rulers]** of (the) **[Noun]**                 |
-| **4**  | **[Adjective]** **[Rulers]** of (the) **[Noun]** |
-| **5**  | (The) **[Noun]** **[Adjective]** **[Rulers]**    |
-| **6**  | **[Rulers]** of (the) **[Adjective]** **[Noun]** |
+|        |                                                     |
+| ------ | --------------------------------------------------- |
+| **d6** | **Fórmula** |
+| **1** | (O/A) **[Governante]** (do/da) **[Substantivo]** |
+| **2** | (O/A) **[Governante]** **[Adjetivo]** |
+| **3** | **[Governante]** (do/da) **[Substantivo]** |
+| **4** | **[Governante]** **[Adjetivo]** (do/da) **[Substantivo]** |
+| **5** | (O/A) **[Governante]** **[Adjetivo]** (do/da) **[Substantivo]** |
+| **6** | **[Governante]** (do/da) **[Substantivo]** **[Adjetivo]** |
 
-### Ruler Types
+### Tipos de Governante
 
 |         |                   |
 | ------- | ----------------- |
-| **d20** | **Ruler**         |
-| **1**   | **Alliance**      |
-| **2**   | **Barony**        |
-| **3**   | **Commonwealth**  |
-| **4**   | **Confederation** |
-| **5**   | **Dominion**      |
-| **6**   | **Ecclesiarchy**  |
-| **7**   | **Empire**        |
-| **8**   | **Federacy**      |
-| **9**   | **Fiefdom**       |
-| **10**  | **Grand Duchy**   |
-| **11**  | **Hegemony**      |
-| **12**  | **Kingdom**       |
-| **13**  | **Monarchy**      |
-| **14**  | **Principality**  |
-| **15**  | **Protectorate**  |
-| **16**  | **Realm**         |
-| **17**  | **Regency**       |
-| **18**  | **Republic**      |
-| **19**  | **State**         |
-| **20**  | **Union**         |
+| **d20** | **Governante** |
+| **1** | **Aliança** |
+| **2** | **Baronia** |
+| **3** | **Comunidade** |
+| **4** | **Confederação** |
+| **5** | **Domínio** |
+| **6** | **Eclesiarquia** |
+| **7** | **Império** |
+| **8** | **Federação** |
+| **9** | **Feudo** |
+| **10** | **Grão-Ducado** |
+| **11** | **Hegemonia** |
+| **12** | **Reino** |
+| **13** | **Monarquia** |
+| **14** | **Principado** |
+| **15** | **Protetorado** |
+| **16** | **Reino** |
+| **17** | **Regência** |
+| **18** | **República** |
+| **19** | **Estado** |
+| **20** | **União** |
 
+### Nomes de Floresta
 
-### Forest Names
-
-- Combine words from the following table by rolling a **d10** twice, first for the **tens** place, and then another for the **ones** place. Repeat the process for the noun. 
-- Change it up! The name _Welcoming Grove_ might be more appropriate than _Beckoning Copse_ for your setting.
-- Use contrasting words (e.g. _Twisted Canopy_) to evoke an interesting point about the location.
-- Alliteration and pleasing combinations can create pleasant sounds. _Whispering Woods_ is more pleasing to the ear than _Tangled Woods._ 
+- Combine palavras da tabela a seguir rolando um **d10** duas vezes, primeiro para a casa das **dezenas**, e depois outro para a casa das **unidades**. Repita o processo para o substantivo.
+- Mude! O nome _Bosque Acolhedor_ pode ser mais apropriado do que _Bosquete Sedutor_ para o seu cenário.
+- Use palavras contrastantes (ex: _Dossel Torcido_) para evocar um ponto interessante sobre a localização.
+- Aliteração e combinações agradáveis podem criar sons prazerosos. _Matas Murmurantes_ é mais agradável ao ouvido do que _Matas Emaranhadas._
 
 |          |                |             |
 | -------- | -------------- | ----------- |
-| **d100** | **Adjectives** | **Nouns**   |
-| **1**    | Abandoned      | Arbors      |
-| **2**    | Ancient        | Arch        |
-| **3**    | Beckoning      | Blossoms    |
-| **4**    | Blooming       | Bogs        |
-| **5**    | Bountiful      | Boughs      |
-| **6**    | Celestial      | Brake       |
-| **7**    | Charmed        | Brambles    |
-| **8**    | Crystal        | Branches    |
-| **9**    | Dappled        | Briar       |
-| **10**   | Dense          | Bridge      |
-| **11**   | Desolate       | Brook       |
-| **12**   | Distant        | Brush       |
-| **13**   | Echoing        | Camp        |
-| **14**   | Eerie          | Canopy      |
-| **15**   | Emerald        | Cascade     |
-| **16**   | Enchanted      | Cave        |
-| **17**   | Enigmatic      | Cavern      |
-| **18**   | Ephemeral      | Chase       |
-| **19**   | Eternal        | Clearing    |
-| **20**   | Ethereal       | Clump       |
-| **21**   | Exotic         | Coppice     |
-| **22**   | Fabled         | Copse       |
-| **23**   | Flourishing    | Crags       |
-| **24**   | Forgotten      | Creek       |
-| **25**   | Forsaken       | Dale        |
-| **26**   | Fragrant       | Dell        |
-| **27**   | Frosty         | Dew         |
-| **28**   | Gentle         | Fell        |
-| **29**   | Glistening     | Fen         |
-| **30**   | Gloomy         | Ferns       |
-| **31**   | Gnarled        | Foliage     |
-| **32**   | Golden         | Forest      |
-| **33**   | Grassy         | Fungi       |
-| **34**   | Harmonious     | Gill        |
-| **35**   | Haunted        | Glade       |
-| **36**   | Hidden         | Glen        |
-| **37**   | Hushed         | Gorge       |
-| **38**   | Illuminated    | Granite     |
-| **39**   | Jagged         | Green       |
-| **40**   | Lavish         | Grotto      |
-| **41**   | Leafy          | Grove       |
-| **42**   | Lonely         | Growth      |
-| **43**   | Looming        | Heath       |
-| **44**   | Lost           | Henge       |
-| **45**   | Luminescent    | Hollow      |
-| **46**   | Luminous       | Horizon     |
-| **47**   | Lush           | Knar        |
-| **48**   | Majestic       | Knoll       |
-| **49**   | Melancholy     | Leaves      |
-| **50**   | Menacing       | Light       |
-| **51**   | Misty          | Loam        |
-| **52**   | Moonlit        | Loom        |
-| **53**   | Mossy          | Marsh       |
-| **54**   | Murmuring      | Meadow      |
-| **55**   | Mysterious     | Mire        |
-| **56**   | Mystic         | Morass      |
-| **57**   | Opulent        | Oak         |
-| **58**   | Overgrown      | Oasis       |
-| **59**   | Precarious     | Orchard     |
-| **60**   | Primeval       | Pass        |
-| **61**   | Pristine       | Passages    |
-| **62**   | Quaint         | Path        |
-| **63**   | Radiant        | Pathway     |
-| **64**   | Roaring        | Pine        |
-| **65**   | Rugged         | Roots       |
-| **66**   | Rustling       | Sanctuary   |
-| **67**   | Sacred         | Shade       |
-| **68**   | Secluded       | Shadows     |
-| **69**   | Serene         | Shelter     |
-| **70**   | Serpentine     | Shrub       |
-| **71**   | Shadowy        | Slope       |
-| **72**   | Shimmering     | Spring      |
-| **73**   | Shrouded       | Stirs       |
-| **74**   | Silent         | Stones      |
-| **75**   | Smoky          | Stream      |
-| **76**   | Somber         | Stump       |
-| **77**   | Spectral       | Swale       |
-| **78**   | Splendid       | Sward       |
-| **79**   | Stark          | Sway        |
-| **80**   | Sturdy         | Tangle      |
-| **81**   | Sunlit         | Thicket     |
-| **82**   | Sunny          | Thistles    |
-| **83**   | Swirling       | Timber      |
-| **84**   | Tangled        | Timberland  |
-| **85**   | Timeless       | Tower       |
-| **86**   | Towering       | Trails      |
-| **87**   | Tranquil       | Trees       |
-| **88**   | Trickling      | Trunks      |
-| **89**   | Twilight       | Underbrush  |
-| **90**   | Twisted        | Undergrowth |
-| **91**   | Unseen         | Understory  |
-| **92**   | Unyielding     | Vines       |
-| **93**   | Veiled         | Waterway    |
-| **94**   | Verdant        | Weald       |
-| **95**   | Vibrant        | Wildwood    |
-| **96**   | Weathered      | Woodland    |
-| **97**   | Weeping        | Woodlot     |
-| **98**   | Whispering     | Woods       |
-| **99**   | Wild           | Yonder      |
-| **100**  | Winding        | Zephyr      |
+| **d100** | **Adjetivos** | **Substantivos** |
+| **1** | Abandonado     | Caramanchão |
+| **2** | Antigo         | Arco        |
+| **3** | Sedutor        | Flores      |
+| **4** | Florescente    | Brejos      |
+| **5** | Farto          | Galhos      |
+| **6** | Celestial      | Mato        |
+| **7** | Encantado      | Silvas      |
+| **8** | Cristal        | Ramos       |
+| **9** | Manchado       | Urze        |
+| **10** | Denso          | Ponte       |
+| **11** | Desolado       | Riacho      |
+| **12** | Distante       | Arbusto     |
+| **13** | Ecoante        | Acampamento |
+| **14** | Estranho       | Dossel      |
+| **15** | Esmeralda      | Cascata     |
+| **16** | Encantado      | Caverna     |
+| **17** | Enigmático     | Gruta       |
+| **18** | Efêmero        | Caça        |
+| **19** | Eterno         | Clareira    |
+| **20** | Etéreo         | Touceira    |
+| **21** | Exótico        | Talhadia    |
+| **22** | Lendário       | Bosquete    |
+| **23** | Próspero       | Penhascos   |
+| **24** | Esquecido      | Córrego     |
+| **25** | Renegado       | Vale        |
+| **26** | Perfumado      | Várzea      |
+| **27** | Gelado         | Orvalho     |
+| **28** | Gentil         | Colina      |
+| **29** | Reluzente      | Pântano     |
+| **30** | Sombrio        | Samambaias  |
+| **31** | Retorcido      | Folhagem    |
+| **32** | Dourado        | Floresta    |
+| **33** | Gramado        | Fungos      |
+| **34** | Harmonioso     | Ravina      |
+| **35** | Assombrado     | Clareira    |
+| **36** | Oculto         | Vale        |
+| **37** | Silencioso     | Garganta    |
+| **38** | Iluminado      | Granito     |
+| **39** | Irregular      | Verde       |
+| **40** | Luxuoso        | Gruta       |
+| **41** | Folhoso        | Bosque      |
+| **42** | Solitário      | Crescimento |
+| **43** | Iminente       | Charneca    |
+| **44** | Perdido        | Círculo     |
+| **45** | Luminescente   | Cavidade    |
+| **46** | Luminoso       | Horizonte   |
+| **47** | Exuberante     | Nó          |
+| **48** | Majestoso      | Outeiro     |
+| **49** | Melancólico    | Folhas      |
+| **50** | Ameaçador      | Luz         |
+| **51** | Nebuloso       | Solo        |
+| **52** | Enluarado      | Tear        |
+| **53** | Musgoso        | Pântano     |
+| **54** | Murmurante     | Prado       |
+| **55** | Misterioso     | Lamaçal     |
+| **56** | Místico        | Atoleiro    |
+| **57** | Opulento       | Carvalho    |
+| **58** | Coberto        | Oásis       |
+| **59** | Precário       | Pomar       |
+| **60** | Primevo        | Passo       |
+| **61** | Prístino       | Passagens   |
+| **62** | Pitoresco      | Caminho     |
+| **63** | Radiante       | Trilha      |
+| **64** | Rugidor        | Pinheiro    |
+| **65** | Acidentado     | Raízes      |
+| **66** | Farfalhante    | Santuário   |
+| **67** | Sagrado        | Sombra      |
+| **68** | Isolado        | Sombras     |
+| **69** | Sereno         | Abrigo      |
+| **70** | Serpentino     | Arbusto     |
+| **71** | Sombrio        | Encosta     |
+| **72** | Cintilante     | Nascente    |
+| **73** | Envolto        | Agitação    |
+| **74** | Silencioso     | Pedras      |
+| **75** | Esfumaçado     | Corrente    |
+| **76** | Sombrio        | Toco        |
+| **77** | Espectral      | Depressão   |
+| **78** | Esplêndido     | Gramado     |
+| **79** | Austero        | Balanço     |
+| **80** | Robusto        | Emaranhado  |
+| **81** | Ensolarado     | Moita       |
+| **82** | Ensolarado     | Cardos      |
+| **83** | Rodopiante     | Madeira     |
+| **84** | Emaranhado     | Mata        |
+| **85** | Atemporal      | Torre       |
+| **86** | Imponente      | Trilhas     |
+| **87** | Tranquilo      | Árvores     |
+| **88** | Gotejante      | Troncos     |
+| **89** | Crepuscular    | Mato rasteiro|
+| **90** | Torcido        | Sub-bosque  |
+| **91** | Invisível      | Sub-bosque  |
+| **92** | Inflexível     | Vinhas      |
+| **93** | Velado         | Hidrovia    |
+| **94** | Verdejante     | Mata        |
+| **95** | Vibrante       | Bosque Selvagem|
+| **96** | Desgastado     | Floresta    |
+| **97** | Choroso        | Lote de Madeira|
+| **98** | Sussurrante    | Matas       |
+| **99** | Selvagem       | Além        |
+| **100** | Sinuoso        | Zéfiro      |
