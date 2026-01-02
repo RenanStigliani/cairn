@@ -1,171 +1,171 @@
 ---
 layout: default
-title: Variable Difficulty
+title: Dificuldade Variável
 parent: Guia do Diretor 
 grand_parent: Segunda Edição
 ---
-# Variable Difficulty
+# Dificuldade Variável
 
-## Introduction
+## Introdução
 
-In Cairn, players are encouraged to overcome problems by asking questions, thinking critically, and working within the fiction of the game world to curry advantage. The following principles and examples should help Wardens create consistent and fair rulings that both challenge and reward players for their effort.
+Em Cairn, os jogadores são encorajados a superar problemas fazendo perguntas, pensando criticamente e trabalhando dentro da ficção do mundo do jogo para obter vantagem. Os princípios e exemplos a seguir devem ajudar os Facilitadores a criar decisões consistentes e justas que desafiem e recompensem os jogadores por seu esforço.
 
-## Principles For Variable Difficulty 
+## Princípios Para Dificuldade Variável
 
-- Reward thinking outside the box. This may be a simple mitigation of risk, a new piece of knowledge, character growth, and more.
-- Modify outcomes according to the effort that went into them. If the PCs worked really hard to make something succeed despite the danger involved, enhance the result to match their trouble.
-- Emphasize fictional consequences rather than mechanical buffs. Purely mechanical rewards are usually hollow and lack the potential of in-world benefits.
-- Many dangers can be mitigated or extinguished given time, effort, and skill. If there is no real risk, just skip the roll!
-- Create situations that emphasize non-mechanical solutions. A problem is more interesting when the key to solving it can be understood purely within the fiction.
+- Recompense o pensamento fora da caixa. Isso pode ser uma simples mitigação de risco, um novo pedaço de conhecimento, crescimento do personagem e muito mais.
+- Modifique os resultados de acordo com o esforço investido neles. Se os PJs trabalharam muito duro para fazer algo ter sucesso apesar do perigo envolvido, melhore o resultado para corresponder ao seu trabalho.
+- Enfatize consequências ficcionais em vez de bônus mecânicos. Recompensas puramente mecânicas geralmente são vazias e carecem do potencial de benefícios dentro do mundo.
+- Muitos perigos podem ser mitigados ou extintos com tempo, esforço e habilidade. Se não houver risco real, pule a rolagem!
+- Crie situações que enfatizem soluções não mecânicas. Um problema é mais interessante quando a chave para resolvê-lo pode ser entendida puramente dentro da ficção.
 
-## Examples
+## Exemplos
 
-### Evening The Odds
+### Equilibrando as Chances
 
-> Freya is facing off against a Wood Troll after being separated from the rest of the party. Pinned between the creature and a cave wall, she has no choice but to engage in direct combat. She has already passed her initial DEX save and thus gets to attack before her opponent.
+> Freya está enfrentando um Troll da Floresta após ser separada do resto do grupo. Presa entre a criatura e uma parede de caverna, ela não tem escolha a não ser entrar em combate direto. Ela já passou em sua salvaguarda inicial de DES e, portanto, consegue atacar antes de seu oponente.
 
-**Freya**: _"I know I can't beat this guy fair and square, so I'd like to know if there is anything nearby that might even the odds a bit. I grew up on the streets, which means I know how to fight dirty. I'd like to try and blind him without getting clobbered in the process. What are my options?"_
+**Freya**: _"Sei que não posso vencer esse cara em uma luta justa, então gostaria de saber se há algo por perto que possa equilibrar um pouco as chances. Cresci nas ruas, o que significa que sei lutar sujo. Gostaria de tentar cegá-lo sem ser esmagada no processo. Quais são minhas opções?"_
 
-**Warden**: _"I'll roll a Die of Fate to see how dusty things are around here. A 4! Alright, there is definitely some dust between you and your opponent, but you might need to get close to him in order to scoop some up. You'll need to make a DEX save."_ 
+**Facilitador**: _"Vou rolar um Dado do Destino para ver quão empoeiradas estão as coisas por aqui. Um 4! Tudo bem, definitivamente há poeira entre você e seu oponente, mas você pode precisar chegar perto dele para pegar um pouco. Você precisará fazer uma salvaguarda de DES."_
 
-> Freya rolls a 13: a success!
+> Freya rola um 13: um sucesso!
 
-**Warden**: _"You grab a fistful of dust off the ground in front of you and toss it straight into your opponent's face. He staggers backward and is unable to defend himself as he fights to clear the grit from his eyes!"_
+**Facilitador**: _"Você pega um punhado de poeira do chão à sua frente e joga direto no rosto do seu oponente. Ele cambaleia para trás e é incapaz de se defender enquanto luta para limpar a areia de seus olhos!"_
 
-> The Wood Troll loses a turn as he tries to remove the dust from his face. He cannot rely on HP in this state; damage will go directly to STR!
+> O Troll da Floresta perde um turno enquanto tenta remover a poeira de seu rosto. Ele não pode contar com PG neste estado; o dano irá diretamente para a FOR!
 
-**Freya**: _"I know I should run for it... but I can't help but take advantage of this situation. I'd like to introduce this fellow to the Twins."_
+**Freya**: _"Eu sei que deveria correr... mas não consigo evitar tirar vantagem dessa situação. Gostaria de apresentar esse sujeito às Gêmeas."_
 
-> Freya rolls d6+d6 for her daggers (a 3 and a 5), dealing 5 damage directly to the Wood Troll's STR Attribute. The Warden then makes a Critical Damage save for the Troll, rolling a 19: a fail!
+> Freya rola d6+d6 para suas adagas (um 3 e um 5), causando 5 de dano diretamente ao Atributo de FOR do Troll da Floresta. O Facilitador então faz uma salvaguarda de Dano Crítico para o Troll, rolando um 19: uma falha!
 
-**Warden**: _"You stab him with both blades, green blood gushing from open wounds as the creature roars out in anger. Let's see if it survives the attack! Oooh, it fails its STR save and takes **Critical Damage**! It's down!"_
+**Facilitador**: _"Você o esfaqueia com ambas as lâminas, sangue verde jorrando de feridas abertas enquanto a criatura ruge de raiva. Vamos ver se ela sobrevive ao ataque! Oooh, ela falha em sua salvaguarda de FOR e sofre **Dano Crítico**! Está no chão!"_
 
-**Freya**: _"Alright, I'm taking this as a sign. Time to make my exit!"_
+**Freya**: _"Certo, estou tomando isso como um sinal. Hora de fazer minha saída!"_
 
-> Freya flees the scene (no DEX save required), leaving the Wood Troll to bleed out. If she had known that it can slowly regenerate its health, she might have stayed...
+> Freya foge da cena (nenhuma salvaguarda de DES necessária), deixando o Troll da Floresta sangrar. Se ela soubesse que ele pode regenerar lentamente sua saúde, talvez tivesse ficado...
 
-### Teamwork
+### Trabalho em Equipe
 
-> Wolfram, Lucius, and Freya are investigating rumors of an invisible creature that has been attacking locals in the Wood. They've tracked the creature to its island den just 40ft from the shoreline of a poison lake. The lake is separated from the surrounding forest by heavy mud flats.
+> Wolfram, Lucius e Freya estão investigando rumores de uma criatura invisível que tem atacado os habitantes locais na Floresta. Eles rastrearam a criatura até seu covil na ilha, a apenas 12 metros da costa de um lago venenoso. O lago é separado da floresta circundante por pesados lamaçais.
 
-**Warden**: _"The creature's footprints end at the shore of a roiling lake that bubbles and swirls violently. Knowing the history of the region, you realize that if the lake water doesn't kill you, the toxic fumes coming from its surface definitely will!"_
+**Facilitador**: _"As pegadas da criatura terminam na margem de um lago revolto que borbulha e gira violentamente. Conhecendo a história da região, vocês percebem que se a água do lago não matá-los, os vapores tóxicos vindos de sua superfície definitivamente matarão!"_
 
-**Wolfram**: _"We know that the blasted thing makes its home on that pile of rocks out there. Obviously we can't swim across, but I have an idea about how we might draw it out! Lucius, I'm sorry but of the three of us, you're the most... soft. In other words, the perfect bait! Let's make it seem as if your cart is stuck in the mud. I've had a blanket rolled up in my pack for a while now. Perhaps Freya and I can hide under it, then pounce on the creature at just the right moment?"_
+**Wolfram**: _"Sabemos que a maldita coisa faz sua casa naquela pilha de pedras lá fora. Obviamente não podemos nadar até lá, mas tenho uma ideia de como podemos atraí-la! Lucius, sinto muito, mas de nós três, você é o mais... macio. Em outras palavras, a isca perfeita! Vamos fazer parecer que sua carroça está atolada na lama. Tenho um cobertor enrolado na minha mochila há algum tempo. Talvez Freya e eu possamos nos esconder embaixo dele, e depois pular na criatura no momento certo?"_
 
-**Lucius**: _"I knew I shouldn't have sported my fancy hat today! Fine, let's proceed."_
+**Lucius**: _"Eu sabia que não devia ter usado meu chapéu chique hoje! Tudo bem, vamos prosseguir."_
 
-**Warden**: _"The party executes their plan as described, creating the perfect bait for their unsuspecting quarry. I'm going to roll a Die of Fate to determine whether the creature even takes notice... a 5! Alright, that means that the creature definitely wants to investigate the situation, but there's a wrinkle as well: it's starting to get dark."_
+**Facilitador**: _"O grupo executa seu plano conforme descrito, criando a isca perfeita para sua presa desavisada. Vou rolar um Dado do Destino para determinar se a criatura sequer percebe... um 5! Tudo bem, isso significa que a criatura definitivamente quer investigar a situação, mas há um porém também: está começando a escurecer."_
 
-**Freya**: _"Presumably this means that Wolfram and I are able to spy on the island while we hide, right? And that Lucius is still looking the opposite way, pretending to fuss over a stuck wheel?"_
+**Freya**: _"Presumivelmente isso significa que Wolfram e eu somos capazes de espionar a ilha enquanto nos escondemos, certo? E que Lucius ainda está olhando para o lado oposto, fingindo se preocupar com uma roda presa?"_
 
-**Warden**: _"Correct. Both Wolfram and Freya can still see through the cart slats that something clambered out from beneath the pile of rocks on the island, scattering them as it moves towards the water. You can't actually tell what moved the rocks, though. It really is invisible! As you watch, something slips into the toxic waters, making a quiet splash. And its ripples are heading in your direction!"_
+**Facilitador**: _"Correto. Tanto Wolfram quanto Freya ainda podem ver através das ripas da carroça que algo saiu de baixo da pilha de pedras na ilha, espalhando-as enquanto se move em direção à água. Vocês não conseguem dizer o que moveu as pedras, no entanto. É realmente invisível! Enquanto vocês observam, algo desliza para as águas tóxicas, fazendo um respingo silencioso. E suas ondulações estão vindo em sua direção!"_
 
-**Wolfram**: _"Well, I guess this is as good a time as ever to bring out my Voidglass Shard! It lets me see invisible creatures but packs a wallop! I won't be able to see out of one eye for an hour, during which time my fighting skills will be... less effective. Might I be able to get a shot with the crossbow while looking through the glass?"_
+**Wolfram**: _"Bem, acho que este é um momento tão bom quanto qualquer outro para trazer meu Fragmento de Vidro do Vazio! Ele me deixa ver criaturas invisíveis, mas tem um preço! Não serei capaz de ver por um olho por uma hora, tempo durante o qual minhas habilidades de luta serão... menos eficazes. Eu poderia dar um tiro com a besta enquanto olho através do vidro?"_
 
-**Warden**: _"You need two hands for the crossbow."_
+**Facilitador**: _"Você precisa das duas mãos para a besta."_
 
-**Freya**: _"I can hold the Voidglass Shard up to his eye."_
+**Freya**: _"Eu posso segurar o Fragmento de Vidro do Vazio no olho dele."_
 
-**Warden**: _"That will work, but you won't have an action of your own until after the creature has a chance to react."_
+**Facilitador**: _"Isso vai funcionar, mas você não terá uma ação própria até que a criatura tenha a chance de reagir."_
 
-**Lucius**: _"Um, what about me? I won't be able to see the creature at all, let alone defend myself! I'd like to prepare an action for the moment Wolfram gets a shot off. I still have the large sack from our last caper. I wonder if I could leap on the creature when it approaches, trapping it like a giant fish?"_
+**Lucius**: _"Hum, e eu? Não serei capaz de ver a criatura de jeito nenhum, muito menos me defender! Gostaria de preparar uma ação para o momento em que Wolfram disparar. Ainda tenho o saco grande do nosso último golpe. Será que eu poderia pular na criatura quando ela se aproximar, prendendo-a como um peixe gigante?"_
 
-**Warden**: _"That works! You each prepare yourselves for what is to come. Freya and Wolfram, you wait in silence as the ripples come ever closer. Finally, they stop! Freya places the Voidglass Shard on Wolfram's eye as he raises his crossbow. Wolfram, you see a slimy, fish-like creature climbing out of the water, yellowed scales crisscrossing its multi-limbed body. There is a brief, breathless pause and then a loud TWANG as he lets loose a crossbow bolt."_
+**Facilitador**: _"Isso funciona! Cada um de vocês se prepara para o que está por vir. Freya e Wolfram, vocês esperam em silêncio enquanto as ondulações chegam cada vez mais perto. Finalmente, elas param! Freya coloca o Fragmento de Vidro do Vazio no olho de Wolfram enquanto ele levanta sua besta. Wolfram, você vê uma criatura viscosa, parecida com um peixe, saindo da água, escamas amareladas cruzando seu corpo de múltiplos membros. Há uma pausa breve e sem fôlego e, em seguida, um alto 'TUING' quando ele solta um virote de besta."_
 
-> Wolfram rolls a d8, resulting in a 6! As the creature was unaware of its attackers, the damage goes directly to STR. It makes a Critical Damage save, and the result is a 3: a success. 
+> Wolfram rola um d8, resultando em um 6! Como a criatura não estava ciente de seus atacantes, o dano vai diretamente para a FOR. Ela faz uma salvaguarda de Dano Crítico, e o resultado é um 3: um sucesso.
 
-**Warden**: _"The creature is impaled by the bolt, green fluid spurting out of its body. Where it lands, the surface hisses as if in contact with acid. It turns towards the cart, but before it can react, Lucius throws his large sack over it. The creature thrashes about inside the sack, twisting in every which way."_
+**Facilitador**: _"A criatura é empalada pelo virote, fluido verde jorrando de seu corpo. Onde ele cai, a superfície chia como se em contato com ácido. Ela se vira para a carroça, mas antes que possa reagir, Lucius joga seu grande saco sobre ela. A criatura se debate dentro do saco, torcendo-se em todas as direções."_
 
-> The Warden makes a DEX save for the creature to see if it can quickly break free from the sack. Out of water, it has only 8 DEX. It rolls a 12: a fail. Unable to defend itself, the creature is quickly tied up and placed in the cart, along with a jar of the toxic water for the journey. Working together, the party quickly heads back towards town.
+> O Facilitador faz uma salvaguarda de DES para a criatura para ver se ela consegue se libertar rapidamente do saco. Fora da água, ela tem apenas 8 de DES. Ela rola um 12: uma falha. Incapaz de se defender, a criatura é rapidamente amarrada e colocada na carroça, junto com um jarro da água tóxica para a viagem. Trabalhando juntos, o grupo rapidamente volta para a cidade.
 
-### Character History
+### Histórico do Personagem
 
-> The party are escorting an agent of the Alsace faction deep in enemy territory. Their destination is hidden in a small village protected by tall wooden walls. Their job is to sneak their client into the heavily guarded town and then into the ancient vault of Der Thunn. As they approach the village, the sun is just beginning to set, and Lucius has been sent ahead to investigate, posing as a troubadour from the South.
+> O grupo está escoltando um agente da facção Alsácia profundamente em território inimigo. Seu destino está escondido em uma pequena vila protegida por altos muros de madeira. O trabalho deles é infiltrar seu cliente na cidade fortemente vigiada e depois no antigo cofre de Der Thunn. À medida que se aproximam da vila, o sol está apenas começando a se pôr, e Lucius foi enviado à frente para investigar, passando-se por um trovador do Sul.
 
-**Warden**: _"You approach the walled village, following the dirt trail that leads directly to the town's front gate. Two guards stand on either side of the gate, which is closed. The guards are nearly identical save for a weak mustache sported by one."_
+**Facilitador**: _"Você se aproxima da vila murada, seguindo a trilha de terra que leva diretamente ao portão da frente da cidade. Dois guardas estão de cada lado do portão, que está fechado. Os guardas são quase idênticos, exceto por um bigode ralo ostentado por um deles."_
 
-**Lucius**: _"Ho there, fine gentlemen! May one such as myself inquire as to whether entry to your village would be permissible on this fine evening? I've had a long journey but am flush with gold and would love to spread some of my good luck!"_
+**Lucius**: _"Olá, cavalheiros! Alguém como eu poderia perguntar se a entrada em sua vila seria permitida nesta bela noite? Tive uma longa jornada, mas estou cheio de ouro e adoraria espalhar um pouco da minha boa sorte!"_
 
-**Warden**: _"The men exchange a look. The mustachioed guard replies, 'No entry after dark. That's the rule.'"_
+**Facilitador**: _"Os homens trocam um olhar. O guarda de bigode responde: 'Sem entrada depois de escurecer. Essa é a regra.'"_
 
-> At this point, Lucius is putting on all his charm and is essentially trying to bribe the guards to gain entry. He is also the most at risk in this situation, as the two men are well-equipped to handle a lone traveler and have backup besides. If it were required, Lucius would make the WIL save and not the guards.
+> Neste ponto, Lucius está usando todo o seu charme e está essencialmente tentando subornar os guardas para ganhar entrada. Ele também é o que mais corre risco nesta situação, já que os dois homens estão bem equipados para lidar com um viajante solitário e têm reforços além disso. Se fosse necessário, Lucius faria a salvaguarda de VON e não os guardas.
 
-**Lucius**: _"Yes, I understand. But it isn't quite dark yet, is it? The Sun is only just setting. May I please enter? I'd happily start sharing my newfound wealth with you two first, if you catch my drift. Perhaps I could bring you each a well-earned beer? To show my appreciation, of course._"
+**Lucius**: _"Sim, eu entendo. Mas ainda não está totalmente escuro, está? O Sol está apenas se pondo. Posso entrar, por favor? Eu ficaria feliz em começar a compartilhar minha nova riqueza com vocês dois primeiro, se é que me entendem. Talvez eu pudesse trazer para cada um de vocês uma cerveja bem merecida? Para mostrar meu apreço, é claro."_
 
-**Warden**: _"The two men exchange looks once more, but this time the other man replies, smirking. 'Well... perhaps this once. The Sun hasn't truly set just yet. And we are quite thirsty, after all.'"_
+**Facilitador**: _"Os dois homens trocam olhares mais uma vez, mas desta vez o outro homem responde, sorrindo presunçoso. 'Bem... talvez só desta vez. O Sol ainda não se pôs de verdade. E estamos com bastante sede, afinal.'"_
 
-> The Warden made a ruling based on what was known about these men: they were simple village guards, they'd been working a long day, and they love beer. Perhaps with another character, this wouldn't have worked, but Lucius is a Mountebank, and his capacity for winning the confidence of his targets has been well established. The guards let him in. 
+> O Facilitador tomou uma decisão com base no que se sabia sobre esses homens: eles eram guardas de vila simples, estavam trabalhando um longo dia e adoram cerveja. Talvez com outro personagem isso não tivesse funcionado, mas Lucius é um Saltimbanco, e sua capacidade de ganhar a confiança de seus alvos foi bem estabelecida. Os guardas o deixam entrar.
 
-### Greater Risk For Greater Reward 
+### Maior Risco Por Maior Recompensa
 
-> The party has sent Freya under the cover of darkness to spy on an enemy encampment. Her goal is to ascertain their enemy's total number as well as what sort of dangers might await there.
+> O grupo enviou Freya sob a cobertura da escuridão para espionar um acampamento inimigo. O objetivo dela é determinar o número total do inimigo, bem como que tipo de perigos podem esperar lá.
 
-**Warden**: _"Halfway to the camp, you see a light flickering along the trail. Someone is coming toward you! What do you do?"_
+**Facilitador**: _"No meio do caminho para o acampamento, você vê uma luz tremeluzindo ao longo da trilha. Alguém está vindo em sua direção! O que você faz?"_
 
-**Freya**: _"I slip into the foliage on the side of the trail, keeping as quiet as possible. Does that require a save?"_
+**Freya**: _"Eu deslizo para a folhagem ao lado da trilha, mantendo-me o mais quieta possível. Isso requer uma salvaguarda?"_
 
-**Warden**: _"No, because you've got enough of a distance from this person and you don't have any light sources lit. You may hide without risk of being found."_
+**Facilitador**: _"Não, porque você tem distância suficiente dessa pessoa e não tem nenhuma fonte de luz acesa. Você pode se esconder sem risco de ser encontrada."_
 
-**Freya**: _"If it seems to me like this person might belong to the same faction as our enemy, I would like to ambush them and steal their clothes. I don't want to raise the alarm, so I will need to be fast and furious."_
+**Freya**: _"Se me parecer que essa pessoa pode pertencer à mesma facção que nosso inimigo, eu gostaria de emboscá-la e roubar suas roupas. Não quero dar o alarme, então precisarei ser rápida e furiosa."_
 
-**Warden**: _"OK. They will need to make a DEX save to react in time to fend off your attack, then. It might not go as cleanly as you hope!"_
+**Facilitador**: _"OK. Eles precisarão fazer uma salvaguarda de DES para reagir a tempo de repelir seu ataque, então. Pode não ser tão limpo quanto você espera!"_
 
-**Freya**: _"What if instead I just knock them unconscious by dropping a tree branch on top of them? I have a hand ax in here somewhere."_
+**Freya**: _"E se, em vez disso, eu apenas nocauteá-los derrubando um galho de árvore em cima deles? Tenho um machado de mão aqui em algum lugar."_
 
-**Warden**: _"That might work. You'll need to sprint back a bit, climb a tree, and then save STR to determine if you can cut the branch down at just the right moment, without notifying your target. If you fail, you will come down with the branch as well, potentially taking damage and putting yourself in a very vulnerable position."_
+**Facilitador**: _"Isso pode funcionar. Você precisará correr um pouco para trás, subir em uma árvore e depois fazer uma salvaguarda de FOR para determinar se consegue cortar o galho no momento certo, sem notificar seu alvo. Se falhar, você cairá com o galho também, potencialmente sofrendo dano e se colocando em uma posição muito vulnerável."_
 
-> Freya rushes back down the trail, climbs a tree, and begins hacking at one of the branches with her ax. She rolls a STR save: a 7, a success! She thwacks the branch at just the right moment, and it falls atop the lone traveler below her, knocking them unconscious. Freya steals their clothes and their torch, then sets off down the trail towards the camp. 
+> Freya corre de volta pela trilha, sobe em uma árvore e começa a golpear um dos galhos com seu machado. Ela rola uma salvaguarda de FOR: um 7, um sucesso! Ela golpeia o galho no momento certo, e ele cai sobre o viajante solitário abaixo dela, nocauteando-o. Freya rouba suas roupas e sua tocha, depois parte pela trilha em direção ao acampamento.
 
-## Combat Is War
+## Combate é Guerra
 
-> **Wolfram**, **Lucius**, and **Freya** are on the run from a _detachment_ of twelve city guards [4 HP, 1 Armor, 11 STR, 14 DEX, 12 WIL, short sword (d6)], and they are taking shelter in a burnt-out old outpost at the edge of a forest, accessible only by a single ladder. The soldiers each carry a short sword and bow, except for their leader, a tall man with a bright blue epaulet on his shoulder. The soldiers know that the party has taken refuge in the outpost, and are talking among themselves at a safe distance away, just North of where the party is hunkering down. The _detachment_ will be treated as a single entity until they take Critical Damage. 
+> **Wolfram**, **Lucius** e **Freya** estão fugindo de um _destacamento_ de doze guardas da cidade [4 PG, 1 Armadura, 11 FOR, 14 DES, 12 VON, espada curta (d6)], e estão se abrigando em um antigo posto avançado queimado na orla de uma floresta, acessível apenas por uma única escada. Os soldados carregam cada um uma espada curta e um arco, exceto pelo líder, um homem alto com uma dragona azul brilhante no ombro. Os soldados sabem que o grupo se refugiou no posto avançado e estão conversando entre si a uma distância segura, logo ao Norte de onde o grupo está agachado. O _destacamento_ será tratado como uma única entidade até que sofra Dano Crítico.
 
-**Warden**: _"The outpost is partly shielded by what remains of its walls, and through the slats, you see the soldiers split off: six head towards the Southwest, adjacent to the treeline, while the rest (including the tall man) move Southeast, where the walls are the most damaged. It looks like they are planning some kind of pincer attack. You have less than a minute to act before they reach the open-side of the shield wall! What do you do?"_
+**Facilitador**: _"O posto avançado é parcialmente protegido pelo que resta de suas paredes e, através das frestas, vocês veem os soldados se separarem: seis seguem para o Sudoeste, adjacente à linha das árvores, enquanto o resto (incluindo o homem alto) se move para o Sudeste, onde as paredes estão mais danificadas. Parece que eles estão planejando algum tipo de ataque em pinça. Vocês têm menos de um minuto para agir antes que eles alcancem o lado aberto da parede de escudos! O que vocês fazem?"_
 
-**Wolfram**: _"I was in the military, so I know how this goes. That man with the fancy tassel is their leader. If we take him out, the rest might flee. I'm going to wait until he is as close as possible, then fire my crossbow at him. If that leaves me exposed, then so be it!"_
+**Wolfram**: _"Eu servi no exército, então sei como isso funciona. Aquele homem com a borla chique é o líder deles. Se o eliminarmos, o resto pode fugir. Vou esperar até que ele esteja o mais próximo possível, depois disparar minha besta nele. Se isso me deixar exposto, que seja!"_
 
-**Lucius**: _"You're always so direct, Wolfie! I'm going to pour some of my famous Miracle Oil on the ladder leading up here. That should both prove effective and entertaining!"_
+**Lucius**: _"Você é sempre tão direto, Wolfie! Vou derramar um pouco do meu famoso Óleo Milagroso na escada que leva até aqui. Isso deve provar ser eficaz e divertido!"_
 
-**Freya**: _"And what exactly will stop them from simply firing into our hiding spot from the giant holes on the South side? At the very best, they'll just wait until we run out of food. I have another idea: I'll poke my head through the trapdoor and toss  Smoke Bombs towards each side of the building. That'll give us an advantage for when these other two plans inevitably fail!_
+**Freya**: _"E o que exatamente vai impedi-los de simplesmente atirar em nosso esconderijo pelos buracos gigantes no lado Sul? Na melhor das hipóteses, eles vão esperar até ficarmos sem comida. Tenho outra ideia: vou colocar minha cabeça pelo alçapão e jogar Bombas de Fumaça para cada lado do prédio. Isso nos dará uma vantagem para quando esses outros dois planos inevitavelmente falharem!"_
 
-**Lucius**: _"Uh, I guess I’ll use my oil just after she tosses the Smoke Bombs, then?”_
+**Lucius**: _"Uh, acho que usarei meu óleo logo depois que ela jogar as Bombas de Fumaça, então?"_
 
-**Warden**: _"That should be fine, yes. But be aware that combat officially breaks out as soon as Wolfram stands to fire. And since you're all at the ready, there is no need to make a DEX save: you go first."_
+**Facilitador**: _"Isso deve ficar bom, sim. Mas estejam cientes de que o combate começa oficialmente assim que Wolfram se levantar para atirar. E como vocês estão todos prontos, não há necessidade de fazer uma salvaguarda de DES: vocês vão primeiro."_
 
-**Warden**: _"The soldiers continue their trajectory, until finally the leader draws his sword into the air and screams, 'Charge!' And the soldiers rush towards you. Everything happens at once. Wolfram stands and fires his crossbow at the leader. Since the leader is part of a detachment, Wolfram can only roll a d4."_
+**Facilitador**: _"Os soldados continuam sua trajetória, até que finalmente o líder saca sua espada para o ar e grita: 'Carga!' E os soldados correm em sua direção. Tudo acontece ao mesmo tempo. Wolfram se levanta e dispara sua besta no líder. Como o líder faz parte de um destacamento, Wolfram só pode rolar um d4."_
 
-> The result of Wofram's attack is a 3, and as the leader's helmet absorbs 1 point of damage, he loses only 2 HP.
+> O resultado do ataque de Wofram é um 3, e como o capacete do líder absorve 1 ponto de dano, ele perde apenas 2 PG.
 
-**Warden**: _"The arrow whizzes past the leader's shoulder, tearing his brightly-colored shoulder epaulet. He grimaces and rushes forward towards the East side of the building. Freya, at the same time, you pop your head through the trap door and toss Smoke Bombs on the East and West sides of the building - mark off 2 uses please. Lucius, you stand behind her, and the moment she moves away, you pour some Miracle Oil on the stepladder."_
+**Facilitador**: _"A flecha passa zunindo pelo ombro do líder, rasgando sua dragona de ombro colorida. Ele faz uma careta e corre para a frente em direção ao lado Leste do prédio. Freya, ao mesmo tempo, você coloca a cabeça pelo alçapão e joga Bombas de Fumaça nos lados Leste e Oeste do prédio - marque 2 usos, por favor. Lucius, você fica atrás dela e, no momento em que ela se afasta, você derrama um pouco de Óleo Milagroso na escada."_
 
-**Warden**: _"As smoke fills either side of the building, it becomes impossible to tell friend from foe. A few of the men try to climb the ladder but immediately slide off, landing at the bottom in a heap. Your enemies have essentially lost their turn, but the smoke is starting to dissipate. Amidst coughing and shouts, you hear a voice cry, 'Burn it to the ground!'"_
+**Facilitador**: _"Enquanto a fumaça enche os dois lados do prédio, torna-se impossível distinguir amigo de inimigo. Alguns dos homens tentam subir a escada, mas imediatamente escorregam, caindo no fundo em uma pilha. Seus inimigos essencialmente perderam o turno deles, mas a fumaça está começando a se dissipar. Em meio a tosses e gritos, vocês ouvem uma voz gritar: 'Queimem tudo até o chão!'"_
 
-**Wolfram**: _"Well that bought us some time, at least. Hey, Lucius, how flammable is that oil of yours?"_
+**Wolfram**: _"Bem, isso nos comprou algum tempo, pelo menos. Ei, Lucius, quão inflamável é esse seu óleo?"_
 
-**Lucius**: _"Very. And it seems we may be running out of options."_
+**Lucius**: _"Muito. E parece que podemos estar ficando sem opções."_
 
-**Freya**: _"Well, it's been fun, but I'd rather die fighting down there than get burned alive up here with you lot! No offense."_
+**Freya**: _"Bem, foi divertido, mas prefiro morrer lutando lá embaixo do que ser queimada viva aqui em cima com vocês! Sem ofensa."_
 
-**Wolfram**: _"None taken. See if you can take out their leader while we try to open up an escape route."_
+**Wolfram**: _"Nenhuma tomada. Veja se consegue eliminar o líder deles enquanto tentamos abrir uma rota de fuga."_
 
-**Wolfram**: _"I'm going to cast Disassemble on myself, then scream 'he's going to tear my arms off!' I will then drop down to the ground and start running around in circles. Lucius, when my arms are removed, I want you to pick them up and come after me."_
+**Wolfram**: _"Vou lançar Desmontar em mim mesmo, depois gritar 'ele vai arrancar meus braços!' Eu então vou pular para o chão e começar a correr em círculos. Lucius, quando meus braços forem removidos, quero que você os pegue e venha atrás de mim."_
 
-**Lucius**: _"OK. I really hope this works... And if not, well at least we'll go down fighting! Or screaming. Probably the latter."_
+**Lucius**: _"OK. Eu realmente espero que isso funcione... E se não, bem, pelo menos vamos cair lutando! Ou gritando. Provavelmente o último."_
 
-**Warden**: _"Freya, who will be your target and what weapon?"_
+**Facilitador**: _"Freya, quem será seu alvo e qual arma?"_
 
-**Freya**: _"Their leader, and I'll be using the Twins._"
+**Freya**: _"O líder deles, e estarei usando as Gêmeas."_
 
-**Warden**: _"Alright. Freya leaps down to the smokey earth, making a beeline for the leader. She draws her twin daggers, but as she is still attacking a detachment, she must still roll only a d4 each dagger."_
+**Facilitador**: _"Tudo bem. Freya salta para a terra enfumaçada, indo direto para o líder. Ela saca suas adagas gêmeas, mas como ainda está atacando um destacamento, ela deve rolar apenas um d4 para cada adaga."_
 
-> Freya makes two d4 rolls, a 4 and a 1. She keeps the higher, and the leader's helmet again absorbs 1 point of damage. The remaining 3 damage is enough to trigger a Critical Damage save on the behalf of the detachment. The result is a 15 (a fail), and with the defeat of their leader, the detachment is both broken and routed.
+> Freya faz duas rolagens de d4, um 4 e um 1. Ela mantém o maior, e o capacete do líder novamente absorve 1 ponto de dano. Os 3 de dano restantes são suficientes para desencadear uma salvaguarda de Dano Crítico em nome do destacamento. O resultado é um 15 (uma falha) e, com a derrota de seu líder, o destacamento está quebrado e em debandada.
 
-**Warden**: _"Freya slashes at the leader, but her dagger misses as he takes a lucky step back. He is less fortunate on her second attack, however, as she stabs him in the chest. He slumps over, and those closest to him shout in surprise; some even begin backing away. It is at this moment that you hear a scream, and then see Wolfram leap onto the ground from the outpost and begin running in circles, followed by Lucius, holding both of his friend's arms. The others then pick up their leader and hightail it back to the edge of the hill amid screams of 'Sorcery!' and 'We weren't trained for this!'"_ 
+**Facilitador**: _"Freya golpeia o líder, mas sua adaga erra quando ele dá um passo de sorte para trás. Ele tem menos sorte no segundo ataque dela, no entanto, quando ela o esfaqueia no peito. Ele cai, e os mais próximos a ele gritam surpresos; alguns até começam a recuar. É neste momento que vocês ouvem um grito e depois veem Wolfram pular para o chão do posto avançado e começar a correr em círculos, seguido por Lucius, segurando ambos os braços do amigo. Os outros então pegam seu líder e correm de volta para a borda da colina em meio a gritos de 'Feitiçaria!' e 'Não fomos treinados para isso!'"_
 
-**Wolfram**: _"I knew that would work!"_
+**Wolfram**: _"Eu sabia que isso funcionaria!"_
 
-**Freya**: _"I'm pretty sure this was all me, but whatever._"
+**Freya**: _"Tenho certeza de que fui toda eu, mas tanto faz."_
 
-**Lucius** _"Who cares? Let's just get out of here while the getting's good._"
+**Lucius** _"Quem se importa? Vamos apenas sair daqui enquanto é tempo."_
 
-**Warden** _"You have an opportunity to flee into the nearby Wood, or across the open fields if you think you can run fast enough. What do you do?"_
+**Facilitador** _"Vocês têm a oportunidade de fugir para a Floresta próxima, ou através dos campos abertos se acharem que conseguem correr rápido o suficiente. O que vocês fazem?"_
