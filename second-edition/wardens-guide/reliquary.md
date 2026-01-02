@@ -1,209 +1,209 @@
 ---
 layout: default
-title: Reliquary
+title: Relicário
 parent: Guia do Diretor 
 grand_parent: Segunda Edição
 ---
 
-# Reliquary
+# Relicário
 
-## A Blade Called Hope (d6)
+## Uma Lâmina Chamada Esperança (d6)
 
-  - A thin, curved sword that glows with faint light, visible only in total darkness. When bathed in heavy sunlight, its first attack is _Enhanced_.
+  - Uma espada fina e curva que brilha com uma luz fraca, visível apenas na escuridão total. Quando banhada por luz solar intensa, seu primeiro ataque é _Melhorado_.
 
-## Assassin's Goblets
+## Taças do Assassino
 
-  - A pair of fragile wine flutes. Any liquid poured into one is swapped with the other.
+  - Um par de taças de vinho frágeis. Qualquer líquido derramado em uma é trocado com a outra.
 
-## Babbleflask, 2 uses
+## Frasco de Babel, 2 usos
 
-  - A foreign language is automatically understood and can be spoken back with fluency, so long as the drinker's native tongue is neither spoken nor heard.
+  - Um idioma estrangeiro é automaticamente compreendido e pode ser falado com fluência, desde que a língua nativa de quem bebe não seja nem falada nem ouvida.
 
-## Barbed Epaulets, +1 Armor
+## Dragonas Farpadas, +1 Armadura
 
-  - Spiked shoulder pads that poison anyone that touches them (STR save or lose consciousness).
+  - Ombreiras com pontas que envenenam qualquer um que as toque (salvamento de FOR ou perde a consciência).
 
-## Betterwand, 2 charges
+## Varinha Melhoradora, 2 cargas
 
-  - Vibrates with increased intensity when pointed at the best of a series of objects.
-  - **Recharge**: Willingly accept a poor deal or trade while in possession of the wand.
+  - Vibra com intensidade aumentada quando apontada para o melhor de uma série de objetos.
+  - **Recarga**: Aceite voluntariamente um acordo ruim ou troca enquanto estiver de posse da varinha.
 
-## Bloodmap, 1 charge
+## Mapa de Sangue, 1 carga
 
-  - A blank leather parchment that absorbs any blood spilled on its surface before rolling into a tight scroll. Unroll to see a rough map revealing the current location of any remaining blood. The image disappears after a few minutes.
-  - **Recharge**: Pour a pint of your own life essence onto the map, blood for blood. You are _deprived_ until you can rest and eat a Ration.
+  - Um pergaminho de couro em branco que absorve qualquer sangue derramado em sua superfície antes de se enrolar em um rolo apertado. Desenrole para ver um mapa rústico revelando a localização atual de qualquer sangue restante. A imagem desaparece após alguns minutos.
+  - **Recarga**: Derrame meio litro de sua própria essência vital no mapa, sangue por sangue. Você fica _privado_ até poder descansar e comer uma Ração.
 
-## Coin of the Father, 1 charge, _petty_
+## Moeda do Pai, 1 carga, _pequeno_
 
-  - Flip this worthless-looking hunk of flat metal in the air, and it will transform into d100 gold coins. The illusory coins disappear after one hour.
-  - **Recharge**: Carry the coin for three days without spending or earning any money.
+  - Jogue este pedaço de metal plano de aparência inútil para o ar, e ele se transformará em d100 moedas de ouro. As moedas ilusórias desaparecem após uma hora.
+  - **Recarga**: Carregue a moeda por três dias sem gastar ou ganhar dinheiro algum.
 
-## Dryad's Tear, 1 use
+## Lágrima da Dríade, 1 uso
 
-  - Shatter this crystal to merge with a tree you can touch. You can perceive the goings-on within whatever forest that tree belongs to.
+  - Quebre este cristal para se fundir com uma árvore que você possa tocar. Você pode perceber o que acontece dentro de qualquer floresta a que aquela árvore pertença.
 
-## Empathy Rod, 3 charges
+## Bastão da Empatia, 3 cargas
 
-  - When two creatures touch this wooden pole at the same time, their physical and emotional states become fully intertwined until they let go.
-  - **Recharge**: Give the rod to a former enemy as a gift. This is a one-way transaction.
+  - Quando duas criaturas tocam este poste de madeira ao mesmo tempo, seus estados físicos e emocionais tornam-se totalmente entrelaçados até que se soltem.
+  - **Recarga**: Dê o bastão a um antigo inimigo como presente. Esta é uma transação de mão única.
 
-## Eyestone, 3 charges
+## Pedra-Olho, 3 cargas
 
-  - Choose an object created by living creatures. You can sense the nearest example.
-  - **Recharge**: Place in a bucket of rainwater overnight.
+  - Escolha um objeto criado por criaturas vivas. Você pode sentir o exemplo mais próximo.
+  - **Recarga**: Coloque em um balde de água da chuva durante a noite.
 
-## Falconstone, 3 charges
+## Pedra do Falcão, 3 cargas
 
-  - Perceive the world through the eyes and ears of a nearby bird of prey. You feel whatever it feels but have no control over it.
-  - **Recharge**: Kill and eat a common quarry, cooking the meat alongside the stone.
+  - Perceba o mundo através dos olhos e ouvidos de uma ave de rapina próxima. Você sente o que quer que ela sinta, mas não tem controle sobre ela.
+  - **Recarga**: Mate e coma uma presa comum, cozinhando a carne junto com a pedra.
 
-## Footpad's Friend
+## Amigo do Lacaio
 
-  - Soft leather shoes that adapt to fit any foot size. Leave behind footprints that scatter and turn in a confusing manner, making tracking nigh-impossible.
+  - Sapatos de couro macio que se adaptam a qualquer tamanho de pé. Deixam para trás pegadas que se espalham e giram de maneira confusa, tornando o rastreamento quase impossível.
 
-## Gate Chalk, 1 use, _petty_
+## Giz de Portão, 1 uso, _pequeno_
 
-  - Draw a doorway on any flat surface to open a one-way passage to the Roots. Good luck.
+  - Desenhe uma porta em qualquer superfície plana para abrir uma passagem de mão única para as Raízes. Boa sorte.
 
-## Golden Wheat Paste, 2 uses
+## Pasta de Trigo Dourado, 2 usos
 
-  - When mixed with water, this substance chemically bonds any two objects.
+  - Quando misturada com água, esta substância une quimicamente quaisquer dois objetos.
 
-## Gossip Box, 1 charge
+## Caixa de Fofoca, 1 carga
 
-  - Wind the crank to replay any sound made in the past day in your current location. Each crank goes back one hour.
-  - **Recharge**: Successfully spread one falsehood in the presence of the box.
+  - Gire a manivela para reproduzir qualquer som feito no último dia em sua localização atual. Cada giro volta uma hora.
+  - **Recarga**: Espalhe com sucesso uma falsidade na presença da caixa.
 
-## Harbinger's Bell, 1 charge
+## Sino do Arauto, 1 carga
 
-  - Hang at chest height to ring when danger is imminent.
-  - **Recharge**: Melt and reforge. Each time, roll a d6. On a 1-2, it breaks forever.
+  - Pendure na altura do peito para tocar quando o perigo for iminente.
+  - **Recarga**: Derreta e reforje. Cada vez, role um d6. Em um 1-2, ele quebra para sempre.
 
-## Homunculus Nail, 1 use, _petty_
+## Prego de Homúnculo, 1 uso, _pequeno_
 
-  - Prick a finger with the pointy end and hammer into any small object to form a loyal servant [3 HP, 4 STR, 13 DEX, 5 WIL] completely devoted to you. If not destroyed, it will outlive you.
+  - Pique um dedo com a ponta afiada e martele em qualquer objeto pequeno para formar um servo leal [3 PG, 4 FOR, 13 DES, 5 VON] completamente devotado a você. Se não for destruído, ele viverá mais que você.
 
-## Honest Earworm, 1 use
+## Verme de Ouvido Honesto, 1 uso
 
-  - A foul-smelling, pinky-sized worm that feeds on earwax by crawling into the ear canal of a sleeping person. The victim then loses the ability to lie for 1d4 hours.
+  - Um verme do tamanho de um mindinho e cheiro ruim que se alimenta de cera de ouvido rastejando para o canal auditivo de uma pessoa adormecida. A vítima então perde a capacidade de mentir por 1d4 horas.
 
-## Jar of Ants
+## Jarra de Formigas
 
-  - Break to release a colony of fire ants [6 HP, 2 STR, 10 DEX, 1 WIL, bite (d10), _detachment_]. Consumes a ration every two days.
+  - Quebre para liberar uma colônia de formigas de fogo [6 PG, 2 FOR, 10 DES, 1 VON, mordida (d10), _destacamento_]. Consome uma ração a cada dois dias.
 
-## Last Breath (d6), 1 charge
+## Último Suspiro (d6), 1 carga
 
-  - A chipped short sword of dubious quality. Drive into the earth to form a crystal dome that encircles and immobilizes the wielder. The dome is impenetrable by mundane , and shatters once the sword is lifted again.
-  - **Recharge**: Deliver a killing blow with the sword, absorbing the dying victim's soul into the blade. There is a cunning intelligence within that speaks to the wielder, forever asking for more souls, more!
+  - Uma espada curta lascada de qualidade duvidosa. Enfie na terra para formar uma cúpula de cristal que circunda e imobiliza o portador. A cúpula é impenetrável por meios mundanos e se estilhaça assim que a espada é levantada novamente.
+  - **Recarga**: Dê um golpe fatal com a espada, absorvendo a alma da vítima moribunda para a lâmina. Há uma inteligência astuta dentro que fala com o portador, sempre pedindo mais almas, mais!
 
-## Lightsucker Candle, 3 uses
+## Vela Sugadora de Luz, 3 usos
 
-  - Once lit, this black tallow wax sheds darkness rather than light, even in the brightest of days.
+  - Uma vez acesa, esta cera de sebo negro emite escuridão em vez de luz, mesmo nos dias mais claros.
 
-## Lover's Covenant, 1 use
+## Pacto dos Amantes, 1 uso
 
-  - A bottle of red-tinted ink, a broken heart emblazoned on the front. Write up a contract of any length. Any who sign are bound to obey by penalty of death.
+  - Um frasco de tinta tingida de vermelho, um coração partido estampado na frente. Escreva um contrato de qualquer tamanho. Qualquer um que assine é obrigado a obedecer sob pena de morte.
 
-## Mace of the Kingslayer (d8), 2 charges
+## Maça do Regicida (d8), 2 cargas
 
-  - Hold the weapon aloft and shout an order or declaration. Any who fail a WIL save must obey, against their better judgment.
-  - **Recharge**: Deliver a fatal blow to the leader of a group or faction.
+  - Segure a arma no alto e grite uma ordem ou declaração. Qualquer um que falhe em um salvamento de VON deve obedecer, contra seu melhor julgamento.
+  - **Recarga**: Dê um golpe fatal no líder de um grupo ou facção.
 
-## Moth Mirror, _bulky_
+## Espelho de Mariposa, _volumoso_
 
-  - A full-length, double-sided glass mirror. Step into the mirror to be transported to another mirror you know. You come out of the other side as an enormous swarm of buzzing moths, striking those around you with paralysis (WIL save to avoid) as they gaze upon you in horror. You can revert to your normal form at will. The mirror only operates in one direction.
+  - Um espelho de vidro de corpo inteiro e dupla face. Entre no espelho para ser transportado para outro espelho que você conheça. Você sai do outro lado como um enorme enxame de mariposas zumbindo, atingindo aqueles ao seu redor com paralisia (salvamento de VON para evitar) enquanto olham para você com horror. Você pode reverter para sua forma normal à vontade. O espelho só opera em uma direção.
 
-## Muffle Dust, 2 uses
+## Pó Abafador, 2 usos
 
-  - A pouch of fine dust that muffles all sound in a 40ft radius when scattered.
+  - Uma bolsa de pó fino que abafa todo o som em um raio de 12 metros quando espalhado.
 
-## Nightstone, 1 use
+## Pedra da Noite, 1 uso
 
-  - Rare moon-shaped stones dredged from underwater caves and jungle dolines. Swallow whole to relieve all fatigue and deprivation as if you had a good night's sleep and a good meal. The stone will eventually pass through your system. It isn't fun.
+  - Pedras raras em forma de lua dragadas de cavernas subaquáticas e dolinas na selva. Engula inteira para aliviar toda a fadiga e privação como se tivesse tido uma boa noite de sono e uma boa refeição. A pedra eventualmente passará pelo seu sistema. Não é divertido.
 
-## Obliteration Scroll, 1 use, _petty_
+## Pergaminho de Oblitheração, 1 uso, _pequeno_
 
- - A single-page document filled with gibberish. Sign anywhere on the page to remove any knowledge of your existence from this plane of reality. No one will know or remember you, and any references to your name or lineage will vanish. The scroll disappears in a puff of smoke that smells faintly of sulfur.
+ - Um documento de uma página preenchido com algaravia. Assine em qualquer lugar da página para remover qualquer conhecimento de sua existência deste plano de realidade. Ninguém saberá ou lembrará de você, e quaisquer referências ao seu nome ou linhagem desaparecerão. O pergaminho desaparece em uma nuvem de fumaça que cheira levemente a enxofre.
 
-## Parliament's Promise, +1 Armor
+## Promessa do Parlamento, +1 Armadura
 
- - A helmet in the form of an owl's head. Its wearer can twist their head around like an owl and can see in darkness with perfect clarity. While wearing the helm, the wearer loses the ability to speak, uttering only the simplest of cooing noises.
+ - Um elmo na forma de uma cabeça de coruja. Seu usuário pode girar a cabeça como uma coruja e pode ver na escuridão com perfeita clareza. Enquanto usa o elmo, o usuário perde a capacidade de falar, emitindo apenas os ruídos de arrulho mais simples.
 
-## Phoenix Ash, 1 use
+## Cinza de Fênix, 1 uso
 
-  - Sprinkle over a corpse to resurrect the deceased. They return with full health but no memory of their past life.
+  - Polvilhe sobre um cadáver para ressuscitar o falecido. Eles retornam com saúde total, mas sem memória de sua vida passada.
 
-## Ring of the Snake, 1 charge, _petty_
+## Anel da Cobra, 1 carga, _pequeno_
 
-  - A wrought-iron serpent ring. Place it on your finger and fall into a sleep so deep that most will think you are dead. If the ring is removed, you will awaken feeling refreshed. Otherwise, the effect will wear off after one month.
-  - **Recharge**: Bury the ring with a corpse. A month later, exhume the corpse and retrieve it.
+  - Um anel de serpente de ferro forjado. Coloque-o no dedo e caia em um sono tão profundo que a maioria pensará que você está morto. Se o anel for removido, você acordará sentindo-se revigorado. Caso contrário, o efeito passará após um mês.
+  - **Recarga**: Enterre o anel com um cadáver. Um mês depois, exume o cadáver e recupere-o.
 
-## Roc Feather, 1 use
+## Pena de Roca, 1 uso
 
-  - Hold while falling to float safely to the ground from any height.
+  - Segure enquanto cai para flutuar com segurança até o chão de qualquer altura.
 
-## Skull Whistle, 3 charges
+## Apito de Caveira, 3 cargas
 
-  - Produces a chilling scream that forces any who hear it (including the blower) to make a WIL save or become temporarily incapacitated.
-  - **Recharge**: Feed the instrument a clump of human hair pulled from a living skull.
+  - Produz um grito arrepiante que força qualquer um que o ouça (incluindo o soprador) a fazer um salvamento de VON ou ficar temporariamente incapacitado.
+  - **Recarga**: Alimente o instrumento com um tufo de cabelo humano arrancado de um crânio vivo.
 
-## Soul Clump
+## Aglomerado de Almas
 
-  - A hard, fist-sized ball covered in small bumps. When rolled on a flat surface, it collects any objects smaller than its current mass, which subsequently increases as more items are attached to its surface. Only living creatures are immune.
+  - Uma bola dura do tamanho de um punho coberta de pequenas saliências. Quando rolada em uma superfície plana, ela coleta quaisquer objetos menores que sua massa atual, que subsequentemente aumenta à medida que mais itens são anexados à sua superfície. Apenas criaturas vivas são imunes.
 
-## Spystone, 1 charge
+## Pedra Espiã, 1 carga
 
-  - A smooth, flat stone that is slightly warm to the touch. Squeeze to record audio in a 40ft radius. Squeeze again to play it back, as many times as you like.
-  - **Recharge**: To record a new sound, skip the rock at least three times on a body of water and recover it.
+  - Uma pedra lisa e plana que é ligeiramente quente ao toque. Aperte para gravar áudio em um raio de 12 metros. Aperte novamente para reproduzir, quantas vezes quiser.
+  - **Recarga**: Para gravar um novo som, faça a pedra quicar pelo menos três vezes em um corpo de água e recupere-a.
 
-## Sticky Rope, 1 charge
+## Corda Grudenta, 1 carga
 
-  - A 100ft rope that can stick to any surface.
-  - **Recharge**: Cut off 10ft of rope, which then withers away.
+  - Uma corda de 30 metros que pode grudar em qualquer superfície.
+  - **Recarga**: Corte 3 metros de corda, que então murcha.
 
-## Stone Eater, 1 use
+## Comedor de Pedra, 1 uso
 
-  - A rodent-sized centipede that consumes and digests stone, capable of cutting a small tunnel in under an hour. It can be used more than once, but only if you can catch it (DEX 18).
+  - Uma centopeia do tamanho de um roedor que consome e digere pedra, capaz de cortar um pequeno túnel em menos de uma hora. Pode ser usada mais de uma vez, mas apenas se você conseguir pegá-la (DES 18).
 
-## Stonewax Gum, 3 uses, _petty_
+## Chiclete de Cera de Pedra, 3 usos, _pequeno_
 
-  - Chew, then spit. The gum will harden and stretch, making a perfect, unbreakable seal.
+  - Mastigue, depois cuspa. O chiclete endurecerá e esticará, fazendo uma vedação perfeita e inquebrável.
 
-## Sponge Army, 1 use
+## Exército de Esponja, 1 uso
 
-  - A dozen miniature soldiers made of carved sea sponges. When splashed with water, they grow to full size [8 HP, 6 STR, 13 DEX, 5 WIL, hardened sponge (d6), _detachment_] and follow the orders of the person they see until they are destroyed or dry out completely (about 10 minutes).
+  - Uma dúzia de soldados em miniatura feitos de esponjas do mar esculpidas. Quando respingados com água, eles crescem até o tamanho real [8 PG, 6 FOR, 13 DES, 5 VON, esponja endurecida (d6), _destacamento_] e seguem as ordens da pessoa que veem até serem destruídos ou secarem completamente (cerca de 10 minutos).
 
-## Tupshead Crown, +1 Armor, _bulky_
+## Coroa Cabeça de Carneiro, +1 Armadura, _volumoso_
 
-  - A beautifully rendered ram's head helm wrought from tough alpine oak. The horns can be used as weapons (d6+d6).
+  - Um elmo de cabeça de carneiro lindamente renderizado, forjado de carvalho alpino resistente. Os chifres podem ser usados como armas (d6+d6).
 
-## Veilsilk Grip, 1 charge, _petty_
+## Luva de Seda de Véu, 1 carga, _pequeno_
 
-  - A hand wearing this glove can phase through solid objects.
-  - **Recharge**: Snip off one of the fingers.
+  - Uma mão usando esta luva pode atravessar objetos sólidos.
+  - **Recarga**: Corte fora um dos dedos (da luva).
 
-## Voice of the Mountain, 1 use
+## Voz da Montanha, 1 uso
 
-  - A rough pebble imbued with the essence of a mountain spirit. Crush to call forth an earthquake or similar natural disaster. Do not expect to be spared.
+  - Um seixo áspero imbuído com a essência de um espírito da montanha. Esmague para invocar um terremoto ou desastre natural similar. Não espere ser poupado.
 
-## Ward Stone, 1 use
+## Pedra de Proteção, 1 uso
 
-  - A flat, unassuming river stone notched with faded symbols. Smash to release a silvery powder in a 20ft radius that pacifies anyone who breathes it.
+  - Uma pedra de rio plana e despretensiosa entalhada com símbolos desbotados. Esmague para liberar um pó prateado em um raio de 6 metros que pacifica qualquer um que o respire.
 
-## Whispergale, 1 use
+## Vendaval Sussurrante, 1 uso
 
-  - A balloon-shaped plant that captures a spoken message and delivers it to a location within a day's walk.
+  - Uma planta em forma de balão que captura uma mensagem falada e a entrega em um local a uma caminhada de um dia.
 
-## Whistle-Rope
+## Corda-Apito
 
-  - 15ft of highly flexible leather. Swirl in the air to generate a powerful subsonic effect that drives away wildlife. Also works underwater.
+  - 4,5 metros de couro altamente flexível. Gire no ar para gerar um poderoso efeito subsônico que afasta a vida selvagem. Também funciona debaixo d'água.
 
-## Wonder Bar, 1 charge
+## Barra Maravilhosa, 1 carga
 
-  - Pressing the switch on the side of this iron bar freezes it in place, even in midair. Once frozen, it cannot be moved by any force until the switch is depressed.
-  - **Recharge**: Hold the bar with both hands without letting go for one continuous hour (WIL save to succeed). You can make only one attempt each day.
+  - Pressionar o interruptor na lateral desta barra de ferro a congela no lugar, mesmo no ar. Uma vez congelada, não pode ser movida por nenhuma força até que o interruptor seja pressionado (novamente).
+  - **Recarga**: Segure a barra com as duas mãos sem soltar por uma hora contínua (salvamento de VON para ter sucesso). Você pode fazer apenas uma tentativa por dia.
 
-## Wraith Lantern, 1 charge
+## Lanterna da Aparição, 1 carga
 
-  - Write someone's name onto its glass, and the name will disappear. The lantern reveals a path to their current location, visible only to the holder (day or night).
-  - **Recharge**: Kill the last person found with the help of the lantern, trapping their spirit inside. The lantern must be nearby when they are killed.
+  - Escreva o nome de alguém em seu vidro, e o nome desaparecerá. A lanterna revela um caminho para a localização atual deles, visível apenas para o portador (dia ou noite).
+  - **Recarga**: Mate a última pessoa encontrada com a ajuda da lanterna, prendendo seu espírito dentro. A lanterna deve estar por perto quando ela for morta.
