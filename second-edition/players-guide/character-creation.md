@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Criação de Personagem 
-parent: Player's Guide
+parent: Guia do Jogador
 grand_parent: Segunda Edição
 ---
 
