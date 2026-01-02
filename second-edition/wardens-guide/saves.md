@@ -1,170 +1,170 @@
 ---
 layout: default
-title: Saves
+title: Salvaguardas
 parent: Guia do Diretor 
 grand_parent: Segunda Edição
 ---
 
-# Saves
+# Salvaguardas
 
-## Overview
+## Visão Geral
 
-## When To Save
+## Quando Fazer uma Salvaguarda
 
-There are three common scenarios in which a player character should save:
--  When avoiding the negative outcome of a risky action.
--  When acting in opposition to another player character, NPC, or creature.
--  When aiding one or more characters in a risky action. 
+Existem três cenários comuns nos quais um personagem jogador deve fazer uma salvaguarda:
+- Ao evitar o resultado negativo de uma ação arriscada.
+- Ao agir em oposição a outro personagem jogador, PNJ ou criatura.
+- Ao ajudar um ou mais personagens em uma ação arriscada.
 
-## Save Principles
+## Princípios de Salvaguarda
 
-- When in doubt, ask whether the party has the time, resources, skills, or advantage to overcome a problem. If the answer is "no," then a save is usually warranted. If the answer is "I don't know," then a roll with the Die of Fate may be necessary.
-- Feel free to say "no," but remember to offer an alternative. If the party cannot proceed due to circumstances beyond their control, give them another option to consider.
-- Character death should never come as a surprise. If the risk is so great that the outcome might be fatal, make sure the player understands what they're getting into.
-- Always provide multiple viable options for the PCs to choose from. The more choices, the more interesting the situation becomes.
-- The outcome of a save need not be a simple binary. You can tailor the results based on the totality of input: the effort, forethought, resources, and skill that went into the roll.
-- Be transparent with players. This doesn't mean revealing all of the world's secrets, but provide each player with the maximum information their character might have.
-- Avoid requiring a dice roll whenever possible. If a PC can solve a problem using purely narrative components, _do not ask for a roll_.
-- Replace multiple dice rolls with a single dice throw. Simplifying results to a single roll can increase tension while maximizing player input. 
+- Na dúvida, pergunte se o grupo tem tempo, recursos, habilidades ou vantagem para superar um problema. Se a resposta for "não", então uma salvaguarda geralmente é justificada. Se a resposta for "não sei", então uma rolagem com o Dado do Destino pode ser necessária.
+- Sinta-se à vontade para dizer "não", mas lembre-se de oferecer uma alternativa. Se o grupo não puder prosseguir devido a circunstâncias além de seu controle, dê-lhes outra opção para considerar.
+- A morte do personagem nunca deve vir como uma surpresa. Se o risco for tão grande que o resultado pode ser fatal, certifique-se de que o jogador entende no que está se metendo.
+- Sempre forneça várias opções viáveis para os PJs escolherem. Quanto mais escolhas, mais interessante a situação se torna.
+- O resultado de uma salvaguarda não precisa ser um binário simples. Você pode ajustar os resultados com base na totalidade das contribuições: o esforço, a premeditação, os recursos e a habilidade que entraram na rolagem.
+- Seja transparente com os jogadores. Isso não significa revelar todos os segredos do mundo, mas forneça a cada jogador o máximo de informações que seu personagem possa ter.
+- Evite exigir uma rolagem de dados sempre que possível. Se um PJ puder resolver um problema usando componentes puramente narrativos, _não peça uma rolagem_.
+- Substitua várias rolagens de dados por um único lançamento de dados. Simplificar os resultados para uma única rolagem pode aumentar a tensão enquanto maximiza a contribuição do jogador.
 
-## Traditional Saves
+## Salvaguardas Tradicionais
 
-### Strength
+### Força
 
-> Wolfram dashes through the underground jail cell, a bundle of cloth held tightly to his chest. Lucius and Freya are right behind, fighting off a very large guard and his pet wolf. 
+> Wolfram corre através da cela de prisão subterrânea, um fardo de tecido segurado firmemente contra o peito. Lucius e Freya estão logo atrás, lutando contra um guarda muito grande e seu lobo de estimação.
 
-**Wolfram**: _"Remember, they are innocents! They don't need to die!"_
+**Wolfram**: _"Lembrem-se, eles são inocentes! Eles não precisam morrer!"_
 
-**Freya**: _"Sorry, I can't hear you through the barks and snarling!"_
+**Freya**: _"Desculpe, não consigo te ouvir com os latidos e rosnados!"_
 
-**Warden**: _"Suddenly, the guard stops and whistles, recalling his pet. He then pulls on a lever behind him, and a loud grating sound starts emanating from the other side of the hallway to the East. Then you see what he's done: a thick iron gate is coming down from the ceiling. If it closes, you'll be locked in this section of the jail! Wolfram, you can probably make it through without any risk. Lucius and Freya will need to each make DEX saves in order to make it."_
+**Facilitador**: _"De repente, o guarda para e assobia, chamando seu animal de volta. Ele então puxa uma alavanca atrás dele, e um som alto de grade começa a emanar do outro lado do corredor para o Leste. Então vocês veem o que ele fez: um grosso portão de ferro está descendo do teto. Se fechar, vocês ficarão trancados nesta seção da prisão! Wolfram, você provavelmente consegue passar sem nenhum risco. Lucius e Freya precisarão, cada um, fazer salvaguardas de DES para conseguir."_
 
-**Wolfram**: _"I'm going to stop and hold the gate for as long as I can. What do I risk?"_
+**Wolfram**: _"Vou parar e segurar o portão pelo tempo que puder. O que eu arrisco?"_
 
-**Warden**: _"The gate is strong. It might break your bones, or you might get stuck underneath."_
+**Facilitador**: _"O portão é forte. Pode quebrar seus ossos, ou você pode ficar preso embaixo."_
 
-**Wolfram**: _"I toss the bundle through to the other side, then take up a position to grab onto it. Lucius, Freya, you two run ahead. I've got this."_
+**Wolfram**: _"Eu jogo o fardo para o outro lado, depois tomo uma posição para segurá-lo. Lucius, Freya, vocês dois corram na frente. Deixem comigo."_
 
-> Lucius and Freya agree, and Wolfram rolls a 13: a success!
+> Lucius e Freya concordam, e Wolfram rola um 13: um sucesso!
 
-**Warden**: _"You groan as the iron bars press down against your arms and shoulders. Just as you feel like the gate might crush you in two, Lucius and Freya jog past and into safety. You step back and the gate collapses onto the stone floor with such force that the mechanism itself breaks. There is no going back now! The large guard isn't getting through either, though."_
+**Facilitador**: _"Você geme enquanto as barras de ferro pressionam seus braços e ombros. Justo quando você sente que o portão pode esmagá-lo em dois, Lucius e Freya passam correndo para a segurança. Você dá um passo para trás e o portão desaba no chão de pedra com tanta força que o próprio mecanismo quebra. Não há volta agora! O guarda grande também não vai passar, no entanto."_
 
-**Wolfram**: _"It's just as I've always said: 'Through strength, there is virtue.' Or was it, 'There is virtue in strength?' Ah, anyway... Hey, wait for me!"_
+**Wolfram**: _"É exatamente como eu sempre disse: 'Através da força, há virtude.' Ou era, 'Há virtude na força?' Ah, de qualquer forma... Ei, me esperem!"_
 
-### Dexterity
+### Destreza
 
-> Freya crouches atop the rafters of a decrepit tavern, spying on a gang of heavily-armed thugs below. 
+> Freya se agacha no topo das vigas de uma taverna decrépita, espionando uma gangue de bandidos fortemente armados lá embaixo.
 
-**Warden**: _"After twenty minutes of cramped discomfort, the care and caution you put into this venture are finally rewarded as one of the men below speaks aloud the location of their hideout. Your mission is complete! What do you do now?_"
+**Facilitador**: _"Após vinte minutos de desconforto apertado, o cuidado e a cautela que você colocou neste empreendimento são finalmente recompensados quando um dos homens lá embaixo fala em voz alta a localização de seu esconderijo. Sua missão está completa! O que você faz agora?"_
 
-**Freya**: _"I need to skedaddle without these jokers knowing I was ever here. Does it look like they are nearly finished?"_
+**Freya**: _"Preciso dar o fora sem que esses palhaços saibam que estive aqui. Parece que eles estão quase terminando?"_
 
-**Warden**: _"Actually, one of them is pulling out a deck of cards, and the others are nodding in approval. It looks like they'll be here for a while yet."_
+**Facilitador**: _"Na verdade, um deles está tirando um baralho de cartas, e os outros estão assentindo em aprovação. Parece que eles ficarão aqui por mais um tempo."_
 
-**Freya**: _"Rats. Well, no time like the present, right? I'm going to sneak back the way I came._"
+**Freya**: _"Droga. Bem, não há hora como o presente, certo? Vou voltar sorrateiramente pelo caminho que vim."_
 
-**Warden**: _"That's fine, but when you passed earlier there was no one here. That is no longer the case! You'll need to make a DEX save to avoid detection._"
+**Facilitador**: _"Tudo bem, mas quando você passou mais cedo não havia ninguém aqui. Esse não é mais o caso! Você precisará fazer uma salvaguarda de DES para evitar ser detectada."_
 
-> Freya rolls a 16: a fail!
+> Freya rola um 16: uma falha!
 
-**Warden**: _"As you crest the final beam, it creaks. All six of the men look up and see you leap into the crawlspace leading out of the main hall and into the kitchens. They didn't get a bead on your face, but they know you're up there! They shout and draw their weapons."_
+**Facilitador**: _"Quando você alcança a última viga, ela range. Todos os seis homens olham para cima e veem você pular para o espaço de rastejamento que leva para fora do salão principal e para as cozinhas. Eles não viram seu rosto, mas sabem que você está lá em cima! Eles gritam e sacam suas armas."_
 
-**Freya**: _"I have one smoke bomb left, and I plan on using it. I'm going to drop into the kitchens to find a pot. If I recall correctly, water makes the smoke go crazy..."_
+**Freya**: _"Tenho uma bomba de fumaça sobrando, e pretendo usá-la. Vou cair nas cozinhas para encontrar uma panela. Se bem me lembro, água faz a fumaça enlouquecer..."_
 
-### WIL
+### Vontade (VON)
 
-> Lucius has been captured after helping a client try to break into the ancient vault of Der Thunn. In a sudden glut of courage, he allowed himself be taken so that the others could escape.
+> Lucius foi capturado após ajudar um cliente a tentar invadir o antigo cofre de Der Thunn. Em um súbito excesso de coragem, ele permitiu ser levado para que os outros pudessem escapar.
 
-**Wolfram**: _"Pity about Lucius. But we have to deliver our client to the vault immediately. We can rescue him after."_
+**Wolfram**: _"Uma pena sobre o Lucius. Mas temos que entregar nosso cliente ao cofre imediatamente. Podemos resgatá-lo depois."_
 
-**Freya**: _"I am NOT leaving him behind. You should still go, but I'm going to get him out. I'm a cutpurse, so I have friends everywhere, right? Or perhaps there's some kind of thieves' cant I can use to make connections here?"_
+**Freya**: _"Eu NÃO vou deixá-lo para trás. Você ainda deve ir, mas eu vou tirá-lo de lá. Eu sou uma batedora de carteiras, então tenho amigos em todos os lugares, certo? Ou talvez haja algum tipo de gíria de ladrões que eu possa usar para fazer conexões aqui?"_
 
-**Warden**: _"Indeed. You can spend the night trying to make connections among your kind, if you like._"
+**Facilitador**: _"De fato. Você pode passar a noite tentando fazer conexões entre os seus, se quiser."_
 
-> The party splits up, and Freya learns what she needs to from a local fence. (It costs her one of the Twins, and she is not happy about it). Lucius is awaiting his sentence in a jail beneath the constabulary.
+> O grupo se separa, e Freya aprende o que precisa com um receptador local. (Custa a ela uma das Gêmeas, e ela não está feliz com isso). Lucius está aguardando sua sentença em uma prisão sob a delegacia.
 
-**Warden**: _"In the dim light of the early dawn, you notice a note slipped through the street vent. It reads, 'Speak the following, and you will be free: "The Pale Man Longs To Die." You have but one chance.'"_
+**Facilitador**: _"Na luz fraca do início da madrugada, você nota um bilhete deslizado pela abertura da rua. Diz: 'Fale o seguinte, e você será livre: "O Homem Pálido Anseia Por Morrer." Você tem apenas uma chance.'"_
 
-**Lucius**: _"...What? OK. Someone gave this to me? And I have to speak it aloud... but at the right time, or to the right person?"_
+**Lucius**: _"...O quê? OK. Alguém me deu isso? E eu tenho que falar em voz alta... mas na hora certa, ou para a pessoa certa?"_
 
-**Warden**: _"You hear footsteps as the jailer approaches. He jingles his keys as if he intends to open your cell. What do you do?_"
+**Facilitador**: _"Você ouve passos enquanto o carcereiro se aproxima. Ele balança as chaves como se pretendesse abrir sua cela. O que você faz?"_
 
-**Lucius**: _"OK! This is not the right person, I think. Perhaps I'll talk to someone higher up?"_
+**Lucius**: _"OK! Esta não é a pessoa certa, eu acho. Talvez eu fale com alguém superior?"_
 
-**Warden**: _"He opens your cell and beckons for you to come out."_
+**Facilitador**: _"Ele abre sua cela e acena para que você saia."_
 
-**Lucius**: _"Hello friend! Might I speak to your superior? I have some important news that might be very interesting to them..."_
+**Lucius**: _"Olá amigo! Posso falar com seu superior? Tenho algumas notícias importantes que podem ser muito interessantes para eles..."_
 
-**Warden**: _"The jailer smirks as he unlocks raises a pair of manacles._"
+**Facilitador**: _"O carcereiro sorri presunçoso enquanto destranca e levanta um par de algemas."_
 
-**Lucius**: _""THE PALE MAN LONGS TO DIE!"_
+**Lucius**: _"O HOMEM PÁLIDO ANSEIA POR MORRER!"_
 
-**Warden**: _"The jailer stops in his tracks, then lowers the manacles. He nods once, then gestures that you follow him."_
+**Facilitador**: _"O carcereiro para onde está, depois abaixa as algemas. Ele assente uma vez, depois gesticula para que você o siga."_
 
-**Lucius**: _"Well, that was lucky. What is this, some code for jailers? Executioners? Well, whatever it is, I'm following."_
+**Lucius**: _"Bem, isso foi sorte. O que é isso, algum código para carcereiros? Carrascos? Bem, seja o que for, estou seguindo."_
 
-**Warden**: _"The jailer guides you into the darkness of the jail, far from the light. As he reaches the far wall, he taps three times on a stone high above his head. After a moment, the wall swings inward, and the guard walks confidently inside, where a dark-haired woman waits at a desk. She smiles at you and gestures that you sit at the chair across from her."_
+**Facilitador**: _"O carcereiro o guia para a escuridão da prisão, longe da luz. Ao chegar à parede oposta, ele bate três vezes em uma pedra bem acima de sua cabeça. Após um momento, a parede gira para dentro, e o guarda entra confiantemente, onde uma mulher de cabelos escuros espera em uma mesa. Ela sorri para você e gesticula para que se sente na cadeira em frente a ela."_
 
-**Lucius**: _"Uh oh. Can I go back to my cell, please? I kid, I kid. I take a seat."_
+**Lucius**: _"Uh oh. Posso voltar para minha cela, por favor? Estou brincando, estou brincando. Eu me sento."_
 
-**Warden**: _The jailor leaves as you take a seat. The room is small, with only one door on the other side of the woman. A very large man stands outside, his head visible through a small window on the door. The woman smiles again, saying, 'Welcome Mr... Well, it doesn't matter. There is only one reason you are here. You've spoken a code known only to thieves and scoundrels. And which one are you, I wonder?"_
+**Facilitador**: _"O carcereiro sai enquanto você se senta. A sala é pequena, com apenas uma porta do outro lado da mulher. Um homem muito grande está do lado de fora, sua cabeça visível através de uma pequena janela na porta. A mulher sorri novamente, dizendo: 'Bem-vindo Sr... Bem, não importa. Há apenas uma razão para você estar aqui. Você falou um código conhecido apenas por ladrões e patifes. E qual deles é você, eu me pergunto?"_
 
-**Lucius**: _"What happens now? I don't have anything to barter... Except for perhaps the truth? But that means I have to make a WIL save, right? So that I seem 'convincing?'"_
+**Lucius**: _"O que acontece agora? Não tenho nada para negociar... Exceto talvez a verdade? Mas isso significa que tenho que fazer uma salvaguarda de VON, certo? Para que eu pareça 'convincente'?"_
 
-**Warden**: _"You'd need to make a WIL save even if you weren't telling the truth. You're definitely the most at risk here, and despite your experience as a charlatan, you think she can probably see through any lie. She and you might not be so different."_
+**Facilitador**: _"Você precisaria fazer uma salvaguarda de VON mesmo se não estivesse dizendo a verdade. Você é definitivamente o que está mais em risco aqui e, apesar de sua experiência como charlatão, você acha que ela provavelmente consegue ver através de qualquer mentira. Ela e você podem não ser tão diferentes."_
 
-**Lucius**: _"OK. Madam: I'll be straight with you. My friends and I are here to sneak into the vault of Der Thunn. I only learned of that phrase a few minutes ago. I believe one of my friends (a cutpurse named Freya, you might know her) left me that note. If you set me free, I'll be sure to mention... what's your name, again?"_
+**Lucius**: _"OK. Madame: serei franco com você. Meus amigos e eu estamos aqui para entrar furtivamente no cofre de Der Thunn. Só soube dessa frase alguns minutos atrás. Acredito que um dos meus amigos (uma batedora de carteiras chamada Freya, você pode conhecê-la) me deixou aquele bilhete. Se você me libertar, com certeza mencionarei... qual é seu nome mesmo?"_
 
-**Warden**: _"Katja. And please, tell me everything._"
+**Facilitador**: _"Katja. E, por favor, me conte tudo."_
 
-> Lucius describes the party's , and their efforts so far. He makes a WIL save. He rolls a 5, a success! Katja is convinced of his sincerity.
+> Lucius descreve o plano do grupo e seus esforços até agora. Ele faz uma salvaguarda de VON. Ele rola um 5, um sucesso! Katja está convencida de sua sinceridade.
 
-**Warden** _"As she listens to your story, Katja frowns, then finally smiles. 'Alright, alright, I believe you. Let's make a deal! You introduce me to this "client" of yours whom you've so kindly escorted into my town, and I'll make sure no one is watching while you slip away. But we have to go right now, before this place implodes. And if that happens, even I can't guarantee your safety..."_ 
+**Facilitador** _"Enquanto ouve sua história, Katja franze a testa, depois finalmente sorri. 'Tudo bem, tudo bem, eu acredito em você. Vamos fazer um acordo! Você me apresenta a esse seu "cliente" que você gentilmente escoltou para minha cidade, e eu me certificarei de que ninguém esteja olhando enquanto você escapa. Mas temos que ir agora mesmo, antes que este lugar imploda. E se isso acontecer, nem eu posso garantir sua segurança...'"_
 
-> An hour later, Lucius finds Freya, but not the others. She explains that Wolfram and their client have already left for the vault. She agrees to take them there, but says that she needs to make a quick stop first. Something about reclaiming one of her daggers...
+> Uma hora depois, Lucius encontra Freya, mas não os outros. Ela explica que Wolfram e seu cliente já partiram para o cofre. Ela concorda em levá-los até lá, mas diz que precisa fazer uma parada rápida primeiro. Algo sobre recuperar uma de suas adagas...
 
-## Opposed Saves
+## Salvaguardas Opostas
 
-> The party has cornered their opponents (two Bandits and their Hobgoblin chief) against a steep cliff side. Lucius and Wolfram are able to take their turns right away, but Freya failed her initial DEX save and has to go after their opponents. As her friends take on each of their smaller foes, she only narrowly avoids getting her head bashed in by the Hobgoblin!
+> O grupo encurralou seus oponentes (dois Bandidos e seu chefe Hobgoblin) contra um penhasco íngreme. Lucius e Wolfram conseguem agir imediatamente, mas Freya falhou em sua salvaguarda inicial de DES e tem que agir depois de seus oponentes. Enquanto seus amigos enfrentam cada um de seus inimigos menores, ela evita por pouco ter sua cabeça esmagada pelo Hobgoblin!
 
-**Freya**: _"I don't think I can survive another bout with their leader, so I'm going to try and knock him off the cliff!"_
+**Freya**: _"Não acho que consigo sobreviver a outro combate com o líder deles, então vou tentar empurrá-lo do penhasco!"_
 
-**Warden**: _"You are most at risk in this situation, meaning that if you try and push him, you will need to make the appropriate save!"_
+**Facilitador**: _"Você está mais em risco nesta situação, o que significa que se tentar empurrá-lo, precisará fazer a salvaguarda apropriada!"_
 
-**Freya**: _"And if I fail, I go off the cliff, right? Alright.. I think I can do this. But just in case, I'm going to make sure I'm wearing my Catring!"_
+**Freya**: _"E se eu falhar, eu caio do penhasco, certo? Tudo bem... Acho que consigo fazer isso. Mas só por precaução, vou me certificar de que estou usando meu Anel de Gato!"_
 
-> Freya rolls a STR save to try and grapple the Hobgoblin and toss him off the cliff. She rolls a 17, a fail!
+> Freya rola uma salvaguarda de FOR para tentar agarrar o Hobgoblin e jogá-lo do penhasco. Ela rola um 17, uma falha!
 
-**Warden**: _"Their leader picks you up and flings you backward, sending you careening off the cliff. Fortunately the Catring activates its final charge, and you are able to gracefully catch a tree branch jutting off the mountainside 10ft below. It will take you two turns to climb back up, or you'll need to make a DEX save to do it quickly._"
+**Facilitador**: _"O líder deles pega você e a arremessa para trás, enviando-a precipício abaixo. Felizmente, o Anel de Gato ativa sua última carga, e você consegue graciosamente pegar um galho de árvore projetando-se da encosta da montanha 3 metros abaixo. Levará dois turnos para subir de volta, ou você precisará fazer uma salvaguarda de DES para fazê-lo rapidamente."_
 
-**Freya**: _"Damn. Well, hopefully my comrades will fare well enough without me until I return..."_
+**Freya**: _"Droga. Bem, espero que meus camaradas se saiam bem o suficiente sem mim até eu voltar..."_
 
-## Aiding an Ally
+## Ajudando um Aliado
 
-> The party have just arrived at the entrance to the second level of a long-forgotten mountain tomb. Freya leads the group, followed by Lucius, with Wolfram taking up the rear. Wolfram holds a lit torch, but the others have their hands free.
+> O grupo acabou de chegar à entrada do segundo nível de uma tumba na montanha há muito esquecida. Freya lidera o grupo, seguida por Lucius, com Wolfram na retaguarda. Wolfram segura uma tocha acesa, mas os outros estão com as mãos livres.
 
-**Warden**: _"The path to the North veers over a twisted archway positioned atop a dark chasm. To the East, a rocky path leads downward into the murk below. What do you do?"_
+**Facilitador**: _"O caminho para o Norte vira sobre um arco retorcido posicionado acima de um abismo escuro. Para o Leste, um caminho rochoso leva para baixo na escuridão abaixo. O que vocês fazem?"_
 
-**Wolfram**: _"Our quarry is said to be at the top of this blasted place! I think we should press on to the North."_
+**Wolfram**: _"Dizem que nossa presa está no topo deste lugar maldito! Acho que devemos seguir para o Norte."_
 
-**Warden**: _"The rest of you agree? Alright, then. Assuming you continue with the same marching orders..."_
+**Facilitador**: _"O resto de vocês concorda? Tudo bem, então. Assumindo que continuem com a mesma ordem de marcha..."_
 
-**Wolfram**: _"Wait! Let me go first. My Order can reveal that which is hidden, and I feel something sinister lies ahead in the darkness. I will take the lead, stepping as cautiously as possible, my Voidglass Shard at the ready."_
+**Wolfram**: _"Esperem! Deixem-me ir primeiro. Minha Ordem pode revelar o que está oculto, e sinto que algo sinistro jaz à frente na escuridão. Tomarei a frente, pisando o mais cautelosamente possível, meu Fragmento de Vidro do Vazio em punho."_
 
-**Warden**: _"Wolfram, you carefully start across the bridge, which moans and creaks with each step. It feels solid beneath your feet, though. As the party reaches the midway point, the ground begins to shudder violently, then blossoms with cracks. It looks like it's going to collapse from behind!"_
+**Facilitador**: _"Wolfram, você começa a atravessar a ponte com cuidado, que geme e range a cada passo. Parece sólida sob seus pés, no entanto. Quando o grupo chega ao meio do caminho, o chão começa a tremer violentamente, depois se abre em rachaduras. Parece que vai desabar por trás!"_
 
-**Wolfram**: _"If we run to the opposite side, does it look like we can make it safely?"_
+**Wolfram**: _"Se corrermos para o lado oposto, parece que conseguimos chegar em segurança?"_
 
-**Warden**: _"You and Lucius are the farthest ahead and likely the least at risk. But Freya is last and will need to make a DEX save to arrive there safely."_
+**Facilitador**: _"Você e Lucius estão mais à frente e provavelmente com menos risco. Mas Freya é a última e precisará fazer uma salvaguarda de DES para chegar lá em segurança."_
 
-**Freya**: _"You just had to take the lead, didn't you, Wolfie? I have a rope. Do I have time to toss it to one of the others?"_
+**Freya**: _"Você tinha que tomar a frente, não tinha, Wolfie? Tenho uma corda. Tenho tempo de jogá-la para um dos outros?"_
 
-**Warden**: _"Yes, you can do that. Wolfram has his hands full, so Lucius is your best bet. You can easily throw a rope to him, but a STR save will be required. As you will be the most at risk, you will need to make the save."_
+**Facilitador**: _"Sim, você pode fazer isso. Wolfram está com as mãos ocupadas, então Lucius é sua melhor aposta. Você pode facilmente jogar uma corda para ele, mas uma salvaguarda de FOR será necessária. Como você estará mais em risco, você precisará fazer a salvaguarda."_
 
-**Freya**: _"A friend and a rope still seems like a good deal to me. Let's do it!"_
+**Freya**: _"Um amigo e uma corda ainda parece um bom negócio para mim. Vamos nessa!"_
 
-> Freya rolls a 5: a success!
+> Freya rola um 5: um sucesso!
 
-**Warden**: _"As the bridge collapses, Wolfram and Lucius dash to the opposite side with Freya right behind. Just as the ground disappears beneath her feet, she tosses Lucius her rope. As the bridge collapses behind her, she slams into the wall, hanging onto the rope for dear life. Slowly, she climbs along the wall, straining to reach the ledge a few feet above her. Finally, she pulls herself onto the dusty floor."_
+**Facilitador**: _"Enquanto a ponte desaba, Wolfram e Lucius correm para o lado oposto com Freya logo atrás. Justo quando o chão desaparece sob seus pés, ela joga sua corda para Lucius. Enquanto a ponte desaba atrás dela, ela bate na parede, agarrada à corda por sua vida. Lentamente, ela escala ao longo da parede, esforçando-se para alcançar a borda alguns metros acima dela. Finalmente, ela se puxa para o chão empoeirado."_
 
-**Freya**: _"That was fun. What's next?"_
+**Freya**: _"Isso foi divertido. O que vem a seguir?"_
