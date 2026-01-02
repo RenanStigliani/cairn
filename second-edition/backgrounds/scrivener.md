@@ -1,11 +1,11 @@
 ---
-title: Escrivão
+title: Escrivaneiro
 layout: default
 parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 
-# Escrivão
+# Escrivaneiro
 
 > Você copia textos antigos e ilumina manuscritos, registrando as vozes dos espertos, dos grandes e dos poderosos. Você provará que a pena é realmente mais poderosa que a espada.
 
