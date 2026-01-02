@@ -41,9 +41,9 @@ nav_order: 1
 - Role 3d6 para cada um dos **Atributos** do seu personagem, em ordem. Você pode então trocar quaisquer dois dos resultados entre sí. 
 - Atributos não são descritores universais. Um personagem com FOR baixa não é necessariamente irremediavelmente fraco; ele ainda pode tentar levantar uma porta pesada ou sobreviver a uma luta mortal! O risco é simplesmente maior. 
 
-## Pontos de Guarda
+## Proteção contra Golpes
 
-- Role 1d6 para determinar a **Pontos de Guarda** (PG) inicial do seu PJ, que reflete sua capacidade de evitar danos em combate. PG não indica a saúde ou fortitude de um personagem; nem ele a perde por muito tempo. Veja [Cura & Recuperação](core-rules.md#Cura-&-Recuperação) 
+- Role 1d6 para determinar a **Proteção contra Golpes** (PG) inicial do seu personagem, que reflete sua capacidade de evitar danos em combate. PG não indica a saúde ou fortitude de um personagem; nem ele a perde por muito tempo. Veja [Cura & Recuperação](core-rules.md#Cura-&-Recuperação) 
 - Se um ataque levar a PG de um PJ exatamente a 0, o jogador deve rolar na tabela de [**Cicatrizes**](core-rules.md#Cicatrizes).
 
 ## Inventário
