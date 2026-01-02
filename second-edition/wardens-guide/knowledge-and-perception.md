@@ -1,48 +1,48 @@
 ---
 layout: default
-title: Knowledge And Perception
+title: Conhecimento e Percepção
 parent: Guia do Diretor 
 grand_parent: Segunda Edição
 ---
 
-# Knowledge And Perception
+# Conhecimento e Percepção
 
-## Introduction
+## Introdução
 
-Cairn differs from many modern roleplaying games by not including mechanics for knowledge or expertise. Instead, it is assumed that a character has the necessary knowledge so long as it can be justified in the fiction. Similarly, there are no mechanics that govern a character's perception or ability to "detect" important details in their environment. Instead, the Warden should provide unlimited relevant information about every detail a character can perceive with their basic senses.
+Cairn difere de muitos jogos de interpretação modernos por não incluir mecânicas para conhecimento ou perícia. Em vez disso, assume-se que um personagem possui o conhecimento necessário, desde que possa ser justificado na ficção. Da mesma forma, não há mecânicas que governem a percepção de um personagem ou a capacidade de "detectar" detalhes importantes em seu ambiente. Em vez disso, o Facilitador deve fornecer informações relevantes ilimitadas sobre cada detalhe que um personagem possa perceber com seus sentidos básicos.
 
-## Knowledge
+## Conhecimento
 
-Character knowledge is limited only by what can be explained by elements in the fiction. If it is known that a PC comes from an impoverished background and learned how to survive by any means necessary, then their player may argue that their character is better able to track down a notable NPC hiding in the slums. They may know whom to speak to and what sorts of trades might be required to collect the information they need about their target's whereabouts. 
+O conhecimento do personagem é limitado apenas pelo que pode ser explicado por elementos na ficção. Se é sabido que um PJ vem de uma origem empobrecida e aprendeu a sobreviver por qualquer meio necessário, então seu jogador pode argumentar que seu personagem é mais capaz de rastrear um PNJ notável escondido nas favelas. Eles podem saber com quem falar e que tipos de trocas podem ser necessárias para coletar as informações de que precisam sobre o paradeiro de seu alvo.
 
-If a character has no justifiable knowledge of a subject, then they simply do not know anything about it! However, the Warden may decide to roll the **Die of Fate** to determine if the character has a chance of knowing _something_. The higher the result, the more they might (reasonably) know.
+Se um personagem não tem conhecimento justificável sobre um assunto, então ele simplesmente não sabe nada sobre isso! No entanto, o Facilitador pode decidir rolar o **Dado do Destino** para determinar se o personagem tem chance de saber _algo_. Quanto maior o resultado, mais ele pode (razoavelmente) saber.
 
-### Relics
+### Relíquias
 
-When a character first acquires a Relic they are not familiar with, they can either spend time learning more about it (using a Downtime action) or experiment with it. The latter carries some dangers and may even require a successful WIL save to avoid negative consequences. However, it is often more interesting to allow the player to ask as many questions as they like about it and (eventually) to simply _tell them how it works_.
+Quando um personagem adquire pela primeira vez uma Relíquia com a qual não está familiarizado, ele pode gastar tempo aprendendo mais sobre ela (usando uma ação de Tempo de Inatividade) ou experimentá-la. O último acarreta alguns perigos e pode até exigir um salvamento de VON bem-sucedido para evitar consequências negativas. No entanto, muitas vezes é mais interessante permitir que o jogador faça quantas perguntas quiser sobre ela e (eventualmente) simplesmente _dizer a ele como funciona_.
 
-## Perception
+## Percepção
 
-When informing the players of what their PCs can perceive, the Warden should provide maximal sensory information pertaining to the objects, characters, dangers, and interactive elements in the given situation. Consider what can be gained by limiting what the PCs know or do not know. Do secrets help create interesting choices and decision points? Do they raise interesting questions? Do they give the players a sense of control over their own actions? The answer to these questions is almost always an emphatic _No_. 
+Ao informar os jogadores sobre o que seus PJs podem perceber, o Facilitador deve fornecer o máximo de informações sensoriais pertinentes aos objetos, personagens, perigos e elementos interativos na situação dada. Considere o que pode ser ganho limitando o que os PJs sabem ou não sabem. Segredos ajudam a criar escolhas interessantes e pontos de decisão? Eles levantam questões interessantes? Eles dão aos jogadores uma sensação de controle sobre suas próprias ações? A resposta a essas perguntas é quase sempre um enfático _Não_.
 
-Players should feel that the consequences of their character's actions are _earned_, and that they are _deserved_, even if the results aren't always in their favor. True agency comes from providing the players with everything they need to know to make an interesting decision, even if that is simply asking a question about what their character might perceive. 
+Os jogadores devem sentir que as consequências das ações de seus personagens são _conquistadas_, e que são _merecidas_, mesmo que os resultados nem sempre sejam a seu favor. A verdadeira agência vem de fornecer aos jogadores tudo o que precisam saber para tomar uma decisão interessante, mesmo que isso seja simplesmente fazer uma pergunta sobre o que seu personagem pode perceber.
 
-Take for example the following keyed location:
+Tomemos por exemplo o seguinte local mapeado:
 
-A colony of **bees** furiously circles a massive hive hanging from the branch of a large oak tree. A **man** observes in the shadows beneath the tree, and a rusted **sword** lies on the ground not far from the tree.
+Uma colônia de **abelhas** circula furiosamente uma colmeia maciça pendurada no galho de um grande carvalho. Um **homem** observa nas sombras sob a árvore, e uma **espada** enferrujada jaz no chão não longe da árvore.
 
-- **Bees**: Their buzzing is nearly deafening, creating a wall of sound around the tree.
-  - The hive is dripping with honey. It is delicious, and mundane.
-  - Any attempt to take honey from the hive is met with an aggressive response from the colony [3 HP, 3 STR, 12 DEX, 4 WIL, sting (d6), _detachment_].
-- **Man**: Leans against a long staff, his gaze fixed on the hive. He appears unfazed by the swarm. 
-  - The man is a magical illusion created by the beekeeper as a means to drive away any potential predators. He will not react to any direct stimuli.
-  - If the hive is damaged in any way, the man will scream very loudly, then disappear.
-- **Sword**: Shoe prints in the earth lead towards it but stop abruptly a few feet away. 
-  - The weapon belongs to the skeleton buried just beneath the earth. It is a regular short sword (d6), strangely preserved.
-  - Bloodvines [3 HP, 4 STR, 13 DEX, 1 WIL, tendrils (d6, _blast_)] attack anyone that steps close to the sword, sapping 1 STR per round from their target (STR save to escape after the first round).
+- **Abelhas**: Seu zumbido é quase ensurdecedor, criando uma muralha de som ao redor da árvore.
+  - A colmeia está pingando mel. É delicioso e mundano.
+  - Qualquer tentativa de tirar mel da colmeia é recebida com uma resposta agressiva da colônia [3 PG, 3 FOR, 12 DES, 4 VON, ferroada (d6), _destacamento_].
+- **Homem**: Apoia-se em um longo cajado, com o olhar fixo na colmeia. Ele parece impassível ao enxame.
+  - O homem é uma ilusão mágica criada pelo apicultor como um meio de afastar quaisquer predadores em potencial. Ele não reagirá a nenhum estímulo direto.
+  - Se a colmeia for danificada de alguma forma, o homem gritará muito alto e depois desaparecerá.
+- **Espada**: Pegadas de sapato na terra levam em direção a ela, mas param abruptamente a alguns metros de distância.
+  - A arma pertence ao esqueleto enterrado logo abaixo da terra. É uma espada curta comum (d6), estranhamente preservada.
+  - Vinhas Sangrentas [3 PG, 4 FOR, 13 DES, 1 VON, gavinhas (d6, _explosão_)] atacam qualquer um que pise perto da espada, drenando 1 de FOR por rodada de seu alvo (salvamento de FOR para escapar após a primeira rodada).
 
-In this example, there are three potential dangers: the bees, the man, and the Bloodvine plant. The danger from bees is more obvious, as the PCs can clearly see the danger and are familiar with bees already. The man is an unknown entity and could be friend or foe, while the Bloodvines are hidden and act as a sort of trap. The Warden should therefore communicate exactly what the PCs can see, hear, and smell. 
+Neste exemplo, existem três perigos potenciais: as abelhas, o homem e a planta Vinha Sangrenta. O perigo das abelhas é mais óbvio, pois os PJs podem ver claramente o perigo e já estão familiarizados com abelhas. O homem é uma entidade desconhecida e pode ser amigo ou inimigo, enquanto as Vinhas Sangrentas estão escondidas e agem como uma espécie de armadilha. O Facilitador deve, portanto, comunicar exatamente o que os PJs podem ver, ouvir e cheirar.
 
-The PCs will likely try to interact with the man first or perhaps ask questions about the sword, as these are both fairly passive ways to engage with the scene. When the PCs realize that the man does not respond, they may try to get a closer look or perhaps toss a rock in his direction (avoiding the hive), and so on. If the PCs ask questions about the sword or try to interact with it, the Warden should tell them about the shoe prints in the grass right away. 
+Os PJs provavelmente tentarão interagir com o homem primeiro ou talvez fazer perguntas sobre a espada, pois essas são maneiras bastante passivas de se envolver com a cena. Quando os PJs perceberem que o homem não responde, eles podem tentar olhar mais de perto ou talvez jogar uma pedra em sua direção (evitando a colmeia), e assim por diante. Se os PJs fizerem perguntas sobre a espada ou tentarem interagir com ela, o Facilitador deve falar sobre as pegadas na grama imediatamente.
 
-If the PCs decide to engage with the bee hive, the Warden should "warn" them with a hint of some kind: the bees begin to fly in a more aggressive manner, or the noise they create gets louder, and so on. It is up to the players whether to ignore the clues in front of them and continue, or to stop and ask questions. 
+Se os PJs decidirem se envolver com a colmeia de abelhas, o Facilitador deve "avisá-los" com uma dica de algum tipo: as abelhas começam a voar de maneira mais agressiva, ou o ruído que criam fica mais alto, e assim por diante. Cabe aos jogadores decidir se ignoram as pistas à sua frente e continuam, ou se param e fazem perguntas.
