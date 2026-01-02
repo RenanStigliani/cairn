@@ -11,7 +11,7 @@ grand_parent: Segunda Edição
 
 ## Nomes
 
-Gunther, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
+Guntro, Musgo, Samambaia, Líquen, Raiz, Salgueiro, Sálvia, Mil-folhas, Sorveira, Freixo
 
 ## Equipamento Inicial
 
