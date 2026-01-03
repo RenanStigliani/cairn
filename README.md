@@ -9,7 +9,7 @@ permalink: /
 
 Cairn é um jogo de aventura sobre a exploração de um bosque sombrio e misterioso, repleto de pessoas estranhas, tesouros escondidos e monstruosidades indescritíveis. A criação de personagens é rápida e aleatória, as aventuras são tensas e recompensam a exploração cuidadosa, e os combates são frenéticos e mortais.
 
-O jogo foi criado por [Yochai Gal](https://newschoolrevolution.com). Existem atualmente várias edições, duas das quais estão disponíveis aqui (ver barra lateral), todas compatíveis entre si em termos de regras.
+O jogo foi criado por [Yochai Gal](https://newschoolrevolution.com). Existem atualmente várias edições disponíveis aqui (ver barra lateral), todas compatíveis entre si em termos de regras.
 
 Este é um jogo que valoriza as contribuições da comunidade! Se você quiser enviar uma aventura, hack, monstro ou conversão, dê uma olhada no [guia de envio oficial](https://cairnrpg.com/submissions/submission-guide) (em inglês).
 
