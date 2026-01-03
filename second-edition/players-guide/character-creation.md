@@ -29,9 +29,9 @@ nav_order: 1
 | **9**   | [Coletor de Fungos](../backgrounds/fungal-forager.md)  | **19**  | [Corredor do Riacho](../backgrounds/rill-runner.md)      |
 | **10**  | [Verdessábio](../backgrounds/greenwise.md)            | **20**  | [Escriba](../backgrounds/scrivener.md)                   |
 
-## Atributos, Pontos de Guarda e Características 
+## Atributos, Proteção contra Golpes e Características 
 
-- Role para definir os **Atributos** e **Pontos de Guarda** do Personagem.
+- Role para definir os **Atributos** e **Proteção contra Golpes** do Personagem.
 - Role para definir o restante das [Características](#Características-de-Personagem-(d10)) e depois na tabela de [Vínculos](#Vínculos).
 - Finalmente, role para determinar a **Idade** do seu personagem (2d20+10). Se você for _o personagem mais jovem_, role na tabela de [Presságios](#Presságios). O resultado deve ser lido em voz alta para os outros jogadores. O Guardião deve incorporar Presságios ao cenário conforme achar adequado.
 
