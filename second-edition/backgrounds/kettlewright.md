@@ -31,7 +31,7 @@ Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 | **2** | Você negocia bens domésticos e ferramentas, vendendo suas mercadorias para os habitantes da cidade em todas as terras. Leve 20po em itens da tabela de [equipamento](/second-edition/players-guide/marketplace#gear). Você é fluente na _Gíria do Viajante_. |
 | **3** | Você era um fundidor militar, antes que a paz destruísse seu sustento. Leve um **martelo de fundição** (d10, _volumoso_) e um **elmo de estanho** (+1 Armadura). Com tempo e materiais adequados, você pode consertar armaduras.                             |
 | **4** | Você vende itens raros e de qualidade para mosteiros e nobres. Leve uma **Luneta**, um **Colar** (_miudeza_) no valor de 20po, e um **Pergaminho** de [Caminhar no Espelho](/second-edition/players-guide/spellbooks) (_miudeza_).                           |
-| **5** | Você oferece proteção como um serviço, observando silenciosamente ameaças enquanto o dinheiro troca de mãos. Você começa com **+d4 PV**, e carrega uma **Espada Longa** (d10, _volumoso_) e um **Gambesão** (+1 Armadura).                                   |
+| **5** | Você oferece proteção como um serviço, observando silenciosamente ameaças enquanto o dinheiro troca de mãos. Você começa com **+d4 PG**, e carrega uma **Espada Longa** (d10, _volumoso_) e um **Gambesão** (+1 Armadura).                                   |
 | **6** | Você vasculha estanho bruto e ferro de campos de batalha, arrancando dentes de cadáveres ainda se contorcendo. Comece com um **Burro** jovem (+4 espaços, lento), uma **Besta** (d8 dano, _volumoso_), e um **Serrote** (d6).                                |
 
 ## O que nunca falha em te tirar de problemas? Role 1d6:

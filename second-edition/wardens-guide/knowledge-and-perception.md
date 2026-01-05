@@ -15,7 +15,7 @@ Cairn difere de muitos jogos de interpretação modernos por não incluir mecân
 
 O conhecimento do personagem é limitado apenas pelo que pode ser explicado por elementos na ficção. Se é sabido que um PJ vem de uma origem empobrecida e aprendeu a sobreviver por qualquer meio necessário, então seu jogador pode argumentar que seu personagem é mais capaz de rastrear um PNJ notável escondido nas favelas. Eles podem saber com quem falar e que tipos de trocas podem ser necessárias para coletar as informações de que precisam sobre o paradeiro de seu alvo.
 
-Se um personagem não tem conhecimento justificável sobre um assunto, então ele simplesmente não sabe nada sobre isso! No entanto, o Facilitador pode decidir rolar o **Dado do Destino** para determinar se o personagem tem chance de saber _algo_. Quanto maior o resultado, mais ele pode (razoavelmente) saber.
+Se um personagem não tem conhecimento justificável sobre um assunto, então ele simplesmente não sabe nada sobre isso! No entanto, o Facilitador pode decidir rolar o **Dado de Sorte** para determinar se o personagem tem chance de saber _algo_. Quanto maior o resultado, mais ele pode (razoavelmente) saber.
 
 ### Relíquias
 

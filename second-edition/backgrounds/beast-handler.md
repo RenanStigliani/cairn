@@ -19,7 +19,7 @@ Amara, Lupin, Mirela, Severo, Guará, Astor, Garra, Bóreo, Vereda, Matias, Zain
 - Rações (3 usos)
 - Tocha (3 usos)
 - Chicote de Couro (d6)
-- Dardos Soporíficos (Salvaguarda de FOR ou adormece, 6 usos)
+- Dardos Soporíficos (Salvamento de FOR ou adormece, 6 usos)
 - Isca
 - Corda (8m)
 

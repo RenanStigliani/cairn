@@ -22,11 +22,11 @@ Em Cairn, os jogadores são encorajados a superar problemas fazendo perguntas, p
 
 ### Equilibrando as Chances
 
-> Freya está enfrentando um Troll da Floresta após ser separada do resto do grupo. Presa entre a criatura e uma parede de caverna, ela não tem escolha a não ser entrar em combate direto. Ela já passou em sua salvaguarda inicial de DES e, portanto, consegue atacar antes de seu oponente.
+> Freya está enfrentando um Troll da Floresta após ser separada do resto do grupo. Presa entre a criatura e uma parede de caverna, ela não tem escolha a não ser entrar em combate direto. Ela já passou em seu salvamento inicial de DES e, portanto, consegue atacar antes de seu oponente.
 
 **Freya**: _"Sei que não posso vencer esse cara em uma luta justa, então gostaria de saber se há algo por perto que possa equilibrar um pouco as chances. Cresci nas ruas, o que significa que sei lutar sujo. Gostaria de tentar cegá-lo sem ser esmagada no processo. Quais são minhas opções?"_
 
-**Facilitador**: _"Vou rolar um Dado do Destino para ver quão empoeiradas estão as coisas por aqui. Um 4! Tudo bem, definitivamente há poeira entre você e seu oponente, mas você pode precisar chegar perto dele para pegar um pouco. Você precisará fazer uma salvaguarda de DES."_
+**Facilitador**: _"Vou rolar um Dado de Sorte para ver quão empoeiradas estão as coisas por aqui. Um 4! Tudo bem, definitivamente há poeira entre você e seu oponente, mas você pode precisar chegar perto dele para pegar um pouco. Você precisará fazer um salvamento de DES."_
 
 > Freya rola um 13: um sucesso!
 
@@ -36,13 +36,13 @@ Em Cairn, os jogadores são encorajados a superar problemas fazendo perguntas, p
 
 **Freya**: _"Eu sei que deveria correr... mas não consigo evitar tirar vantagem dessa situação. Gostaria de apresentar esse sujeito às Gêmeas."_
 
-> Freya rola d6+d6 para suas adagas (um 3 e um 5), causando 5 de dano diretamente ao Atributo de FOR do Troll da Floresta. O Facilitador então faz uma salvaguarda de Dano Crítico para o Troll, rolando um 19: uma falha!
+> Freya rola d6+d6 para suas adagas (um 3 e um 5), causando 5 de dano diretamente ao Atributo de FOR do Troll da Floresta. O Facilitador então faz um salvamento de Dano Crítico para o Troll, rolando um 19: uma falha!
 
-**Facilitador**: _"Você o esfaqueia com ambas as lâminas, sangue verde jorrando de feridas abertas enquanto a criatura ruge de raiva. Vamos ver se ela sobrevive ao ataque! Oooh, ela falha em sua salvaguarda de FOR e sofre **Dano Crítico**! Está no chão!"_
+**Facilitador**: _"Você o esfaqueia com ambas as lâminas, sangue verde jorrando de feridas abertas enquanto a criatura ruge de raiva. Vamos ver se ela sobrevive ao ataque! Oooh, ela falha em seu salvamento de FOR e sofre **Dano Crítico**! Está no chão!"_
 
 **Freya**: _"Certo, estou tomando isso como um sinal. Hora de fazer minha saída!"_
 
-> Freya foge da cena (nenhuma salvaguarda de DES necessária), deixando o Troll da Floresta sangrar. Se ela soubesse que ele pode regenerar lentamente sua saúde, talvez tivesse ficado...
+> Freya foge da cena (nenhum salvamento de DES necessária), deixando o Troll da Floresta sangrar. Se ela soubesse que ele pode regenerar lentamente sua saúde, talvez tivesse ficado...
 
 ### Trabalho em Equipe
 
@@ -54,7 +54,7 @@ Em Cairn, os jogadores são encorajados a superar problemas fazendo perguntas, p
 
 **Lucius**: _"Eu sabia que não devia ter usado meu chapéu chique hoje! Tudo bem, vamos prosseguir."_
 
-**Facilitador**: _"O grupo executa seu plano conforme descrito, criando a isca perfeita para sua presa desavisada. Vou rolar um Dado do Destino para determinar se a criatura sequer percebe... um 5! Tudo bem, isso significa que a criatura definitivamente quer investigar a situação, mas há um porém também: está começando a escurecer."_
+**Facilitador**: _"O grupo executa seu plano conforme descrito, criando a isca perfeita para sua presa desavisada. Vou rolar um Dado de Sorte para determinar se a criatura sequer percebe... um 5! Tudo bem, isso significa que a criatura definitivamente quer investigar a situação, mas há um porém também: está começando a escurecer."_
 
 **Freya**: _"Presumivelmente isso significa que Wolfram e eu somos capazes de espionar a ilha enquanto nos escondemos, certo? E que Lucius ainda está olhando para o lado oposto, fingindo se preocupar com uma roda presa?"_
 
@@ -72,11 +72,11 @@ Em Cairn, os jogadores são encorajados a superar problemas fazendo perguntas, p
 
 **Facilitador**: _"Isso funciona! Cada um de vocês se prepara para o que está por vir. Freya e Wolfram, vocês esperam em silêncio enquanto as ondulações chegam cada vez mais perto. Finalmente, elas param! Freya coloca o Fragmento de Vidro do Vazio no olho de Wolfram enquanto ele levanta sua besta. Wolfram, você vê uma criatura viscosa, parecida com um peixe, saindo da água, escamas amareladas cruzando seu corpo de múltiplos membros. Há uma pausa breve e sem fôlego e, em seguida, um alto 'TUING' quando ele solta um virote de besta."_
 
-> Wolfram rola um d8, resultando em um 6! Como a criatura não estava ciente de seus atacantes, o dano vai diretamente para a FOR. Ela faz uma salvaguarda de Dano Crítico, e o resultado é um 3: um sucesso.
+> Wolfram rola um d8, resultando em um 6! Como a criatura não estava ciente de seus atacantes, o dano vai diretamente para a FOR. Ela faz um salvamento de Dano Crítico, e o resultado é um 3: um sucesso.
 
 **Facilitador**: _"A criatura é empalada pelo virote, fluido verde jorrando de seu corpo. Onde ele cai, a superfície chia como se em contato com ácido. Ela se vira para a carroça, mas antes que possa reagir, Lucius joga seu grande saco sobre ela. A criatura se debate dentro do saco, torcendo-se em todas as direções."_
 
-> O Facilitador faz uma salvaguarda de DES para a criatura para ver se ela consegue se libertar rapidamente do saco. Fora da água, ela tem apenas 8 de DES. Ela rola um 12: uma falha. Incapaz de se defender, a criatura é rapidamente amarrada e colocada na carroça, junto com um jarro da água tóxica para a viagem. Trabalhando juntos, o grupo rapidamente volta para a cidade.
+> O Facilitador faz um salvamento de DES para a criatura para ver se ela consegue se libertar rapidamente do saco. Fora da água, ela tem apenas 8 de DES. Ela rola um 12: uma falha. Incapaz de se defender, a criatura é rapidamente amarrada e colocada na carroça, junto com um jarro da água tóxica para a viagem. Trabalhando juntos, o grupo rapidamente volta para a cidade.
 
 ### Histórico do Personagem
 
@@ -88,7 +88,7 @@ Em Cairn, os jogadores são encorajados a superar problemas fazendo perguntas, p
 
 **Facilitador**: _"Os homens trocam um olhar. O guarda de bigode responde: 'Sem entrada depois de escurecer. Essa é a regra.'"_
 
-> Neste ponto, Lucius está usando todo o seu charme e está essencialmente tentando subornar os guardas para ganhar entrada. Ele também é o que mais corre risco nesta situação, já que os dois homens estão bem equipados para lidar com um viajante solitário e têm reforços além disso. Se fosse necessário, Lucius faria a salvaguarda de VON e não os guardas.
+> Neste ponto, Lucius está usando todo o seu charme e está essencialmente tentando subornar os guardas para ganhar entrada. Ele também é o que mais corre risco nesta situação, já que os dois homens estão bem equipados para lidar com um viajante solitário e têm reforços além disso. Se fosse necessário, Lucius faria um salvamento de VON e não os guardas.
 
 **Lucius**: _"Sim, eu entendo. Mas ainda não está totalmente escuro, está? O Sol está apenas se pondo. Posso entrar, por favor? Eu ficaria feliz em começar a compartilhar minha nova riqueza com vocês dois primeiro, se é que me entendem. Talvez eu pudesse trazer para cada um de vocês uma cerveja bem merecida? Para mostrar meu apreço, é claro."_
 
@@ -102,19 +102,19 @@ Em Cairn, os jogadores são encorajados a superar problemas fazendo perguntas, p
 
 **Facilitador**: _"No meio do caminho para o acampamento, você vê uma luz tremeluzindo ao longo da trilha. Alguém está vindo em sua direção! O que você faz?"_
 
-**Freya**: _"Eu deslizo para a folhagem ao lado da trilha, mantendo-me o mais quieta possível. Isso requer uma salvaguarda?"_
+**Freya**: _"Eu deslizo para a folhagem ao lado da trilha, mantendo-me o mais quieta possível. Isso requer um salvamento?"_
 
 **Facilitador**: _"Não, porque você tem distância suficiente dessa pessoa e não tem nenhuma fonte de luz acesa. Você pode se esconder sem risco de ser encontrada."_
 
 **Freya**: _"Se me parecer que essa pessoa pode pertencer à mesma facção que nosso inimigo, eu gostaria de emboscá-la e roubar suas roupas. Não quero dar o alarme, então precisarei ser rápida e furiosa."_
 
-**Facilitador**: _"OK. Eles precisarão fazer uma salvaguarda de DES para reagir a tempo de repelir seu ataque, então. Pode não ser tão limpo quanto você espera!"_
+**Facilitador**: _"OK. Eles precisarão fazer um salvamento de DES para reagir a tempo de repelir seu ataque, então. Pode não ser tão limpo quanto você espera!"_
 
 **Freya**: _"E se, em vez disso, eu apenas nocauteá-los derrubando um galho de árvore em cima deles? Tenho um machado de mão aqui em algum lugar."_
 
-**Facilitador**: _"Isso pode funcionar. Você precisará correr um pouco para trás, subir em uma árvore e depois fazer uma salvaguarda de FOR para determinar se consegue cortar o galho no momento certo, sem notificar seu alvo. Se falhar, você cairá com o galho também, potencialmente sofrendo dano e se colocando em uma posição muito vulnerável."_
+**Facilitador**: _"Isso pode funcionar. Você precisará correr um pouco para trás, subir em uma árvore e depois fazer um salvamento de FOR para determinar se consegue cortar o galho no momento certo, sem notificar seu alvo. Se falhar, você cairá com o galho também, potencialmente sofrendo dano e se colocando em uma posição muito vulnerável."_
 
-> Freya corre de volta pela trilha, sobe em uma árvore e começa a golpear um dos galhos com seu machado. Ela rola uma salvaguarda de FOR: um 7, um sucesso! Ela golpeia o galho no momento certo, e ele cai sobre o viajante solitário abaixo dela, nocauteando-o. Freya rouba suas roupas e sua tocha, depois parte pela trilha em direção ao acampamento.
+> Freya corre de volta pela trilha, sobe em uma árvore e começa a golpear um dos galhos com seu machado. Ela rola um salvamento de FOR: um 7, um sucesso! Ela golpeia o galho no momento certo, e ele cai sobre o viajante solitário abaixo dela, nocauteando-o. Freya rouba suas roupas e sua tocha, depois parte pela trilha em direção ao acampamento.
 
 ## Combate é Guerra
 
@@ -130,7 +130,7 @@ Em Cairn, os jogadores são encorajados a superar problemas fazendo perguntas, p
 
 **Lucius**: _"Uh, acho que usarei meu óleo logo depois que ela jogar as Bombas de Fumaça, então?"_
 
-**Facilitador**: _"Isso deve ficar bom, sim. Mas estejam cientes de que o combate começa oficialmente assim que Wolfram se levantar para atirar. E como vocês estão todos prontos, não há necessidade de fazer uma salvaguarda de DES: vocês vão primeiro."_
+**Facilitador**: _"Isso deve ficar bom, sim. Mas estejam cientes de que o combate começa oficialmente assim que Wolfram se levantar para atirar. E como vocês estão todos prontos, não há necessidade de fazer um salvamento de DES: vocês vão primeiro."_
 
 **Facilitador**: _"Os soldados continuam sua trajetória, até que finalmente o líder saca sua espada para o ar e grita: 'Carga!' E os soldados correm em sua direção. Tudo acontece ao mesmo tempo. Wolfram se levanta e dispara sua besta no líder. Como o líder faz parte de um destacamento, Wolfram só pode rolar um d4."_
 
@@ -158,7 +158,7 @@ Em Cairn, os jogadores são encorajados a superar problemas fazendo perguntas, p
 
 **Facilitador**: _"Tudo bem. Freya salta para a terra enfumaçada, indo direto para o líder. Ela saca suas adagas gêmeas, mas como ainda está atacando um destacamento, ela deve rolar apenas um d4 para cada adaga."_
 
-> Freya faz duas rolagens de d4, um 4 e um 1. Ela mantém o maior, e o capacete do líder novamente absorve 1 ponto de dano. Os 3 de dano restantes são suficientes para desencadear uma salvaguarda de Dano Crítico em nome do destacamento. O resultado é um 15 (uma falha) e, com a derrota de seu líder, o destacamento está quebrado e em debandada.
+> Freya faz duas rolagens de d4, um 4 e um 1. Ela mantém o maior, e o capacete do líder novamente absorve 1 ponto de dano. Os 3 de dano restantes são suficientes para desencadear um salvamento de Dano Crítico em nome do destacamento. O resultado é um 15 (uma falha) e, com a derrota de seu líder, o destacamento está quebrado e em debandada.
 
 **Facilitador**: _"Freya golpeia o líder, mas sua adaga erra quando ele dá um passo de sorte para trás. Ele tem menos sorte no segundo ataque dela, no entanto, quando ela o esfaqueia no peito. Ele cai, e os mais próximos a ele gritam surpresos; alguns até começam a recuar. É neste momento que vocês ouvem um grito e depois veem Wolfram pular para o chão do posto avançado e começar a correr em círculos, seguido por Lucius, segurando ambos os braços do amigo. Os outros então pegam seu líder e correm de volta para a borda da colina em meio a gritos de 'Feitiçaria!' e 'Não fomos treinados para isso!'"_
 

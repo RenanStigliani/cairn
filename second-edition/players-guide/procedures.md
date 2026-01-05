@@ -21,7 +21,7 @@ nav_order: 5
 ### Ciclo de Exploração da Masmorra
 
 1. O **Guardião** descreve o que cerca o grupo e quaisquer perigos imediatos (combate, armadilhas, surpresas etc.). Os jogadores então declaram os movimentos e **ações** pretendidos de seus personagens. 
-2. O Guardião resolve as **ações** de cada personagem simultaneamente, juntamente com quaisquer **ações** já em andamento. Lembre-se: o Dado do Destino pode ser uma ferramenta útil sempre que o Guardião estiver em dúvida!
+2. O Guardião resolve as **ações** de cada personagem simultaneamente, juntamente com quaisquer **ações** já em andamento. Lembre-se: o Dado de Sorte pode ser uma ferramenta útil sempre que o Guardião estiver em dúvida!
 3. Os jogadores registram qualquer perda de recursos e quaisquer novas condições (uso de itens, _privação_, etc.). O ciclo então começa novamente. e apropriado, o **Guardião** deve rolar na tabela de [**Eventos da Masmorra**](#Eventos-da-Masmorra). Use o bom senso ao interpretar os resultados! 
 
 ### Eventos da Masmorra
@@ -68,7 +68,7 @@ Quando o grupo:
 
 - Um personagem que esteja cercado por inimigos, envolto pela escuridão ou enfrentando seus maiores medos pode entrar em _pânico_. Normalmente, é necessário um **teste** de **VON** para evitar perder o controle e ficar _em pânico_. 
 - Um personagem _em pânico_ deve fazer um **teste** de **VON** para superar sua condição como **ação** em seu **turno**.
-- Um personagem _em pânico_ tem 0 **PV**, não age no primeiro turno de combate e todos os seus ataques têm _Desvantagem_.  
+- Um personagem _em pânico_ tem 0 **PG**, não age no primeiro turno de combate e todos os seus ataques têm _Desvantagem_.  
 
 ### Elementos da Masmorra
 

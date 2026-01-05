@@ -10,15 +10,15 @@ nav_order: 2
 
 ## Atributos
 
-Cada um dos três **Atributos** é usado em circunstâncias diferentes. (veja **Salvaguardas**, abaixo).
+Cada um dos três **Atributos** é usado em circunstâncias diferentes. (veja **Salvamentos**, abaixo).
 
 - **Força (FOR)**: Usada para testes que exigem poder físico, como levantar portões, entortar barras, resistir a venenos, etc.
 - **Destreza (DES)**: Usada para testes que exigem postura, velocidade, reflexos, esquiva, escalada, furtividade, equilíbrio, etc.
 - **Vontade (VON)**: Usada para testes para persuadir, enganar, interrogar, intimidar, encantar, provocar, manipular magias, etc..
 
-## Salvaguardas
+## Salvamentos
 
-- Uma salvaguarda é uma rolagem para evitar consequências negativas derivadas de escolhas arriscadas. Os personagens rolam 1d20 e comparam o resultado com o atributo apropriado. Se o resultado for igual ou inferior ao atributo, eles têm sucesso; Caso contrário, falham. Um resultado **1** no dado é sempre um sucesso, e um **20** é sempre uma falha.
+- Um salvamento é uma rolagem para evitar consequências negativas derivadas de escolhas arriscadas. Os personagens rolam 1d20 e comparam o resultado com o atributo apropriado. Se o resultado for igual ou inferior ao atributo, eles têm sucesso; Caso contrário, falham. Um resultado **1** no dado é sempre um sucesso, e um **20** é sempre uma falha.
 - Se dois oponentes estiverem tentando superar um ao outro, aquele que estiver correndo mais risco deve fazer o teste.
 - Se dois personagens precisarem realizar uma ação juntos, quem estiver correndo mais risco deve fazer o teste (geralmente o personagem com o menor Atributo relevante).
 
@@ -31,7 +31,7 @@ Cada um dos três **Atributos** é usado em circunstâncias diferentes. (veja *
 ## Privação e Fadiga
 
 - Um PJ que necessita de algo crucial (como comida ou descanso) está **Privado**. Qualquer pessoa em ficar **Privado** por mais de um dia adiciona **Fadiga** ao seu inventário, uma para cada dia. Um PJ **Privado** não pode recuperar PG, Atributos ou espaços de inventário decorrentes da **Fadiga**.
-- Um PJ também pode ser forçado a adicionar **Fadiga** após conjurar magias ou devido a eventos que ocorrem na ficção. Cada Fadiga ocupa um espaço de inventário e dura até que o PJ consiga se recuperar (com uma noite inteira de descanso em um local seguro).
+- Um PJ também pode ser forçado a adicionar **Fadiga** após lançar feitiços ou devido a eventos que ocorrem na ficção. Cada Fadiga ocupa um espaço de inventário e dura até que o PJ consiga se recuperar (com uma noite inteira de descanso em um local seguro).
 - Se um personagem for forçado a adicionar **Fadiga** ao seu inventário, mas não tiver espaços livres, ele deverá remover um item do seu inventário.
 
 ## Armadura
@@ -81,7 +81,7 @@ Quando os PJs encontram um PNJ cuja reação ao grupo não é óbvia, o Guardiã
 
 ### Ações
 
-Em seu turno, um personagem pode se mover até 12 metros e realizar até uma ação. A ação pode ser conjurar uma magia, atacar, mover-se pela segunda vez ou outra ação razoável. A cada rodada, os PJs declaram o que farão antes das rolagens de dados. Se um personagem tentar algo arriscado, o Guardião solicita uma Salvaguarda para os jogadores ou PNJs envolvidos. 
+Em seu turno, um personagem pode se mover até 12 metros e realizar até uma ação. A ação pode ser lançar um feitiço, atacar, mover-se pela segunda vez ou outra ação razoável. A cada rodada, os PJs declaram o que farão antes das rolagens de dados. Se um personagem tentar algo arriscado, o Guardião solicita um Salvamento para os jogadores ou PNJs envolvidos. 
 
 ### Ataque & Dano
 
@@ -100,8 +100,8 @@ Em seu turno, um personagem pode se mover até 12 metros e realizar até uma aç
 
 ### Dano Crítico
 
-- Se um dano reduzir os PG de um alvo abaixo de zero, o restante do dano é subtraído _de sua FOR_. O alvo deve então fazer imediatamente uma salvaguarda de FOR para evitar sofrer **Dano Crítico**, este teste é feito usando seu _novo valor de FOR_. Em caso de sucesso, o alvo ainda está na luta (embora com FOR reduzida) e deve continuar fazendo estas salvaguardas de Dano Crítico sempre que sofrer mais dano.
-- Qualquer PJ que sofra Dano Crítico não pode fazer nada além de rastejar fracamente, agarrando-se à vida. Se recebere ajuda (como bandagens), ele ficará estabilizado. Se não recebere tratamento, morre dentro de uma hora. PNJs e monstros que falham em uma salvaguarda de Dano Crítico são, a critério do **Guardião**, considerados mortos. Além disso, alguns inimigos têm habilidades ou efeitos especiais que são ativados quando seu alvo falha em uma salvaguarda de dano crítico. 
+- Se um dano reduzir os PG de um alvo abaixo de zero, o restante do dano é subtraído _de sua FOR_. O alvo deve então fazer imediatamente um salvamento de FOR para evitar sofrer **Dano Crítico**, este teste é feito usando seu _novo valor de FOR_. Em caso de sucesso, o alvo ainda está na luta (embora com FOR reduzida) e deve continuar fazendo estes salvamentos de Dano Crítico sempre que sofrer mais dano.
+- Qualquer PJ que sofra Dano Crítico não pode fazer nada além de rastejar fracamente, agarrando-se à vida. Se recebere ajuda (como bandagens), ele ficará estabilizado. Se não recebere tratamento, morre dentro de uma hora. PNJs e monstros que falham em um salvamento de Dano Crítico são, a critério do **Guardião**, considerados mortos. Além disso, alguns inimigos têm habilidades ou efeitos especiais que são ativados quando seu alvo falha em um salvamento de dano crítico. 
 
 ### Perda de Atributo
 
@@ -119,7 +119,7 @@ Em seu turno, um personagem pode se mover até 12 metros e realizar até uma aç
 
 ### Retirada
 
-- Fugir de uma situação perigosa sempre exige uma salvaguarda bem-sucedida de DES, bem como um destino seguro para onde correr.
+- Fugir de uma situação perigosa sempre exige um salvamento bem-sucedida de DES, bem como um destino seguro para onde correr.
 
 ### Ataques a Distância
 
@@ -141,11 +141,11 @@ Se o dano a um PJ reduzir seus PG exatamente a 0, consulte o resultado na tabela
 | 5               | Doença: Você é afligido por uma infecção grotesca e desconfortável. Quando você se recuperar, role 2d6. Se o total for maior que seus PG máximos, adote o novo resultado.                                                                                     |
 | 6               | Ferimento Desorientador na Cabeça: Role 1d6. 1–2: FOR, 3–4: DES, 5–6: VON. Role 3d6: Se o total for maior que seu atributo atual, use o novo resultado.                                                                                                       |
 | 7               | Tendão Partido: Você mal consegue se mover até receber ajuda médica e descanso. Após se recuperar, role 3d6. Se o total for maior que sua DES máxima, use o novo resultado.                                                                                   |
-| 8               | Ensurdecido: Você não pode ouvir nada até encontrar ajuda extraordinária. De qualquer forma, faça uma salvaguarda de VON. Se passar, aumente sua VON máxima em 1d4.                                                                                           |
+| 8               | Ensurdecido: Você não pode ouvir nada até encontrar ajuda extraordinária. De qualquer forma, faça um Salvamento de VON. Se passar, aumente sua VON máxima em 1d4.                                                                                           |
 | 9               | Reconfiguração Mental: Alguma parte oculta da sua psique é deslocada. Role 3d6: Se o total for maior que sua VON máxima, use o novo resultado.                                                                                                                |
-| 10              | Membro Estropiado: Um membro é arrancado, inutilizado ou aleijado. (O Guardião lhe dirá qual.) Então faça uma Salvaguarda de VON. Se passar, aumente sua VON máxima em 1d6.                                                                                   |
+| 10              | Membro Estropiado: Um membro é arrancado, inutilizado ou aleijado. (O Guardião lhe dirá qual.) Então faça um Salvamento de VON. Se passar, aumente sua VON máxima em 1d6.                                                                                   |
 | 11              | Ferimento Mortal: Você está privado e fora de ação. Você morre em uma hora a menos que seja curado. Após se recuperar, role 2d6. Considere o novo resultado como seus PG máximo.                                                                              |
-| 12              | Condenado: A morte esteve perigosamente próxima, mas de alguma forma você sobreviveu. Se sua próxima Salvaguarda de dano crítico falhar, você terá uma morte horrível. Se passar, role 3d6. Se o total for maior que seus PG máximos, adote o novo resultado. |
+| 12              | Condenado: A morte esteve perigosamente próxima, mas de alguma forma você sobreviveu. Se seu próximo Salvamento de dano crítico falhar, você terá uma morte horrível. Se passar, role 3d6. Se o total for maior que seus PG máximos, adote o novo resultado. |
 
 ## Magia
 
@@ -157,9 +157,9 @@ Se o dano a um PJ reduzir seus PG exatamente a 0, consulte o resultado na tabela
 
 ### Conjuração de Magias
 
-- Qualquer pessoa pode conjurar uma magia segurando um grimório com as duas mãos e lendo seu conteúdo em voz alta.  Depois disso, deve adicionar **Fadiga** ao inventário. 
-- Com tempo e segurança, os personagens podem _aprimorar_ (e ter Vantagem) o efeito de uma magia (ex.: atingir múltiplos alvos, aumentar seu poder etc.) sem custo adicional. 
-- Se o personagem estiverem _Privados_ ou em perigo (como em combate), o Guardião pode exigir uma salvaguarda de VON para evitar efeitos colaterais ao conjurar. As consequências da falha são proporcionais ao efeito pretendido e podem incluir Fadiga adicional, destruição do grimório, ferimentos ou até morte.
+- Qualquer pessoa pode lançar um feitiço segurando um grimório com as duas mãos e lendo seu conteúdo em voz alta.  Depois disso, deve adicionar **Fadiga** ao inventário. 
+- Com tempo e segurança, os personagens podem _aprimorar_ (e ter Vantagem) o efeito de um feitiço (ex.: atingir múltiplos alvos, aumentar seu poder etc.) sem custo adicional. 
+- Se o personagem estiverem _Privados_ ou em perigo (como em combate), o Guardião pode exigir um salvamento de VON para evitar efeitos colaterais ao lançar feitiços. As consequências da falha são proporcionais ao efeito pretendido e podem incluir Fadiga adicional, destruição do grimório, ferimentos ou até morte.
 
 ### Pergaminhos
 

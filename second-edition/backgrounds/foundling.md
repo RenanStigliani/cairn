@@ -40,7 +40,7 @@ O que mantém os maus presságios afastados? Role 1d6:
 | 1d6   | Item                 | Descrição                                                                                                                                                       |
 | ----- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Erva-de-Cachimbo** | Seu amuleto da sorte. Conversas tendem a fluir melhor após uma fumaça. 6 usos.                                                                                  |
-| **2** | **Jarra Fétida**     | Ao ser quebrada, libera um odor tão nauseante que todos por perto devem passar em uma Salvaguarda de FOR ou vomitam imediatamente. 1 uso.                       |
+| **2** | **Jarra Fétida**     | Ao ser quebrada, libera um odor tão nauseante que todos por perto devem passar em um salvamento de FOR ou vomitam imediatamente. 1 uso.                         |
 | **3** | **Verme de Hera**    | Um verme verde muitas vezes confundido com erva daninha. Se engolido inteiro, absorve qualquer toxina ou podridão no corpo antes de sair pelo caminho habitual. |
 | **4** | **Pedra dos Sonhos** | Uma pedra azul lisa que ajuda a recordar sonhos com mais clareza. O uso excessivo pode causar vício onírico.                                                    |
 | **5** | **Vara Inundante**   | Um graveto do tamanho de um dedo que dobra de tamanho toda vez que é completamente submerso em água. Ele não volta a encolher.                                  |

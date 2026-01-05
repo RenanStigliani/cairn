@@ -1,33 +1,33 @@
 ---
 layout: default
-title: Salvaguardas
+title: Salvamento
 parent: Guia do Diretor 
 grand_parent: Segunda Edição
 ---
 
-# Salvaguardas
+# Salvamentos
 
 ## Visão Geral
 
-## Quando Fazer uma Salvaguarda
+## Quando Fazer um Salvamento
 
-Existem três cenários comuns nos quais um personagem jogador deve fazer uma salvaguarda:
+Existem três cenários comuns nos quais um personagem jogador deve fazer um salvamento:
 - Ao evitar o resultado negativo de uma ação arriscada.
 - Ao agir em oposição a outro personagem jogador, PNJ ou criatura.
 - Ao ajudar um ou mais personagens em uma ação arriscada.
 
-## Princípios de Salvaguarda
+## Princípios de Salvamento
 
-- Na dúvida, pergunte se o grupo tem tempo, recursos, habilidades ou vantagem para superar um problema. Se a resposta for "não", então uma salvaguarda geralmente é justificada. Se a resposta for "não sei", então uma rolagem com o Dado do Destino pode ser necessária.
+- Na dúvida, pergunte se o grupo tem tempo, recursos, habilidades ou vantagem para superar um problema. Se a resposta for "não", então um salvamento geralmente é justificada. Se a resposta for "não sei", então uma rolagem com o Dado de Sorte pode ser necessária.
 - Sinta-se à vontade para dizer "não", mas lembre-se de oferecer uma alternativa. Se o grupo não puder prosseguir devido a circunstâncias além de seu controle, dê-lhes outra opção para considerar.
 - A morte do personagem nunca deve vir como uma surpresa. Se o risco for tão grande que o resultado pode ser fatal, certifique-se de que o jogador entende no que está se metendo.
 - Sempre forneça várias opções viáveis para os PJs escolherem. Quanto mais escolhas, mais interessante a situação se torna.
-- O resultado de uma salvaguarda não precisa ser um binário simples. Você pode ajustar os resultados com base na totalidade das contribuições: o esforço, a premeditação, os recursos e a habilidade que entraram na rolagem.
+- O resultado de um salvamento não precisa ser um binário simples. Você pode ajustar os resultados com base na totalidade das contribuições: o esforço, a premeditação, os recursos e a habilidade que entraram na rolagem.
 - Seja transparente com os jogadores. Isso não significa revelar todos os segredos do mundo, mas forneça a cada jogador o máximo de informações que seu personagem possa ter.
 - Evite exigir uma rolagem de dados sempre que possível. Se um PJ puder resolver um problema usando componentes puramente narrativos, _não peça uma rolagem_.
 - Substitua várias rolagens de dados por um único lançamento de dados. Simplificar os resultados para uma única rolagem pode aumentar a tensão enquanto maximiza a contribuição do jogador.
 
-## Salvaguardas Tradicionais
+## Salvamentos Tradicionais
 
 ### Força
 
@@ -37,7 +37,7 @@ Existem três cenários comuns nos quais um personagem jogador deve fazer uma sa
 
 **Freya**: _"Desculpe, não consigo te ouvir com os latidos e rosnados!"_
 
-**Facilitador**: _"De repente, o guarda para e assobia, chamando seu animal de volta. Ele então puxa uma alavanca atrás dele, e um som alto de grade começa a emanar do outro lado do corredor para o Leste. Então vocês veem o que ele fez: um grosso portão de ferro está descendo do teto. Se fechar, vocês ficarão trancados nesta seção da prisão! Wolfram, você provavelmente consegue passar sem nenhum risco. Lucius e Freya precisarão, cada um, fazer salvaguardas de DES para conseguir."_
+**Facilitador**: _"De repente, o guarda para e assobia, chamando seu animal de volta. Ele então puxa uma alavanca atrás dele, e um som alto de grade começa a emanar do outro lado do corredor para o Leste. Então vocês veem o que ele fez: um grosso portão de ferro está descendo do teto. Se fechar, vocês ficarão trancados nesta seção da prisão! Wolfram, você provavelmente consegue passar sem nenhum risco. Lucius e Freya precisarão, cada um, fazer um salvamento de DES para conseguir."_
 
 **Wolfram**: _"Vou parar e segurar o portão pelo tempo que puder. O que eu arrisco?"_
 
@@ -63,7 +63,7 @@ Existem três cenários comuns nos quais um personagem jogador deve fazer uma sa
 
 **Freya**: _"Droga. Bem, não há hora como o presente, certo? Vou voltar sorrateiramente pelo caminho que vim."_
 
-**Facilitador**: _"Tudo bem, mas quando você passou mais cedo não havia ninguém aqui. Esse não é mais o caso! Você precisará fazer uma salvaguarda de DES para evitar ser detectada."_
+**Facilitador**: _"Tudo bem, mas quando você passou mais cedo não havia ninguém aqui. Esse não é mais o caso! Você precisará fazer um salvamento de DES para evitar ser detectada."_
 
 > Freya rola um 16: uma falha!
 
@@ -77,7 +77,7 @@ Existem três cenários comuns nos quais um personagem jogador deve fazer uma sa
 
 **Wolfram**: _"Uma pena sobre o Lucius. Mas temos que entregar nosso cliente ao cofre imediatamente. Podemos resgatá-lo depois."_
 
-**Freya**: _"Eu NÃO vou deixá-lo para trás. Você ainda deve ir, mas eu vou tirá-lo de lá. Eu sou uma batedora de carteiras, então tenho amigos em todos os lugares, certo? Ou talvez haja algum tipo de gíria de ladrões que eu possa usar para fazer conexões aqui?"_
+**Freya**: _"Eu NÃO vou deixá-lo para trás. Você ainda deve ir, mas eu vou tirá-lo de lá. Eu sou uma Corta-Bolsas, então tenho amigos em todos os lugares, certo? Ou talvez haja algum tipo de gíria de ladrões que eu possa usar para fazer conexões aqui?"_
 
 **Facilitador**: _"De fato. Você pode passar a noite tentando fazer conexões entre os seus, se quiser."_
 
@@ -109,33 +109,33 @@ Existem três cenários comuns nos quais um personagem jogador deve fazer uma sa
 
 **Facilitador**: _"O carcereiro sai enquanto você se senta. A sala é pequena, com apenas uma porta do outro lado da mulher. Um homem muito grande está do lado de fora, sua cabeça visível através de uma pequena janela na porta. A mulher sorri novamente, dizendo: 'Bem-vindo Sr... Bem, não importa. Há apenas uma razão para você estar aqui. Você falou um código conhecido apenas por ladrões e patifes. E qual deles é você, eu me pergunto?"_
 
-**Lucius**: _"O que acontece agora? Não tenho nada para negociar... Exceto talvez a verdade? Mas isso significa que tenho que fazer uma salvaguarda de VON, certo? Para que eu pareça 'convincente'?"_
+**Lucius**: _"O que acontece agora? Não tenho nada para negociar... Exceto talvez a verdade? Mas isso significa que tenho que fazer um salvamento de VON, certo? Para que eu pareça 'convincente'?"_
 
-**Facilitador**: _"Você precisaria fazer uma salvaguarda de VON mesmo se não estivesse dizendo a verdade. Você é definitivamente o que está mais em risco aqui e, apesar de sua experiência como Montebanco, você acha que ela provavelmente consegue ver através de qualquer mentira. Ela e você podem não ser tão diferentes."_
+**Facilitador**: _"Você precisaria fazer um salvamento de VON mesmo se não estivesse dizendo a verdade. Você é definitivamente o que está mais em risco aqui e, apesar de sua experiência como Montebanco, você acha que ela provavelmente consegue ver através de qualquer mentira. Ela e você podem não ser tão diferentes."_
 
-**Lucius**: _"OK. Madame: serei franco com você. Meus amigos e eu estamos aqui para entrar furtivamente no cofre de Der Thunn. Só soube dessa frase alguns minutos atrás. Acredito que um dos meus amigos (uma batedora de carteiras chamada Freya, você pode conhecê-la) me deixou aquele bilhete. Se você me libertar, com certeza mencionarei... qual é seu nome mesmo?"_
+**Lucius**: _"OK. Madame: serei franco com você. Meus amigos e eu estamos aqui para entrar furtivamente no cofre de Der Thunn. Só soube dessa frase alguns minutos atrás. Acredito que um dos meus amigos (uma corta-bolsas chamada Freya, você pode conhecê-la) me deixou aquele bilhete. Se você me libertar, com certeza mencionarei... qual é seu nome mesmo?"_
 
 **Facilitador**: _"Katja. E, por favor, me conte tudo."_
 
-> Lucius descreve o plano do grupo e seus esforços até agora. Ele faz uma salvaguarda de VON. Ele rola um 5, um sucesso! Katja está convencida de sua sinceridade.
+> Lucius descreve o plano do grupo e seus esforços até agora. Ele faz um salvamento de VON. Ele rola um 5, um sucesso! Katja está convencida de sua sinceridade.
 
 **Facilitador** _"Enquanto ouve sua história, Katja franze a testa, depois finalmente sorri. 'Tudo bem, tudo bem, eu acredito em você. Vamos fazer um acordo! Você me apresenta a esse seu "cliente" que você gentilmente escoltou para minha cidade, e eu me certificarei de que ninguém esteja olhando enquanto você escapa. Mas temos que ir agora mesmo, antes que este lugar imploda. E se isso acontecer, nem eu posso garantir sua segurança...'"_
 
 > Uma hora depois, Lucius encontra Freya, mas não os outros. Ela explica que Wolfram e seu cliente já partiram para o cofre. Ela concorda em levá-los até lá, mas diz que precisa fazer uma parada rápida primeiro. Algo sobre recuperar uma de suas adagas...
 
-## Salvaguardas Opostas
+## Salvamentos Opostos
 
-> O grupo encurralou seus oponentes (dois Bandidos e seu chefe Hobgoblin) contra um penhasco íngreme. Lucius e Wolfram conseguem agir imediatamente, mas Freya falhou em sua salvaguarda inicial de DES e tem que agir depois de seus oponentes. Enquanto seus amigos enfrentam cada um de seus inimigos menores, ela evita por pouco ter sua cabeça esmagada pelo Hobgoblin!
+> O grupo encurralou seus oponentes (dois Bandidos e seu chefe Hobgoblin) contra um penhasco íngreme. Lucius e Wolfram conseguem agir imediatamente, mas Freya falhou em seu salvamento inicial de DES e tem que agir depois de seus oponentes. Enquanto seus amigos enfrentam cada um de seus inimigos menores, ela evita por pouco ter sua cabeça esmagada pelo Hobgoblin!
 
 **Freya**: _"Não acho que consigo sobreviver a outro combate com o líder deles, então vou tentar empurrá-lo do penhasco!"_
 
-**Facilitador**: _"Você está mais em risco nesta situação, o que significa que se tentar empurrá-lo, precisará fazer a salvaguarda apropriada!"_
+**Facilitador**: _"Você está mais em risco nesta situação, o que significa que se tentar empurrá-lo, precisará fazer um salvamento apropriada!"_
 
 **Freya**: _"E se eu falhar, eu caio do penhasco, certo? Tudo bem... Acho que consigo fazer isso. Mas só por precaução, vou me certificar de que estou usando meu Anel de Gato!"_
 
-> Freya rola uma salvaguarda de FOR para tentar agarrar o Hobgoblin e jogá-lo do penhasco. Ela rola um 17, uma falha!
+> Freya rola um salvamento de FOR para tentar agarrar o Hobgoblin e jogá-lo do penhasco. Ela rola um 17, uma falha!
 
-**Facilitador**: _"O líder deles pega você e a arremessa para trás, enviando-a precipício abaixo. Felizmente, o Anel de Gato ativa sua última carga, e você consegue graciosamente pegar um galho de árvore projetando-se da encosta da montanha 3 metros abaixo. Levará dois turnos para subir de volta, ou você precisará fazer uma salvaguarda de DES para fazê-lo rapidamente."_
+**Facilitador**: _"O líder deles pega você e a arremessa para trás, enviando-a precipício abaixo. Felizmente, o Anel de Gato ativa sua última carga, e você consegue graciosamente pegar um galho de árvore projetando-se da encosta da montanha 3 metros abaixo. Levará dois turnos para subir de volta, ou você precisará fazer um salvamento de DES para fazê-lo rapidamente."_
 
 **Freya**: _"Droga. Bem, espero que meus camaradas se saiam bem o suficiente sem mim até eu voltar..."_
 
@@ -155,11 +155,11 @@ Existem três cenários comuns nos quais um personagem jogador deve fazer uma sa
 
 **Wolfram**: _"Se corrermos para o lado oposto, parece que conseguimos chegar em segurança?"_
 
-**Facilitador**: _"Você e Lucius estão mais à frente e provavelmente com menos risco. Mas Freya é a última e precisará fazer uma salvaguarda de DES para chegar lá em segurança."_
+**Facilitador**: _"Você e Lucius estão mais à frente e provavelmente com menos risco. Mas Freya é a última e precisará fazer um salvamento de DES para chegar lá em segurança."_
 
 **Freya**: _"Você tinha que tomar a frente, não tinha, Wolfie? Tenho uma corda. Tenho tempo de jogá-la para um dos outros?"_
 
-**Facilitador**: _"Sim, você pode fazer isso. Wolfram está com as mãos ocupadas, então Lucius é sua melhor aposta. Você pode facilmente jogar uma corda para ele, mas uma salvaguarda de FOR será necessária. Como você estará mais em risco, você precisará fazer a salvaguarda."_
+**Facilitador**: _"Sim, você pode fazer isso. Wolfram está com as mãos ocupadas, então Lucius é sua melhor aposta. Você pode facilmente jogar uma corda para ele, mas um salvamento de FOR será necessária. Como você estará mais em risco, você precisará fazer um salvamento."_
 
 **Freya**: _"Um amigo e uma corda ainda parece um bom negócio para mim. Vamos nessa!"_
 

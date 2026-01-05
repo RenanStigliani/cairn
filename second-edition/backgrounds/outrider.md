@@ -11,7 +11,7 @@ grand_parent: Segunda Edição
 
 ## Nomes
 
-Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
+Draco, Kyra, Keir, Darius, Valen, Rodriko, Yara, Rui, Talão, Jory
 
 ## Equipamento Inicial
 
@@ -39,9 +39,9 @@ Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 
 |       |                           |                                                                                                                                           |
 | ----- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Destcel Pesado**        | Uma besta construída para a guerra, uma criatura imponente. 8 PV, 1 Armadura, cascos (d10+d10), +2 espaços.                               |
-| **2** | **Dândi de Patas Negras** | Resistente e adaptável. Terreno **Difícil** ou **Perigoso** é um passo mais fácil. 6 PV. +4 espaços.                                      |
-| **3** | **Dente-de-Rio**          | Impressionantemente forte, capaz de carregar cargas pesadas. 4 PV. +6 espaços (apenas +2 espaços se carregar duas pessoas).               |
-| **4** | **Cob Malhado**           | Inteligente, pode entender comandos simples e até tem instinto para o perigo. 6 PV. +4 espaços.                                           |
-| **5** | **Branco Tília**          | Altamente treinado e ágil, pode realizar manobras intrincadas em momentos de necessidade (sem teste de DES para fugir). 4 PV. +3 espaços. |
-| **6** | **Nevoeiro Errante**      | Selvagem, mas muito rápido (mesmo em terreno **Difícil**). Viaja leve. 4 PV. +2 espaços.                                                  |
+| **1** | **Destcel Pesado**        | Uma besta construída para a guerra, uma criatura imponente. 8 PG, 1 Armadura, cascos (d10+d10), +2 espaços.                               |
+| **2** | **Dândi de Patas Negras** | Resistente e adaptável. Terreno **Difícil** ou **Perigoso** é um passo mais fácil. 6 PG. +4 espaços.                                      |
+| **3** | **Dente-de-Rio**          | Impressionantemente forte, capaz de carregar cargas pesadas. 4 PG. +6 espaços (apenas +2 espaços se carregar duas pessoas).               |
+| **4** | **Cob Malhado**           | Inteligente, pode entender comandos simples e até tem instinto para o perigo. 6 PG. +4 espaços.                                           |
+| **5** | **Branco Tília**          | Altamente treinado e ágil, pode realizar manobras intrincadas em momentos de necessidade (sem teste de DES para fugir). 4 PG. +3 espaços. |
+| **6** | **Nevoeiro Errante**      | Selvagem, mas muito rápido (mesmo em terreno **Difícil**). Viaja leve. 4 PG. +2 espaços.                                                  |
