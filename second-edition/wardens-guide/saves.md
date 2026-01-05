@@ -111,7 +111,7 @@ Existem três cenários comuns nos quais um personagem jogador deve fazer uma sa
 
 **Lucius**: _"O que acontece agora? Não tenho nada para negociar... Exceto talvez a verdade? Mas isso significa que tenho que fazer uma salvaguarda de VON, certo? Para que eu pareça 'convincente'?"_
 
-**Facilitador**: _"Você precisaria fazer uma salvaguarda de VON mesmo se não estivesse dizendo a verdade. Você é definitivamente o que está mais em risco aqui e, apesar de sua experiência como charlatão, você acha que ela provavelmente consegue ver através de qualquer mentira. Ela e você podem não ser tão diferentes."_
+**Facilitador**: _"Você precisaria fazer uma salvaguarda de VON mesmo se não estivesse dizendo a verdade. Você é definitivamente o que está mais em risco aqui e, apesar de sua experiência como Montebanco, você acha que ela provavelmente consegue ver através de qualquer mentira. Ela e você podem não ser tão diferentes."_
 
 **Lucius**: _"OK. Madame: serei franco com você. Meus amigos e eu estamos aqui para entrar furtivamente no cofre de Der Thunn. Só soube dessa frase alguns minutos atrás. Acredito que um dos meus amigos (uma batedora de carteiras chamada Freya, você pode conhecê-la) me deixou aquele bilhete. Se você me libertar, com certeza mencionarei... qual é seu nome mesmo?"_
 

@@ -23,11 +23,11 @@ nav_order: 1
 | **3**   | [Domador de Feras](../backgrounds/beast-handler.md)    | **13**  | [Trovador](../backgrounds/jongleur.md)                   |
 | **4**   | [Guardião dos Ossos](../backgrounds/bonekeeper.md)     | **14**  | [Caldeireiro](../backgrounds/kettlewright.md)            |
 | **5**   | [Corta-Bolsas](../backgrounds/cutpurse.md)             | **15**  | [Patrulheiro de Fronteira](../backgrounds/marchguard.md) |
-| **6**   | [Guarda-Campo](../backgrounds/fieldwarden.md)          | **16**  | [Charlatão](../backgrounds/mountebank.md)                |
+| **6**   | [Guarda-Campo](../backgrounds/fieldwarden.md)          | **16**  | [Montebanco](../backgrounds/mountebank.md)              |
 | **7**   | [Flecheiro dos Ventos](../backgrounds/fletchwind.md)   | **17**  | [Batedor Montado](../backgrounds/outrider.md)            |
 | **8**   | [Enjeitado](../backgrounds/foundling.md)               | **18**  | [Vigilante](../backgrounds/prowler.md)                   |
 | **9**   | [Coletor de Fungos](../backgrounds/fungal-forager.md)  | **19**  | [Corredor do Riacho](../backgrounds/rill-runner.md)      |
-| **10**  | [Verdessábio](../backgrounds/greenwise.md)            | **20**  | [Escriba](../backgrounds/scrivener.md)                   |
+| **10**  | [Verdessábio](../backgrounds/greenwise.md)            | **20**  | [Escriba](../backgrounds/scrivener.md)                    |
 
 ## Atributos, Proteção contra Golpes e Características 
 

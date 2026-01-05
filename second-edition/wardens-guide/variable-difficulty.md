@@ -94,7 +94,7 @@ Em Cairn, os jogadores são encorajados a superar problemas fazendo perguntas, p
 
 **Facilitador**: _"Os dois homens trocam olhares mais uma vez, mas desta vez o outro homem responde, sorrindo presunçoso. 'Bem... talvez só desta vez. O Sol ainda não se pôs de verdade. E estamos com bastante sede, afinal.'"_
 
-> O Facilitador tomou uma decisão com base no que se sabia sobre esses homens: eles eram guardas de vila simples, estavam trabalhando um longo dia e adoram cerveja. Talvez com outro personagem isso não tivesse funcionado, mas Lucius é um Saltimbanco, e sua capacidade de ganhar a confiança de seus alvos foi bem estabelecida. Os guardas o deixam entrar.
+> O Facilitador tomou uma decisão com base no que se sabia sobre esses homens: eles eram guardas de vila simples, estavam trabalhando um longo dia e adoram cerveja. Talvez com outro personagem isso não tivesse funcionado, mas Lucius é um Montebanco, e sua capacidade de ganhar a confiança de seus alvos foi bem estabelecida. Os guardas o deixam entrar.
 
 ### Maior Risco Por Maior Recompensa
 

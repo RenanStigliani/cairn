@@ -1,11 +1,11 @@
 ---
-title: Charlatão
+title: Montebanco
 layout: default
 parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 
-# Charlatão
+# Montebanco
 
 > A astúcia é sua arma mais afiada, uma fachada seu escudo mais forte. Mas quando você perde, você perde feio.
 
