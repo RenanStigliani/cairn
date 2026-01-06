@@ -12,25 +12,25 @@ nav_order: 3
 
 ## Armadura
 
-| Armadura                             | PO  |
-| ------------------------------------ | --- |
-| Escudo (+1 Armadura)                 | 10  |
-| Elmo (+1 Armadura)                   | 10  |
-| Jaquetão (+1 Armadura)               | 15  |
-| Brigantina (1 Armadura, volumoso)    | 20  |
-| Cota de Malha (2 Armadura, volumoso) | 40  |
-| Placas (3 Armadura, volumoso)        | 60  |
+| Armadura                               | PO  |
+| -------------------------------------- | --- |
+| Escudo (+1 Armadura)                   | 10  |
+| Elmo (+1 Armadura)                     | 10  |
+| Jaquetão (+1 Armadura)                 | 15  |
+| Brigantina (1 Armadura, _volumoso_)    | 20  |
+| Cota de Malha (2 Armadura, _volumoso_) | 40  |
+| Placas (3 Armadura, _volumoso_)        | 60  |
 
 ## Armas
 
-| Arma                                                                   | PO  |
-| ---------------------------------------------------------------------- | --- |
-| Adaga, Porrete, Foice, Cajado, etc. (d6  dano)                         | 5   |
-| Lança, Espada, Maça, Machado, Mangual, etc. (d8 dano)                  | 10  |
-| Alabarda, Martelo de Guerra, Espada Grande , etc. (d10 dano, volumoso) | 20  |
-| Estilingue (d4 dano)                                                   | 5   |
-| Arco Longo (d6 dano, volumoso)                                         | 20  |
-| Besta (d8 dano, volumoso)                                              | 30  |
+| Arma                                                                     | PO  |
+| ------------------------------------------------------------------------ | --- |
+| Adaga, Porrete, Foice, Cajado, etc. (d6  dano)                           | 5   |
+| Lança, Espada, Maça, Machado, Mangual, etc. (d8 dano)                    | 10  |
+| Alabarda, Martelo de Guerra, Espada Grande , etc. (d10 dano, _volumoso_) | 20  |
+| Estilingue (d4 dano)                                                     | 5   |
+| Arco Longo (d6 dano, _volumoso_)                                         | 20  |
+| Besta (d8 dano, _volumoso_)                                              | 30  |
 
 ## Transporte
 
