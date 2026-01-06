@@ -121,7 +121,7 @@ Os jogadores confiam uns nos outros para se envolver com o cenário compartilhad
 ### Tesouro
 
 - Um Tesouro é específico do ambiente de onde foi retirado. Ele conta uma história.
-- Tesouro é altamente valioso, quase sempre volumoso e raramente tem alguama utilidade para além de seu valor e prestígio.
+- Tesouro é altamente valioso, quase sempre volumoso e raramente tem alguma utilidade para além de seu valor e prestígio.
 - Relíquias não são Tesouros, embora sejam úteis e interessantes.
 - Use Tesouro como isca para locais exóticos sob a proteção de inimigos intimidadores.
 
