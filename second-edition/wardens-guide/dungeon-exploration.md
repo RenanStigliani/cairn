@@ -80,7 +80,7 @@ Um pátio amplo exposto ao **ar livre**. O **chão** é arenoso e áspero. **Ent
 
 **Freya**: _"Eu investigo mais a fundo, é claro!"_
 
-**Facilitador**: _"Você olha mais de perto e avista uma joia vermelha presa em um grande punho de pedra. Parece valiosa, pelo menos 75po. Também parece grande o suficiente para ocupar um espaço inteiro no inventário!"_
+**Facilitador**: _"Você olha mais de perto e avista uma joia vermelha presa em um grande punho de pedra. Parece valiosa, pelo menos 75po. Também parece grande o suficiente para ocupar um espaço inteiro de inventário!"_
 
 **Freya**: _"Eu quero ela. Consigo desenterrá-la facilmente?"_
 
