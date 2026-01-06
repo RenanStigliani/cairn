@@ -55,7 +55,7 @@ nav_order: 1
 ### Espaços de Inventário
 
 - A maioria dos itens ocupa um espaço, exceto se indicado ao contrário.
-- _Miudezas_ não ocupam espaço. Itens _Volumosos_ ocupam **dois** espaços. 
+- _Miudezas_ não ocupam espaço. Itens _volumosos_ ocupam **dois** espaços. 
 - Um saco de moedas com valor inferior a 100 PO é considerado _miudeza_ e não ocupa espaço.
 
 ## Características de Personagem (d10)
