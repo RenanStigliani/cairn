@@ -10,7 +10,7 @@ nav_order: 2
 
 ## Atributos
 
-Cada um dos três **Atributos** é usado em circunstâncias diferentes. (veja **Salvamentos**, abaixo).
+Cada um dos três **Atributos** é usado em circunstâncias diferentes. (Veja **Salvamentos**, abaixo).
 
 - **Força (FOR)**: Usada para testes que exigem poder físico, como levantar portões, entortar barras, resistir a venenos, etc.
 - **Destreza (DES)**: Usada para testes que exigem postura, velocidade, reflexos, esquiva, escalada, furtividade, equilíbrio, etc.
@@ -51,7 +51,7 @@ Quando os PJs encontram um PNJ cuja reação ao grupo não é óbvia, o Guardiã
 
 ## Moral
 
-- Os inimigos devem passar por um teste de VON para evitar fugir quando sofrerem a primeira baixa e novamente quando perderem metade dos membros de seu grupo. 
+- Os inimigos devem passar por um teste de VON para evitar fugir quando sofrerem a primeira baixa e novamente quando perderem metade de seus números. 
 - Alguns grupos podem usar a VON do seu líder no lugar de sua própria. Inimigos solitários devem realizar um salvamento quando forem reduzidos a 0 PG. 
 - A moral não afeta os PJs.
 
@@ -63,7 +63,7 @@ Quando os PJs encontram um PNJ cuja reação ao grupo não é óbvia, o Guardiã
 - Alternativamente, escolha um [**antecedente**](character-creation.md#Antecedentes) e um **nome** apropriados no guia de [Criação de Personagem](character-creation.md).
  Role (ou escolha entre) as tabelas para o antecedente escolhido. Depois role para Rações, Peças de Ouro, Atributos, PG e idade. 
 
-## Dado de Sorte  
+## Dado de Sorte
 
 - Como alternativa, role 1d6 sempre que o resultado de um evento for incerto ou para simular um elemento de aleatoriedade e acaso.
 - Um resultado de 4 ou mais geralmente favorece os PJs, enquanto um resultado de 3 ou menos geralmente significa azar para eles.
@@ -72,12 +72,11 @@ Quando os PJs encontram um PNJ cuja reação ao grupo não é óbvia, o Guardiã
 
 ### Rodadas
 
-- Uma **Rodada** dura aproximadamente 10 segundos de jogo e prossegue com cada lado agindo na sua vez. Cada rodada começa com qualquer PJ capaz de agir, seguido por seus oponentes. _O resultado das ações de cada lado ocorre simultaneamente_.
+- Uma **Rodada** dura aproximadamente 10 segundos dentro do jogo e continua com cada lado agindo na sua vez. Cada rodada começa com qualquer PJ capaz de agir, seguido por seus oponentes. _O resultado das ações de cada lado ocorre simultaneamente_.
  
-- Durante o *primeiro turno de combate*, cada PJ deve fazer um teste de DES para poder agir.
- Circunstâncias especiais, habilidades, itens ou perícias podem anular essa exigência. PJs que falharem no teste *perdem seu turno* nesta rodada.
+- Durante a *primeira rodada de combate*, cada PJ deve fazer um teste de DES para poder agir. Circunstâncias especiais, habilidades, itens ou perícias podem anular essa exigência. PJs que falharem no teste *perdem seu turno* nesta rodada.
 
-- Em seguida será a vez dos oponentes, e a primeira rodada terminará. A próxima rodada começa com os PJs agindo, seguidos por seus oponentes, e assim por diante, até que o combate termine com um dos lados derrotado ou em fuga.
+- Em seguida será a vez dos oponentes, e a primeira rodada termina. A próxima rodada começa com os PJs agindo, seguidos por seus oponentes, e assim por diante, até que o combate termine com um dos lados derrotado ou em fuga.
 
 ### Ações
 
