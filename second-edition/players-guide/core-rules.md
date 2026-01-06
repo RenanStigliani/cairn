@@ -100,7 +100,7 @@ Em seu turno, um personagem pode se mover até 12 metros e realizar até uma aç
 ### Dano Crítico
 
 - Se um dano reduzir os PG de um alvo abaixo de zero, o restante do dano é subtraído _de sua FOR_. O alvo deve então fazer imediatamente um salvamento de FOR para evitar sofrer **Dano Crítico**, este teste é feito usando seu _novo valor de FOR_. Em caso de sucesso, o alvo ainda está na luta (embora com FOR reduzida) e deve continuar fazendo estes salvamentos de Dano Crítico sempre que sofrer mais dano.
-- Qualquer PJ que sofra Dano Crítico não pode fazer nada além de rastejar fracamente, agarrando-se à vida. Se recebere ajuda (como bandagens), ele ficará estabilizado. Se não recebere tratamento, morre dentro de uma hora. PNJs e monstros que falham em um salvamento de Dano Crítico são, a critério do **Guardião**, considerados mortos. Além disso, alguns inimigos têm habilidades ou efeitos especiais que são ativados quando seu alvo falha em um salvamento de dano crítico. 
+- Qualquer PJ que sofra Dano Crítico não pode fazer nada além de rastejar fracamente, agarrando-se à vida. Se receber ajuda (como bandagens), ele ficará estabilizado. Se não receber tratamento, morre dentro de uma hora. PNJs e monstros que falham em um salvamento de Dano Crítico são, a critério do **Guardião**, considerados mortos. Além disso, alguns inimigos têm habilidades ou efeitos especiais que são ativados quando seu alvo falha em um salvamento de dano crítico. 
 
 ### Perda de Atributo
 
