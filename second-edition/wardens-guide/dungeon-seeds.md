@@ -482,7 +482,7 @@ Um Basilisco dorme em um ninho construído sobre uma laje de **parede** no lado 
 10 PG, 1 Armadura, 12 FOR, 13 DES, 13 VON, mordida (d10)
 
 - Lagartos longos e serpentinos que fazem ninhos nas profundezas da terra ou em silvas logo abaixo dos pés.
-- Lutar contra um **Basilisco** sem encontrar seu olhar é difícil (ataques voltados para ele são _prejudicados_).
+- Lutar contra um **Basilisco** sem encontrar seu olhar é difícil (qualquer ataque voltado para ele é _prejudicado_).
 - **Olhar**: Um alvo encarando o Basilisco é lentamente petrificado, de baixo para cima, completamente congelado após três rodadas. Um antídoto pode ser preparado a partir das moelas do Basilisco. O reflexo da criatura é inofensivo.
 
 ### 4 - Cozinha
@@ -520,7 +520,7 @@ Estantes envolvem cada centímetro de parede, suas **prateleiras** empoeiradas e
   - A porta perto do corredor SO contém a estátua quebrada de uma figura de manto (veja Basilisco, **3**).
 - **Movimento**: Soldados de manto engajados em combate corpo a corpo com oponentes invisíveis.
   - Há sempre pelo menos 3 membros de qualquer Facção engajados em escaramuças aqui. Eles geralmente atacarão quaisquer formas que tentem atravessar a sala, mas são facilmente confundidos pela fumaça.
-  - Devido à fumaça, todos os ataques dentro da sala são _prejudicados_.
+  - Devido à fumaça, qualquer ataque dentro da sala é _prejudicado_.
 - **Chão**: Partido quando o templo fraturou. Junto com a fumaça, a navegação nesta sala é extremamente difícil.
 
 #### Cultista Druida

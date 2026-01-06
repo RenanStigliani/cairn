@@ -122,7 +122,7 @@ Em seu turno, um personagem pode se mover até 12 metros e realizar até uma aç
 
 ### Ataques a Distância
 
-- Armas de longo alcance podem mirar em qualquer inimigo que esteja perto o suficiente para ver o branco de seus olhos. Ataques contra alvos especialmente distantes são _Prejudicados_.
+- Armas de longo alcance podem mirar em qualquer inimigo que esteja perto o suficiente para ver o branco de seus olhos. Qualquer ataque contra alvos especialmente distantes É _Prejudicado_.
 - A munição não é contabilizada, a menos que especificado de outra forma. 
 
 ## Cicatrizes

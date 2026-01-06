@@ -69,7 +69,7 @@ grand_parent: Segunda Edição
 10 PG, 1 Armadura, 12 FOR, 13 DES, 13 VON, mordida (d10)
 
 - Lagartos longos e serpentinos que fazem ninhos nas profundezas da terra ou em arbustos sob os pés.
-- Lutar contra um **Basilisco** sem encontrar seu olhar é difícil (ataques voltados para ele são _prejudicados_).
+- Lutar contra um **Basilisco** sem encontrar seu olhar é difícil (qualquer ataque voltado para ele é _prejudicado_).
 - **Olhar**: Um alvo de frente para o Basilisco é lentamente petrificado de baixo para cima e fica completamente congelado após três rodadas. Um antídoto pode ser preparado com a moela do Basilisco. O reflexo da criatura é inofensivo.
 
 ## Cão de Fase
@@ -77,7 +77,7 @@ grand_parent: Segunda Edição
 5 PG, 11 FOR, 14 DES, 5 VON, mordida (d6)
 
 - Caninos teletransportadores a serviço de um mestre poderoso.
-- Podem sair da realidade à vontade. Ataques corpo a corpo contra eles são _prejudicados_.
+- Podem sair da realidade à vontade. Qualquer ataques corpo a corpo contra eles é _prejudicado_.
 
 ## Alce Sangrento
 
@@ -151,7 +151,7 @@ grand_parent: Segunda Edição
 12 PG, 12 FOR, 11 DES, 14 VON, garras etéreas (d8+d8)
 
 - Esqueletos animados vestidos com mantos esvoaçantes. Suas órbitas oculares são hipnoticamente vermelhas. Defendem criptas e tumbas, mas não atacam se não forem perturbados.
-- Ataques não mágicos contra eles são _prejudicados_.
+- Qualquer ataque não mágico contra eles é _prejudicado_.
 - Podem teletransportar qualquer alvo em vista para uma sala aleatória próxima.
 
 ## Dríade
@@ -402,7 +402,7 @@ grand_parent: Segunda Edição
 8 PG, 15 FOR, 12 DES, 8 VON, cascos flamejantes (d8+d8)
 
 - Cavalos demoníacos e inteligentes com olhos como brasas ardentes, narinas fumegantes e cascos flamejantes.
-- Ataques corpo a corpo contra o Pesadelo são _prejudicados_ devido às nuvens espessas de fumaça que ele produz.
+- Qualquer ataques corpo a corpo contra o Pesadelo é _prejudicado_ devido às nuvens espessas de fumaça que ele produz.
 
 ## Ogro
 
@@ -514,7 +514,7 @@ grand_parent: Segunda Edição
 12 PG, 1 Armadura, 16 FOR, 12 DES, 14 VON, maça (d10), _destacamento_
 
 - Gigantes imponentes de pele branca que vivem em castelos no alto das montanhas.
-- Ataques de projéteis contra eles são _prejudicados_ devido aos ventos poderosos que os cercam.
+- Qualquer ataque de projétil contra eles é _prejudicado_ devido aos ventos poderosos que os cercam.
 
 ## Esfinge
 
@@ -612,7 +612,7 @@ grand_parent: Segunda Edição
 14 PG, 15 FOR, 16 DES, 4 VON, jato (d8)
 
 - Espíritos raros de lagos, rios e mares.
-- Ataques mundanos contra o Elemental da Água são _prejudicados_.
+- Qualquer ataque mundano contra o Elemental da Água é _prejudicado_.
 - **Dano Crítico**: O alvo é envolvido pela água e se afoga em três rodadas.
 
 ## Lobisomem
@@ -620,7 +620,7 @@ grand_parent: Segunda Edição
 8 PG, 15 FOR, 14 DES, 6 VON, garras (d6+d6), mordida (d8)
 
 - Licantropos ferozes que podem se transformar em forma de lobo à vontade.
-- Ataques mundanos são _prejudicados_ contra lobisomens, mas ataques com armas feitas de prata são _aprimorados_.
+- Qualquer ataque mundano é _prejudicado_ contra lobisomens, mas ataques com armas feitas de prata são _aprimorados_.
 - **Dano Crítico**: O alvo torna-se infectado com licantropia, transformando-se em um lobisomem na próxima lua cheia.
 
 ## Wight

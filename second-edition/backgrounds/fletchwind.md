@@ -31,7 +31,7 @@ Pluma, Pregão, Falcão, Tino, Ferpa, Belicano, Açor, Talho, Silvo, Sobio, Alvo
 | **2** | **Praticando Falcoaria**. Você mantém um falcão [3 PG, 5 FOR, 16 DES, 4 VON, garras (d6+d6), mordida (d8)]. Ele só se alimenta de presas vivas. |
 | **3** | **Caçando**. Ao realizar a ação de Suprimento, sua capacidade de obter **Rações** aumenta em **um passo** (ex.: 1d4 torna-se 1d6).              |
 | **4** | **Em Torneios**. Ataques com seu arco são _aprimorados_ se o alvo estiver imóvel.                                                               |
-| **5** | **Treinando**. Se você for o primeiro a atacar, ataques corpo a corpo contra você são _Prejudicados_ até que você sofra dano de FOR.            |
+| **5** | **Treinando**. Se você for o primeiro a atacar, qualquer ataque corpo a corpo contra você é _Prejudicado_ até que você sofra dano de FOR.       |
 | **6** | **Explorando**. Ao realizar a ação de Viagem, sua presença reduz em um passo a chance de se perder (ex.: 4-em-6 torna-se 3-em-6).               |
 
 ## De que madeira seu arco é feito? Role 1d6:
