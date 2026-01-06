@@ -114,7 +114,7 @@ Em seu turno, um personagem pode se mover até 12 metros e realizar até uma aç
 ### Destacamentos
 
 - Grandes grupos de combatentes semelhantes lutando juntos são tratados como um único _Destacamento_. Quando um _destacamento_ sofre **Dano Crítico**, ele é dispersado ou significativamente enfraquecido. Quando a FOR é reduzida à 0, o destacamento é destruído.
-- Quando um indivíduo faz um ataque contra um destacamento, este ataque é _Prejudicado_ (exceto danos de _explosão_). Quando um destacamento faz um ataque contra indivíduos, este ataque é _aprimorado_ e causa dano de _explosão_.
+- Quando um indivíduo faz um ataque contra um destacamento, este ataque é _Prejudicado_ (exceto danos _explosivos_). Quando um destacamento faz um ataque contra indivíduos, este ataque é _aprimorado_ e causa dano _explosivo_.
 
 ### Retirada
 

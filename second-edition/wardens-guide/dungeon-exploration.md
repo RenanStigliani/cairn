@@ -34,7 +34,7 @@ Um pátio amplo exposto ao **ar livre**. O **chão** é arenoso e áspero. **Ent
   - Se a joia do entulho próximo for inserida na estátua, nada acontece. Se for removida novamente, a estátua responde de acordo.
 - **Porta**: A porta para o Depósito está quase totalmente apodrecida, deixando frestas na madeira. A corrente de ferro está claramente enferrujada.
 
-**Facilitador**: _"Vocês entram em um pátio amplo iluminado pelo luar que entra pelo teto desabado. O chão é arenoso e brilha em um branco-giz sob o luar. Perto do centro, entulho se acumula ao redor de uma estátua de uma mulher empunhando um bidente. A Leste, uma porta de madeira está fechada e acorrentada, enquanto um arco aberto leva para o Oeste em um túnel escuro. O que vocês fazem?"_
+**Guardião**: _"Vocês entram em um pátio amplo iluminado pelo luar que entra pelo teto desabado. O chão é arenoso e brilha em um branco-giz sob o luar. Perto do centro, entulho se acumula ao redor de uma estátua de uma mulher empunhando um bidente. A Leste, uma porta de madeira está fechada e acorrentada, enquanto um arco aberto leva para o Oeste em um túnel escuro. O que vocês fazem?"_
 
 > **Os personagens então declaram suas intenções de ação.**
 
@@ -42,59 +42,59 @@ Um pátio amplo exposto ao **ar livre**. O **chão** é arenoso e áspero. **Ent
 **Lucius**: _"Vou verificar a **porta** de madeira, para ver se consigo descobrir o que há do outro lado."_
 **Freya**: _"Vou dar uma olhada melhor naquela **estátua**. O que posso descobrir sem chegar muito perto?"_
 
-**Facilitador**: _"Certo, vamos começar com **Wolfram**. A areia é branca, granulada e claramente não é de nenhuma praia por essas bandas. Começando por um pequeno monte no chão, você reconhece um crânio humano semidecomposto, o que significa que essa 'areia' é na verdade osso! O que você faz agora?"_
+**Guardião**: _"Certo, vamos começar com **Wolfram**. A areia é branca, granulada e claramente não é de nenhuma praia por essas bandas. Começando por um pequeno monte no chão, você reconhece um crânio humano semidecomposto, o que significa que essa 'areia' é na verdade osso! O que você faz agora?"_
 
 **Wolfram**: _"Que horror. Vou cutucar um pouco com minha espada. Tem alguma coisa escondida na poeira? Algo valioso, talvez?"_
 
-**Facilitador**: _"Não. Mas você está pelo menos convencido de que o chão é seguro. E esse é o fim do seu turno!"_
+**Guardião**: _"Não. Mas você está pelo menos convencido de que o chão é seguro. E esse é o fim do seu turno!"_
 
-> **O Facilitador então passa a descrever as ações de outro personagem, já que estão acontecendo simultaneamente.**
+> **O Guardião então passa a descrever as ações de outro personagem, já que estão acontecendo simultaneamente.**
 
-**Facilitador**: _"Vamos ver o que **Lucius** está fazendo."_
+**Guardião**: _"Vamos ver o que **Lucius** está fazendo."_
 
-**Facilitador**: _"**Lucius**, a **porta** está trancada, é antiga e está parcialmente apodrecida. Ela ostenta uma fechadura de ferro enferrujada. O que você faz agora?"_
+**Guardião**: _"**Lucius**, a **porta** está trancada, é antiga e está parcialmente apodrecida. Ela ostenta uma fechadura de ferro enferrujada. O que você faz agora?"_
 
 **Lucius**: _"Como não tenho gazuas, acho que vou colocar meu ouvido na porta para ver o que há do outro lado."_
 
-**Facilitador**: _"Você encosta o ouvido na porta, mas ouve apenas um leve farfalhar do outro lado."_
+**Guardião**: _"Você encosta o ouvido na porta, mas ouve apenas um leve farfalhar do outro lado."_
 
 **Lucius**: _"Quão estragada está a fechadura? Eu conseguiria ver através dela? E quanto à porta em si? Você disse que estava apodrecida."_
 
-**Facilitador**: _"A fechadura está intacta e escura demais para ver através dela. Você poderia apontar uma luz através dela, ou poderia usar uma das frestas na porta."_
+**Guardião**: _"A fechadura está intacta e escura demais para ver através dela. Você poderia apontar uma luz através dela, ou poderia usar uma das frestas na porta."_
 
 **Lucius**: _"Isso funciona. Eu acendo minha **tocha** e a ergo para que eu possa ver através das frestas."_
 
-**Facilitador**: _"**Lucius**, através das rachaduras, você consegue ver um piso de cimento cinza. Algo brilha no chão, tremeluzindo à luz da tocha. Parece uma pegada grande e úmida!"_
+**Guardião**: _"**Lucius**, através das rachaduras, você consegue ver um piso de cimento cinza. Algo brilha no chão, tremeluzindo à luz da tocha. Parece uma pegada grande e úmida!"_
 
 **Lucius**: _"Eita! Eu aviso os outros."_
 
-**Facilitador**: _"Entendido. Agora vamos ver o que a **Freya** consegue descobrir sobre aquela estátua."_
+**Guardião**: _"Entendido. Agora vamos ver o que a **Freya** consegue descobrir sobre aquela estátua."_
 
 **Freya**: _"Certo, lembre-se que eu gostaria de dar uma olhada, mas não quero chegar muito perto."_
 
-**Facilitador**: _"Você se aproxima até estar a cerca de um metro e meio da estátua. O rosto parece lascado e um dos olhos está faltando completamente. No entanto, incrustada no outro está uma bela joia vermelha! A estátua segura um bidente branco em suas mãos. Você interage mais com a estátua ou segue em frente?"_
+**Guardião**: _"Você se aproxima até estar a cerca de um metro e meio da estátua. O rosto parece lascado e um dos olhos está faltando completamente. No entanto, incrustada no outro está uma bela joia vermelha! A estátua segura um bidente branco em suas mãos. Você interage mais com a estátua ou segue em frente?"_
 
 **Freya**: _"Isso é muito assustador! Não quero fazer parte disso, pelo menos não até descobrirmos mais sobre para que servia esta sala. Eu gostaria de investigar aquele entulho que você mencionou antes."_
 
-**Facilitador**: _"Tudo bem, você se move para o entulho adjacente à estátua. Parece extremamente pesado e difícil de mover. Sob a luz da tocha de **Wolfram**, você consegue ver algo vermelho e brilhante reluzindo nas fendas da pilha. O que você faz?"_
+**Guardião**: _"Tudo bem, você se move para o entulho adjacente à estátua. Parece extremamente pesado e difícil de mover. Sob a luz da tocha de **Wolfram**, você consegue ver algo vermelho e brilhante reluzindo nas fendas da pilha. O que você faz?"_
 
 **Freya**: _"Eu investigo mais a fundo, é claro!"_
 
-**Facilitador**: _"Você olha mais de perto e avista uma joia vermelha presa em um grande punho de pedra. Parece valiosa, pelo menos 75po. Também parece grande o suficiente para ocupar um espaço inteiro de inventário!"_
+**Guardião**: _"Você olha mais de perto e avista uma joia vermelha presa em um grande punho de pedra. Parece valiosa, pelo menos 75po. Também parece grande o suficiente para ocupar um espaço inteiro de inventário!"_
 
 **Freya**: _"Eu quero ela. Consigo desenterrá-la facilmente?"_
 
-**Facilitador**: _"Os dedos estão enrolados nela com bastante força; você precisará trabalhar duro para soltá-la ou gastar um turno extra para extraí-la silenciosamente. Qualquer escolha provavelmente desencadeará uma rolagem de evento de masmorra."_
+**Guardião**: _"Os dedos estão enrolados nela com bastante força; você precisará trabalhar duro para soltá-la ou gastar um turno extra para extraí-la silenciosamente. Qualquer escolha provavelmente desencadeará uma rolagem de evento de masmorra."_
 
 **Freya**: _"Droga. Tudo bem, vou fazer o mais rápido possível, usando a ponta da minha adaga e um bloco de entulho para arrancá-la. Dane-se o barulho!"_
 
-**Facilitador**: _"Certo, vamos ver o quão barulhenta você é..."_
+**Guardião**: _"Certo, vamos ver o quão barulhenta você é..."_
 
-> **O Facilitador então rola na tabela de Eventos de Masmorra: Ambiente.**
+> **O Guardião então rola na tabela de Eventos de Masmorra: Ambiente.**
 
-**Facilitador**: _"O trabalho barulhento de **Freya** ecoa contra as paredes expostas do pátio. O silêncio é quebrado por uma telha caindo da parede leste, tilintando no chão de pedra. Lucius, você ouve ruídos de farfalhar se aproximando por trás da porta! Nesse exato momento, a joia se solta."_
+**Guardião**: _"O trabalho barulhento de **Freya** ecoa contra as paredes expostas do pátio. O silêncio é quebrado por uma telha caindo da parede leste, tilintando no chão de pedra. Lucius, você ouve ruídos de farfalhar se aproximando por trás da porta! Nesse exato momento, a joia se solta."_
 
-**Facilitador**: _"E com isso, este ciclo acabou. O que todos vocês fazem a seguir?"_
+**Guardião**: _"E com isso, este ciclo acabou. O que todos vocês fazem a seguir?"_
 
 **Lucius**: _"Hum, tem algo vindo. Podemos, por favor, ir embora, AGORA?"_
 

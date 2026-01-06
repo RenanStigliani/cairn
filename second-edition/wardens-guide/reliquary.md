@@ -9,7 +9,7 @@ grand_parent: Segunda Edição
 
 ## Uma Lâmina Chamada Esperança (d6)
 
-  - Uma espada fina e curva que brilha com uma luz fraca, visível apenas na escuridão total. Quando banhada por luz solar intensa, seu primeiro ataque é _Melhorado_.
+  - Uma espada fina e curva que brilha com uma luz fraca, visível apenas na escuridão total. Quando banhada por luz solar intensa, seu primeiro ataque é _Aprimorado_.
 
 ## Taças do Assassino
 

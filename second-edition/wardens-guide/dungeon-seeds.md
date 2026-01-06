@@ -553,7 +553,7 @@ O chão está fortemente quebrado, segmentado por **ladrilhos** elevados de piso
 
 #### Horror Escavador
 
-6 PG, 1 Armadura, 16 FOR, 11 DES, 4 VON, mordida (d10), esguicho de ácido (d8, _explosão_)
+6 PG, 1 Armadura, 16 FOR, 11 DES, 4 VON, mordida (d10), esguicho de ácido (d8, _explosivo_)
 
 - Enormes insetoides com múltiplas pernas e olhos pretos brilhantes. Subsistem de terra, raízes e carne.
 - Escava logo abaixo das superfícies para emboscar criaturas desavisadas.

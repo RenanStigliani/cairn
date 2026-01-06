@@ -27,7 +27,7 @@ Pluma, Pregão, Falcão, Tino, Ferpa, Belicano, Açor, Talho, Silvo, Sobio, Alvo
 
 | 1d6   | Descrição                                                                                                                                       |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Na Guerra**. Se você for o primeiro a atacar, seu arco ganha a propriedade de _explosão_ no primeiro turno.                                   |
+| **1** | **Na Guerra**. Se você for o primeiro a atacar, seu arco ganha a propriedade de _explosivo_ no primeiro turno.                                  |
 | **2** | **Praticando Falcoaria**. Você mantém um falcão [3 PG, 5 FOR, 16 DES, 4 VON, garras (d6+d6), mordida (d8)]. Ele só se alimenta de presas vivas. |
 | **3** | **Caçando**. Ao realizar a ação de Suprimento, sua capacidade de obter **Rações** aumenta em **um passo** (ex.: 1d4 torna-se 1d6).              |
 | **4** | **Em Torneios**. Ataques com seu arco são _aprimorados_ se o alvo estiver imóvel.                                                               |

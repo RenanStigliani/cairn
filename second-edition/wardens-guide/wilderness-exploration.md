@@ -15,7 +15,7 @@ Em Cairn, a exploração de áreas selvagens e as viagens são majoritariamente 
 
 O grupo está escoltando um PNJ entre dois PDIs: uma pequena vila situada nas pastagens para uma fortaleza na base de um vale impressionante. A curta jornada deve levar apenas um dia, já que a viagem é limitada a terreno _Fácil_ e segue ao longo de uma _Trilha_ clara o caminho todo.
 
-> No início do dia, o Facilitador rola para o clima local, depois adjudica seus impactos potenciais na jornada daquele dia. Está nublado e com brisa (sem impacto). Após cada uma das seguintes **Ações de Área Selvagem**, o grupo rola 1d6 para ver se se perde, e o Facilitador rola na **Tabela de Eventos de Área Selvagem**.
+> No início do dia, o Guardião rola para o clima local, depois adjudica seus impactos potenciais na jornada daquele dia. Está nublado e com brisa (sem impacto). Após cada uma das seguintes **Ações de Área Selvagem**, o grupo rola 1d6 para ver se se perde, e o Guardião rola na **Tabela de Eventos de Área Selvagem**.
 
 #### Dia Um / Vigília Um
 
@@ -25,7 +25,7 @@ O grupo está escoltando um PNJ entre dois PDIs: uma pequena vila situada nas pa
 #### Dia Um / Vigília Duas
 
 - O grupo realiza a ação **Viajar** novamente, continuando ao longo da mesma trilha e planície. _Eles não se perdem._
-- **Tabela de Eventos**: **Ambiente**. O clima piorou no final da tarde e, como resultado, a planície está enlameada e a trilha mais difícil de seguir. O Facilitador adiciona 1 Vigília à jornada, pois o grupo é forçado a diminuir consideravelmente sua marcha, alcançando apenas a borda das pastagens ao anoitecer. O grupo é forçado a encontrar abrigo na planície aberta em vez de em seu destino no vale adjacente.
+- **Tabela de Eventos**: **Ambiente**. O clima piorou no final da tarde e, como resultado, a planície está enlameada e a trilha mais difícil de seguir. O Guardião adiciona 1 Vigília à jornada, pois o grupo é forçado a diminuir consideravelmente sua marcha, alcançando apenas a borda das pastagens ao anoitecer. O grupo é forçado a encontrar abrigo na planície aberta em vez de em seu destino no vale adjacente.
 
 #### Dia Um / Vigília Três
 

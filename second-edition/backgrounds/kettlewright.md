@@ -38,7 +38,7 @@ Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 
 |     |                        |                                                                                                                                                                                                                 |
 | --- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Ovos de Fogo**       | Seis pequenas pastilhas feitas de sal marinho, madeira e pó de louça. Elas explodem em fogo baixo (d8, _explosão_) mas as chamas se dissipam rapidamente.                                                       |
+| 1   | **Ovos de Fogo**       | Seis pequenas pastilhas feitas de sal marinho, madeira e pó de louça. Elas explodem em fogo baixo (d8, _explosivo_) mas as chamas se dissipam rapidamente.                                                      |
 | 2   | **Piche Preto**        | Versátil: pegajoso e altamente inflamável. 3 usos.                                                                                                                                                              |
 | 3   | **Botas com Cravos**   | Quebra cabeças (d8) tão facilmente quanto gelo e lama. A viagem também é um pouco mais lenta, mas mais fácil.                                                                                                   |
 | 4   | **Pasta de Latoeiro**  | Veda qualquer abertura do tamanho de um punho. 3 usos.                                                                                                                                                          |
