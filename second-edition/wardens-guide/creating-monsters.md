@@ -292,4 +292,4 @@ _**O resultado final**_:
 
 - Pode assumir a forma de uma raposa ou de uma mulher com uma perna de raposa escondida.
 - Imune a ataques de armas de metal.
-- **Dano crítico**: A vítima é estrangulada até ficar inconsciente.
+- **Dano Crítico**: A vítima é estrangulada até ficar inconsciente.
