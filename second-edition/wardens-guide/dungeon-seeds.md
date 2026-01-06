@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sementes de Masmorra
-parent: Guia do Diretor 
+parent: Guia do Guardião 
 grand_parent: Segunda Edição
 ---
 
@@ -57,85 +57,85 @@ _"Por que esta masmorra foi construída, como foi construída e o que causou sua
 
 Role 1d20 para cada coluna e combine os resultados.
 
-|         |                              |                          |
-| ------- | ---------------------------- | ------------------------ |
-| **d20** | **Uso Original** | **Construído Por** |
-| **1** | Ritos Ancestrais             | Um Herói Caído           |
-| **2** | Biblioteca Arcana            | Um Culto Fanático        |
-| **3** | Centro de Comércio Astral    | Um Império Esquecido     |
-| **4** | Criações Bestiais            | Um Poeta Morto há Muito  |
-| **5** | Campos de Reprodução         | Uma Ordem Militante      |
-| **6** | Local de Sepultamento        | Um Alquimista Renomado   |
-| **7** | Observações Celestiais       | Uma Dinastia Real        |
-| **8** | Experimentos Secretos        | Uma Sociedade Secreta    |
-| **9** | Encontros Proibidos          | Um Governante Tirânico   |
-| **10** | Forja para uma Grande Arma   | Uma Tribo Guerreira      |
-| **11** | Esconderijo                  | Um Recluso Rico          |
-| **12** | Cofre Impenetrável           | Rebeldes Desesperados    |
-| **13** | Invasão de Sonhos            | Alquimistas Hereges      |
-| **14** | Refúgio Isolado              | Monges Hereges           |
-| **15** | Posto Militar                | Feiticeiros Imorais      |
-| **16** | Observatório                 | Astrólogos Invertidos    |
-| **17** | Local de Peregrinação        | Famílias da Máfia        |
-| **18** | Proteção de Artefatos Raros  | Mercadores Opulentos     |
-| **19** | Local de Reunião Secreta     | Peregrinos a um Deus Morto|
-| **20** | Grande Tesouro               | Eruditos Renegados       |
+|         |                             |                            |
+| ------- | --------------------------- | -------------------------- |
+| **d20** | **Uso Original**            | **Construído Por**         |
+| **1**   | Ritos Ancestrais            | Um Herói Caído             |
+| **2**   | Biblioteca Arcana           | Um Culto Fanático          |
+| **3**   | Centro de Comércio Astral   | Um Império Esquecido       |
+| **4**   | Criações Bestiais           | Um Poeta Morto há Muito    |
+| **5**   | Campos de Reprodução        | Uma Ordem Militante        |
+| **6**   | Local de Sepultamento       | Um Alquimista Renomado     |
+| **7**   | Observações Celestiais      | Uma Dinastia Real          |
+| **8**   | Experimentos Secretos       | Uma Sociedade Secreta      |
+| **9**   | Encontros Proibidos         | Um Governante Tirânico     |
+| **10**  | Forja para uma Grande Arma  | Uma Tribo Guerreira        |
+| **11**  | Esconderijo                 | Um Recluso Rico            |
+| **12**  | Cofre Impenetrável          | Rebeldes Desesperados      |
+| **13**  | Invasão de Sonhos           | Alquimistas Hereges        |
+| **14**  | Refúgio Isolado             | Monges Hereges             |
+| **15**  | Posto Militar               | Feiticeiros Imorais        |
+| **16**  | Observatório                | Astrólogos Invertidos      |
+| **17**  | Local de Peregrinação       | Famílias da Máfia          |
+| **18**  | Proteção de Artefatos Raros | Mercadores Opulentos       |
+| **19**  | Local de Reunião Secreta    | Peregrinos a um Deus Morto |
+| **20**  | Grande Tesouro              | Eruditos Renegados         |
 
 #### Construção
 
 Role 1d20 para cada coluna e combine os resultados.
 
-|         |                       |                        |
-| ------- | --------------------- | ---------------------- |
-| **d20** | **Entrada** | **Composição** |
-| **1** | Covil de uma Criatura | Osso                   |
-| **2** | Um Sonho              | Coral                  |
-| **3** | Uma Árvore Maciça     | Cristal                |
-| **4** | Um Poço               | Terra                  |
-| **5** | Um Túmulo Enorme      | Tecido Etéreo          |
-| **6** | Atrás de uma Cachoeira| Carne                  |
-| **7** | Entre Menires         | Plataformas Flutuantes |
-| **8** | Caverna               | Fungos                 |
-| **9** | Centro de um Labirinto| Vidro                  |
-| **10** | Porta no Penhasco     | Gelo                   |
-| **11** | Estátua Oca           | Plantas Vivas          |
-| **12** | Parede Ilusória       | Mármore                |
-| **13** | Poço de Mina          | Metal                  |
-| **14** | Areia Movediça        | Obsidiana              |
-| **15** | Feixe de Luz para o Céu| Madeira Petrificada    |
-| **16** | Caminho Estelar       | Areia                  |
-| **17** | Através de uma Pintura| Material de Sombra     |
-| **18** | Sob uma Ponte         | Pedra                  |
-| **19** | Túnel Subaquático     | Teias                  |
-| **20** | Véu de Névoa          | Madeira                |
+|         |                         |                        |
+| ------- | ----------------------- | ---------------------- |
+| **d20** | **Entrada**             | **Composição**         |
+| **1**   | Covil de uma Criatura   | Osso                   |
+| **2**   | Um Sonho                | Coral                  |
+| **3**   | Uma Árvore Maciça       | Cristal                |
+| **4**   | Um Poço                 | Terra                  |
+| **5**   | Um Túmulo Enorme        | Tecido Etéreo          |
+| **6**   | Atrás de uma Cachoeira  | Carne                  |
+| **7**   | Entre Menires           | Plataformas Flutuantes |
+| **8**   | Caverna                 | Fungos                 |
+| **9**   | Centro de um Labirinto  | Vidro                  |
+| **10**  | Porta no Penhasco       | Gelo                   |
+| **11**  | Estátua Oca             | Plantas Vivas          |
+| **12**  | Parede Ilusória         | Mármore                |
+| **13**  | Poço de Mina            | Metal                  |
+| **14**  | Areia Movediça          | Obsidiana              |
+| **15**  | Feixe de Luz para o Céu | Madeira Petrificada    |
+| **16**  | Caminho Estelar         | Areia                  |
+| **17**  | Através de uma Pintura  | Material de Sombra     |
+| **18**  | Sob uma Ponte           | Pedra                  |
+| **19**  | Túnel Subaquático       | Teias                  |
+| **20**  | Véu de Névoa            | Madeira                |
 
 #### Ruína
 
 Role 1d20 para cada coluna e combine os resultados.
 
-|         |                    |                             |
-| ------- | ------------------ | --------------------------- |
-| **d20** | **Condição** | **Causa** |
-| **1** | Cadáver            | Acidente Alquímico          |
-| **2** | Desmoronando       | Maldição Antiga             |
-| **3** | Amaldiçoado        | Inundação Cataclísmica      |
-| **4** | Profanado          | Guerra Civil                |
-| **5** | Devorado           | Rituais Concorrentes        |
-| **6** | Deslocado          | Consumido por uma Besta     |
-| **7** | Dividido           | Doença                      |
-| **8** | Congelado          | Hedonismo                   |
-| **9** | Assombrado         | Invasão                     |
-| **10** | Infestado          | Abandono de Longo Prazo     |
-| **11** | Coberto de Mato    | Magia que Deu Errado        |
-| **12** | Superpovoado       | Selo Mágico                 |
-| **13** | Petrificado        | Desastre Natural            |
-| **14** | Saqueado           | Erosão Natural              |
-| **15** | Envenenado         | Ofuscação                   |
-| **16** | Chamuscado         | Tomado por Monstros         |
-| **17** | Envolto em Névoa   | Mudança Súbita no Clima     |
-| **18** | Submerso           | Teletransportado para Outro Reino |
-| **19** | Sem Fim            | Transformado em Pedra       |
-| **20** | Deformado          | Espíritos Mal Resolvidos    |
+|         |                  |                                   |
+| ------- | ---------------- | --------------------------------- |
+| **d20** | **Condição**     | **Causa**                         |
+| **1**   | Cadáver          | Acidente Alquímico                |
+| **2**   | Desmoronando     | Maldição Antiga                   |
+| **3**   | Amaldiçoado      | Inundação Cataclísmica            |
+| **4**   | Profanado        | Guerra Civil                      |
+| **5**   | Devorado         | Rituais Concorrentes              |
+| **6**   | Deslocado        | Consumido por uma Besta           |
+| **7**   | Dividido         | Doença                            |
+| **8**   | Congelado        | Hedonismo                         |
+| **9**   | Assombrado       | Invasão                           |
+| **10**  | Infestado        | Abandono de Longo Prazo           |
+| **11**  | Coberto de Mato  | Magia que Deu Errado              |
+| **12**  | Superpovoado     | Selo Mágico                       |
+| **13**  | Petrificado      | Desastre Natural                  |
+| **14**  | Saqueado         | Erosão Natural                    |
+| **15**  | Envenenado       | Ofuscação                         |
+| **16**  | Chamuscado       | Tomado por Monstros               |
+| **17**  | Envolto em Névoa | Mudança Súbita no Clima           |
+| **18**  | Submerso         | Teletransportado para Outro Reino |
+| **19**  | Sem Fim          | Transformado em Pedra             |
+| **20**  | Deformado        | Espíritos Mal Resolvidos          |
 
 ### Habitantes da Masmorra
 
@@ -153,27 +153,27 @@ Role 1d20 para cada coluna e combine os resultados.
 
 |         |                 |                |
 | ------- | --------------- | -------------- |
-| **d20** | **Virtudes** | **Vícios** |
-| **1** | Compassivo      | Distraído      |
-| **2** | Corajoso        | Distante       |
-| **3** | Criativo        | Crítico        |
-| **4** | Dedutivo        | Cínico         |
-| **5** | Honesto         | Ganancioso     |
-| **6** | Incisivo        | Impulsivo      |
-| **7** | Incorruptível   | Inflexível     |
-| **8** | Individualista  | Ingênuo        |
-| **9** | Leal            | Obstinado      |
-| **10** | Metódico        | Passivo        |
-| **11** | Educado         | Pedante        |
-| **12** | Prático         | Perfeccionista |
-| **13** | Resiliente      | Sarcástico     |
-| **14** | Erudito         | Egoísta        |
-| **15** | Autossuficiente | Cético         |
-| **16** | Sólido          | Teimoso        |
-| **17** | Estudioso       | Superficial    |
-| **18** | Suave           | Desfocado      |
-| **19** | Inabalável      | Sem Imaginação |
-| **20** | Espirituoso     | Vaidoso        |
+| **d20** | **Virtudes**    | **Vícios**     |
+| **1**   | Compassivo      | Distraído      |
+| **2**   | Corajoso        | Distante       |
+| **3**   | Criativo        | Crítico        |
+| **4**   | Dedutivo        | Cínico         |
+| **5**   | Honesto         | Ganancioso     |
+| **6**   | Incisivo        | Impulsivo      |
+| **7**   | Incorruptível   | Inflexível     |
+| **8**   | Individualista  | Ingênuo        |
+| **9**   | Leal            | Obstinado      |
+| **10**  | Metódico        | Passivo        |
+| **11**  | Educado         | Pedante        |
+| **12**  | Prático         | Perfeccionista |
+| **13**  | Resiliente      | Sarcástico     |
+| **14**  | Erudito         | Egoísta        |
+| **15**  | Autossuficiente | Cético         |
+| **16**  | Sólido          | Teimoso        |
+| **17**  | Estudioso       | Superficial    |
+| **18**  | Suave           | Desfocado      |
+| **19**  | Inabalável      | Sem Imaginação |
+| **20**  | Espirituoso     | Vaidoso        |
 
 ### Facções da Masmorra
 
@@ -183,29 +183,29 @@ Todas as masmorras devem ter uma ou mais facções com suas próprias agendas, o
 
 Role 1d20 para cada coluna e combine os resultados.
 
-|         |                |              |
-| ------- | -------------- | ------------ |
-| **d20** | **Objetivo** | **Obstáculo**|
-| **1** | Ascensão       | Conflito     |
-| **2** | Criação        | Corrupção    |
-| **3** | Destruição     | Custo        |
-| **4** | Domínio        | Perigo       |
-| **5** | Iluminação     | Decadência   |
-| **6** | Exploração     | Discórdia    |
-| **7** | Crescimento    | Divisão      |
-| **8** | Inovação       | Dogma        |
-| **9** | Justiça        | Exposição    |
-| **10** | Conhecimento   | Faccionalismo|
-| **11** | Libertação     | Medo         |
-| **12** | Paz            | Ignorância   |
-| **13** | Poder          | Incompetência|
-| **14** | Preservação    | Injustiça    |
-| **15** | Proteção       | Isolamento   |
-| **16** | Redenção       | Oposição     |
-| **17** | Vingança       | Sacrifício   |
-| **18** | Sobrevivência  | Estagnação   |
-| **19** | Transformação  | Tradição     |
-| **20** | Riqueza        | Fraqueza     |
+|         |               |               |
+| ------- | ------------- | ------------- |
+| **d20** | **Objetivo**  | **Obstáculo** |
+| **1**   | Ascensão      | Conflito      |
+| **2**   | Criação       | Corrupção     |
+| **3**   | Destruição    | Custo         |
+| **4**   | Domínio       | Perigo        |
+| **5**   | Iluminação    | Decadência    |
+| **6**   | Exploração    | Discórdia     |
+| **7**   | Crescimento   | Divisão       |
+| **8**   | Inovação      | Dogma         |
+| **9**   | Justiça       | Exposição     |
+| **10**  | Conhecimento  | Faccionalismo |
+| **11**  | Libertação    | Medo          |
+| **12**  | Paz           | Ignorância    |
+| **13**  | Poder         | Incompetência |
+| **14**  | Preservação   | Injustiça     |
+| **15**  | Proteção      | Isolamento    |
+| **16**  | Redenção      | Oposição      |
+| **17**  | Vingança      | Sacrifício    |
+| **18**  | Sobrevivência | Estagnação    |
+| **19**  | Transformação | Tradição      |
+| **20**  | Riqueza       | Fraqueza      |
 
 ## Construa uma Masmorra
 
@@ -219,13 +219,13 @@ Role 1d20 para cada coluna e combine os resultados.
 
 #### Tabela de Queda de Dados de Masmorra
 
-|         |          |
-| ------- | -------- |
-| **d6** | **Sala** |
-| **1** | Monstro  |
-| **2-3** | Saber    |
-| **4** | Especial |
-| **5-6** | Armadilha|
+|         |           |
+| ------- | --------- |
+| **d6**  | **Sala**  |
+| **1**   | Monstro   |
+| **2-3** | Saber     |
+| **4**   | Especial  |
+| **5-6** | Armadilha |
 
 ## Desenhe Caminhos
 
@@ -252,29 +252,29 @@ Monstros são qualquer criatura perigosa que vive em uma masmorra. Isso não sig
 
 Role 1d20 para cada coluna e combine os resultados.
 
-|         |               |              |
-| ------- | ------------- | ------------ |
-| **d20** | **Grupo** | **Atividade**|
-| **1** | Aviário       | Construindo  |
-| **2** | Besta         | Devorando    |
-| **3** | Behemoth      | Morrendo     |
-| **4** | Constructo    | Lutando      |
-| **5** | Demônio       | Crescendo    |
-| **6** | Extraplanar   | Assombrando  |
-| **7** | Férico        | Escondendo   |
-| **8** | Gigante       | Matando      |
-| **9** | Goblinoide    | Acasalando   |
-| **10** | Humanoide     | Lamentando   |
-| **11** | Híbrido       | Patrulhando  |
-| **12** | Incorpóreo    | Rezando      |
-| **13** | Insetoide     | Protegendo   |
-| **14** | Lagarto       | Recuperando  |
-| **15** | Mágico        | Maquinando   |
-| **16** | Mítico        | Dormindo     |
-| **17** | Planta        | Perseguindo  |
-| **18** | Metamorfo     | Torturando   |
-| **19** | Morto-vivo    | Treinando    |
-| **20** | Incomum       | Preso        |
+|         |             |               |
+| ------- | ----------- | ------------- |
+| **d20** | **Grupo**   | **Atividade** |
+| **1**   | Aviário     | Construindo   |
+| **2**   | Besta       | Devorando     |
+| **3**   | Behemoth    | Morrendo      |
+| **4**   | Constructo  | Lutando       |
+| **5**   | Demônio     | Crescendo     |
+| **6**   | Extraplanar | Assombrando   |
+| **7**   | Férico      | Escondendo    |
+| **8**   | Gigante     | Matando       |
+| **9**   | Goblinoide  | Acasalando    |
+| **10**  | Humanoide   | Lamentando    |
+| **11**  | Híbrido     | Patrulhando   |
+| **12**  | Incorpóreo  | Rezando       |
+| **13**  | Insetoide   | Protegendo    |
+| **14**  | Lagarto     | Recuperando   |
+| **15**  | Mágico      | Maquinando    |
+| **16**  | Mítico      | Dormindo      |
+| **17**  | Planta      | Perseguindo   |
+| **18**  | Metamorfo   | Torturando    |
+| **19**  | Morto-vivo  | Treinando     |
+| **20**  | Incomum     | Preso         |
 
 #### Saber
 
@@ -282,29 +282,29 @@ Salas de Saber devem construir o tema da masmorra, fornecer uma lição valiosa 
 
 Role 1d20 para cada coluna e combine os resultados.
 
-|         |                 |               |
-| ------- | --------------- | ------------- |
-| **d20** | **Tipo de Sala**| **Pista** |
-| **1** | Arsenal         | Decadência    |
-| **2** | Quartel         | Decoração     |
-| **3** | Banho           | Corrente de Ar|
-| **4** | Cisterna        | Ecos          |
-| **5** | Corte           | Pegadas       |
-| **6** | Cripta          | Dejetos       |
-| **7** | Toca/Covil      | Luz           |
-| **8** | Salão de Jantar | Marcas        |
-| **9** | Posto de Guarda | Umidade       |
-| **10** | Enfermaria      | Ruído         |
-| **11** | Cozinha         | Parafernália  |
-| **12** | Latrina         | Resíduos      |
-| **13** | Biblioteca      | Correrias     |
-| **14** | Santuário       | Sinais        |
-| **15** | Ferreiro        | Cheiro        |
-| **16** | Estábulo        | Manchas       |
-| **17** | Armazém         | Batidas       |
-| **18** | Estudo          | Temperatura   |
-| **19** | Cofre           | Vibrações     |
-| **20** | Oficina         | Escrita       |
+|         |                  |                |
+| ------- | ---------------- | -------------- |
+| **d20** | **Tipo de Sala** | **Pista**      |
+| **1**   | Arsenal          | Decadência     |
+| **2**   | Quartel          | Decoração      |
+| **3**   | Banho            | Corrente de Ar |
+| **4**   | Cisterna         | Ecos           |
+| **5**   | Corte            | Pegadas        |
+| **6**   | Cripta           | Dejetos        |
+| **7**   | Toca/Covil       | Luz            |
+| **8**   | Salão de Jantar  | Marcas         |
+| **9**   | Posto de Guarda  | Umidade        |
+| **10**  | Enfermaria       | Ruído          |
+| **11**  | Cozinha          | Parafernália   |
+| **12**  | Latrina          | Resíduos       |
+| **13**  | Biblioteca       | Correrias      |
+| **14**  | Santuário        | Sinais         |
+| **15**  | Ferreiro         | Cheiro         |
+| **16**  | Estábulo         | Manchas        |
+| **17**  | Armazém          | Batidas        |
+| **18**  | Estudo           | Temperatura    |
+| **19**  | Cofre            | Vibrações      |
+| **20**  | Oficina          | Escrita        |
 
 #### Especial
 
@@ -312,29 +312,29 @@ Salas Especiais são áreas incomuns que apresentam um elemento oculto ou intera
 
 Role 1d20 para cada coluna e combine os resultados.
 
-|         |             |              |
-| ------- | ----------- | ------------ |
-| **d20** | **Especial**| **Característica** |
-| **1** | Livros      | Envelhece    |
-| **2** | Ponte       | Alarmes      |
-| **3** | Engenhoca   | Anima        |
-| **4** | Criatura    | Atrai        |
-| **5** | Porta       | Carrega      |
-| **6** | Chamas      | Fecha        |
-| **7** | Mobília     | Cai          |
-| **8** | Buraco      | Brilha       |
-| **9** | Líquido     | Cresce       |
-| **10** | Espelho     | Ilusão       |
-| **11** | Mural       | Levita       |
-| **12** | Piscina     | Tranca       |
-| **13** | Sombras     | Abre         |
-| **14** | Fumaça      | Reflete      |
-| **15** | Estátua     | Repele       |
-| **16** | Superfície  | Revela       |
-| **17** | Tesouro     | Desloca      |
-| **18** | Vozes       | Silencia     |
-| **19** | Roda        | Teletransporta|
-| **20** | Escrita     | Transforma   |
+|         |              |                    |
+| ------- | ------------ | ------------------ |
+| **d20** | **Especial** | **Característica** |
+| **1**   | Livros       | Envelhece          |
+| **2**   | Ponte        | Alarmes            |
+| **3**   | Engenhoca    | Anima              |
+| **4**   | Criatura     | Atrai              |
+| **5**   | Porta        | Carrega            |
+| **6**   | Chamas       | Fecha              |
+| **7**   | Mobília      | Cai                |
+| **8**   | Buraco       | Brilha             |
+| **9**   | Líquido      | Cresce             |
+| **10**  | Espelho      | Ilusão             |
+| **11**  | Mural        | Levita             |
+| **12**  | Piscina      | Tranca             |
+| **13**  | Sombras      | Abre               |
+| **14**  | Fumaça       | Reflete            |
+| **15**  | Estátua      | Repele             |
+| **16**  | Superfície   | Revela             |
+| **17**  | Tesouro      | Desloca            |
+| **18**  | Vozes        | Silencia           |
+| **19**  | Roda         | Teletransporta     |
+| **20**  | Escrita      | Transforma         |
 
 #### Armadilha
 
@@ -342,29 +342,29 @@ Uma armadilha é um objeto perigoso e oculto, tipicamente acionado através da i
 
 Role 1d20 para cada coluna e combine os resultados.
 
-|         |             |               |
-| ------- | ----------- | ------------- |
-| **d20** | **Armadilha**| **Gatilho** |
-| **1** | Envelhece   | Ativando      |
-| **2** | Queima      | Quebrando     |
-| **3** | Captura     | Cruzando      |
-| **4** | Carrega     | Perturbando   |
-| **5** | Confunde    | Entrando      |
-| **6** | Esmaga      | Extinguindo   |
-| **7** | Amaldiçoa   | Focando       |
-| **8** | Corta       | Interagindo   |
-| **9** | Ensurdece   | Acendendo     |
-| **10** | Derruba     | Movendo       |
-| **11** | Afoga       | Abrindo       |
-| **12** | Congela     | Puxando       |
-| **13** | Cola        | Empurrando    |
-| **14** | Hipnotiza   | Lendo         |
-| **15** | Empala      | Falando       |
-| **16** | Infecta     | Pisando       |
-| **17** | Ergue       | Pegando       |
-| **18** | Envenena    | Conversando   |
-| **19** | Eletrocuta  | Tocando       |
-| **20** | Atira       | Tropeçando    |
+|         |               |             |
+| ------- | ------------- | ----------- |
+| **d20** | **Armadilha** | **Gatilho** |
+| **1**   | Envelhece     | Ativando    |
+| **2**   | Queima        | Quebrando   |
+| **3**   | Captura       | Cruzando    |
+| **4**   | Carrega       | Perturbando |
+| **5**   | Confunde      | Entrando    |
+| **6**   | Esmaga        | Extinguindo |
+| **7**   | Amaldiçoa     | Focando     |
+| **8**   | Corta         | Interagindo |
+| **9**   | Ensurdece     | Acendendo   |
+| **10**  | Derruba       | Movendo     |
+| **11**  | Afoga         | Abrindo     |
+| **12**  | Congela       | Puxando     |
+| **13**  | Cola          | Empurrando  |
+| **14**  | Hipnotiza     | Lendo       |
+| **15**  | Empala        | Falando     |
+| **16**  | Infecta       | Pisando     |
+| **17**  | Ergue         | Pegando     |
+| **18**  | Envenena      | Conversando |
+| **19**  | Eletrocuta    | Tocando     |
+| **20**  | Atira         | Tropeçando  |
 
 ## Exemplo de Masmorra
 

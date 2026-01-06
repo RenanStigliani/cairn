@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vínculos e Augúrios
-parent: Guia do Diretor 
+parent: Guia do Guardião 
 grand_parent: Segunda Edição
 ---
 
@@ -13,7 +13,7 @@ Vínculos e Augúrios fornecem aos novos personagens de jogador ganchos de avent
 
 ## Vínculos
 
-Vínculos geralmente ligam um personagem de jogador a outro PJ, ao cenário e aos seus personagens. Um PJ pode resolver um Vínculo ao descobrir a verdade por trás de seus mistérios ou ao resolver sua causa raiz. Nesse caso, o personagem deve experimentar algum tipo de Crescimento, e o Diretor pode opcionalmente criar um novo Vínculo para o PJ. Os personagens de jogador não são obrigados a resolver seus Vínculos.
+Vínculos geralmente ligam um personagem de jogador a outro PJ, ao cenário e aos seus personagens. Um PJ pode resolver um Vínculo ao descobrir a verdade por trás de seus mistérios ou ao resolver sua causa raiz. Nesse caso, o personagem deve experimentar algum tipo de Crescimento, e o Guardião pode opcionalmente criar um novo Vínculo para o PJ. Os personagens de jogador não são obrigados a resolver seus Vínculos.
 
 ### Vínculos Devem...
 

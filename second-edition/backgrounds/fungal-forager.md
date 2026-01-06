@@ -26,7 +26,7 @@ Untro, Escorro, Hilda, Corrente, Folho, Ratano, Mourella, Láu, Per, Madrigal
 
 | 1d6   | Fungo                                                                                                                                                                                                         |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Trombeta Gritante**. Quando exposta à luz, grita tão alto que todos os ataques ao redor (inclusive os seus) ficam em _Desvantagem_. 2 usos.                                                                 |
+| **1** | **Trombeta Gritante**. Quando exposta à luz, grita tão alto que todos os ataques ao redor (inclusive os seus) são são _Prejudicados_. 2 usos.                                                                 |
 | **2** | **Fungo-Tocha**. Quando esmagado, emite uma luz azul fria por um curto período. 2 usos.                                                                                                                       |
 | **3** | **Trufa Assassina**. Pungente, altamente tóxica e muito rara (vale 50 PO para assassinos).  Ilegal em praticamente todo lugar. 1 uso.                                                                         |
 | **4** | **Chapéu-do-Inferno**. A exposição ao seu aroma causa náusea intensa e vômitos. De todo modo, ele esvazia qualquer sala. Engarrafado (1 uso).                                                                 |

@@ -11,12 +11,12 @@ Encontre abaixo arquivos digitais do jogo (em inglês).
 ## Itch.io
 
 - [Guia do Jogador](https://yochaigal.itch.io/cairn-players-guide)
-- [Guia do Diretor](https://yochaigal.itch.io/cairn-wardens-guide)
+- [Guia do Guardião](https://yochaigal.itch.io/cairn-wardens-guide)
 
 ## DriveThru RPG
 
 - [Guia do Jogador](https://www.drivethrurpg.com/en/product/500476/cairn-player-s-guide-2nd-edition)
-- [Guia do Diretor](https://www.drivethrurpg.com/en/product/500478/cairn-warden-s-guide-2nd-edition)
+- [Guia do Guardião](https://www.drivethrurpg.com/en/product/500478/cairn-warden-s-guide-2nd-edition)
 
 ## Google Drive
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Criando Antecedentes
-parent: Guia do Diretor
+parent: Guia do Guardião
 grand_parent: Segunda Edição
 ---
 

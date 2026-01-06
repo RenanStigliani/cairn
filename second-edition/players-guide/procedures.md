@@ -68,7 +68,7 @@ Quando o grupo:
 
 - Um personagem que esteja cercado por inimigos, envolto pela escuridão ou enfrentando seus maiores medos pode entrar em _pânico_. Normalmente, é necessário um **teste** de **VON** para evitar perder o controle e ficar _em pânico_. 
 - Um personagem _em pânico_ deve fazer um **teste** de **VON** para superar sua condição como **ação** em seu **turno**.
-- Um personagem _em pânico_ tem 0 **PG**, não age no primeiro turno de combate e todos os seus ataques têm _Desvantagem_.  
+- Um personagem _em pânico_ tem 0 **PG**, não age no primeiro turno de combate e todos os seus ataques são _Prejudicados_.  
 
 ### Elementos da Masmorra
 
@@ -221,13 +221,13 @@ A cada dia, o Guardião deve rolar na tabela de clima para a estação apropriad
 
 #### Abastecer
 
-- Um ou mais membros do grupo podem caçar, pescar ou coletar comida, obtendo 1d4 **Mantimentos** (3 usos cada). A chance de um resultado maior aumenta com cada participante adicional (por exemplo, 1d4 vira 1d6, até o máximo de 1d12). 
+- Um ou mais membros do grupo podem caçar, pescar ou coletar comida, obtendo 1d4 **Rações** (3 usos cada). A chance de um resultado maior aumenta com cada participante adicional (por exemplo, 1d4 vira 1d6, até o máximo de 1d12). 
 - Experiência ou equipamento relevantes também podem aumentar a quantidade coletada.
 - O grupo pode encontrar casas ou pequenas vilas, gastando ouro e um turno completo de **vigia** para reabastecer. 
 
 #### Montar Acampamento
 
-- O grupo para para montar acampamento na natureza. Cada membro (e suas montarias) consome um **Mantimento**.
+- O grupo para para montar acampamento na natureza. Cada membro (e suas montarias) consome um **Ração**.
 - É definida uma **rotação de vigia** para que o grupo possa dormir sem ser perturbado. Um grupo pequeno pode precisar arriscar dormir sem guarda ou alternar o sono ao longo de vários dias.
 - Membros que conseguiram descansar removem toda a **Fadiga** do inventário.
 

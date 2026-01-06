@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bestiário
-parent: Guia do Diretor 
+parent: Guia do Guardião 
 grand_parent: Segunda Edição
 ---
 
@@ -9,29 +9,29 @@ grand_parent: Segunda Edição
 
 ## Categorias de Monstros
 
-|         |               |                                                                             |
-| ------- | ------------- | --------------------------------------------------------------------------- |
-| **d20** | **Grupo** | **Monstros** |
-| **1** | Aviário       | Fênix, Roc, Wyvern                                               |
-| **2** | Besta         | Alce Sangrento, Urso Cinzento, Abelhas Assassinas, Gato Noturno, Víbora, Lobo |
-| **3** | Colosso       | Dragão Verde, Verme Púrpura                                      |
-| **4** | Construto     | Construto de Ossos, Cães de Pedra, Gárgula                      |
-| **5** | Demônio       | Cão do Inferno, Pesadelo                                         |
-| **6** | Extraplanar   | Olho do Terror, Açoitador de Mentes                              |
-| **7** | Feérico       | Boggart, Dríade, Elfo Gélido, Pixie, Barrete Vermelho, Bruxa da Noite, Bruxa do Mar, Fogo-fátuo |
-| **8** | Gigante       | Ettin, Gigante do Céu, Gigante da Tempestade, Titã              |
-| **9** | Gobliinoide   | Bugbear, Goblin, Hobgoblin, Ogro, Goblin Raiz, Troll, Troll do Bosque |
-| **10** | Humanoide     | Acólito, Bandido, Elfo Gélido, Gnoll, Homens Encapuzados, Tritão |
-| **11** | Híbrido       | Centauro, Mantícora, Minotauro, Urso-Coruja                      |
-| **12** | Incorpóreo     | Perseguidor Invisível, Sombra                                   |
-| **13** | Insetoide     | Aranea, Horror Escavador, Gafanhoto das Cavernas, Escorpião Gigante |
-| **14** | Lagarto       | Basilisco, Hidra, Kobold, Naga, Reptiliano                       |
-| **15** | Mágico        | Cão de Fase, Pantera de Dobra, Elemental da Água                |
-| **16** | Mítico        | Banshee, Grifo, Harpia, Hidra, Lâmia, Unicórnio                  |
-| **17** | Planta        | Vinhas Rastejantes, Bruxa Raiz, Monte Cambaleante, Treante      |
-| **18** | Transmorfo    | Coisa Suína, Lobisomem                                          |
-| **19** | Morto-vivo    | Guardião de Cripta, Fantasma, Carniçal, Lich, Múmia, Esqueleto, Vampiro, Wight, Zumbi |
-| **20** | Incomum       | Gosma Gelatinosa, Mímico, Monstro da Ferrugem, Caracol Guerreiro |
+|         |             |                                                                                                 |
+| ------- | ----------- | ----------------------------------------------------------------------------------------------- |
+| **d20** | **Grupo**   | **Monstros**                                                                                    |
+| **1**   | Aviário     | Fênix, Roc, Wyvern                                                                              |
+| **2**   | Besta       | Alce Sangrento, Urso Cinzento, Abelhas Assassinas, Gato Noturno, Víbora, Lobo                   |
+| **3**   | Colosso     | Dragão Verde, Verme Púrpura                                                                     |
+| **4**   | Construto   | Construto de Ossos, Cães de Pedra, Gárgula                                                      |
+| **5**   | Demônio     | Cão do Inferno, Pesadelo                                                                        |
+| **6**   | Extraplanar | Olho do Terror, Açoitador de Mentes                                                             |
+| **7**   | Feérico     | Boggart, Dríade, Elfo Gélido, Pixie, Barrete Vermelho, Bruxa da Noite, Bruxa do Mar, Fogo-fátuo |
+| **8**   | Gigante     | Ettin, Gigante do Céu, Gigante da Tempestade, Titã                                              |
+| **9**   | Gobliinoide | Bugbear, Goblin, Hobgoblin, Ogro, Goblin Raiz, Troll, Troll do Bosque                           |
+| **10**  | Humanoide   | Acólito, Bandido, Elfo Gélido, Gnoll, Homens Encapuzados, Tritão                                |
+| **11**  | Híbrido     | Centauro, Mantícora, Minotauro, Urso-Coruja                                                     |
+| **12**  | Incorpóreo  | Perseguidor Invisível, Sombra                                                                   |
+| **13**  | Insetoide   | Aranea, Horror Escavador, Gafanhoto das Cavernas, Escorpião Gigante                             |
+| **14**  | Lagarto     | Basilisco, Hidra, Kobold, Naga, Reptiliano                                                      |
+| **15**  | Mágico      | Cão de Fase, Pantera de Dobra, Elemental da Água                                                |
+| **16**  | Mítico      | Banshee, Grifo, Harpia, Hidra, Lâmia, Unicórnio                                                 |
+| **17**  | Planta      | Vinhas Rastejantes, Bruxa Raiz, Monte Cambaleante, Treante                                      |
+| **18**  | Transmorfo  | Coisa Suína, Lobisomem                                                                          |
+| **19**  | Morto-vivo  | Guardião de Cripta, Fantasma, Carniçal, Lich, Múmia, Esqueleto, Vampiro, Wight, Zumbi           |
+| **20**  | Incomum     | Gosma Gelatinosa, Mímico, Monstro da Ferrugem, Caracol Guerreiro                                |
 
 ## Acólito
 
@@ -45,7 +45,7 @@ grand_parent: Segunda Edição
 6 PG, 13 FOR, 12 DES, 15 VON, mordida (d8)
 
 - Aranhas enormes com pele preto-esverdeada e cérebros grandes. Podem se transformar em forma humana à vontade.
-- Conduzem suas pesquisas mágicas em cavernas escuras e cheias de teias. Carregam os livros de feitiço _Encantar_ e _Comandar_ em todos os momentos.
+- Conduzem suas pesquisas mágicas em cavernas escuras e cheias de teias. Carregam os grimórios _Encantar_ e _Comandar_ em todos os momentos.
 - Dano de fogo contra Araneas é _aprimorado_.
 
 ## Bandido
@@ -290,7 +290,7 @@ grand_parent: Segunda Edição
 
 - Os Vigilantes da Floresta; um culto que deriva seu poder de linhas de energia, pedras rúnicas e afins.
 - **Dano Crítico**: Suga uma parte da alma da vítima (1d4 de dano de VON).
-- Carregam dois dos seguintes livros de feitiço: _Encantar, Hipnotizar, Empurrar/Puxar, Escudo_.
+- Carregam dois dos seguintes grimórios: _Encantar, Hipnotizar, Empurrar/Puxar, Escudo_.
 
 ## Hidra
 
@@ -335,7 +335,7 @@ grand_parent: Segunda Edição
 
 - Magos poderosos que pagaram o preço final pela imortalidade: suas próprias vidas. Agora sua sede por poder não conhece limites.
 - Mantêm a não-vida vinculando-se a um artefato terreno, que é tipicamente protegido por pelo menos d6 outros servos mortos-vivos.
-- Carregam até seis dos seguintes livros de feitiço: _Animar Objeto, Olho Arcano, Ensurdecer, Desmontar, Parede Elemental, Frenesi, Portão, Flutuar, Ódio, Identificar Proprietário, Arrombar, Pacificar, Levantar os Mortos, Levantar Espírito, Escudo, Adormecer, Forma de Fumaça, Telecinese, Telepatia, Teletransporte, Visão, Marca de Mago_.
+- Carregam até seis dos seguintes grimórios: _Animar Objeto, Olho Arcano, Ensurdecer, Desmontar, Parede Elemental, Frenesi, Portão, Flutuar, Ódio, Identificar Proprietário, Arrombar, Pacificar, Levantar os Mortos, Levantar Espírito, Escudo, Adormecer, Forma de Fumaça, Telecinese, Telepatia, Teletransporte, Visão, Marca de Mago_.
 
 ## Mantícora
 
@@ -395,7 +395,7 @@ grand_parent: Segunda Edição
 8 PG, 9 FOR, 11 DES, 16 VON, garras (d8+d8)
 
 - Mulheres velhas e hediondas que habitam florestas mortas, pântanos e banhados.
-- Carregam três dos seguintes livros de feitiço: _Olho Arcano, Disfarce, Névoa, Identificar Proprietário, Forma de Fumaça_.
+- Carregam três dos seguintes grimórios: _Olho Arcano, Disfarce, Névoa, Identificar Proprietário, Forma de Fumaça_.
 
 ## Pesadelo
 
@@ -461,7 +461,7 @@ grand_parent: Segunda Edição
 
 - Evitam combate a menos que tenham a vantagem (como maior número).
 - Guardam seus bens roubados até a morte.
-- Goblins Raiz valorizam livros de feitiço e estão sempre dispostos a negociar.
+- Goblins Raiz valorizam grimórios e estão sempre dispostos a negociar.
 
 ## Bruxa Raiz
 
@@ -484,7 +484,7 @@ grand_parent: Segunda Edição
 6 PG, 11 FOR, 15 DES, 14 VON, garras longas (d6+d6)
 
 - Bruxas fantasmagóricas de pele verde que habitam florestas de algas e águas rasas e quentes.
-- Imunes à magia de livros de feitiço.
+- Imunes à magia de grimórios.
 - **Olhar Hediondo**: Um alvo é dominado pelo medo (PG cai para 0). Salvamento de VON a cada rodada para quebrar o feitiço.
 
 ## Sombra

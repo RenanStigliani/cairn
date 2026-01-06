@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Criando Monstros
-parent: Guia do Diretor 
+parent: Guia do Guardião 
 grand_parent: Segunda Edição
 ---
 
@@ -71,113 +71,113 @@ X PG, X Armadura, X FOR, X DES, X VON, Ataque (dX, itens especiais, _qualidades_
 
 Role 1d20 para cada coluna e combine os resultados.
 
-|         |              |             |
-| ------- | ------------ | ----------- |
-| **d20** | **Físico** | **Característica** |
-| **1** | Albino       | Antenas     |
-| **2** | Negro        | Bico        |
-| **3** | Cristalino   | Carapaça    |
-| **4** | Esquelético  | Garras      |
-| **5** | Sem olhos    | Presas      |
-| **6** | Emplumado    | Penas       |
-| **7** | Gelatinoso   | Pelagem     |
-| **8** | Brilhante    | Guelras     |
-| **9** | Endurecido   | Chifres     |
-| **10** | Sem cabeça   | Marcas      |
-| **11** | Chifrudo     | Escamas     |
-| **12** | Corcunda     | Casco       |
-| **13** | Iridescente  | Focinho     |
-| **14** | Poliocular   | Cauda       |
-| **15** | Escamoso     | Garras de ave|
-| **16** | Segmentado   | Tentáculos  |
-| **17** | Esquelético  | Tromba      |
-| **18** | Viscoso      | Presas (Elefante)|
-| **19** | Translúcido  | Voz         |
-| **20** | Retorcido    | Asas        |
+|         |             |                    |
+| ------- | ----------- | ------------------ |
+| **d20** | **Físico**  | **Característica** |
+| **1**   | Albino      | Antenas            |
+| **2**   | Negro       | Bico               |
+| **3**   | Cristalino  | Carapaça           |
+| **4**   | Esquelético | Garras             |
+| **5**   | Sem olhos   | Presas             |
+| **6**   | Emplumado   | Penas              |
+| **7**   | Gelatinoso  | Pelagem            |
+| **8**   | Brilhante   | Guelras            |
+| **9**   | Endurecido  | Chifres            |
+| **10**  | Sem cabeça  | Marcas             |
+| **11**  | Chifrudo    | Escamas            |
+| **12**  | Corcunda    | Casco              |
+| **13**  | Iridescente | Focinho            |
+| **14**  | Poliocular  | Cauda              |
+| **15**  | Escamoso    | Garras de ave      |
+| **16**  | Segmentado  | Tentáculos         |
+| **17**  | Esquelético | Tromba             |
+| **18**  | Viscoso     | Presas (Elefante)  |
+| **19**  | Translúcido | Voz                |
+| **20**  | Retorcido   | Asas               |
 
 ## Traços do Monstro
 
 Role 1d20 para cada coluna e combine os resultados.
 
-|         |                          |                 |
-| ------- | ------------------------ | --------------- |
-| **d20** | **Peculiaridades** | **Fraqueza** |
-| **1** | Altera seu tamanho à vontade | Álcool      |
-| **2** | Muda de cor à vontade    | Frio            |
-| **3** | Coleciona flores raras   | Conversa        |
-| **4** | Coleciona troféus        | Adulação        |
-| **5** | Não morre de velhice     | Jogos           |
-| **6** | Desenha símbolos         | Presentes       |
-| **7** | Fascinado por fogo       | Ferro           |
-| **8** | Acumula livros           | Ruídos altos    |
-| **9** | Ama uma cor específica   | Espelhos        |
-| **10** | Renasce a cada dia       | Cores berrantes |
-| **11** | Ama objetos brilhantes   | Luar            |
-| **12** | Imita vozes              | Música          |
-| **13** | Move-se em linha reta    | Refeições prontas|
-| **14** | Narra tudo               | Enigmas         |
-| **15** | Limpa obsessivamente     | Ícones religiosos|
-| **16** | Plantas crescem em seu rastro | Sal        |
-| **17** | Dorme de cabeça para baixo | Prata         |
-| **18** | Fala em rimas            | Luz solar       |
-| **19** | Sua suor é mineral raro  | Nome Verdadeiro |
-| **20** | Reproduz-se assexuadamente | Ponto fraco   |
+|         |                               |                   |
+| ------- | ----------------------------- | ----------------- |
+| **d20** | **Peculiaridades**            | **Fraqueza**      |
+| **1**   | Altera seu tamanho à vontade  | Álcool            |
+| **2**   | Muda de cor à vontade         | Frio              |
+| **3**   | Coleciona flores raras        | Conversa          |
+| **4**   | Coleciona troféus             | Adulação          |
+| **5**   | Não morre de velhice          | Jogos             |
+| **6**   | Desenha símbolos              | Presentes         |
+| **7**   | Fascinado por fogo            | Ferro             |
+| **8**   | Acumula livros                | Ruídos altos      |
+| **9**   | Ama uma cor específica        | Espelhos          |
+| **10**  | Renasce a cada dia            | Cores berrantes   |
+| **11**  | Ama objetos brilhantes        | Luar              |
+| **12**  | Imita vozes                   | Música            |
+| **13**  | Move-se em linha reta         | Refeições prontas |
+| **14**  | Narra tudo                    | Enigmas           |
+| **15**  | Limpa obsessivamente          | Ícones religiosos |
+| **16**  | Plantas crescem em seu rastro | Sal               |
+| **17**  | Dorme de cabeça para baixo    | Prata             |
+| **18**  | Fala em rimas                 | Luz solar         |
+| **19**  | Sua suor é mineral raro       | Nome Verdadeiro   |
+| **20**  | Reproduz-se assexuadamente    | Ponto fraco       |
 
 ## Ataques do Monstro
 
 Role 1d20 para cada coluna e combine os resultados.
 
-|         |          |                     |
-| ------- | -------- | ------------------- |
-| **d20** | **Tipo** | **Dano Crítico** |
-| **1** | Morde    | Asfixia             |
-| **2** | Bate (Corte Cego) | Sangra       |
-| **3** | Queima   | Cega                |
-| **4** | Congela  | Quebra              |
-| **5** | Expele gás| Esmaga              |
-| **6** | Chuta    | Apodrece            |
-| **7** | Soca     | Dissolve            |
-| **8** | Atira    | Enreda              |
-| **9** | Golpeia  | Explode             |
-| **10** | Corta (Rasga)| Agarra           |
-| **11** | Fatia    | Incapacita          |
-| **12** | Estraçalha| Lacera             |
-| **13** | Borrifa   | Liquefaz           |
-| **14** | Aperta   | Paralisa            |
-| **15** | Perfura  | Petrifica           |
-| **16** | Ferroa   | Envenena            |
-| **17** | Arremessa| Punciona            |
-| **18** | Toca     | Decepa              |
-| **19** | Chicoteia| Pisoteia            |
-| **20** | Eletrocuta| Enfraquece         |
+|         |                   |                  |
+| ------- | ----------------- | ---------------- |
+| **d20** | **Tipo**          | **Dano Crítico** |
+| **1**   | Morde             | Asfixia          |
+| **2**   | Bate (Corte Cego) | Sangra           |
+| **3**   | Queima            | Cega             |
+| **4**   | Congela           | Quebra           |
+| **5**   | Expele gás        | Esmaga           |
+| **6**   | Chuta             | Apodrece         |
+| **7**   | Soca              | Dissolve         |
+| **8**   | Atira             | Enreda           |
+| **9**   | Golpeia           | Explode          |
+| **10**  | Corta (Rasga)     | Agarra           |
+| **11**  | Fatia             | Incapacita       |
+| **12**  | Estraçalha        | Lacera           |
+| **13**  | Borrifa           | Liquefaz         |
+| **14**  | Aperta            | Paralisa         |
+| **15**  | Perfura           | Petrifica        |
+| **16**  | Ferroa            | Envenena         |
+| **17**  | Arremessa         | Punciona         |
+| **18**  | Toca              | Decepa           |
+| **19**  | Chicoteia         | Pisoteia         |
+| **20**  | Eletrocuta        | Enfraquece       |
 
 ## Habilidades do Monstro
 
 Role 1d20 para cada coluna e combine os resultados.
 
-|         |             |              |
-| ------- | ----------- | ------------ |
-| **d20** | **Habilidade** | **Alvo** |
-| **1** | Absorve     | Corpo        |
-| **2** | Amplifica   | Sonhos       |
-| **3** | Atrai       | Elemento     |
-| **4** | Vincula     | Emoções      |
-| **5** | Camufla     | Energia      |
-| **6** | Conjura     | Saúde        |
-| **7** | Controla    | Audição      |
-| **8** | Desabilita  | Ilusões      |
-| **9** | Duplica     | Luz          |
-| **10** | Cresce      | Memória      |
-| **11** | Manipula    | Metal        |
-| **12** | Reflete     | Plantas      |
-| **13** | Regenera    | Espírito     |
-| **14** | Resiste     | Pedra        |
-| **15** | Inverte     | Arredores    |
-| **16** | Molda       | Tempo        |
-| **17** | Encolhe     | Visão        |
-| **18** | Transforma  | Água         |
-| **19** | Aprisiona   | Clima        |
-| **20** | Eletrocuta  | Fraqueza     |
+|         |                |           |
+| ------- | -------------- | --------- |
+| **d20** | **Habilidade** | **Alvo**  |
+| **1**   | Absorve        | Corpo     |
+| **2**   | Amplifica      | Sonhos    |
+| **3**   | Atrai          | Elemento  |
+| **4**   | Vincula        | Emoções   |
+| **5**   | Camufla        | Energia   |
+| **6**   | Conjura        | Saúde     |
+| **7**   | Controla       | Audição   |
+| **8**   | Desabilita     | Ilusões   |
+| **9**   | Duplica        | Luz       |
+| **10**  | Cresce         | Memória   |
+| **11**  | Manipula       | Metal     |
+| **12**  | Reflete        | Plantas   |
+| **13**  | Regenera       | Espírito  |
+| **14**  | Resiste        | Pedra     |
+| **15**  | Inverte        | Arredores |
+| **16**  | Molda          | Tempo     |
+| **17**  | Encolhe        | Visão     |
+| **18**  | Transforma     | Água      |
+| **19**  | Aprisiona      | Clima     |
+| **20**  | Eletrocuta     | Fraqueza  |
 
 ## Exemplo de Monstro
 
@@ -209,7 +209,7 @@ Não existe um sistema perfeito para conversão de outros sistemas. Aqui estão 
 
 |         |     |     |     |     |
 | ------- | --- | --- | --- | --- |
-| **ML** | 4   | 8   | 10  | 12  |
+| **ML**  | 4   | 8   | 10  | 12  |
 | **VON** | 6   | 12  | 15  | 18  |
 
 ### Salvamentos
@@ -220,11 +220,11 @@ Não existe um sistema perfeito para conversão de outros sistemas. Aqui estão 
 
 |                                |                    |
 | ------------------------------ | ------------------ |
-| **Morte ou Veneno** | **FOR** |
-| **Varinhas** | **DES** |
-| **Paralisia ou Petrificação** | **VON** ou **FOR** |
-| **Ataques de Sopro** | **DES** ou **FOR** |
-| **Feitiços, Cajados ou Varas** | **VON** |
+| **Morte ou Veneno**            | **FOR**            |
+| **Varinhas**                   | **DES**            |
+| **Paralisia ou Petrificação**  | **VON** ou **FOR** |
+| **Ataques de Sopro**           | **DES** ou **FOR** |
+| **Feitiços, Cajados ou Varas** | **VON**            |
 
 ### Combate
 
@@ -236,13 +236,13 @@ Não existe um sistema perfeito para conversão de outros sistemas. Aqui estão 
 
 - Às vezes, as mecânicas do sistema original simplesmente *não se traduzem*. Tudo bem! Tente focar no que é mais interessante sobre a criatura e escreva uma "versão" de sua habilidade mais apropriada para Cairn.
 - Habilidades às vezes podem ser transformadas em ataques (com um dado de dano), deixando o Dano Crítico para revelar o impacto real.
-- Se o monstro tem um ataque que pede aos PJs para tentarem esquivar ou salvar contra alguma habilidade, considere transformar a habilidade em uma "armadilha" fora de combate que os PJs podem ativar. Caso contrário, faça-a ter sucesso automaticamente. O combate é perigoso, e cabe ao Diretor telegrafar adequadamente o perigo antes que a luta comece.
+- Se o monstro tem um ataque que pede aos PJs para tentarem esquivar ou realizar um salvamento contra alguma habilidade, considere transformar a habilidade em uma "armadilha" fora de combate que os PJs podem ativar. Caso contrário, faça-a ter sucesso automaticamente. O combate é perigoso, e cabe ao Guardião telegrafar adequadamente o perigo antes que a luta comece.
 
 ### Magia
 
-- Criaturas mágicas podem "conhecer" um monte de feitiços sem precisar carregar Livros de Feitiço. Nesse caso, torne seus cadáveres mágicos (e perigosos)!
-- Feitiços são complicados; você pode dar Livros de Feitiço a usuários de magia, mas lembre-se, eles podem *deixá-los cair* ao serem derrotados.
-- Considere fazer com que alguns dos Livros de Feitiço caídos implodam (use o Dado de Sorte para determinar quais).
+- Criaturas mágicas podem "conhecer" um monte de feitiços sem precisar carregar grimórios. Nesse caso, torne seus cadáveres mágicos (e perigosos)!
+- Feitiços são complicados; você pode dar grimórios a usuários de magia, mas lembre-se, eles podem *deixá-los cair* ao serem derrotados.
+- Considere fazer com que alguns dos grimórios caídos implodam (use o Dado de Sorte para determinar quais).
 
 ### Use a Ficção
 

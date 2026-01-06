@@ -52,7 +52,7 @@ Quando os PJs encontram um PNJ cuja reação ao grupo não é óbvia, o Guardiã
 ## Moral
 
 - Os inimigos devem passar por um teste de VON para evitar fugir quando sofrerem a primeira baixa e novamente quando perderem metade dos membros de seu grupo. 
-- Alguns grupos podem usar a VON do seu líder no lugar de sua própria. Inimigos solitários devem realizar um teste de resistência quando forem reduzidos a 0 PG. 
+- Alguns grupos podem usar a VON do seu líder no lugar de sua própria. Inimigos solitários devem realizar um salvamento quando forem reduzidos a 0 PG. 
 - A moral não afeta os PJs.
 
 ## Mercenários
@@ -92,8 +92,8 @@ Em seu turno, um personagem pode se mover até 12 metros e realizar até uma aç
 
 ### Modificadores de Ataque
 
-- Se estiver lutando em uma posição desvantajosa (como atrás de cobertura ou com as mãos amarradas), o ataque tem _Desvantagem_ e o atacante deve rolar 1d4 de dano independentemente de qual seja dado de dano de ataque. Ataques desarmados sempre causam 1d4 de dano.
-- Se estiver lutando em uma posição vantajosa (como contra um inimigo indefeso ou por meio de uma manobra ousada), o ataque tem _Vantagem_, permitindo ao atacante rolar 1d12 de dano em vez de seu dado normal.
+- Se estiver lutando em uma posição desvantajosa (como atrás de cobertura ou com as mãos amarradas), o ataque é _Prejudicado_ e o atacante deve rolar 1d4 de dano independentemente de qual seja dado de dano de ataque. Ataques desarmados sempre causam 1d4 de dano.
+- Se estiver lutando em uma posição vantajosa (como contra um inimigo indefeso ou por meio de uma manobra ousada), o ataque é _aprimorado_, permitindo ao atacante rolar 1d12 de dano em vez de seu dado normal.
 - Ataques com a qualidade _Explosivo_ afetam todos os alvos na área indicada, rolando separadamente para cada personagem afetado.
  Explosões podem se referir a qualquer coisa, desde explosões de fato até o sopro de um dragão ou o impacto de um meteorito. Se não tiver certeza de quantos alvos podem ser afetados, _role o dado de dano relacionado para obter um resultado_.
 - Ao atacar com duas armas ao mesmo tempo, role ambos os dados de dano e mantenha apenas o maior resultado (indicado com um símbolo de mais, por exemplo, d8+d8).
@@ -115,7 +115,7 @@ Em seu turno, um personagem pode se mover até 12 metros e realizar até uma aç
 ### Destacamentos
 
 - Grandes grupos de combatentes semelhantes lutando juntos são tratados como um único _Destacamento_. Quando um _destacamento_ sofre **Dano Crítico**, ele é dispersado ou significativamente enfraquecido. Quando a FOR dele chega a 0, o destacamento é destruído.
-- Quando um indivíduo faz um ataque contra um destacamento, este ataque tem _Desvantagem_ (exceto danos de _explosão_). Quando um destacamento faz um ataque contra indivíduos, este ataque tem _Vantagem_ e causa dano de _explosão_.
+- Quando um indivíduo faz um ataque contra um destacamento, este ataque é _Prejudicado_ (exceto danos de _explosão_). Quando um destacamento faz um ataque contra indivíduos, este ataque é _aprimorado_ e causa dano de _explosão_.
 
 ### Retirada
 
@@ -123,7 +123,7 @@ Em seu turno, um personagem pode se mover até 12 metros e realizar até uma aç
 
 ### Ataques a Distância
 
-- Armas de longo alcance podem mirar em qualquer inimigo que esteja perto o suficiente para ver o branco de seus olhos. Ataques contra alvos especialmente distantes têm _Desvantagem_.
+- Armas de longo alcance podem mirar em qualquer inimigo que esteja perto o suficiente para ver o branco de seus olhos. Ataques contra alvos especialmente distantes são _Prejudicados_.
 - A munição não é contabilizada, a menos que especificado de outra forma. 
 
 ## Cicatrizes
@@ -158,7 +158,7 @@ Se o dano a um PJ reduzir seus PG exatamente a 0, consulte o resultado na tabela
 ### Conjuração de Magias
 
 - Qualquer pessoa pode lançar um feitiço segurando um grimório com as duas mãos e lendo seu conteúdo em voz alta.  Depois disso, deve adicionar **Fadiga** ao inventário. 
-- Com tempo e segurança, os personagens podem _aprimorar_ (e ter Vantagem) o efeito de um feitiço (ex.: atingir múltiplos alvos, aumentar seu poder etc.) sem custo adicional. 
+- Com tempo e segurança, os personagens podem _aprimorar_ o efeito de um feitiço (ex.: atingir múltiplos alvos, aumentar seu poder etc.) sem custo adicional. 
 - Se o personagem estiverem _Privados_ ou em perigo (como em combate), o Guardião pode exigir um salvamento de VON para evitar efeitos colaterais ao lançar feitiços. As consequências da falha são proporcionais ao efeito pretendido e podem incluir Fadiga adicional, destruição do grimório, ferimentos ou até morte.
 
 ### Pergaminhos

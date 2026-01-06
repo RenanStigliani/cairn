@@ -1,7 +1,7 @@
 ---
 title: Forest Seeds
 layout: default
-parent: Guia do Diretor 
+parent: Guia do Guardião 
 grand_parent: Segunda Edição
 ---
 
@@ -14,7 +14,7 @@ Um *forestcrawl* é um método simples para explorar uma grande área florestal,
 ### Explorando o Bosque
 
 - Siga os procedimentos de exploração de *Masmorra* encontrados no Guia do Jogador, mas, em vez de rolar para Eventos de Masmorra, use a tabela de Eventos de Ermos.
-- Se o grupo tentar sair da trilha e cortar caminho pela floresta, o Diretor deve deixar claro quaisquer custos associados: tempo de viagem adicional, esforço, ferramentas especiais que possam ser necessárias e quaisquer perigos óbvios. Sair da trilha também ativa automaticamente uma rolagem na tabela de Eventos de Ermos.
+- Se o grupo tentar sair da trilha e cortar caminho pela floresta, o Guardião deve deixar claro quaisquer custos associados: tempo de viagem adicional, esforço, ferramentas especiais que possam ser necessárias e quaisquer perigos óbvios. Sair da trilha também ativa automaticamente uma rolagem na tabela de Eventos de Ermos.
 - Os pontos em um *forestcrawl* são próximos uns dos outros. Ao viajar por trilhas claramente marcadas, uma floresta pequena (10-15 PDIs) pode ser explorada em uma única Vigília.
 - Confie na ficção e no bom senso para determinar quanta luz do dia está disponível, se uma área adequada está disponível para descanso e quais custos ou perigos a floresta pode conter na escuridão.
 
@@ -539,7 +539,7 @@ Três **edificações** inundadas brotam do centro de uma pequena lagoa, seus te
 - **Tapeçarias:** Mofadas e irrecuperáveis.
   - Originalmente retratavam a abadia em sua antiga glória e os monges que viviam aqui.
 - **Chão:** Uma das tábuas de madeira está menos murcha que as outras. Cheira levemente a algo floral.
-  - Abaixo da tábua está um Livro de Feitiço oculto, *Caminho do Anseio*.
+  - Abaixo da tábua há Grimório oculto, *Caminho do Anseio*.
 - **Escadaria:** Completamente submersa. As salas abaixo contêm apenas cadáveres flutuantes e livros arruinados.
 
 #### *Caminho do Anseio*

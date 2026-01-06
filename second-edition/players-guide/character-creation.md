@@ -37,7 +37,7 @@ nav_order: 1
 
 ## Atributos
 
-- Um Personagem Jogador tem apenas três Atributos: **Força (FOR)**, **Destreza (DES)** e **Força de Vontade (VON)**. 
+- Um Personagem Jogador tem apenas três Atributos: **Força (FOR)**, **Destreza (DES)** e **Vontade (VON)**. 
 - Role 3d6 para cada um dos **Atributos** do seu personagem, em ordem. Você pode então trocar quaisquer dois dos resultados entre sí. 
 - Atributos não são descritores universais. Um personagem com FOR baixa não é necessariamente irremediavelmente fraco; ele ainda pode tentar levantar uma porta pesada ou sobreviver a uma luta mortal! O risco é simplesmente maior. 
 

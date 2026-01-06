@@ -25,7 +25,7 @@ Encontre abaixo cópias impressas do jogo (em inglês).
 
 - [Encadernação Perfeita](https://www.drivethrurpg.com/en/product/500476/cairn-player-s-guide-2nd-edition) (Em Breve!)
 
-## Guia do Diretor Cairn 2ª Edição
+## Guia do Guardião Cairn 2ª Edição
 
 ### Impressões Offset (a preço de custo)
 - [Loja Cairn](https://store.cairnrpg.com/products/cairn-wardens-guide-second-edition)  

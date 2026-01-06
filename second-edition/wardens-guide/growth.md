@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Crescimento
-parent: Guia do Diretor
+parent: Guia do Guardião
 grand_parent: Segunda Edição
 ---
 
