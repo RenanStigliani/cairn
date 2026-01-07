@@ -62,13 +62,13 @@ nav_order: 1
 
 ### Físico
 
-| d10 | Característica | d10 | Característica |
-| --- | -------------- | --- | -------------- |
-| 1   | Alto           | 6   | Esguio         |
-| 2   | Atlético       | 7   | Flácido        |
-| 3   | Baixo          | 8   | Magricelo      |
-| 4   | Calejado       | 9   | Musculoso      |
-| 5   | Escultural     | 10  | Robusto        |
+| d10   | Característica | d10    | Característica |
+| ----- | -------------- | ------ | -------------- |
+| **1** | Atlético       | **6**  | Magricelo      |
+| **2** | Musculoso      | **7**  | Baixo          |
+| **3** | Flácido        | **8**  | Escultural     |
+| **4** | Esguio         | **9**  | Robusto        |
+| **5** | Calejado       | **10** | Alto           |
 
 ### Pele
 
@@ -82,63 +82,63 @@ nav_order: 1
 
 ### Cabelo
 
-| d10 | Característica | d10 | Característica |
-| --- | -------------- | --- | -------------- |
-| 1   | Cacheado       | 6   | Oleoso         |
-| 2   | Careca         | 7   | Ondulado       |
-| 3   | Crespo         | 8   | Ralo           |
-| 4   | Longo          | 9   | Sujo           |
-| 5   | Luxuoso        | 10  | Trançado       |
+| d10   | Característica | d10    | Característica |
+| ----- | -------------- | ------ | -------------- |
+| **1** | Careca         | **6**  | Longo          |
+| **2** | Trançado       | **7**  | Luxuoso        |
+| **3** | Cacheado       | **8**  | Oleoso         |
+| **4** | Sujo           | **9**  | Ondulado       |
+| **5** | Crespo         | **10** | Ralo           |
 
 ### Rosto
 
-| d10 | Característica | d10 | Característica |
-| --- | -------------- | --- | -------------- |
-| 1   | Alongado       | 6   | Perfeito       |
-| 2   | Encovado       | 7   | Pálido         |
-| 3   | Esculpido      | 8   | Quadrado       |
-| 4   | Fino           | 9   | Quebrado       |
-| 5   | Ossudo         | 10  | Redondo        |  |
+| d10   | Característica | d10    | Característica |
+| ----- | -------------- | ------ | -------------- |
+| **1** | Ossudo         | **6**  | Perfeito       |
+| **2** | Quebrado       | **7**  | Galante        |
+| **3** | Esculpido      | **8**  | Pontudo        |
+| **4** | Alongado       | **9**  | Quadrado       |
+| **5** | Pálido         | **10** | Fundo          |
 
 ### Fala
 
-| d10 | Característica | d10 | Característica |
-| --- | -------------- | --- | -------------- |
-| 1   | Direta         | 6   | Grave          |
-| 2   | Enigmática     | 7   | Precisa        |
-| 3   | Estridente     | 8   | Sussurrante    |
-| 4   | Formal         | 9   | Trovejante     |
-| 5   | Gagueja        | 10  | Zumbida        |
+| d10   | Característica | d10    | Característica |
+| ----- | -------------- | ------ | -------------- |
+| **1** | Direta         | **6**  | Grave          |
+| **2** | Trovejante     | **7**  | Precisa        |
+| **3** | Enigmática     | **8**  | Estridente     |
+| **4** | Zumbida        | **9**  | Gagueja        |
+| **5** | Formal         | **10** | Sussurrante    |
 
 ### Roupas
 
-| d10 | Característica | d10 | Característica |
-| --- | -------------- | --- | -------------- |
-| 1   | Antiquadas     | 6   | Ensanguentadas |
-| 2   | Desalinhadas   | 7   | Estranhas      |
-| 3   | Desgastadas    | 8   | Imundas        |
-| 4   | Elegantes      | 9   | Rançosas       |
-| 5   | Enlameadas     | 10  | Uniformes      |
+| d10   | Característica | d10    | Característica |
+| ----- | -------------- | ------ | -------------- |
+| **1** | Antiquadas     | **6**  | Desgastadas    |
+| **2** | Ensanguentadas | **7**  | Desalinhadas   |
+| **3** | Elegantes      | **8**  | Uniformes      |
+| **4** | Imundas        | **9**  | Rançosas       |
+| **5** | Estrangeiras   | **10** | Enlameadas     |
 
-### VIrtude
+### Virtude
 
-| d10 | Característica | d10 | Característica |
-| --- | -------------- | --- | -------------- |
-| 1   | Ambicioso      | 6   | Humilde        |
-| 2   | Cauteloso      | 7   | Piedoso        |
-| 3   | Corajoso       | 8   | Sereno         |
-| 4   | Disciplinado   | 9   | Sociável       |
-| 5   | Honrável       | 10  | Tolerante      |
+| d10   | Característica | d10    | Característica |
+| ----- | -------------- | ------ | -------------- |
+| **1** | Ambicioso      | **6**  | Honrável       |
+| **2** | Cauteloso      | **7**  | Humilde        |
+| **3** | Corajoso       | **8**  | Piedoso        |
+| **4** | Disciplinado   | **9**  | Sereno         |
+| **5** | Sociável       | **10** | Tolerante      |
 
 ### Vício
 
-| d10 | Característica | d10 | Característica |
-| --- | -------------- | --- | -------------- |
-| 1   | Agressivo      | 6   | Preguiçoso     |
-| 2   | Amargurado     | 7   | Rude           |
-| 3   | Covarde        | 8   | Traiçoeiro     |
-| 4   | Ganancioso     | 9   | Vaidoso        |
-| 5   | Nervoso        | 10  | Vingativo      |
+| d10   | Característica | d10    | Característica |
+| ----- | -------------- | ------ | -------------- |
+| **1** | Agressivo      | **6**  | Preguiçoso     |
+| **2** | Amargurado     | **7**  | Nervoso        |
+| **3** | Covarde        | **8**  | Rude           |
+| **4** | Traiçoeiro     | **9**  | Vaidoso        |
+| **5** | Ganancioso     | **10** | Vingativo      |
 
 ## Vínculos
 
