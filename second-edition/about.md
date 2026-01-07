@@ -6,20 +6,11 @@ nav_order: 7
 
 # Sobre essa Tradução
 
-## Diferenças Intencionais em Relação à Primeira Edição
+## Diferenças Intencionais em Relação à Outras Edições
 
-| 1ª Edição         | 2ª Edição   | Justificativa                                              |
-| ----------------- | ----------- | ---------------------------------------------------------- |
-| Diretor           | Guardião    | Alinhamento com o termo original "Warden"                  |
-| Força de Vontade  | Vontade     | Brevidade e evitar confusão com Força em leitura rápida    |
-| Livros de Feitiço | Grimórios   | Alinhamento com o termo original "Spellbooks" na 2ª edição |
-| Empregados        | Mercenários | Alinhamento com o termo original "Hirelings"               |
-
-## Atualizações na Tabela de Cicatrizes
-
-| 1ª Edição                        | 2ª Edição                         |
-| -------------------------------- | --------------------------------- |
-| Osso Quebrado                    | Membro Quebrado                   |
-| Recerebrado                      | Reconfiguração Mental             |
-| Decepado                         | Membro Estropiado                 |
-| Ferimento Reorientador na Cabeça | Ferimento Desorientador na Cabeça |
+| 1ª Edição         | 2ª Edição Original | 2ª Edição     | Justificativa                                                                                                                    |
+| ----------------- | ------------------ | ------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Diretor           | Warden             | Guardião      | Termo mais comum no meio do RPG; evita a ambiguidade com "diretor" (escolar ou cinematográfico).                                 |
+| Força de Vontade  | Will               | Vontade       | Mais conciso, alinha-se à abreviação VON e evita confusão visual com o atributo "Força".                                         |
+| Livros de Feitiço | Spellbook          | Tomo de Magia | Enfatiza a natureza volumosa do objeto, que contém apenas um feitiço.                                                            |
+| Empregados        | Hireling           | Mercenários   | "Empregado" soa anacrônico. "Mercenário" adequa-se melhor ao tom, embora carregue uma conotação de combate nem sempre aplicável. |

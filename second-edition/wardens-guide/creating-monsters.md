@@ -240,9 +240,9 @@ Não existe um sistema perfeito para conversão de outros sistemas. Aqui estão 
 
 ### Magia
 
-- Criaturas mágicas podem "conhecer" um monte de feitiços sem precisar carregar grimórios. Nesse caso, torne seus cadáveres mágicos (e perigosos)!
-- Feitiços são complicados; você pode dar grimórios a usuários de magia, mas lembre-se, eles podem *deixá-los cair* ao serem derrotados.
-- Considere fazer com que alguns dos grimórios caídos implodam (use o Dado de Sorte para determinar quais).
+- Criaturas mágicas podem "conhecer" um monte de feitiços sem precisar carregar Tomos de Magia. Nesse caso, torne seus cadáveres mágicos (e perigosos)!
+- Feitiços são complicados; você pode dar Tomos à usuários de magia, mas lembre-se, eles podem *deixá-los cair* ao serem derrotados.
+- Considere fazer com que alguns dos Tomos caídos implodam (use o Dado de Sorte para determinar quais).
 
 ### Use a Ficção
 

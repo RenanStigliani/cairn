@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Grimórios
+title: Tomos de Magia
 parent: Guia do Guardião 
 grand_parent: Segunda Edição
 ---
 
-# Grimórios
+# Tomos de Magia
 
 |        |                         |                                                                                                                                                                                                        |
 | ------ | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -57,7 +57,7 @@ grand_parent: Segunda Edição
 | **46** | **Arrombar**            | Uma fechadura mundana ou mágica próxima destranca ruidosamente. _Trancado. Um novo dono "produz" a chave após sua próxima refeição._                                                                   |
 | **47** | **Saltar**              | Você pula até 3m de altura, uma vez. _Quando jogado, ele simplesmente continua indo._                                                                                                                  |
 | **48** | **Ar Líquido**          | O ar ao seu redor torna-se nadável. _Flutua por vontade própria, quicando em qualquer coisa que toque._                                                                                                |
-| **49** | **Abafador de Magia**   | Todos os efeitos mágicos próximos têm sua eficácia reduzida pela metade. _Relíquias a menos de 30m do grimório não podem ser recarregadas._                                                            |
+| **49** | **Abafador de Magia**   | Todos os efeitos mágicos próximos têm sua eficácia reduzida pela metade. _Relíquias a menos de 30m do Tomo não podem ser recarregadas._                                                                |
 | **50** | **Mansão**              | Uma casa de campo robusta e mobiliada aparece por horas. Você pode permitir e proibir a entrada nela à vontade. _Se deixado dentro, tanto o livro quanto a casa desaparecem para sempre._              |
 | **51** | **Loucura de Gude**     | Seus bolsos ficam cheios de bolas de gude e reabastecem a cada 30 segundos. _Quando sacudido, faz um som de chocalho brincalhão._                                                                      |
 | **52** | **Máscara**             | A aparência e a voz de um personagem tornam-se idênticas às de um personagem que você toca. _O uso prolongado faz com que o dono desenvolva tiques inconscientes, porém perceptíveis._                 |

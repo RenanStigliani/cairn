@@ -539,7 +539,7 @@ Três **edificações** inundadas brotam do centro de uma pequena lagoa, seus te
 - **Tapeçarias:** Mofadas e irrecuperáveis.
   - Originalmente retratavam a abadia em sua antiga glória e os monges que viviam aqui.
 - **Chão:** Uma das tábuas de madeira está menos murcha que as outras. Cheira levemente a algo floral.
-  - Abaixo da tábua há Grimório oculto, *Caminho do Anseio*.
+  - Abaixo da tábua há um Tomo de Magiaoculto, *Caminho do Anseio*.
 - **Escadaria:** Completamente submersa. As salas abaixo contêm apenas cadáveres flutuantes e livros arruinados.
 
 #### *Caminho do Anseio*

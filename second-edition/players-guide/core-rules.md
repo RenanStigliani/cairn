@@ -148,21 +148,21 @@ Se o dano a um PJ reduzir seus PG exatamente a 0, consulte o resultado na tabela
 
 ## Magia
 
-### Grimórios 
+### Tomos de Magia
 
-- **Grimórios** contêm um único feitiço e ocupam um espaço de inventário. Não podem ser facilmente transcritos ou criados; em vez disso, são recuperados de locais como tumbas, masmorras e mansões.
-- Às vezes, os grimórios apresentam propriedades ou limitações incomuns, como exalam um cheiro fétido ou sobrenatural quando abertos, possuem inteligência própria ou são legíveis somente sob a luz da lua.
-- Grimórios atraem a atenção de daqueles que buscam seus poderes arcanos, e é considerado perigoso exibi-los abertamente.
+- **Tomos de Magia** contêm um único feitiço e ocupam um espaço de inventário. Não podem ser facilmente transcritos ou criados; em vez disso, são recuperados de locais como tumbas, masmorras e mansões.
+- Às vezes, os Tomos apresentam propriedades ou limitações incomuns, como exalam um cheiro fétido ou sobrenatural quando abertos, possuem inteligência própria ou são legíveis somente sob a luz da lua.
+- Tomos atraem a atenção de daqueles que buscam seus poderes arcanos, e é considerado perigoso exibi-los abertamente.
 
 ### Conjuração de Magias
 
-- Qualquer pessoa pode lançar um feitiço segurando um Grimório com as duas mãos e lendo seu conteúdo em voz alta. Depois disso, adicionam uma **Fadiga** ao inventário. 
+- Qualquer pessoa pode lançar um feitiço segurando um Tomo com as duas mãos e lendo seu conteúdo em voz alta. Depois disso, adicionam uma **Fadiga** ao inventário. 
 - Com tempo e segurança, os personagens podem _aprimorar_ o efeito de um feitiço (ex.: atingir múltiplos alvos, aumentar seu poder etc.) sem custo adicional. 
-- Se o personagem estiverem _privados_ ou em perigo (como em combate), o Guardião pode exigir um salvamento de VON para evitar efeitos colaterais ao lançar feitiços. As consequências da falha são proporcionais ao efeito pretendido e podem incluir Fadiga adicional, destruição do Grimório, ferimentos ou até morte.
+- Se o personagem estiverem _privados_ ou em perigo (como em combate), o Guardião pode exigir um salvamento de VON para evitar efeitos colaterais ao lançar feitiços. As consequências da falha são proporcionais ao efeito pretendido e podem incluir Fadiga adicional, destruição do Tomo, ferimentos ou até morte.
 
 ### Pergaminhos
 
-**Pergaminhos** são similares a Grimórios, mas:
+**Pergaminhos** são similares a Tomos, mas:
 
 - São _miudezas_.
 - Não causam **Fadiga**.

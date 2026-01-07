@@ -18,7 +18,7 @@ Solena, Veles, Bryn, Sabina, Razvan, Rowena, Galeno, Nix, Vex, Iwan, Síbila, É
 - 3d6 Peças de Ouro
 - Rações (3 usos)
 - Tocha (3 usos) 
-- grimórios (Matagal: Um matagal de árvores e arbustos densos de até 15m de largura brota repentinamente. _Envolto em vinhas que devem ser destruídas novamente a cada uso._)
+- Tomo de Magia (Matagal: Um matagal de árvores e arbustos densos de até 15m de largura brota repentinamente. _Envolto em vinhas que devem ser destruídas novamente a cada uso._)
 - Adaga de Ferro (d6)
 - Bolsa de Ervas (restaura 1 FOR, 3 usos)
 - Traje Ghillie
