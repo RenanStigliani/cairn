@@ -56,7 +56,7 @@ nav_order: 3
 
 ## Mercenários (por dia)
 
-| MMercenário         | PO  |
+| Mercenário          | PO  |
 | ------------------- | --- |
 | Alquimista          | 30  |
 | Tratador de Animais | 5   |
