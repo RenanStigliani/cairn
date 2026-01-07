@@ -44,5 +44,3 @@ Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 | 4   | **Pasta de Latoeiro**  | Veda qualquer abertura do tamanho de um punho. 3 usos.                                                                                                                                                          |
 | 5   | **Fogos de Artifício** | Uma exibição deslumbrante, embora perigosa. Material explosivo suficiente para arrancar um dedo ou três. 2 usos restantes.                                                                                      |
 | 6   | **Gato Carniceiro**    | Um animal de estimação inteligente, pequeno o suficiente para se esconder em sua mochila (_volumoso_), mas forte o suficiente para assustar predadores menores. Requer uma **Ração** por dia, e deve ser carne. |
-|     |                        |                                                                                                                                                                                                                 |
-
