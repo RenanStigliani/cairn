@@ -13,8 +13,8 @@ nav_order: 5
 ### O Básico
 
 - O ciclo de exploração de masmorras (veja abaixo) é dividido em uma série de **Turnos**, **Ações** e suas consequências. 
-- No seu **turno**, um personagem pode se mover por uma distância igual ao perímetro da luz de sua tocha (cerca de 12 metros) e realizar **uma ação**. Os jogadores podem usar sua **ação** para se mover até três vezes essa distância, mas isso aumentará a chance de acionar uma rolagem na tabela de [**Eventos da Masmorra**](#Eventos-da-Masmorra).
-- O **Guardião** deve apresentar informações óbvias sobre uma área e seus perigos livremente e sem custo. Mover-se rapidamente ou sem cautela pode aumentar a chance de encontrar um monstro errante, acionar uma armadilha ou provocar uma rolagem na tabela de [**Eventos da Masmorra**](#Eventos-da-Masmorra).
+- No seu **turno**, um personagem pode se mover por uma distância igual ao perímetro da luz de sua tocha (cerca de 12 metros) e realizar **uma ação**. Os jogadores podem usar sua **ação** para se mover até três vezes essa distância, mas isso aumentará a chance de acionar uma rolagem na tabela de [**Eventos da Masmorra**](#eventos-da-masmorra).
+- O **Guardião** deve apresentar informações óbvias sobre uma área e seus perigos livremente e sem custo. Mover-se rapidamente ou sem cautela pode aumentar a chance de encontrar um monstro errante, acionar uma armadilha ou provocar uma rolagem na tabela de [**Eventos da Masmorra**](#eventos-da-masmorra).
 
 > Embora o termo “masmorra” [Dungeon] seja usado aqui, ele pode significar qualquer local perigoso (mansões, fazendas, locais de aventura, etc.).
 
@@ -22,7 +22,7 @@ nav_order: 5
 
 1. O **Guardião** descreve o que cerca o grupo e quaisquer perigos imediatos (combate, armadilhas, surpresas etc.). Os jogadores então declaram os movimentos e **ações** pretendidos de seus personagens. 
 2. O Guardião resolve as **ações** de cada personagem simultaneamente, juntamente com quaisquer **ações** já em andamento. Lembre-se: o Dado de Sorte pode ser uma ferramenta útil sempre que o Guardião estiver em dúvida!
-3. Os jogadores registram qualquer perda de recursos e quaisquer novas condições (uso de itens, _privação_, etc.). O ciclo então começa novamente. e apropriado, o **Guardião** deve rolar na tabela de [**Eventos da Masmorra**](#Eventos-da-Masmorra). Use o bom senso ao interpretar os resultados! 
+3. Os jogadores registram qualquer perda de recursos e quaisquer novas condições (uso de itens, _privação_, etc.). O ciclo então começa novamente. e apropriado, o **Guardião** deve rolar na tabela de [**Eventos da Masmorra**](#eventos-da-masmorra). Use o bom senso ao interpretar os resultados! 
 
 ### Eventos da Masmorra
 
@@ -38,7 +38,7 @@ Quando o grupo:
 
 |  1d6  |              |                                                                                                         |
 | :---: | :----------: | :------------------------------------------------------------------------------------------------------ |
-| **1** | **Encontro** | Role em uma tabela de encontros. Possivelmente **hostil**. (Veja [Reações](core-rules.md#Reações).)     |
+| **1** | **Encontro** | Role em uma tabela de encontros. Possivelmente **hostil**. (Veja [Reações](core-rules.md#reações).)     |
 | **2** |  **Sinal**   | Um indício, rastro, pegada, covil abandonado, cheiro, vítima etc. é descoberto.                         |
 | **3** | **Ambiente** | O ambiente muda ou se agrava. A água sobe, tetos desabam, um ritual se aproxima da conclusão etc.       |
 | **4** |  **Perda**   | Tochas se apagam, uma magia em andamento se desfaz etc. O grupo deve resolver o efeito antes de seguir. |
@@ -164,14 +164,14 @@ A cada dia, o Guardião deve rolar na tabela de clima para a estação apropriad
 ### Ciclo de Exploração na Natureza Selvagem
 
 1. O **Guardião** descreve o **ponto** ou **região** atual no mapa e como o caminho, o clima, o terreno ou o estado do grupo podem afetar a **velocidade de viagem**. O grupo traça ou ajusta um curso em direção ao destino. 
-2. Cada membro do grupo escolhe uma única **Ação na Natureza Selvagem**. O **Guardião** narra os resultados e, em seguida, rola na tabela de [**Eventos na Natureza Selvagem**](#Eventos-na-Natureza-Selvagem). O grupo reage aos resultados.
+2. Cada membro do grupo escolhe uma única **Ação na Natureza Selvagem**. O **Guardião** narra os resultados e, em seguida, rola na tabela de [**Eventos na Natureza Selvagem**](#eventos-na-natureza-selvagem). O grupo reage aos resultados.
 3. Os **jogadores** e o **Guardião** registram qualquer perda de recursos e novas condições (por exemplo, uso de tochas, _privação_, etc.), e o ciclo se repete. 
 
 ### Eventos na Natureza Selvagem
 
 |       |                |                                                                                                                                                                                                                                           |
 | ----- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Encontro**   | Role em uma tabela de encontros para aquele tipo de terreno ou local. Não se esqueça de rolar para [reações](core-rules.md#Reações) de NPCs, se aplicável.                                                                                |
+| **1** | **Encontro**   | Role em uma tabela de encontros para aquele tipo de terreno ou local. Não se esqueça de rolar para [reações](core-rules.md#reações) de NPCs, se aplicável.                                                                                |
 | **2** | **Sinal**      | O grupo descobre uma pista, rastro ou indício de um encontro próximo, localidade, elemento oculto ou informação sobre uma área próxima.                                                                                                   |
 | **3** | **Ambiente**   | Uma mudança no clima ou no terreno.                                                                                                                                                                                                       |
 | **4** | **Perda**      | O grupo se depara com uma escolha que lhes custa um recurso (mantimentos, ferramentas, etc.), tempo ou esforço.                                                                                                                           |
@@ -183,12 +183,12 @@ A cada dia, o Guardião deve rolar na tabela de clima para a estação apropriad
 #### Noite
 
 - O grupo pode optar por viajar à noite e descansar durante o dia, mas a viagem noturna é muito mais lenta e traiçoeira!
-- Viajar à noite é sempre mais perigoso! O **Guardião** deve rolar _duas vezes_ na tabela de [**Eventos na Natureza Selvagem**](Eventos-na-Natureza-Selvagem).
+- Viajar à noite é sempre mais perigoso! O **Guardião** deve rolar _duas vezes_ na tabela de [**Eventos na Natureza Selvagem**](#eventos-na-natureza-selvagem).
 - Alguns terrenos e climas podem ser mais fáceis de atravessar à noite (o deserto, por exemplo). O **Guardião** deve equilibrar esses benefícios com os outros desafios.
 
 #### Sono
 
-- O último **turno de vigia** do dia normalmente é reservado para a ação [**Montar Acampamento**](#Montar-Acampamento).
+- O último **turno de vigia** do dia normalmente é reservado para a ação [**Montar Acampamento**](#montar-acampamento).
 - Os personagens geralmente precisam dormir todos os dias. Qualquer interrupção que vá além de algo menor pode anular ou cancelar os benefícios do sono.
 - Se o grupo pular a ação **Montar Acampamento**, cada um adiciona **Fadiga** ao inventário e fica _privado_. Além disso, viajar com privação de sono aumenta a **Dificuldade** do terreno em um nível (por exemplo, _Fácil_ se torna _Difícil_).
 
