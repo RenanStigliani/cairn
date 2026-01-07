@@ -7,209 +7,204 @@ grand_parent: Segunda Edição
 
 # Vald
 
-## Introduction
+## Introdução
 
-The implied setting of Cairn is called _Vald_, encompassing all developed or settled lands, cities, towns, forests, etc. The specific ruler is irrelevant, as most adventures will take place in smaller towns and villages, the forest, and the margins of the realm. Most inhabitants (regardless of region) refer to the local centers of power as the _Cities_, occasionally as a pejorative.
+O cenário implícito de Cairn é chamado _Vald_, abrangendo todas as terras desenvolvidas ou habitadas — cidades, vilas, florestas etc. O governante específico é irrelevante, pois a maioria das aventuras se passa em vilas e povoados menores, no bosque e nas margens do reino. A maioria dos habitantes (independentemente da região) se refere aos centros de poder locais como as *Cidades*, às vezes de forma pejorativa.
 
-Most towns and villages are built within a day's walk of one another, near sources of water and lumber. Larger villages try to be self-sufficient but may still rely on nearby farms and local hunters for food. Most settlements were originally organized around a specific industry such as lumber, brewing, fishing, or mining, and often a Fieldwarden or Beast Handler is posted to protect a community's most valuable assets.
+A maioria das vilas e povoados é construída a uma distância de até um dia de caminhada uma da outra, próxima a fontes de água e madeira. Vilas maiores tentam ser autossuficientes, mas ainda podem depender de fazendas próximas e caçadores locais para alimentação. A maioria dos assentamentos foi originalmente organizada em torno de uma indústria específica, como madeira, cervejaria, pesca ou mineração, e frequentemente um Guarda-Campo ou Domador de Feras é designado para proteger os bens mais valiosos da comunidade.
 
-Larger towns will elect a Reeve responsible for the community's well-being and external relationships. In the event of a crime or violence, a constable is empowered to enforce the local laws. Taverns and inns are common in villages close to trade routes, while large settlements often boast at least one temple or shrine.   
+Cidades maiores elegem um Intendente responsável pelo bem-estar da comunidade e pelas relações externas. No caso de crime ou violência, um condestável tem autoridade para aplicar as leis locais. Tavernas e estalagens são comuns em vilas próximas a rotas comerciais, enquanto grandes assentamentos costumam ostentar pelo menos um templo ou santuário.
 
-Established trails between larger towns are fairly common, while maintained roads are almost non-existent except to the distant cities. Itinerant merchants, Kettlewrights, and various peddlers pass through settlements on a semi-regular basis, sometimes hiring Outriders to protect and escort larger  caravans, or Rill Runners to help ferry passengers in the Riverlands.
+Trilhas estabelecidas entre os povoados maiores são bastante comuns, enquanto estradas bem conservadas são quase inexistentes, exceto para as cidades distantes. Comerciantes itinerantes, Caldeireiros e diversos mascates passam pelos povoados de forma semirregular, às vezes contratando _Batedores_ para proteger e escoltar caravanas maiores, ou _Corredeiros_ para ajudar a transportar passageiros pelas Terras Ribeirinhas.
 
-Even the smallest village may play host to scholarly types from the cities: a Scrivener, Aurifex, or Greenwise with keen interest in nearby tombs, barrows, and Gates. Often a Bonekeeper or Fungal Forager will be hired for their expertise, while clever adventurers will ensure that a Barber-Surgeon is never far away, or a Cutpurse if there is unsavory business that needs tending to. Of course, Mountebanks and Jongleurs often accompany these sorts, riding their coattails in hopes that they too will benefit from the next major discovery.
+Mesmo a menor vila pode receber visitantes eruditos das cidades: um Escrivaneiro, Ourivex ou Verdessábio com interesse em tumbas, túmulos e Portões próximos. Frequentemente, um Zelador de Ossos ou Coletor de Fungos é contratado por sua experiência, enquanto aventureiros astutos garantem que um Barbeiro-Cirurgião esteja sempre por perto — ou um Corta-Bolsas, caso haja negócios menos honrosos a tratar. Claro que Montebancos e Jograis costumam acompanhar esse tipo de comitiva, aproveitando-se da fama alheia na esperança de também colher os frutos da próxima grande descoberta.
 
-Those who enter the Wood hire a guide familiar with the territory, such as a Prowler or Fletchwind, while the truly determined traveler will seek the wisdom of a Half Witch or Foundling with some connection to its darker secrets. Closer to the border, the Marchguard work to keep the realm free of outside influence, while the Hexenbane seek to protect it from forces within.
+Quem entra no Bosque costuma contratar um guia familiarizado com o território, como um Espreitador ou Flecheiro dos Ventos, enquanto viajantes realmente determinados buscam a sabedoria de uma Mestibruxa ou de um Enjeitado com alguma ligação com seus segredos mais sombrios. Perto das fronteiras, o Guarda-Marcas trabalha para manter o reino livre de influências externas, enquanto os Algoz de Bruxas procuram protegê-lo de ameaças internas.
 
-## Belief
+## Crença
 
-There are several major religions and spiritual beliefs popular among the smallfolk.
+Existem várias religiões e crenças espirituais populares entre o povo comum.
 
-### Tideborn
+### Nascidos da Maré
 
-A hierarchical religious sect that worships _Rivulus_, a petty god of rivers and lakes. Even the unaffiliated are familiar with the group’s initiation ceremony, a ritual drowning that occasionally kills participants. Survivors are dubbed _Tideborn_ and adopt a new, water-related moniker (Carp, Reed, Oxbow, and so on). Only clergy need participate in the ritual; however, in recent years, their following among rural folk has increased, especially in villages near bodies of water. Within the clergy, there is little hierarchy, save for the _Aqua Primaris_, whom all obey without question.
+Uma seita religiosa hierárquica que adora _Rivulus_, um deus menor dos rios e lagos. Mesmo os não afiliados conhecem a cerimônia de iniciação do grupo: um afogamento ritual que ocasionalmente mata os participantes. Os sobreviventes são chamados de _Nascidos da Maré_ e adotam um novo nome relacionado à água (Carpa, Junco, Meandro e assim por diante). Apenas o clero precisa participar do ritual; no entanto, em anos recentes, seu seguimento entre o povo rural aumentou, especialmente em vilas próximas a corpos d'água. Dentro do clero, há pouca hierarquia, exceto pelo _Aqua Primaris_, a quem todos obedecem sem questionar.
 
-The Tideborn are hardly the only faith in the realm, but their steady growth and zealotry have earned them the respect of some other factions, particularly the _House of Burgesses_. The continued expansion of their membership has, in turn, earned them some enemies, particularly from other factions. Their enmity is such that today Tideborn clergy never attempt solitary travel through heavily wooded areas, lest they risk a beating or worse.
+Os Nascidos da Maré não são a única fé no reino, mas seu crescimento constante e zelo renderam-lhes o respeito de algumas outras facções, particularmente a _Casa dos Burgueses_. A expansão contínua de seus membros, por sua vez, rendeu-lhes inimigos em outras facções. A inimizade é tamanha que, hoje, o clero dos Nascidos da Maré nunca tenta viajar sozinho por áreas densamente arborizadas, para não correr o risco de sofrer uma surra ou coisa pior.
 
-### The White Raven
+### O Corvo Branco
 
-Popular among those who live close to the Wood, the followers of the _White Raven_ (or "the Flock," as they prefer) believe strongly in the power of the Wood and in keeping its forests and creatures healthy. They are in awe of the Woodwose and obey the will of the Wood without question. They can be identified by tattoos of a white bird on their wrists, necks, or backs. Every settlement keeps a Flock unique to their community, and their devotees distrust organized religion as a whole.
+Popular entre aqueles que vivem perto do Bosque, os seguidores do _Corvo Branco_ (ou "A Revoada", como preferem) acreditam fortemente no poder do Bosque e em manter suas florestas e criaturas saudáveis. Eles têm reverência pelos Woodwose e obedecem à vontade do Bosque sem questionar. Podem ser identificados por tatuagens de um pássaro branco nos pulsos, pescoço ou costas. Cada assentamento mantém uma Revoada única para sua comunidade, e seus devotos desconfiam de religiões organizadas como um todo.
 
-### The Five-Pointed Star
+### A Estrela de Cinco Pontas
 
-An older religion that owes its origin to the first peoples of the realm, who built stone structures to map the stars and constellations. Its worshipers adhere strictly to a set of religious principles that deny the legitimacy of all other beliefs, and local history is marked by its wars and forced conversions. Today, the _Five-Pointed Star_ keeps temples in every major settlement, which often provide needed services, particularly for the poor. In recent years, its prominence has waned as other faiths have risen, prompting some of its members to join a reactionary order known as the _Bleeding Star_.
+Uma religião mais antiga que deve sua origem aos primeiros povos do reino, que construíram estruturas de pedra para mapear as estrelas e constelações. Seus adoradores aderem estritamente a um conjunto de princípios religiosos que negam a legitimidade de todas as outras crenças, e a história local é marcada por suas guerras e conversões forçadas. Hoje, a _Estrela de Cinco Pontas_ mantém templos em todos os grandes assentamentos, que frequentemente fornecem serviços necessários, especialmente para os pobres. Em anos recentes, sua proeminência diminuiu com o surgimento de outras fés, levando alguns de seus membros a se juntarem a uma ordem reacionária conhecida como a _Estrela Sangrenta_.
 
-## Vald Principles
+## Princípios de Vald
 
-- Keep it small. Adventures take place in smaller towns, villages, forests, and the margins of the realm.
-- Keep it local. Major rulers (kings, queens, etc.) are far-off, almost irrelevant entities. They have power, but distance diminishes their impact.
-- Most people are human. Some have a drop of Fae blood or are born of two worlds. But for the most part, everyone looks, sounds, and acts recognizably human.
-- Distance matters. Most villages are within a day's walk from one another to ensure the safety of travelers. Camping is a last resort, and those that journey far rarely return.
-- Language matters. Most towns and villages share a common tongue, but it loses intelligibility the farther one travels. Written, older forms are common in places people no longer tread.
-- There is only one Wood. It is not one forest, but _all_ forests. It is neither Good nor Evil but simply wishes to grow, to be free, and to protect itself.
-- The Wood is a porous dungeon. It has rooms and traps and hazards but can also be traversed in different ways: one can always climb a tree. This makes it no less dangerous.
-- The Roots are a foreign land. Time, logic, and matter operate by principles so alien as to make them unknowable.
-- Magic is rare and dangerous. Relics and Spellbooks are not well understood, and attempting to manipulate their power may lead to self-destruction.
-- Relics originate in the Roots. They cannot be created by humans, only found. They are ancient, and yet they sprout from rubble as if grown there.
-- Monsters and other creatures do not follow the rules. They speak and act differently than the PCs and have abilities and magic beyond the reach of regular characters.
+- Mantenha pequeno. As aventuras ocorrem em cidades menores, vilas, florestas e nas margens do reino.
+- Mantenha local. Grandes governantes (reis, rainhas, etc.) são entidades distantes, quase irrelevantes. Eles têm poder, mas a distância diminui seu impacto.
+- A maioria das pessoas é humana. Alguns têm uma gota de sangue das Fadas ou nasceram de dois mundos. Mas, na maior parte, todos parecem, soam e agem de forma reconhecivelmente humana.
+- A distância importa. A maioria das vilas fica a um dia de caminhada uma da outra para garantir a segurança dos viajantes. Acampar é o último recurso, e aqueles que viajam para longe raramente retornam.
+- A linguagem importa. A maioria das cidades e vilas compartilha uma língua comum, mas ela perde a inteligibilidade quanto mais longe se viaja. Formas escritas e mais antigas são comuns em lugares onde as pessoas não pisam mais.
+- Existe apenas um Bosque. Não é apenas uma floresta, mas _todas_ as florestas. Não é bom nem mau, simplesmente deseja crescer, ser livre e se proteger.
+- O Bosque é uma masmorra porosa. Possui salas, armadilhas e perigos, mas também pode ser atravessado de diferentes maneiras: sempre se pode subir em uma árvore. Isso não o torna menos perigoso.
+- As Raízes são uma terra estrangeira. O tempo, a lógica e a matéria operam sob princípios tão alienígenas que os tornam incognoscíveis.
+- Magia é rara e perigosa. Relíquias e Tomos de Magia não são bem compreendidos, e tentar manipular seu poder pode levar à autodestruição.
+- As Relíquias se originam nas Raízes. Elas não podem ser criadas por humanos, apenas encontradas. São antigas e, no entanto, brotam dos escombros como se tivessem crescido ali.
+- Monstros e outras criaturas não seguem as regras. Eles falam e agem de forma diferente dos PJs e possuem habilidades e magia além do alcance de personagens comuns.
 
-## The Wood
+## O Bosque
 
-The **Wood** surrounds and divides the realm, representing not just one forest, but _all_ forests. Denizens of the Wood are fiercely independent, believing they are subject solely to its rules. Its various peoples, creatures, and unrelenting natural elements have kept the outside world at bay since time immemorial. The Wood is the spirit of all forests, and they in turn are its flesh, and the life they support a sign of its health.
+O **Bosque** circunda e divide o reino, representando não apenas uma, mas *todas* as florestas. Seus habitantes são ferozmente independentes, acreditando estarem sujeitos apenas às regras dela. Seus diversos povos, criaturas e elementos naturais implacáveis mantiveram o mundo exterior afastado desde tempos imemoriais. O Bosque é o espírito de todas as florestas, e elas, por sua vez, são sua carne, e a vida que sustentam é um sinal de sua saúde.
 
-At the core of each forest is a _Heart Tree_ and the place where the forest is at its most powerful as well as its most dangerous. Each Heart Tree is born from a single _Heartseed_, acquired exclusively from a Heart Tree that is dying or dead. The Heart Tree acts as a pinion to the plants, trees, and animals all around it, observing and reacting to any problematic incursions into its domain. In particular, Heart Trees _fear humans_.
+No coração de cada floresta há uma _Árvore-Mãe_, local onde a floresta é ao mesmo tempo mais poderosa e mais perigosa. Cada Árvore-Mãe nasce de uma única _Semente-Mãe_, obtida exclusivamente de uma Árvore-Mãe moribunda ou morta. A Árvore-Mãe atua como um eixo para as plantas, árvores e animais ao seu redor, observando e reagindo a quaisquer incursões problemáticas em seu domínio. Em particular, as Árvores-Mãe *temem os humanos*.
 
-Forests never live in isolation and will communicate with one another to give warning or ask for help. Aid can come in many forms, as the Heartseed has great reach. Raven Folk defenders may lay sap traps to capture stray hunters, while Dryads steal the hatchet from the lumberjack's toolbox. But none are more powerful (nor feared) than the Woodwose, the forest's true protector. A creature wrought from both plant and bone, the Woodwose lives for only one purpose: to protect the forest and any that live within its boundaries.
+As florestas nunca vivem isoladas e se comunicam entre si para dar avisos ou pedir ajuda. O auxílio pode vir de várias formas, pois a Semente-Mãe tem grande alcance. Defensores do Povo-Corvo podem armar armadilhas de seiva para capturar caçadores perdidos, enquanto Dríades roubam o machado da caixa de ferramentas do lenhador. Mas nenhum é mais poderoso (nem mais temido) do que o _Woodwose_, o verdadeiro protetor da floresta. Uma criatura forjada de planta e osso, o Woodwose vive para apenas um propósito: proteger o bosque e qualquer um que viva dentro de seus limites.
 
-Despite its fearsome reputation, many tell tales of the wood's kindness as well. Green, muscular arms saving a child caught by a sudden rock slide. Will-o-Wisps revealing a hidden path once thought lost. Words of warning sung from a crow on a tree. And so, rangers and other outsiders will leave bowls of fruit and nuts alongside great rock piles as proof of their respect and admiration, in the hopes that they will be allowed to pass freely through a protected Wood.
+Apesar de sua reputação temível, muitos contam histórias da bondade do bosque também. Braços verdes e musculosos salvando uma criança pega por um deslizamento repentino. Fogos-fátuos revelando um caminho oculto outrora considerado perdido. Palavras de aviso cantadas por um corvo em uma árvore. Assim, patrulheiros e outros forasteiros deixam tigelas de frutas e nozes ao lado de grandes pilhas de pedras como prova de seu respeito e admiração, na esperança de que lhes seja permitido passar livremente por um Bosque protegido.
 
-Of course, the Wood is not empty of people. Hidden in the boughs and in empty glades are populated villages, rustic cabins, and the odd tower. Those who can survive (or even thrive) in such places learn to live according to the rules of the forest, for those who ignore or foolishly oppose these rules often meet grisly ends. The Wood is populated by creatures strange and wondrous, such as Goblins, Spirits, Treants, Trolls, Werewolves, Witches, and even talking plants and animals. Most are openly hostile to outsiders (particularly humans), but others will (on occasion) parley with those that have shown respect for the Wood. Of course, all demonstrate utter respect for the Fae (sometimes called the Pale Folk, or the _Neighbors_).
+Claro que o Bosque não está desabitado. Escondidas nos galhos e em clareiras vazias, há aldeias povoadas, cabanas rústicas e torres pitorescas. Aqueles que conseguem sobreviver (ou até prosperar) em tais lugares aprendem a viver segundo as regras da floresta, pois quem as ignora ou as enfrenta de forma imprudente normalmente encontra um fim brutal. O Bosque é habitado por criaturas estranhas e maravilhosas, como Goblins, Espíritos, Ents, Trolls, Lobisomens, Bruxas e até plantas e animais falantes. A maioria é abertamente hostil a forasteiros (especialmente humanos), mas alguns — em ocasiões raras — aceitam negociar com aqueles que mostram respeito pelo Bosque. Todos, no entanto, demonstram reverência absoluta pelas Fadas (às vezes chamadas de _Povo Pálido_ ou _Vizinhos_).
 
-## The Neighbors
+## Os Vizinhos
 
-Through the bramble and over the bush, there is a liminal space where the realms of mortals and the Faerie touch. If you look for it, you will not find it. But if you need to pass over, you will. The creatures that inhabit this place may look and sound familiar, but make no mistake: they are not like us. Tall, slender, pale as ice, and eerily beautiful, the Fae obey no mortal law, nor do they submit to its morality. And yet they are crippled by sterility, lacking the ability to create their own kindred. For this deed, they must cross the threshold into the mortal realm to treat with mortals. There are many names for their kind, but only one has ever escaped their lips: Neighbors.
+Através dos espinheiros e sobre os arbustos, existe um espaço liminar onde os reinos dos mortais e das Fadas se tocam. Se você procurar por ele, não o encontrará. Mas se precisar atravessar, você o fará. As criaturas que habitam este lugar podem parecer e soar familiares, mas não se engane: elas não são como nós. Altas, esguias, pálidas como o gelo e estranhamente belas, as Fadas não obedecem a nenhuma lei mortal, nem se submetem à sua moralidade. E, no entanto, são afligidas pela esterilidade, carecendo da capacidade de criar sua própria espécie. Por este motivo, devem cruzar o limiar para o reino mortal para tratar com os humanos. Existem muitos nomes para o seu tipo, mas apenas um já escapou de seus lábios: _Vizinhos_.
 
-The Neighbors are continually shrouded in mystery, and it can often be difficult to separate fact from rumor. There are some who say the Neighbors steal babes from their cribs, replacing them with a Changeling child. Others claim that they will pay great sums of wealth or bestow enormous power to those willing to give away their own flesh and blood. There is one truth that all agree on: to make deals with their kind is to invite ill luck not only to your life but that of your descendants as well.
+Os Vizinhos estão continuamente envoltos em mistério, e muitas vezes pode ser difícil separar fatos de boatos. Há quem diga que os Vizinhos roubam bebês de seus berços, substituindo-os por uma criança Transmutada (*Changeling*). Outros afirmam que eles pagarão grandes somas de riqueza ou concederão um poder enorme àqueles dispostos a entregar sua própria carne e sangue. Há uma verdade com a qual todos concordam: fazer acordos com sua espécie é convidar a má sorte não apenas para sua vida, mas para a de seus descendentes também.
 
-Hunters swear that occasionally animals from the Faerie world will pass into ours, a white blaze burnt into their fur. They say that their meat is the sweetest you will ever taste and that afterward you will starve because of the lack of it. Worse, to be caught poaching these creatures invites a fate worse than death. Scholars have written that the Neighbors can spill magic as if it were water, having no need for Spellbooks or even Relics. They also claim that all magic has its origin in the land of the Pale Folk and that within each Spellbook are the trapped spirits of their most craven lawbreakers.
+Caçadores juram que ocasionalmente animais do mundo das Fadas passam para o nosso, com uma mancha branca gravada em seu pelo. Dizem que sua carne é a mais doce que você jamais provará e que, depois, você morrerá de fome pela falta dela. Pior ainda, ser pego caçando essas criaturas convida um destino pior que a morte. Estudiosos escreveram que os Vizinhos podem derramar magia como se fosse água, não tendo necessidade de Tomos de Magia ou mesmo Relíquias. Eles também afirmam que toda a magia tem sua origem na terra do Povo Pálido e que dentro de cada Tomo estão os espíritos aprisionados de seus criminosos mais covardes.
 
-Those who make their lives in the Wood know to carry charms, gifts, and similar items in case of a chance meeting. And though the Neighbors rarely trouble the borders to their kingdom, they have been known to deliver harsh punishment to those that cross their boundary uninvited. However, it is common knowledge that the Neighbors are terrified of the Roots and will avoid Gates whenever possible.
+Aqueles que ganham a vida no Bosque sabem carregar amuletos, presentes e itens semelhantes para o caso de um encontro casual. E embora os Vizinhos raramente perturbem as fronteiras de seu reino, eles são conhecidos por aplicar punições severas àqueles que cruzam seus limites sem serem convidados. No entanto, é de conhecimento comum que os Vizinhos têm pavor das Raízes e evitam os Portões sempre que possível.
 
-## The Roots
+## As Raízes
 
-The **Roots** is a realm of mystery and horror underground, indifferent to the arbitrary divisions of the aboveground civilizations. Below, labyrinthine hollows stretch for immeasurable distances, connecting humble town sewers to far-flung ruins beyond the borders. Only the brave or foolish dare enter the Roots in search of forgotten Relics or profound wealth, and the few that do return whisper of the indescribable horrors and evil intelligence guarding these lost treasures. Stories tell of adventurers lost for centuries in the depths, only to emerge claiming that just a few hours have passed. Others claim to have made a week-long journey above ground in just one day, traveling through the tunnels beneath.
+As **Raíze** formam um reino de mistério e horror no subsolo, indiferente às divisões arbitrárias das civilizações da superfície. Abaixo, cavidades labirínticas estendem-se por distâncias imensuráveis, conectando esgotos de vilas humildes a ruínas distantes além das fronteiras. Apenas os valentes ou tolos ousam entrar nas Raízes em busca de Relíquias esquecidas ou riquezas imensas, e os poucos que retornam sussurram sobre horrores indescritíveis e inteligências malignas que guardam esses tesouros perdidos. Histórias falam de aventureiros perdidos por séculos nas profundezas, apenas para emergirem alegando que apenas algumas horas se passaram. Outros afirmam ter feito uma jornada de uma semana por cima da terra em apenas um dia, viajando pelos túneis abaixo.
 
-Entrances to the Roots, known as _Gates_, are scattered across the lands and are usually hidden or protected by powerful forces. Further, Gates cannot be opened without a proper key or alchemical pattern, and once opened, _can never be shut again._ Folk histories recount their openings as omens of great misfortunes, where creatures more vile than the darkest nightmare slink through, devouring nearby homes and villages. Others tell of great heroes raising their swords against these terrors, sealing away the Gates beneath rubble, mountains, lakes, or other impenetrable barriers.
+As entradas para as Raízes, conhecidas como _Portões_, ficam espalhadas pelas terras e geralmente estão ocultas ou protegidas por forças poderosas. Além disso, os Portões não podem ser abertos sem uma chave adequada ou padrão alquímico e, uma vez abertos, *nunca mais podem ser fechados*. As histórias populares narram suas aberturas como presságios de grandes infortúnios, onde criaturas mais vis do que o pior pesadelo esgueiram-se, devorando lares e aldeias próximas. Outros falam de grandes heróis erguendo suas espadas contra esses terrores, selando os Portões sob escombros, montanhas, lagos ou outras barreiras impenetrááveis.
 
-What _is_ known is that the Roots are made of vast underground caves as large as an emptied ocean, without even a hint of sunlight. A variety of fungal growths provide weak light in some places, as do various minerals and strange, shallow pits of blue flame. Very little is known about these pits other than that they are tended to by terrible three-eyed Ogres who thirst for blood as if it were the sweetest wine. The various creatures and wild animals that survive in such harsh conditions have developed natural means to live in utter darkness, adapting their eyesight to function in even the dimmest light or eschewing vision altogether.
+O que se *sabe* é que as Raízes são feitas de vastas cavernas subterrâneas tão grandes quanto um oceano esvaziado, sem qualquer traço de luz solar. Uma variedade de crescimentos fúngicos fornece luz fraca em alguns lugares, assim como vários minerais e estranhas covas rasas de chama azul. Pouco se sabe sobre essas covas, exceto que são cuidadas por terríveis Ogros de três olhos que têm sede de sangue como se fosse o mais doce vinho. As diversas criaturas e animais selvagens que sobrevivem em condições tão severas desenvolveram meios naturais de viver na escuridão total, adaptando sua visão para funcionar mesmo na luz mais fraca ou abandonando-a por completo.
 
-Of the various peoples and tribes, it is said they speak a harsh, guttural speech, sprinkled with familiar words and phrases. Their warriors carry weapons that spin of their own volition, glowing brighter with each rotation. When the blades are finally released, their heated edges can split flesh and even rock with deadly ease. To date, no one has successfully parlayed with the _People Who Live Below_. Some contend that there are bustling towns, cities, and even great palaces in the Roots! Of course, few scholars believe them, and those that do have been ostracized into obscurity by their peers. Still, explorers cannot deny the ancient husks of impressive architecture found throughout the Roots, the ancient cities and enormous ships of an unimaginable world. Hazy reports claim that one such ruin, a gargantuan ziggurat boasting hundreds of levels, still flickers with light and life. These rumors have yet to be substantiated.
+Dos vários povos e tribos, diz-se que falam uma fala áspera e gutural, salpicada de palavras e frases familiares. Seus guerreiros carregam armas que giram por vontade própria, brilhando mais forte a cada rotação. Quando as lâminas são finalmente liberadas, suas bordas aquecidas podem dividir carne e até rocha com facilidade mortal. Até o momento, ninguém parlou com sucesso com o _Povo Que Vive Abaixo_. Alguns afirmam que existem cidades movimentadas, vilas e até grandes palácios nas Raízes! Claro, poucos estudiosos acreditam neles, e aqueles que acreditam foram ostracizados para a obscuridade por seus pares. Ainda assim, os exploradores não podem negar os antigos esqueletos de arquitetura impressionante encontrados por todas as Raízes, as cidades antigas e os navios enormes de um mundo inimaginável. Relatos vagos afirmam que uma dessas ruínas, um zigurate gigantesco com centenas de níveis, ainda cintila com luz e vida. Esses rumores ainda não foram substanciados.
 
-Today, most know to avoid any mention of Gates, or keys, or related alchemy. But of course, there are always those that cannot resist its draw...
+Hoje, a maioria sabe evitar qualquer menção a Portões, ou chaves, ou alquimia relacionada. Mas, claro, sempre há aqueles que não conseguem resistir ao seu chamado...
 
-## Factions
+## Facções
 
-### The House of Burgesses
+### A Casa dos Burgueses
 
-An assembly of wealthy, land-owning lords and ladies. Cunning, assertive, and convinced of their own superiority, they can accomplish great things when acting as a single body. Unfortunately, their efforts are often undermined by individual squabbles, petty disputes, and their never-ending lust for power and prestige. Although there is a healthy distrust of the _Order of Nine_ in the House, a _Burgess_ will rarely speak ill of them in public. For their part, the House are openly friendly with the Tideborn, although internally there is much consternation regarding the upstart religion's recent increase in popularity.
+Uma assembleia de lordes e damas ricos e proprietários de terras. Astutos, assertivos e convencidos de sua própria superioridade, eles podem realizar grandes feitos quando agem como um único corpo. Infelizmente, seus esforços são frequentemente minados por brigas individuais, disputas mesquinhas e sua sede interminável por poder e prestígio. Embora haja uma desconfiança saudável da _Ordem dos Nove_ na Casa, um _Burguês_ raramente falará mal deles em público. Por sua vez, a Casa é abertamente amigável com os Nascidos da Maré, embora internamente haja muita consternação em relação ao recente aumento de popularidade da religião emergente.
 
-### The Order of Nine
+### A Ordem dos Nove
 
-A consortium of merchants, scholars, and the very powerful, the Order relies on their substantial wealth and a vast network of spies to accomplish their aims. Their primary focus is on the discovery, identification, and regulation of Relics. In recent years, they've turned their focus onto the Roots, as they believe this to be the origin of most Relics, and they pay handsomely for any information regarding Gates. The organization owes its name to the founding members of the Order, whose names and titles are kept secret. The Order detests Spellbooks and any that carry them. They see little reason to openly engage in politics, yet keep spies in nearly every faction.
+Um consórcio de mercadores, estudiosos e pessoas muito poderosas, a Ordem conta com sua riqueza substancial e uma vasta rede de espiões para realizar seus objetivos. Seu foco principal é a descoberta, identificação e regulamentação de Relíquias. Em anos recentes, voltaram seu foco para as Raízes, pois acreditam que esta seja a origem da maioria das Relíquias, e pagam generosamente por qualquer informação sobre os Portões. A organização deve seu nome aos membros fundadores da Ordem, cujos nomes e títulos são mantidos em segredo. A Ordem detesta Tomos de Magia e quem os carregue. Eles veem poucas razões para se envolver abertamente na política, mas mantêm espiões em quase todas as facções.
 
-The Order employs several distinct ranks and titles (in order of primacy):
-- _Lector_: An initiate is deemed a _Junior Lector_ until they've proven themselves, after which they are awarded the title of _High Lector_. Only the latter may use Relics in their work.
-- _Keeper_: Protector of a Gate, akin to a typical soldier or mercenary.
-- _Archivist_: A highly respected researcher or librarian, led by the _Grand Archivist_.
-- _Chamberlain_: A master of Relics, charged with their protection, dispersal, and discovery.
-- _Inquisitor_: The highest-ranking position within the Order, sharing power as a triumvirate (called the _Three_) and answering only to the _Nine_.
+A Ordem emprega vários postos e títulos distintos (em ordem de primazia):
+- _Leitor_: Um iniciado é considerado um *Leitor Júnior* até que prove seu valor, após o que recebe o título de *Alto Leitor*. Apenas estes últimos podem usar Relíquias em seu trabalho.
+- _Zelador_: Protetor de um Portão, semelhante a um soldado típico ou mercenário.
+- _Arquivista_: Um pesquisador ou bibliotecário altamente respeitado, liderado pelo *Grande Arquivista*.
+- _Camareiro_: Um mestre das Relíquias, encarregado de sua proteção, dispersão e descoberta.
+- _Inquisidor_: A posição de mais alto escalão dentro da Ordem, compartilhando o poder como um triunvirato (chamado de *Os Três*) e respondendo apenas aos *Nove*.
 
-### The Marchguard
+### A Guarda-Marcas
 
-At the margins of the realm and beyond the Wood lies a place so wild, so dangerous, that only the extremely brave or extremely foolish dare set foot. The borders of these lands are ever-shifting, growing, and changing along with the passage of time. And so the Marchguard was born. No one can remember when the Guard was formed nor who worked to create it, but all know their purpose: to protect the realm from any incursions that might cross the boundary and to prevent those attempting to cross without guidance.
+Nas margens do reino e além do Bosque, existe um lugar tão selvagem, tão perigoso, que apenas os extremamente corajosos ou extremamente tolos ousam pisar. As fronteiras dessas terras estão sempre mudando, crescendo e se transformando com a passagem do tempo. E assim nasceu a Guarda-Marcas. Ninguém consegue se lembrar de quando a Guarda foi formada, nem de quem trabalhou para criá-la, mas todos conhecem seu propósito: proteger o reino de quaisquer incursões que possam cruzar a fronteira e impedir aqueles que tentam cruzar sem orientação.
 
-The Guard bends to no kings, knows no religion, and obeys no laws but their own. They lack even a central leadership, instead providing a masked volunteer to represent them in external negotiations. New members adopt a Blood Oath so powerful it is said to be inescapable by all but death itself. Of course, joining the Guard is rarely a choice, as their ranks are largely composed of ex-thugs, disgraced scholars, neglected knights, misbegotten rangers, and the like. This is how it must be, of course. For who else would willingly devote their lives to stand against such unknowable horrors?
+A Guarda não se curva a reis, não conhece religião e não obedece a outras leis senão as suas próprias. Eles carecem até mesmo de uma liderança central, fornecendo, em vez disso, um voluntário mascarado para representá-los em negociações externas. Os novos membros adotam um Juramento de Sangue tão poderoso que dizem ser inescapável por qualquer coisa que não seja a própria morte. É claro que ingressar na Guarda raramente é uma escolha, pois suas fileiras são compostas em grande parte por ex-capangas, estudiosos desonrados, cavaleiros negligenciados, patrulheiros desvirtuados e afins. É assim que deve ser, é claro. Pois quem mais dedicaria voluntariamente suas vidas para enfrentar horrores tão incognoscíveis?
 
-Bloodhounds are members of the Guard who have been awarded special commendations or have demonstrated true belief in their cause. These hunters have adopted a single purpose of duty: enforcing the Oath. Utilizing a network of spies, informants, and plants, they ensure that any who escape the Guard are forced to return or die.
+_Sabujos_ são membros da Guarda que receberam recomendações especiais ou demonstraram crença verdadeira em sua causa. Esses caçadores adotaram um único propósito de dever: fazer cumprir o Juramento. Utilizando uma rede de espiões, informantes e agentes infiltrados, eles garantem que qualquer um que escape da Guarda seja forçado a retornar ou morrer.
 
-The Guard sees little reason to engage in politics or other such short-sighted quarrels with the other factions. However, decades of living near the borders have caused them to broker an uneasy friendship with those who call the Wood their home, and they will even treat with them on occasion. And although it is never discussed, on rare occasions the Guard will come the aid of those who live in the Wood as well.
+A Guarda vê poucas razões para se envolver em política ou outras querelas de curto prazo com as outras facções. No entanto, décadas vivendo perto das fronteiras fizeram com que eles selassem uma amizade inquieta com aqueles que chamam o Bosque de seu lar, e eles até tratam com eles em certas ocasiões. E embora nunca seja discutido, em raras ocasiões a Guarda virá em auxílio daqueles que vivem no Bosque também.
 
-## The Vald Calendar
+## O Calendário de Vald
 
-### Overview
+### Visão Geral
 
-There are 24 hours in a day and 6 days in a week. Each month has 24 days (4 weeks), with 12 months in a year. The year is divided into 4 seasons (Dead, Dry, Wet, and Harvest), each lasting 72 days. Every 10 years, a 6-day "Leap Week" (_Reclamation_) is added, and does not belong to any particular month. This makes the average length of a year over a decade 288.6 days. Each year starts just before the _Dry_ season begins. The current year is 7728.
+Existem 24 horas em um dia e 6 dias em uma semana. Cada mês tem 24 dias (4 semanas), com 12 meses no ano. O ano é dividido em 4 estações (Morta, Seca, Úmida e Colheita), cada uma durando 72 dias. A cada 10 anos, uma "Semana Intercalar" de 6 dias (_Reclamação_) é adicionada e não pertence a nenhum mês específico. Isso torna a duração média de um ano ao longo de uma década de 288,6 dias. Cada ano começa pouco antes do início da estação *Seca*. O ano atual é 7728.
 
-### Days of the Week
+### Dias da Semana
 
-1. Market Day
-2. Garden Day
-3. Song Day
-4. Tithe Day
-5. Bathing Day
-6. Resting Day
+1. Dia de Feira
+2. Dia de Cultivo
+3. Dia de Canção
+4. Dia de Dízimo
+5. Dia de Banho
+6. Dia de Descanso
 
-### Months
+### Meses
 
-1. Mourning
-2. Silence
-3. Veil
-4. Sunrise
-5. Bright
-6. Ashfall
-7. Flood
-8. Highwater
-9. Rise
-10. Quell
-11. Bane
-12. Sunset
+1. Luto
+2. Silêncio
+3. Véu
+4. Alvorada
+5. Esplendor
+6. Chuva de Cinzas
+7. Inundação
+8. Águas Altas
+9. Ascensão
+10. Calmaria
+11. Ruína
+12. Ocaso
 
-### Reclamation Week (Once per decade)
+### Semana da Reclamação (Uma vez por década)
 
-1. Recognize
-2. Remember
-3. Reward
-4. Rejoice
-5. Relinquish
-6. Renew
+1. Reconhecer
+2. Relembrar
+3. Recompensar
+4. Regozijar
+5. Renunciar
+6. Renovar
 
+### Feriados, Festivais e Eventos Ordenados por Data
 
-### Holidays, Festivals, & Events Sorted by Date
+| **Mês**             | **Data**                                              | **Evento**                                                                                                    |
+| :------------------ | :---------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ |
+| **Luto**            |                                                       |                                                                                                               |
+|                     | Meia-noite do dia 4 (Dia de Dízimo)                   | Início da estação Morta.                                                                                      |
+|                     | Crepúsculo do dia 24 (Dia de Descanso)                | _Primeira Luz_: Celebra o fim do primeiro mês. Tochas e fogueiras ficam acesas a noite toda.                  |
+| **Silêncio**        |                                                       |                                                                                                               |
+|                     | Meia-noite do dia 10 (Dia de Dízimo)                  | Equinócio Morto: Ponto médio da estação Morta.                                                                |
+|                     | Do amanhecer ao anoitecer do dia 11 (Dia de Banho)    | _Sussurro_: Falar acima de um sussurro é tabu. Leilões silenciosos são comuns.                                |
+| **Véu**             |                                                       |                                                                                                               |
+|                     | Meia-noite do dia 9 (Dia de Canção)                   | _Erguer o Véu_: O fim da estação Morta é celebrado com votos solenes e gestos humildes.                       |
+|                     | Tarde ao crepúsculo do dia 17 (Dia de Banho)          | _Limiar do Véu_: Dia de honrar ancestrais com oferendas e orações em altares familiares.                      |
+| **Alvorada**        |                                                       |                                                                                                               |
+|                     | Meia-noite do dia 4 (Dia de Dízimo)                   | Início da estação Seca.                                                                                       |
+|                     | Manhã do dia 14 (Dia de Cultivo)                      | _Encontro de Troca_: Representantes de vilas trocam aço por madeira em um acordo ritual com o Povo do Bosque. |
+| **Esplendor**       |                                                       |                                                                                                               |
+|                     | Tarde até a meia-noite do dia 9 (Dia de Canção)       | _Crepúsculo de Poeira_: Carnaval com desfiles e máscaras para proteger contra a poeira e o vento.             |
+|                     | Meia-noite do dia 10 (Dia de Dízimo)                  | Equinócio Seco: Ponto médio da estação Seca.                                                                  |
+| **Chuva de Cinzas** |                                                       |                                                                                                               |
+|                     | Do amanhecer até a tarde do dia 16 (Dia de Dízimo)    | _Banquete dos Galhos_: Dia de feira realizado exclusivamente dentro do Bosque.                                |
+|                     | Tarde do dia 24 (Dia de Descanso)                     | _Desfile das Cinzas_: Celebra o último dia da estação Seca. Rostos são marcados com cinzas.                   |
+| **Inundação**       |                                                       |                                                                                                               |
+|                     | Meia-noite do dia 4 (Dia de Dízimo)                   | Início da estação Úmida.                                                                                      |
+|                     | 3 dias começando no dia 5 (Banho a Feira)             | _Festival do Mergulho_: Celebra a abundância de água com corridas de barcos e bênçãos.                        |
+|                     | O dia todo no dia 14 (Dia de Cultivo)                 | _Flutuação_: Comunidades constroem balsas enormes para descer os rios.                                        |
+| **Águas Altas**     |                                                       |                                                                                                               |
+|                     | Do amanhecer até a meia-noite do dia 1 (Dia de Feira) | _Feira das Águas Altas_: Grande evento comercial quando as águas estão no nível mais alto.                    |
+|                     | Meia-noite do dia 10 (Dia de Dízimo)                  | Equinócio Úmido: Ponto médio da estação Úmida.                                                                |
+|                     | Tarde do dia 18 (Dia de Descanso)                     | _Primeiro Plantio_: Festival marcando o início da época de semeadura.                                         |
+| **Ascensão**        |                                                       |                                                                                                               |
+|                     | Hora do almoço no dia 14 (Dia de Cultivo)             | _Desejo das Águas_: Desejos são escritos em pergaminhos, colocados em uma rocha e rolados morro abaixo.       |
+|                     | Cinco dias começando no dia 19 (Feira a Banho)        | _Dança da Tempestade_: Danças e noivados para agradar os mestres da tempestade e da chuva.                    |
+| **Calmaria**        |                                                       |                                                                                                               |
+|                     | Meia-noite do dia 1 (Dia de Feira)                    | Início da estação da Colheita.                                                                                |
+|                     | Tarde do dia 4 (Dia de Dízimo)                        | _Festival da Colheita_: Celebra o início da colheita com banquetes comunitários.                              |
+|                     | Crepúsculo do dia 24 (Dia de Descanso)                | _Noite da Coleta_: Comunidades se reúnem para armazenar as safras, com música e histórias.                    |
+| **Ruína**           |                                                       |                                                                                                               |
+|                     | Horas de luz do dia 12 (Dia de Descanso)              | _A Cerva de Ouro_: Caçadores participam de uma grande caçada em busca de um cervo mítico.                     |
+|                     | O dia todo no dia 18 (Dia de Descanso)                | _Luz do Fogo_: Dia de empinar pipas e sinos de vento. À noite, grandes fogueiras são acesas.                  |
+| **Ocaso**           |                                                       |                                                                                                               |
+|                     | Meia-noite do dia 10 (Dia de Dízimo)                  | Equinócio da Colheita: Ponto médio da estação da Colheita.                                                    |
+|                     | Noite do dia 11 (Dia de Banho)                        | _Brasas_: Homenagem ao sol poente e ao trabalho árduo de preparação para a estação Morta.                     |
+|                     | Noite do dia 24 (Dia de Descanso)                     | _Penumbra_: O último grande banquete do ano, celebrando a gratidão pela colheita.                             |
 
-|               |                                                            |                                                                                                                                                                            |
-| ------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Month**     | **Date**                                                   | **Event**                                                                                                                                                                  |
-| **Mourning**  |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 4th (Tithe Day)                            | Dead season begins.                                                                                                                                                        |
-|               | Dusk on the 24th (Resting Day)                             | _First Light_: Commemorating the end of the first month of the new year. Torches and fire are lit all night, turning night to day.                                         |
-| **Silence**   |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 10th (Tithe Day)                           | Dead Equinox: Marks the midpoint of the Dead season.                                                                                                                       |
-|               | Dawn to dusk on the 11th (Bathing Day)                     | _Whisper_: Speaking above a whisper is taboo. Silent auctions are common.                                                                                                  |
-| **Veil**      |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 9th (Song Day)                             | _Lift the Veil_: The end of the Dead season is celebrated through solemn vows and humble gestures.                                                                         |
-|               | Afternoon to twilight on the 17th (Bathing Day)            | _Veil’s Edge_: A day for honoring ancestors with offerings and prayers at family altars.                                                                                   |
-| **Sunrise**   |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 4th (Tithe Day)                            | Dry season begins.                                                                                                                                                         |
-|               | Morning on the 14th (Garden Day)                           | _Bartermoot_: Representatives from the smaller towns and villages trade steel for lumber in ritual arrangement with the denizens of the Wood.                              |
-| **Bright**    |                                                            |                                                                                                                                                                            |
-|               | Afternoon until midnight on the 9th (Song Day)             | _Dustset_: A carnival marked by parades and masquerades, where participants wear masks to protect from dust and wind.                                                      |
-|               | Midnight on the 10th (Tithe Day)                           | Dry Equinox: Marks the midpoint of the Dry season.                                                                                                                         |
-| **Ashfall**   |                                                            |                                                                                                                                                                            |
-|               | Dawn until the afternoon on the 16th (Tithe Day)           | _Boughmeal_: A market day held exclusively within the Wood, where artisans and merchants from all over the realm meet to trade their wares.                                |
-|               | Afternoon on the 24th (Resting Day)                        | _Parade of Ash_: In celebration of the final day of the Dry season, participants mark their faces with ash and play music. Most kinds of labor are frowned upon.           |
-| **Flood**     |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 4th (Tithe Day)                            | Wet season begins.                                                                                                                                                         |
-|               | 3 days starting on the 5th (Bathing Day to Market Day)     | _Splash Festival_: Celebrates the abundance of water, with boat races, contests, gifts, and water blessings.                                                               |
-|               | All day on the 14th (Garden Day)                           | _Float_: Communities build and decorate enormous boats or rafts to float down rivers.                                                                                      |
-| **Highwater** |                                                            |                                                                                                                                                                            |
-|               | Dawn until midnight on the 1st (Market Day)                | _Highwater Fair_: A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets.                               |
-|               | Midnight on the 10th (Tithe Day)                           | Wet Equinox: Marks the midpoint of the Wet season.                                                                                                                         |
-|               | Afternoon of the 18th (Resting Day)                        | _First Plant_: A festival marking the beginning of planting season. Communities gather to plant the first seeds of the year together.                                      |
-| **Rise**      |                                                            |                                                                                                                                                                            |
-|               | Lunchtime on the 14th (Garden Day)                         | _Waterwish_: Participants write wishes on scrolls, place them into holes in a boulder, and roll it downhill. When it stops, any remaining wishes are thought to come true. |
-|               | Five days starting on the 19th (Market Day to Bathing Day) | _Storm Dance_: Dances and betrothals meant to please the masters of storm and rain for a fruitful Harvest season ahead.                                                    |
-| **Quell**     |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 1st (Market Day)                           | Harvest season begins.                                                                                                                                                     |
-|               | Afternoon on the 4th (Tithe Day)                           | _Harvest Festival_: Celebrates the start of the harvest with feasting and communal gatherings to begin harvesting crops.                                                   |
-|               | Dusk on the 24th (Resting Day)                             | _Gathering Night_: Communities come together to collect and store the harvested crops, followed by a night of storytelling and music.                                      |
-| **Bane**      |                                                            |                                                                                                                                                                            |
-|               | Daylight hours of the 12th (Resting Day)                   | _The Golden Hind_: Hunters from far and wide join a great hunt in search of a mythical stag amid great revelry.                                                            |
-|               | All day on the 18th (Resting Day)                          | _Firelight_: A day of kite-flying, wind chimes, and noisemakers. At night, massive bonfires are lit as dancers perform impressive fire dances.                             |
-| **Sunset**    |                                                            |                                                                                                                                                                            |
-|               | Midnight on the 10th (Tithe Day)                           | Harvest Equinox: Marks the midpoint of the Harvest season.                                                                                                                 |
-|               | Evening on the 11th (Bathing Day)                          | _Ember_: Pays homage to the setting sun and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice.                           |
-|               | Evening of the 24th (Resting Day)                          | _Gloam_: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common.                                    |
-
-
-
-## Weather in Vald
+## Clima em Vald
 
 |        |                 |                     |                    |                 |
-| ------ | --------------- | ------------------- | ------------------ | --------------- |
-| **d6** | **Dead**        | **Dry**             | **Wet**            | **Harvest**     |
-| **1**  | Cold and clear  | Hot and sunny       | Light rain         | Mild and sunny  |
-| **2**  | Frosty mornings | Warm and sunny      | Overcast           | Cool and clear  |
-| **3**  | Overcast skies  | Warm and breezy     | Breezy             | Warm and sunny  |
-| **4**  | Light snow      | Hot and humid       | Heavy rain         | Warm and breezy |
-| **5**  | Snow showers    | Occasional heatwave | Thunderstorms      | Light rain      |
-| **6**  | Freezing rain   | Dry and windy       | Occasional showers | Heavy rain      |
+| **d6** | **Morto**        | **Seco**                | **Úmido**           | **Colheita**       |
+| **1**  | Frio e limpo     | Quente e ensolarado     | Chuva leve          | Suave e ensolarado |
+| **2**  | Manhãs geladas   | Morno e ensolarado      | Nublado             | Fresco e limpo     |
+| **3**  | Céu nublado      | Morno e arejado         | Arejado             | Morno e ensolarado |
+| **4**  | Neve leve        | Quente e úmido          | Chuva pesada        | Morno e arejado    |
+| **5**  | Pancadas de neve | Onda de calor ocasional | Tempestades         | Chuva leve         |
+| **6**  | Chuva congelante | Seco e ventoso          | Pancadas ocasionais | Chuva pesada       |
