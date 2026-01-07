@@ -80,7 +80,7 @@ Em Cairn, os jogadores são encorajados a superar problemas fazendo perguntas, p
 
 ### Histórico do Personagem
 
-> O grupo está escoltando um agente da facção Alsácia profundamente em território inimigo. Seu destino está escondido em uma pequena vila protegida por altos muros de madeira. O trabalho deles é infiltrar seu cliente na cidade fortemente vigiada e depois no antigo cofre de Der Thunn. À medida que se aproximam da vila, o sol está apenas começando a se pôr, e Lucius foi enviado à frente para investigar, passando-se por um trovador do Sul.
+> O grupo está escoltando um agente da facção Alsácia profundamente em território inimigo. Seu destino está escondido em uma pequena vila protegida por altos muros de madeira. O trabalho deles é infiltrar seu cliente na cidade fortemente vigiada e depois no antigo cofre de Der Thunn. À medida que se aproximam da vila, o sol está apenas começando a se pôr, e Lucius foi enviado à frente para investigar, passando-se por um jogral do Sul.
 
 **Guardião**: _"Você se aproxima da vila murada, seguindo a trilha de terra que leva diretamente ao portão da frente da cidade. Dois guardas estão de cada lado do portão, que está fechado. Os guardas são quase idênticos, exceto por um bigode ralo ostentado por um deles."_
 

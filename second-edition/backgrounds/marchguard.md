@@ -1,11 +1,11 @@
 ---
-title: Guarda da Marca
+title: Guarda-Marcas
 layout: default
 parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 
-# Guarda da Marca
+# Guarda-Marcas
 
 > Vinculado por Juramento de sangue para patrulhar a fronteira e proteger o reino. Uma vez jurado, o Juramento não pode ser quebrado. A Guarda sempre encontra os seus.
 
@@ -24,14 +24,14 @@ Gann, Light, Saoirse, Frost, Thorn, Reed, Dirk, Ragnar, Brie, Aasim
 
 ## Por que você fez o Juramento?
 
-|       |                                                                                                                                                                                                      |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | Sua família tem uma longa tradição de servir, e você foi treinado desde cedo em como sobreviver na natureza. Ao realizar a ação de Suprimento, seu rendimento aumenta em um passo (ex: 1d4 > 1d6).   |
-| **2** | Como um condenado, o Juramento foi simplesmente um meio de evitar punição. Leve um conjunto de **Gazuas** e a **Chave** (_miudeza_) para um esconderijo.                                             |
-| **3** | Nascido nobre, você se juntou para escapar de problemas familiares. Leve uma **Lona Impermeável** (cabe dois) que você roubou antes de sair de casa.                                                 |
-| **4** | Quando sua família perdeu tudo, você fez o Juramento para evitar se tornar um fardo. Leve **Rações** extras (3 usos) e um par de **Facas de Arremesso** (d6).                                        |
-| **5** | Sua vida foi salva por um membro da **Guarda da Marca**, e você foi inspirado a se juntar às suas fileiras. Leve uma **Armadilha de Laço** e um **Caderno de Esboços** cheio de desenhos detalhados. |
-| **6** | Você estava em um lugar sombrio e decidiu que sua vida precisava de um pouco de direção. Você ainda não tem certeza se foi a escolha certa. Leve um **Casaco de Oleado** e **Papel de Mapeamento**.  |
+|       |                                                                                                                                                                                                     |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Sua família tem uma longa tradição de servir, e você foi treinado desde cedo em como sobreviver na natureza. Ao realizar a ação de Suprimento, seu rendimento aumenta em um passo (ex: 1d4 > 1d6).  |
+| **2** | Como um condenado, o Juramento foi simplesmente um meio de evitar punição. Leve um conjunto de **Gazuas** e a **Chave** (_miudeza_) para um esconderijo.                                            |
+| **3** | Nascido nobre, você se juntou para escapar de problemas familiares. Leve uma **Lona Impermeável** (cabe dois) que você roubou antes de sair de casa.                                                |
+| **4** | Quando sua família perdeu tudo, você fez o Juramento para evitar se tornar um fardo. Leve **Rações** extras (3 usos) e um par de **Facas de Arremesso** (d6).                                       |
+| **5** | Sua vida foi salva por um membro da **Guarda-Marcas**, e você foi inspirado a se juntar às suas fileiras. Leve uma **Armadilha de Laço** e um **Caderno de Esboços** cheio de desenhos detalhados.  |
+| **6** | Você estava em um lugar sombrio e decidiu que sua vida precisava de um pouco de direção. Você ainda não tem certeza se foi a escolha certa. Leve um **Casaco de Oleado** e **Papel de Mapeamento**. |
 
 ## O que você carrega como prova do seu Juramento?
 

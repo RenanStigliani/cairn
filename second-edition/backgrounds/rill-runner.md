@@ -1,11 +1,11 @@
 ---
-title: Corredor de Riacho
+title: Corredeiros
 layout: default
 parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 
-# Corredor de Riacho
+# Corredeiros
 
 > Você canta as histórias de rios e lagos, seus talentos acalmando amigos e os elementos da mesma forma. Você viu mais do que a maioria, mas de alguma forma nunca parece ser o suficiente.
 

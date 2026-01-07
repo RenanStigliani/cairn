@@ -9,7 +9,7 @@ grand_parent: Segunda Edição
 
 ## Introdução
 
-Em Cairn, o Antecedente de um PJ é o elemento mais importante de seu personagem, representando tanto seu passado quanto seu presente. Os Antecedentes podem influenciar o conhecimento, a perícia e a conexão de um personagem com o cenário, entre muitas outras coisas. Eles também funcionam como um filtro para interpretar os resultados de uma rolagem de dados, ou mesmo como um motivo para não rolar nada. Um Sábio-Verde não precisa fazer um salvamento de DES ao cortar folhas de uma planta venenosa, assim como um Escrivão sabe ler a forma arcaica de uma língua local. Acima de tudo, os Antecedentes contam uma história através do equipamento inicial e da história única do personagem, conectando o PJ ao cenário e seus temas.
+Em Cairn, o Antecedente de um PJ é o elemento mais importante de seu personagem, representando tanto seu passado quanto seu presente. Os Antecedentes podem influenciar o conhecimento, a perícia e a conexão de um personagem com o cenário, entre muitas outras coisas. Eles também funcionam como um filtro para interpretar os resultados de uma rolagem de dados, ou mesmo como um motivo para não rolar nada. Um Sábio-Verde não precisa fazer um salvamento de DES ao cortar folhas de uma planta venenosa, assim como um Escrivaneiro sabe ler a forma arcaica de uma língua local. Acima de tudo, os Antecedentes contam uma história através do equipamento inicial e da história única do personagem, conectando o PJ ao cenário e seus temas.
 
 ## Princípios
 
