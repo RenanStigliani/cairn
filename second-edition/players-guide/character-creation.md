@@ -19,13 +19,13 @@ nav_order: 1
 | ------- | ------------------------------------------------------ | ------ | ------------------------------------------------- |
 | **d20** | **Antecedente**                                        |        |                                                   |
 | **1**   | [Ourivex](../backgrounds/aurifex.md)                   | **11** | [Mestibruxo](../backgrounds/half-witch.md)        |
-| **2**   | [Barbeiro-Cirurgião](../backgrounds/barber-surgeon.md) | **12** | [Caçador de Bruxas](../backgrounds/hexenbane.md)  |
+| **2**   | [Barbeiro-Cirurgião](../backgrounds/barber-surgeon.md) | **12** | [Algoz de Bruxas](../backgrounds/hexenbane.md)    |
 | **3**   | [Domador de Feras](../backgrounds/beast-handler.md)    | **13** | [Jogral](../backgrounds/jongleur.md)              |
-| **4**   | [Guardião dos Ossos](../backgrounds/bonekeeper.md)     | **14** | [Caldeireiro](../backgrounds/kettlewright.md)     |
+| **4**   | [Zelador dos Ossos](../backgrounds/bonekeeper.md)      | **14** | [Caldeireiro](../backgrounds/kettlewright.md)     |
 | **5**   | [Corta-Bolsas](../backgrounds/cutpurse.md)             | **15** | [Guarda-Marcas](../backgrounds/marchguard.md)     |
 | **6**   | [Guarda-Campo](../backgrounds/fieldwarden.md)          | **16** | [Montebanco](../backgrounds/mountebank.md)        |
 | **7**   | [Flecheiro dos Ventos](../backgrounds/fletchwind.md)   | **17** | [Batedor Montado](../backgrounds/outrider.md)     |
-| **8**   | [Enjeitado](../backgrounds/foundling.md)               | **18** | [Vigilante](../backgrounds/prowler.md)            |
+| **8**   | [Enjeitado](../backgrounds/foundling.md)               | **18** | [Espreitador](../backgrounds/prowler.md)          |
 | **9**   | [Coletor de Fungos](../backgrounds/fungal-forager.md)  | **19** | [Corredeiros](../backgrounds/rill-runner.md)      |
 | **10**  | [Verdessábio](../backgrounds/greenwise.md)             | **20** | [Escrivaneiro](../backgrounds/scrivener.md)       |
 
@@ -38,7 +38,7 @@ nav_order: 1
 ## Atributos
 
 - Um Personagem Jogador tem apenas três Atributos: **Força (FOR)**, **Destreza (DES)** e **Vontade (VON)**. 
-- Role 3d6 para cada um dos **Atributos** do seu personagem, em ordem. Você pode então trocar quaisquer dois dos resultados entre sí. 
+- Role 3d6 para cada um dos **Atributos** do seu personagem, em ordem. Você pode então trocar quaisquer dois dos resultados entre si. 
 - Atributos não são descritores universais. Um personagem com FOR baixa não é necessariamente irremediavelmente fraco; ele ainda pode tentar levantar uma porta pesada ou sobreviver a uma luta mortal! O risco é apenas maior. 
 
 ## Proteção contra Golpes
@@ -149,7 +149,7 @@ nav_order: 1
 | **2**   | Um primo distante lhe deixou uma pequena herança. Receba **20 PO** e uma **Bússola Estranha** (_miudeza_) que sempre aponta para algo nas profundezas do Bosque.                                                                         |
 | **3**   | Você carrega um **Retrato** num medalhão (_miudeza_) de um antigo amor que desapareceu no Bosque há muito tempo. De alguma forma, você sabe que essa pessoa ainda está viva.                                                             |
 | **4**   | Você encontrou um **Pequeno Prisma de Cristal** (_miudeza_) enterrado na terra. Quando segurando contra a luz, ele mostra visões de um local desconhecido nas profundezas do Bosque. Às vezes, você sente uma presença olhando de volta. |
-| **5**   | Certa vez, você libertou uma Náyade de um riacho sufocado. Em troca, ela lhe deu **Musgo Prateado** (_miudeza_).. Engula-o próximo à água, e a criatura virá, uma vez, para saldar sua dívida.                                           |
+| **5**   | Certa vez, você libertou uma Náyade de um riacho sufocado. Em troca, ela lhe deu **Musgo Prateado** (_miudeza_). Engula-o próximo à água, e a criatura virá, uma vez, para saldar sua dívida.                                            |
 | **6**   | Você herdou um velho **Diário**, encadernado em casca de árvore. Todas as noites, suas páginas se preenchem com os eventos do dia, escritos grosseiramente sob a perspectiva do próprio diário. A escrita é rude, mas precisa.           |
 | **7**   | Você protege um segredo de família adormecido há muito tempo. Pegue metade de uma **Chave Ancestral** (_miudeza_).  Dizem que, se unida à sua gêmea, ela abre um **Portal** através de qualquer porta.                                   |
 | **8**   | Você recebeu uma **Carta** (_miudeza_) contendo provas irrefutáveis de que sua verdadeira linhagem é de nobreza feérica. A nota também indica uma data e um local onde você deve encontrar o autor, nas profundezas do Bosque.           |

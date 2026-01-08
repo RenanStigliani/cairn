@@ -22,7 +22,7 @@ nav_order: 5
 
 1. O **Guardião** descreve o que cerca o grupo e quaisquer perigos imediatos (combate, armadilhas, surpresas etc.). Os jogadores então declaram os movimentos e **ações** pretendidos de seus personagens. 
 2. O Guardião resolve as **ações** de cada personagem simultaneamente, juntamente com quaisquer **ações** já em andamento. Lembre-se: o Dado de Sorte pode ser uma ferramenta útil sempre que o Guardião estiver em dúvida!
-3. Os jogadores registram qualquer perda de recursos e quaisquer novas condições (uso de itens, _privação_, etc.). O ciclo então começa novamente. e apropriado, o **Guardião** deve rolar na tabela de [**Eventos da Masmorra**](#eventos-da-masmorra). Use o bom senso ao interpretar os resultados! 
+3. Os jogadores registram qualquer perda de recursos e quaisquer novas condições (uso de itens, _privação_, etc.). O ciclo então começa novamente. Quando apropriado, o **Guardião** deve rolar na tabela de [**Eventos da Masmorra**](#eventos-da-masmorra). Use o bom senso ao interpretar os resultados! 
 
 ### Eventos da Masmorra
 
@@ -171,7 +171,7 @@ A cada dia, o Guardião deve rolar na tabela de clima para a estação apropriad
 
 |       |                |                                                                                                                                                                                                                                           |
 | ----- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Encontro**   | Role em uma tabela de encontros para aquele tipo de terreno ou local. Não se esqueça de rolar para [reações](core-rules.md#reações) de NPCs, se aplicável.                                                                                |
+| **1** | **Encontro**   | Role em uma tabela de encontros para aquele tipo de terreno ou local. Não se esqueça de rolar para [reações](core-rules.md#reações) de PNJs, se aplicável.                                                                                |
 | **2** | **Sinal**      | O grupo descobre uma pista, rastro ou indício de um encontro próximo, localidade, elemento oculto ou informação sobre uma área próxima.                                                                                                   |
 | **3** | **Ambiente**   | Uma mudança no clima ou no terreno.                                                                                                                                                                                                       |
 | **4** | **Perda**      | O grupo se depara com uma escolha que lhes custa um recurso (mantimentos, ferramentas, etc.), tempo ou esforço.                                                                                                                           |
@@ -255,7 +255,7 @@ As atividades a seguir representam algumas das **Ações de Entreatempo** mais c
 
 ### Pesquisa
 
-Um PJ investiga uma pergunta sobre um conhecimento perdido ou esquecido, a localização de um item perdido, o paradeiro de um NPC importante e assim por diante. Para realizar esta ação, o jogador deve ter uma pergunta claramente formulada que deseja responder e uma **Fonte** de conhecimento no mundo do jogo com a qual seu personagem possa interagir. Se o PJ não tiver uma **Fonte**, ele pode gastar uma **Ação de Entreatempo** tentando encontrar uma. Não há garantia de que será bem-sucedido. Uma vez feita a pergunta e identificada uma **Fonte** adequada, o **Guardião** deve fornecer os **Marcos** e **Custos** associados. 
+Um PJ investiga uma pergunta sobre um conhecimento perdido ou esquecido, a localização de um item perdido, o paradeiro de um PNJ importante e assim por diante. Para realizar esta ação, o jogador deve ter uma pergunta claramente formulada que deseja responder e uma **Fonte** de conhecimento no mundo do jogo com a qual seu personagem possa interagir. Se o PJ não tiver uma **Fonte**, ele pode gastar uma **Ação de Entreatempo** tentando encontrar uma. Não há garantia de que será bem-sucedido. Uma vez feita a pergunta e identificada uma **Fonte** adequada, o **Guardião** deve fornecer os **Marcos** e **Custos** associados. 
 
 #### Perguntas
 
@@ -269,7 +269,7 @@ Como sempre, a pergunta deve surgir de uma experiência ocorrida durante o jogo.
 
 #### Fontes
 
-Uma **Fonte** é uma pessoa, lugar, facção ou entidade que possui parte ou toda a resposta que o personagem busca.  Pode ser NPCs, Facções, espíritos ou até outros PJs. 
+Uma **Fonte** é uma pessoa, lugar, facção ou entidade que possui parte ou toda a resposta que o personagem busca.  Podem ser PNJs, Facções, espíritos ou até outros PJs. 
 
 ##### Exemplos: 
 
@@ -291,7 +291,7 @@ O jogador deve descrever exatamente o que quer melhorar e indicar um **Mestre** 
 
 ### Fortalecer Laços
 
-Um personagem cultiva uma conexão com um NPC ou Facção no mundo do jogo. Primeiro, deve identificar a entidade com quem deseja estreitar laços, bem como um **intento** específico (ex.: construir confiança, reparar uma amizade, buscar ingresso em uma facção, formar uma aliança, etc.). O **Guardião** então fornece medidas concretas (descritas como **Marcos** e **Custos**) que o PJ pode realizar para avançar na relação. A cada **Marco** concluído, o **Guardião** descreve como a relação do PJ cresceu ou mudou. 
+Um personagem cultiva uma conexão com um NPJ ou Facção no mundo do jogo. Primeiro, deve identificar a entidade com quem deseja estreitar laços, bem como um **intento** específico (ex.: construir confiança, reparar uma amizade, buscar ingresso em uma facção, formar uma aliança, etc.). O **Guardião** então fornece medidas concretas (descritas como **Marcos** e **Custos**) que o PJ pode realizar para avançar na relação. A cada **Marco** concluído, o **Guardião** descreve como a relação do PJ cresceu ou mudou. 
 
 **Exemplos:**
 

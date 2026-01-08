@@ -14,11 +14,11 @@ Cada um dos três **Atributos** é usado em circunstâncias diferentes. (Veja *
 
 - **Força (FOR)**: Usada para testes que exigem poder físico, como levantar portões, entortar barras, resistir a venenos, etc.
 - **Destreza (DES)**: Usada para testes que exigem postura, velocidade, reflexos, esquiva, escalada, furtividade, equilíbrio, etc.
-- **Vontade (VON)**: Usada para testes para persuadir, enganar, interrogar, intimidar, encantar, provocar, manipular magias, etc..
+- **Vontade (VON)**: Usada para testes para persuadir, enganar, interrogar, intimidar, encantar, provocar, manipular magias, etc.
 
 ## Salvamentos
 
-- Um salvamento é uma rolagem para evitar consequências negativas derivadas de escolhas arriscadas. Os personagens rolam 1d20 e comparam o resultado com o atributo apropriado. Se o resultado for igual ou inferior ao atributo, eles têm sucesso; Caso contrário, falham. Um resultado **1** no dado é sempre um sucesso, e um **20** é sempre uma falha.
+- Um salvamento é uma rolagem para evitar consequências negativas derivadas de escolhas arriscadas. Os personagens rolam 1d20 e comparam o resultado com o atributo apropriado. Se o resultado for igual ou inferior ao atributo, eles têm sucesso; caso contrário, falham. Um resultado **1** no dado é sempre um sucesso, e um **20** é sempre uma falha.
 - Se dois oponentes estiverem tentando superar um ao outro, aquele que estiver correndo mais risco deve fazer o teste.
 - Se dois personagens precisarem realizar uma ação juntos, quem estiver correndo mais risco deve fazer o teste (geralmente o personagem com o menor Atributo relevante).
 
@@ -122,7 +122,7 @@ Em seu turno, um personagem pode se mover até 12 metros e realizar até uma aç
 
 ### Ataques a Distância
 
-- Armas de longo alcance podem mirar em qualquer inimigo que esteja perto o suficiente para ver o branco de seus olhos. Qualquer ataque contra alvos especialmente distantes É _Prejudicado_.
+- Armas de longo alcance podem mirar em qualquer inimigo que esteja perto o suficiente para ver o branco de seus olhos. Qualquer ataque contra alvos especialmente distantes é _Prejudicado_.
 - A munição não é contabilizada, a menos que especificado de outra forma. 
 
 ## Cicatrizes
@@ -152,7 +152,7 @@ Se o dano a um PJ reduzir seus PG exatamente a 0, consulte o resultado na tabela
 
 - **Tomos de Magia** contêm um único feitiço e ocupam um espaço de inventário. Não podem ser facilmente transcritos ou criados; em vez disso, são recuperados de locais como tumbas, masmorras e mansões.
 - Às vezes, os Tomos apresentam propriedades ou limitações incomuns, como exalam um cheiro fétido ou sobrenatural quando abertos, possuem inteligência própria ou são legíveis somente sob a luz da lua.
-- Tomos atraem a atenção de daqueles que buscam seus poderes arcanos, e é considerado perigoso exibi-los abertamente.
+- Tomos atraem a atenção daqueles que buscam seus poderes arcanos, e é considerado perigoso exibi-los abertamente.
 
 ### Conjuração de Magias
 

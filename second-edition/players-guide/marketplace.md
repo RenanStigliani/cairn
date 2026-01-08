@@ -105,7 +105,7 @@ nav_order: 3
 | Rede                                                      | 10  |
 | Lata de Óleo (6 usos)                                     | 10  |
 | Conforto ao Ar Livre (Cobertor, Rede, etc.)               | 10  |
-| Pergaminho (3 usos)                                       | 10  |
+| Papel de Pergaminho (3 usos)                              | 10  |
 | Vara (3 m)                                                | 5   |
 | Repelente (Acônito, Artemísia, etc.)                      | 10  |
 | Corda (7,5 m)                                             | 5   |

@@ -11,7 +11,7 @@ grand_parent: Segunda Edição
 
 - Sempre esclareça o que está prestes a acontecer. Aquele barril em chamas parece estável ou parece que vai explodir a qualquer minuto?
 - Reafirme regularmente os arredores dos personagens, onde eles estão no espaço físico e o que seus sentidos estão detectando.
-- Descreva ameaças óbvias e NPCs primeiro, seguidos por quaisquer objetos distintos e memoráveis em cada sala.
+- Descreva ameaças óbvias e PNJs primeiro, seguidos por quaisquer objetos distintos e memoráveis em cada sala.
 - Não diga aos personagens como eles devem se sentir, e diga-lhes apenas o que está acontecendo agora, diante de seus olhos.
 - Forneça dicas sobre o que está além do próximo corredor, incluindo odores, sons e mudanças de elevação.
 - Certifique-se de que os jogadores entendam o lugar de seus personagens no Ciclo da Masmorra. Lembre-os de quem já se moveu, quem ainda não agiu, e assim por diante.
