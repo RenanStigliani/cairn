@@ -335,7 +335,7 @@ grand_parent: Segunda Edição
 
 - Magos poderosos que pagaram o preço final pela imortalidade: suas próprias vidas. Agora sua sede por poder não conhece limites.
 - Mantêm a não-vida vinculando-se a um artefato terreno, que é tipicamente protegido por pelo menos d6 outros servos mortos-vivos.
-- Carregam até seis dos seguintes Tomos: _Animar Objeto, Olho Arcano, Ensurdecer, Desmontar, Parede Elemental, Frenesi, Portão, Flutuar, Ódio, Identificar Proprietário, Arrombar, Pacificar, Levantar os Mortos, Levantar Espírito, Escudo, Adormecer, Forma de Fumaça, Telecinese, Telepatia, Teletransporte, Visão, Marca de Mago_.
+- Carregam até seis dos seguintes Tomos: _Animar Objeto, Olho Arcano, Ensurdecer, Desmontar, Parede Elemental, Frenesi, Portão, Flutuar, Ódio, Identificar Dono, Arrombar, Pacificar, Levantar os Mortos, Levantar Espírito, Escudo, Adormecer, Forma de Fumaça, Telecinese, Telepatia, Teletransporte, Visão, Marca de Mago_.
 
 ## Mantícora
 

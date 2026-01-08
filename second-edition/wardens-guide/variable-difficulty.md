@@ -42,7 +42,7 @@ Em Cairn, os jogadores são encorajados a superar problemas fazendo perguntas, p
 
 **Freya**: _"Certo, estou tomando isso como um sinal. Hora de fazer minha saída!"_
 
-> Freya foge da cena (nenhum salvamento de DES necessária), deixando o Troll da Floresta sangrar. Se ela soubesse que ele pode regenerar lentamente sua saúde, talvez tivesse ficado...
+> Freya foge da cena (nenhum salvamento de DES necessário), deixando o Troll da Floresta sangrar. Se ela soubesse que ele pode regenerar lentamente sua saúde, talvez tivesse ficado...
 
 ### Trabalho em Equipe
 
