@@ -10,15 +10,15 @@ nav_order: 6
 
 ## Introdução
 
-O cenário implícito de _Cairn_ é chamado **Vald**, abrangendo todas as terras desenvolvidas ou habitadas — cidades, vilas, florestas etc. O governante específico é irrelevante, pois a maioria das aventuras se passa em vilas e povoados menores, nas florestas e nas margens do reino. A maioria dos habitantes (independentemente da região) se refere aos centros de poder locais como as _Cidades_, as vezes de forma pejorativa. 
+O cenário implícito de _Cairn_ é chamado **Vald**, abrangendo todas as terras desenvolvidas ou habitadas — cidades, vilas, florestas etc. O governante específico é irrelevante, pois a maioria das aventuras se passa em vilas e povoados menores, nas florestas e nas margens do reino. A maioria dos habitantes (independentemente da região) se refere aos centros de poder locais como as _Cidades_, às vezes de forma pejorativa. 
 
 As vilas e povoados são construídos próximos a fontes de água e madeira, a uma distância de até um dia de caminhada uma da outra. Vilas maiores podem depender de fazendas e caçadores das redondezas. Os assentamentos costumam se organizar em torno de indústrias específicas, como madeira, cervejaria, pesca ou mineração, com um **Guarda-Campo** ou **Domador de Feras** protegendo seus bens mais valiosos. 
 
-Trilhas estabelecidas entre os povoados maiores são bastante comuns, enquanto estradas bem conservadas quase inexistentes, exceto para as cidades distantes. Comerciantes itinerantes, **Caldeireiros** e diversos mascates passam pelos povoados de forma semirregular, às vezes contratando **Batedores** para proteger e escoltar caravanas maiores, ou **Corredeiros** para ajudar a transportar passageiros pelas Terras Ribeirinhas.
+Trilhas estabelecidas entre os povoados maiores são bastante comuns, enquanto estradas bem conservadas são quase inexistentes, exceto para as cidades distantes. Comerciantes itinerantes, **Caldeireiros** e diversos mascates passam pelos povoados de forma semirregular, às vezes contratando **Batedores** para proteger e escoltar caravanas maiores, ou **Corredeiros** para ajudar a transportar passageiros pelas Terras Ribeirinhas.
 
 Mesmo a menor vila pode receber visitantes eruditos das cidades: um **Escrivaneiro**, **Ourivex** ou **Verdessábio** com interesse em tumbas, túmulos e Portões próximos. Frequentemente, um **Zelador de Ossos** ou **Coletor de Fungos** é contratado por sua experiência, enquanto aventureiros astutos garantem que um **Barbeiro-Cirurgião** esteja sempre por perto — ou um **Corta-Bolsas**, caso haja negócios menos honrosos a tratar. Claro que **Montebanco** e **Jograis** costumam acompanhar esse tipo de comitiva, aproveitando-se da fama alheia na esperança de também colher os frutos da próxima grande descoberta.
 
-Quem entra no **Bosque** costuma contratar um guia familiarizado com o território, como um **Espreitador** ou **Flecheiro dos Ventos**, enquanto viajantes realmente determinados buscam a sabedoria de uma **Mestibruxa** ou de um **Enjeitado** com alguma ligação com seus segredos mais sombrios. Perto das fronteiras, o **Guarda-Marcas** trabalha para manter o reino livre de influências externas, enquanto os **Algoz de Bruxas** procuram protegê-lo de ameaças internas.
+Quem entra no **Bosque** costuma contratar um guia familiarizado com o território, como um **Espreitador** ou **Flecheiro dos Ventos**, enquanto viajantes realmente determinados buscam a sabedoria de uma **Mestibruxa** ou de um **Enjeitado** com alguma ligação com seus segredos mais sombrios. Perto das fronteiras, o **Guarda-Marcas** trabalha para manter o reino livre de influências externas, enquanto os **Algozes de Bruxas** procuram protegê-lo de ameaças internas.
 
 ## O Bosque
 

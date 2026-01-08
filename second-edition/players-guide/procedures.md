@@ -287,11 +287,11 @@ O jogador deve descrever exatamente o que quer melhorar e indicar um **Mestre** 
 
 - **A Defesa de Duas Mãos**: Ao lutar com uma mão livre, o HP do PJ aumenta temporariamente em 1d4. O grupo contratou um mercenário das **Terras Crateradas**, cuja técnica é focada em evitar ataques inimigos. Ela aceitou treinar qualquer um que consiga vencê-la no combate corpo a corpo.
 - **Herbologia**: Com os ingredientes certos, um PJ pode criar um **Unguento de Cura** (restaura 4 FOR) como **Ação de Tempo Livre**. Depois de receber cuidados de um velho herbalista nos **Bosques Verdejantes**, o PJ ferido pediu para ser treinado nas artes de cura. O **Mestre** aceitou, mas pediu que coletasse três ervas raras antes de começar o treino. 
-- **Mestre das Trutas**: Ao realizar a ação de **Abastecer**, as **Ra- ções** coletadas próximas a fontes de água fria aumentam um passo (ex.: 1d4 se torna 1d6). O grupo escoltou uma naturalista perdida das temíveis **Terras Prateadas** até a cidade. Como agradecimento, ela ofereceu treinar um PJ para identificar e capturar um peixe-lago comum que vive em águas mais frias.
+- **Mestre das Trutas**: Ao realizar a ação de **Abastecer**, as **Rações** coletadas próximas a fontes de água fria aumentam um passo (ex.: 1d4 se torna 1d6). O grupo escoltou uma naturalista perdida das temíveis **Terras Prateadas** até a cidade. Como agradecimento, ela ofereceu treinar um PJ para identificar e capturar um peixe-lago comum que vive em águas mais frias.
 
 ### Fortalecer Laços
 
-Um personagem cultiva uma conexão com um NPJ ou Facção no mundo do jogo. Primeiro, deve identificar a entidade com quem deseja estreitar laços, bem como um **intento** específico (ex.: construir confiança, reparar uma amizade, buscar ingresso em uma facção, formar uma aliança, etc.). O **Guardião** então fornece medidas concretas (descritas como **Marcos** e **Custos**) que o PJ pode realizar para avançar na relação. A cada **Marco** concluído, o **Guardião** descreve como a relação do PJ cresceu ou mudou. 
+Um personagem cultiva uma conexão com um PNJ ou Facção no mundo do jogo. Primeiro, deve identificar a entidade com quem deseja estreitar laços, bem como um **intento** específico (ex.: construir confiança, reparar uma amizade, buscar ingresso em uma facção, formar uma aliança, etc.). O **Guardião** então fornece medidas concretas (descritas como **Marcos** e **Custos**) que o PJ pode realizar para avançar na relação. A cada **Marco** concluído, o **Guardião** descreve como a relação do PJ cresceu ou mudou. 
 
 **Exemplos:**
 

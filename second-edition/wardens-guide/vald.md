@@ -19,7 +19,7 @@ Trilhas estabelecidas entre os povoados maiores são bastante comuns, enquanto e
 
 Mesmo a menor vila pode receber visitantes eruditos das cidades: um Escrivaneiro, Ourivex ou Verdessábio com interesse em tumbas, túmulos e Portões próximos. Frequentemente, um Zelador de Ossos ou Coletor de Fungos é contratado por sua experiência, enquanto aventureiros astutos garantem que um Barbeiro-Cirurgião esteja sempre por perto — ou um Corta-Bolsas, caso haja negócios menos honrosos a tratar. Claro que Montebancos e Jograis costumam acompanhar esse tipo de comitiva, aproveitando-se da fama alheia na esperança de também colher os frutos da próxima grande descoberta.
 
-Quem entra no Bosque costuma contratar um guia familiarizado com o território, como um Espreitador ou Flecheiro dos Ventos, enquanto viajantes realmente determinados buscam a sabedoria de uma Mestibruxa ou de um Enjeitado com alguma ligação com seus segredos mais sombrios. Perto das fronteiras, o Guarda-Marcas trabalha para manter o reino livre de influências externas, enquanto os Algoz de Bruxas procuram protegê-lo de ameaças internas.
+Quem entra no Bosque costuma contratar um guia familiarizado com o território, como um Espreitador ou Flecheiro dos Ventos, enquanto viajantes realmente determinados buscam a sabedoria de uma Mestibruxa ou de um Enjeitado com alguma ligação com seus segredos mais sombrios. Perto das fronteiras, o Guarda-Marcas trabalha para manter o reino livre de influências externas, enquanto os Algozes de Bruxas procuram protegê-lo de ameaças internas.
 
 ## Crença
 

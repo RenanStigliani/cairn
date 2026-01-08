@@ -30,7 +30,7 @@ Cada um dos três **Atributos** é usado em circunstâncias diferentes. (Veja *
 
 ## Privação e Fadiga
 
-- Um PJ que necessita de algo crucial (como comida ou descanso) está **Privado**. Qualquer pessoa em ficar **Privado** por mais de um dia adiciona **Fadiga** ao seu inventário, uma para cada dia. Um PJ **Privado** não pode recuperar PG, Atributos ou espaços de inventário decorrentes da **Fadiga**.
+- Um PJ que necessita de algo crucial (como comida ou descanso) está **Privado**. Qualquer pessoa ao ficar **Privado** por mais de um dia adiciona **Fadiga** ao seu inventário, uma para cada dia. Um PJ **Privado** não pode recuperar PG, Atributos ou espaços de inventário decorrentes da **Fadiga**.
 - Um PJ também pode ser forçado a adicionar **Fadiga** após lançar feitiços ou devido a eventos que ocorrem na ficção. Cada Fadiga ocupa um espaço de inventário e dura até que o PJ consiga se recuperar (com uma noite inteira de descanso em um local seguro).
 - Se um personagem for forçado a adicionar **Fadiga** ao seu inventário, mas não tiver espaços livres, ele deverá remover um item do seu inventário.
 
@@ -60,7 +60,7 @@ Quando os PJs encontram um PNJ cuja reação ao grupo não é óbvia, o Guardiã
 - Grupos de aventureiros podem recrutar mercenários, confiando em suas habilidades, conhecimento e treinamento únicos para ajudar em expedições.  
 - Para criar um mercenário, escolha uma função apropriada na tabela de [Contratados](players-guide/marketplace.md#Contratados-(por-dia)) no Mercado.
  Role 3d6 para cada atributo e 1d6 para seus PG. Dê a eles **equipamentos** apropriados para sua posição e, em seguida, role nas tabelas de Características de Personagem para desenvolvê-los melhor.
-- Alternativamente, escolha um [**antecedente**](character-creation.md#Antecedentes) e um **nome** apropriados no guia de [Criação de Personagem](character-creation.md).
+- Alternativamente, escolha um [**antecedente**](character-creation.md#antecedentes) e um **nome** apropriados no guia de [Criação de Personagem](character-creation.md).
  Role (ou escolha entre) as tabelas para o antecedente escolhido. Depois role para Rações, Peças de Ouro, Atributos, PG e idade. 
 
 ## Dado de Sorte
@@ -86,7 +86,7 @@ Em seu turno, um personagem pode se mover até 12 metros e realizar até uma aç
 
 - O atacante rola o dado de dano de sua arma e subtrai o valor da armadura do alvo, depois aplica o resultado ao PG de seu oponente. Em combate, Ataques acertam automaticamente.
 - Se múltiplos atacantes mirarem no mesmo inimigo, role todos os dados de dano e mantenha apenas o maior resultado. Todas as ações devem ser declaradas antes de serem resolvidas.
-- Se um ataque reduzir os PG de um PJ exatamente a 0, consulte a tabela de [Cicatrizes](#Tabela-de-Cicatrizes) para ver como ele é afetado de forma única.
+- Se um ataque reduzir os PG de um PJ exatamente a 0, consulte a tabela de [Cicatrizes](#tabela-de-cicatrizes) para ver como ele é afetado de forma única.
 
 
 ### Modificadores de Ataque
@@ -118,7 +118,7 @@ Em seu turno, um personagem pode se mover até 12 metros e realizar até uma aç
 
 ### Retirada
 
-- Fugir de uma situação perigosa sempre exige um salvamento bem-sucedida de DES, bem como um destino seguro para onde correr.
+- Fugir de uma situação perigosa sempre exige um salvamento bem-sucedido de DES, bem como um destino seguro para onde correr.
 
 ### Ataques a Distância
 
