@@ -301,7 +301,7 @@ Role 1d20 para cada coluna e combine os resultados.
 
 |         |                         |                                              |
 | ------- | ----------------------- | -------------------------------------------- |
-| **D20** | **Perigo**              | **Característica**                           |
+| **d20** | **Perigo**              | **Característica**                           |
 | **1**   | Armadilha de Animal     | Um Basilisco de Estimação                    |
 | **2**   | Sombras do Pântano      | Um Feitiço que Deu Errado                    |
 | **3**   | Pomar de Ossos          | Armadura Animada                             |

@@ -250,7 +250,7 @@ A maneira mais fácil de converter um monstro de outro sistema é ler o bloco de
 
 Tome como exemplo esta criatura:
 
-#### Mulher-Raposa (Foxwoman)
+#### Mulher-Raposa
 
 Pode assumir a forma de uma raposa ou de uma mulher de 2,10m com cabeça de raposa.
 _HD 5, Speed 120', Armor 14, Morale 11, Attack: +4 d8hp (garra, mordida ou estrangulamento)_
