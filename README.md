@@ -19,7 +19,7 @@ Este é um jogo que valoriza as contribuições da comunidade! Se você quiser e
 
 - Este é um **projeto em andamento**.
 - Esta versão é uma **tradução feita por fã**, sem qualquer pretensão de ser profissional ou oficial.
-- Algumas partes e termos foram adaptados da tradução da [Primeira Edição](https://cairnrpg.com/localization/first-edition/brazilian-portuguese/), realizada por [Xenio](https://xenioinabottle.blogspot.com/).
+- Algumas partes e termos foram adaptados da tradução da [Primeira Edição](https://cairnrpg.com/localization/first-edition/brazilian-portuguese/), realizada por [Xenio](https://x.com/Xenio_1).
 - Outras partes da tradução foram baseadas no [trabalho de robsonfvilela](https://github.com/robsonfvilela/Cairn-2e-ptbr).
 - Esse conteúdo foi revisado com auxílio de IA e posteriormente revisado manualmente por mim.
 
