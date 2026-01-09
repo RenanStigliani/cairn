@@ -1,677 +1,677 @@
 ---
 layout: default
-title: Setting Seeds
+title: Sementes de Cenário
 parent: Guia do Guardião 
 grand_parent: Segunda Edição
 ---
 
-# Setting Seeds
+# Sementes de Cenário
 
-## Overview
+## Visão Geral
 
-The following procedure is designed to help create the _seed_ of a setting: the unique topography, natural features, people, and paths that an adventuring party may encounter as they travel throughout a region. We'll start by developing the people that live there, their ambitions and resources, and the factions that affect them. Then we'll generate the terrain of your region, followed by its various points of interest, landmarks, roads, trails, and so on. As with any other rule, if you don't like a table result, roll again or tweak as desired!
+O procedimento a seguir foi projetado para ajudar a criar a _semente_ de um cenário: a topografia única, características naturais, pessoas e caminhos que um grupo de aventureiros pode encontrar enquanto viaja por uma região. Começaremos desenvolvendo as pessoas que vivem lá, suas ambições e recursos, e as facções que as afetam. Em seguida, geraremos o terreno da sua região, seguido de seus vários pontos de interesse, marcos, estradas, trilhas e assim por diante. Como qualquer outra regra, se você não gostar de um resultado de tabela, role novamente ou ajuste como desejar!
 
-## Example
+## Exemplo
 
-Before you begin please check out this example (click on it):
+Antes de começar, por favor confira este exemplo (clique nele):
 
-[![Click Me!](/img/2e/setting-seed-example.webp "Click to embiggen"){:height="60%" width="60%"}](/img/2e/setting-seed-example.webp)
+[![Clique Aqui!](/img/2e/setting-seed-example.webp "Clique para ampliar"){:height="60%" width="60%"}](/img/2e/setting-seed-example.webp)
 
-## The Realm
+## O Reino
 
-A **Realm** is a general term for a related collection of regions, potentially encompassing hundreds of places for the player characters to visit and interact with.
+Um **Reino** é um termo geral para um conjunto de regiões, potencialmente abrangendo centenas de lugares para os personagens dos jogadores visitarem e interagirem.
 
-### Materials Required
+### Materiais Necessários
 
-- A sheet of paper and a notebook. Letter/A4 is OK, but the larger the better. Going forward, we will refer to the sheet of paper as the **map**.
-- Pencils and erasers. Colored pencils if you want to make it pretty or want to indicate terrain with color.
-- At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
+- Uma folha de papel e um caderno. Tamanho carta/A4 é aceitável, mas quanto maior melhor. Daqui em diante, nos referiremos à folha de papel como o **mapa**.
+- Lápis e borrachas. Lápis de cor se você quiser deixar bonito ou quiser indicar terreno com cores.
+- Pelo menos um d6 e um d20, mas 6d6 e 2d20 seria o ideal.
 
-## Theme
+## Tema
 
-### People
+### Pessoas
 
-The most important aspect of a region is its _people_: their character, ambitions, and the resources that tie them to this land. Roll on the [Culture](#culture) and [Resources](#resources) tables, then note the results in your notebook.    
+O aspecto mais importante de uma região é seu _povo_: seu caráter, ambições e os recursos que os ligam a esta terra. Role nas tabelas de [Cultura](#cultura) e [Recursos](#recursos), depois anote os resultados em seu caderno.
 
-#### Culture
+#### Cultura
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
-|         |               |                 |
-| ------- | ------------- | --------------- |
-| **d20** | **Character** | **Ambition**    |
-| **1**   | Altruistic    | Bounty          |
-| **2**   | Artistic      | Conquest        |
-| **3**   | Curious       | Control         |
-| **4**   | Devious       | Conversion      |
-| **5**   | Enlightened   | Division        |
-| **6**   | Hardy         | Dominance       |
-| **7**   | Harmonious    | Exploration     |
-| **8**   | Inventive     | Fealty          |
-| **9**   | Mercantile    | Independence    |
-| **10**  | Nomadic       | Knowledge       |
-| **11**  | Reclusive     | Natural Harmony |
-| **12**  | Religious     | Peace           |
-| **13**  | Resilient     | Power           |
-| **14**  | Scholarly     | Purity          |
-| **15**  | Stoic         | Recognition     |
-| **16**  | Struggling    | Return          |
-| **17**  | Traditional   | Security        |
-| **18**  | War-like      | Stability       |
-| **19**  | Wealthy       | Unification     |
-| **20**  | Xenophobic    | Wealth          |
+|         |             |                  |
+| ------- | ----------- | ---------------- |
+| **d20** | **Caráter** | **Ambição**      |
+| **1**   | Altruísta   | Abundância       |
+| **2**   | Artístico   | Conquista        |
+| **3**   | Curioso     | Controle         |
+| **4**   | Ardiloso    | Conversão        |
+| **5**   | Iluminado   | Divisão          |
+| **6**   | Resistente  | Dominância       |
+| **7**   | Harmonioso  | Exploração       |
+| **8**   | Inventivo   | Lealdade         |
+| **9**   | Mercantil   | Independência    |
+| **10**  | Nômade      | Conhecimento     |
+| **11**  | Recluso     | Harmonia Natural |
+| **12**  | Religioso   | Paz              |
+| **13**  | Resiliente  | Poder            |
+| **14**  | Erudito     | Pureza           |
+| **15**  | Estoico     | Reconhecimento   |
+| **16**  | Lutador     | Retorno          |
+| **17**  | Tradicional | Segurança        |
+| **18**  | Belicoso    | Estabilidade     |
+| **19**  | Próspero    | Unificação       |
+| **20**  | Xenofóbico  | Riqueza          |
 
-#### Resources
+#### Recursos
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
-|         |               |               |
-| ------- | ------------- | ------------- |
-| **d20** | **Abundance** | **Scarcity**  |
-| **1**   | Food          | Food          |
-| **2**   | Fuel          | Fuel          |
-| **3**   | Gemstones     | Gemstones     |
-| **4**   | Herbs         | Herbs         |
-| **5**   | Horses        | Horses        |
-| **6**   | Knowledge     | Knowledge     |
-| **7**   | Land          | Land          |
-| **8**   | Livestock     | Livestock     |
-| **9**   | Medicine      | Medicine      |
-| **10**  | Ore           | Ore           |
-| **11**  | Skilled Labor | Skilled Labor |
-| **12**  | Spices        | Spices        |
-| **13**  | Stone         | Stone         |
-| **14**  | Textiles      | Textiles      |
-| **15**  | Tools         | Tools         |
-| **16**  | Trade Goods   | Trade Goods   |
-| **17**  | Vessels       | Vessels       |
-| **18**  | Water         | Water         |
-| **19**  | Weapons       | Weapons       |
-| **20**  | Wood          | Wood          |
+|         |                  |                  |
+| ------- | ---------------- | ---------------- |
+| **d20** | **Abundância**   | **Escassez**     |
+| **1**   | Comida           | Comida           |
+| **2**   | Combustível      | Combustível      |
+| **3**   | Pedras Preciosas | Pedras Preciosas |
+| **4**   | Ervas            | Ervas            |
+| **5**   | Cavalos          | Cavalos          |
+| **6**   | Conhecimento     | Conhecimento     |
+| **7**   | Terra            | Terra            |
+| **8**   | Gado             | Gado             |
+| **9**   | Remédios         | Remédios         |
+| **10**  | Minério          | Minério          |
+| **11**  | Mão de Obra      | Mão de Obra      |
+| **12**  | Especiarias      | Especiarias      |
+| **13**  | Pedra            | Pedra            |
+| **14**  | Tecidos          | Tecidos          |
+| **15**  | Ferramentas      | Ferramentas      |
+| **16**  | Mercadorias      | Mercadorias      |
+| **17**  | Embarcações      | Embarcações      |
+| **18**  | Água             | Água             |
+| **19**  | Armas            | Armas            |
+| **20**  | Madeira          | Madeira          |
 
-### Factions
+### Facções
 
-A region is typically dominated by one or more factions, each with their own unique **Advantages**, **Agenda**, and **Obstacles**. Each faction should also have one or more representatives, or **Agents**, tasked with helping complete their agenda. Smaller regions with fewer POIs should have 1-2 factions, while larger regions could have as many as 5-6 factions. 
+Uma região é tipicamente dominada por uma ou mais facções, cada uma com suas próprias **Vantagens**, **Agenda** e **Obstáculos** únicos. Cada facção também deve ter um ou mais representantes, ou **Agentes**, encarregados de ajudar a completar sua agenda. Regiões menores com menos POIs devem ter 1-2 facções, enquanto regiões maiores podem ter até 5-6 facções.
 
-Agents are often in charge of completing one or more of the goals of the Agenda of a faction. Particularly large factions may have additional agents, each in charge of a distinct goal. Agents may have personal motivations that differ from the faction's main agenda, a fact that canny PCs can exploit for their own gain.
+Agentes frequentemente são encarregados de completar um ou mais dos objetivos da Agenda de uma facção. Facções particularmente grandes podem ter agentes adicionais, cada um encarregado de um objetivo distinto. Agentes podem ter motivações pessoais que diferem da agenda principal da facção, um fato que PJs astutos podem explorar para seu próprio ganho.
 
-#### Advantages
+#### Vantagens
 
-Factions possess advantages that assist them in accomplishing their agenda. Advantages reflect a faction's influence, materials, wealth, and other unique features. Factions leverage their advantages as much as possible when trying to achieve their goals, and at the same time continually work to acquire _more_ advantages.
+Facções possuem vantagens que as auxiliam a realizar sua agenda. Vantagens refletem a influência, materiais, riqueza e outras características únicas de uma facção. Facções alavancam suas vantagens o máximo possível ao tentar alcançar seus objetivos, e ao mesmo tempo trabalham continuamente para adquirir _mais_ vantagens.
 
 #### Agendas
 
-Factions will work to complete their agendas independently, enlisting the help of PCs only when that would strengthen their agenda. Agendas are defined by a series of 3-5 goals that build toward a clear objective. Goals are _progressive_, building on the previous successes (or failures) of earlier goals. 
+Facções trabalharão para completar suas agendas independentemente, recrutando a ajuda dos PJs apenas quando isso fortaleceria sua agenda. Agendas são definidas por uma série de 3-5 objetivos que constroem em direção a um objetivo claro. Objetivos são _progressivos_, construindo sobre os sucessos (ou falhas) anteriores de objetivos anteriores.
 
-Goals should focus on acquiring a distinct advantage in order to proceed to the next goal. At least one goal should deal with the faction's primary obstacle. This may be the first goal, or the last. All agendas have at least one obstacle that stands in the way of their completion. Additional obstacles can arise through faction Actions (see below) or through developments in the fiction. 
+Objetivos devem focar em adquirir uma vantagem distinta para prosseguir ao próximo objetivo. Pelo menos um objetivo deve lidar com o obstáculo principal da facção. Este pode ser o primeiro objetivo, ou o último. Todas as agendas têm pelo menos um obstáculo que fica no caminho de sua conclusão. Obstáculos adicionais podem surgir através de Ações de facção (veja abaixo) ou através de desenvolvimentos na ficção.
 
-Completing a faction's agendas should be a significant event, potentially changing the political or natural landscape of a region.
+Completar as agendas de uma facção deve ser um evento significativo, potencialmente mudando a paisagem política ou natural de uma região.
 
-> The region map should continually reflect the impact of factions as they work on completing their agendas and acquiring more advantages.
+> O mapa da região deve refletir continuamente o impacto das facções enquanto trabalham para completar suas agendas e adquirir mais vantagens.
 
-#### Creating factions
+#### Criando facções
 
-Roll one or more times on the [Faction Types](#faction-types), [Faction Traits](#faction-traits), [Faction Advantages](#faction-advantages) and [Faction Agendas](#faction-agendas) tables.
+Role uma ou mais vezes nas tabelas de [Tipos de Facção](#tipos-de-facção), [Traços de Facção](#traços-de-facção), [Vantagens de Facção](#vantagens-de-facção) e [Agendas de Facção](#agendas-de-facção).
 
-#### Faction Types
+#### Tipos de Facção
 
-Roll 1d20 for each column and combine the results.
+Role 1d20 para cada coluna e combine os resultados.
 
 |         |                 |             |
 | ------- | --------------- | ----------- |
-| **d20** | **Type**        | **Agent**   |
-| **1**   | Artisans        | Academic    |
-| **2**   | Commoners       | Assassin    |
-| **3**   | Criminals       | Blacksmith  |
-| **4**   | Cultists        | Farmer      |
-| **5**   | Exiles          | General     |
-| **6**   | Explorers       | Gravedigger |
-| **7**   | Industrialists  | Guard       |
-| **8**   | Merchants       | Healer      |
-| **9**   | Military        | Jailer      |
-| **10**  | Nobles          | Laborer     |
-| **11**  | Nomads          | Lord        |
-| **12**  | Pilgrims        | Merchant    |
-| **13**  | Protectors      | Monk        |
-| **14**  | Religious       | Mystic      |
-| **15**  | Revolutionaries | Outlander   |
-| **16**  | Rulers          | Peddler     |
-| **17**  | Scholars        | Politician  |
-| **18**  | Settlers        | Spy         |
-| **19**  | Spies           | Thief       |
-| **20**  | Tribe           | Thug        |
-
-#### Faction Traits
-
-Roll 1d20 for each column and combine the results.
-
-|         |               |               |
-| ------- | ------------- | ------------- |
-| **d20** | **Trait 1**   | **Trait 2**   |
-| **1**   | Cautious      | Adaptable     |
-| **2**   | Connected     | Bankrupt      |
-| **3**   | Decadent      | Brutal        |
-| **4**   | Disciplined   | Collaborative |
-| **5**   | Discreet      | Corrupt       |
-| **6**   | Dogmatic      | Craven        |
-| **7**   | Enigmatic     | Cruel         |
-| **8**   | Fierce        | Cunning       |
-| **9**   | Incorruptible | Cynical       |
-| **10**  | Intellectual  | Deceptive     |
-| **11**  | Judicious     | Generous      |
-| **12**  | Keen          | Incompetent   |
-| **13**  | Loyal         | Manipulative  |
-| **14**  | Meticulous    | Mercurial     |
-| **15**  | Popular       | Repressed     |
-| **16**  | Pragmatic     | Ruthless      |
-| **17**  | Resourceful   | Selfish       |
-| **18**  | Secretive     | Stealthy      |
-| **19**  | Shrewd        | Threatened    |
-| **20**  | Tenacious     | Xenophobic    |
-
-#### Faction Advantages
-
-Roll 1d20 to determine the number of advantages the faction has, then roll 1d20 again for each of the corresponding advantages. For example, if a result of “2” was received from the “# of Advantages” column, you would roll on the “Type” column twice, noting each result. Reroll repeated results.
-
-|         |                     |                |
-| ------- | ------------------- | -------------- |
-| **d20** | **# of Advantages** | **Advantage**  |
-| **1**   | 1                   | Alliances      |
-| **2**   | 1                   | Anonymity      |
-| **3**   | 1                   | Apparatus      |
-| **4**   | 1                   | Beliefs        |
-| **5**   | 1                   | Charisma       |
-| **6**   | 1                   | Conviction     |
-| **7**   | 1                   | Fealty         |
-| **8**   | 2                   | Force          |
-| **9**   | 2                   | Information    |
-| **10**  | 2                   | Lineage        |
-| **11**  | 2                   | Magic          |
-| **12**  | 2                   | Members        |
-| **13**  | 3                   | Popularity     |
-| **14**  | 3                   | Position       |
-| **15**  | 3                   | Renown         |
-| **16**  | 3                   | Resources      |
-| **17**  | 3                   | Ruthlessness   |
-| **18**  | 4                   | Specialization |
-| **19**  | 4                   | Subterfuge     |
-| **20**  | 4                   | Wealth         |
-
-#### Faction Agendas
-
-Roll 1d20 for each column and combine the results.
-
-|         |                            |                                                         |
-| ------- | -------------------------- | ------------------------------------------------------- |
-| **d20** | **Agenda**                 | **Obstacle**                                            |
-| **1**   | Ascend to a Higher Plane   | A geographic barrier or impassable terrain.             |
-| **2**   | Collect Artifacts          | A key piece of information must first be discovered.    |
-| **3**   | Cultivate a Rare Resource  | A particular object or Relic is required.               |
-| **4**   | Defend Something           | A powerful figure or foe must be eliminated.            |
-| **5**   | Destroy Something          | A rare but necessary resource must first be acquired.   |
-| **6**   | Dominate Others            | A serious debt forces the faction to make dire choices. |
-| **7**   | Enrich Themselves          | A well-known prophecy predicts imminent failure.        |
-| **8**   | Establish a Colony         | An alliance with an enemy must first be brokered.       |
-| **9**   | Establish a New Order      | An internal schism threatens to tear the faction apart. |
-| **10**  | Explore Uncharted Lands    | Another faction has the same goal.                      |
-| **11**  | Forge an Alliance          | Another faction stands in opposition.                   |
-| **12**  | Infiltrate Another Faction | Commoners stand openly in opposition.                   |
-| **13**  | Preserve the Status Quo    | Considerable capital is required.                       |
-| **14**  | Protect a Secret           | Contravenes an established code, with a heavy penalty.  |
-| **15**  | Purge the Land             | Hindered by cultural taboos.                            |
-| **16**  | Reveal a Secret            | Many must die, either as a necessity or consequence.    |
-| **17**  | Revenge                    | Must be carried out at a rare or exact moment.          |
-| **18**  | Revive a Former Power      | Must be carried out in absolute secrecy.                |
-| **19**  | Seek New Leadership        | Requires a specialist of an uncommon sort.              |
-| **20**  | Spread a Belief            | The outcome would lead to unavoidable war.              |
-
-#### Example Faction
-
-#### Type
-
-- **Academics**: _Royal Cartographer's Guild_. Respected and feared, even by the royal family. 
-
-### Advantages
-
-- **Apparatus**: A _Map of the Dead_. Legend tells that the map reveals a Gate to the land of the dead.  
-- **Renown**: None would dare defy the _Guild_ publicly. Their voice carries great weight in the Cities.
-
-### Agents
-
-- Horatia Confi, first of her order. Recovered the _Map of the Dead_ for the _Guild_. WIL 15.  
-
-#### Agenda
-
-- Hire a skilled party to escort Horatia to a location written on the map.
-- Travel through the lands of the dead in search of the _Order_'s original founder.
-- Bring the founder back to the Cities. Overthrow the ruler of the Realm.
-
-#### Obstacle
-
-The _Guild_ has been warned that a well-placed operative moves within their ranks.
-
-#### Faction Rules
-
-- By default, factions operate independent of the player character's actions. If the PCs do nothing, the faction should still act to achieve their aims.
-- The **Warden** should rely on the fiction to determine whether a faction is positioned to advance their agenda. 
-- Some goals may be time-sensitive or depend on explicit circumstances. Other times it might be more appropriate to introduce a new goal after a major event, alliance, or friction between one or more factions, etc.
-- Whenever a faction is positioned to advance a goal in their agenda, roll a **d6** on the [Faction Actions](#faction-actions) table. 
-- If two factions are _opposed_, the faction _most at risk_ makes a WIL save, using the score of its highest-ranking agent. On a fail, the faction does not roll on the Faction Actions table at this time.
-
-#### Faction Actions
-
-|        |                   |                                                                 |
-| ------ | ----------------- | --------------------------------------------------------------- |
-| **d6** | **Consequence**   | **Impact**                                                      |
-| **1**  | **Failure**       | A new **Obstacle** is introduced, and an **Advantage** is lost. |
-| **2**  | **Setback**       | An **Advantage** is lost.                                       |
-| **3**  | **Status Quo**    | Nothing is gained, but nothing is lost.                         |
-| **4**  | **Mixed Success** | A **goal** is achieved,  but an **Advantage** is lost.          |
-| **5**  | **Success**       | A **goal** is achieved, and no **Advantages** are lost.         |
-| **6**  | **Major Success** | A **goal** is achieved, and a new **Advantage** is found.       |
-
-> The actions of the PCs can always overrule the necessity for a **faction** action, or in some cases shift the outcome of the roll in a favorable or unfavorable direction. 
-
-### Topography
-
-A region's terrain and natural features are an essential part of any map, affecting the local history, resources, settlements, culture, and more.
-
-#### Landmarks 
-
-**Landmarks** are unique, visible POIs that can also be used as geographic reference points: towers, mountains, tall buildings, and so on. They help orient travelers around the map, and are _especially_ visible from areas with higher elevation or a clear viewpoint. Landmarks are _represented on the map by a triangle_.
-
-#### Draw Terrain
-
-1. Roll **1d6**, then roll an amount of dice equal to that number on the map. Collect any dice that roll off the page and set them aside.
-2. Note the face-up result for each die, then use the [Terrain Die Drop Table](#terrain-die-drop-table) to mark the terrain type on the map. For example, a die showing a 4 would indicate Tough terrain.
-3. Draw long, curvy lines across the page, carving up the map around each die.
-4. Roll on the appropriate table for each result, writing the terrain and landmark results on the map.
-  - Replace the die with a triangle, writing the landmark result on the map.
-  - Roll any dice that fell off the map page, repeating the last step until none remain.
-  - If there are any empty spaces in need of terrain, roll a die anywhere you like and use the face-up result as before.
-
-### Terrain Die Drop Table
-
-|         |                |
-| ------- | -------------- |
-| **d6**  | **Difficulty** |
-| **1-3** | Easy           |
-| **4-5** | Tough          |
-| **6**   | Perilous       |
-
-### Easy
-
-Roll 1d20 for each column and combine the results.
-
-|         |             |                    |
-| ------- | ----------- | ------------------ |
-| **d20** | **Terrain** | **Landmark**       |
-| **1**   | Bluffs      | Broken Sundial     |
-| **2**   | Dells       | Circle of Menhirs  |
-| **3**   | Farmlands   | Circular Maze      |
-| **4**   | Fells       | Cloud Stairway     |
-| **5**   | Foothills   | Dead Aqueduct      |
-| **6**   | Glens       | Enormous Footprint |
-| **7**   | Grasslands  | Fallen Column      |
-| **8**   | Gulleys     | False Oasis        |
-| **9**   | Heaths      | Giant's Throne     |
-| **10**  | Lowlands    | Glittering Cascade |
-| **11**  | Meadows     | Golden Bridge      |
-| **12**  | Moors       | Great Stone Face   |
-| **13**  | Pampas      | Great Waterwheel   |
-| **14**  | Pastures    | Heart Tree         |
-| **15**  | Plains      | Opaque Lake        |
-| **16**  | Plateaus    | Petrified Forest   |
-| **17**  | Prairies    | Pit of Cold Fire   |
-| **18**  | Savannas    | Silver Face        |
-| **19**  | Steppes     | Sinkhole           |
-| **20**  | Valleys     | Titanic Gate       |
-
-### Tough
-
-Roll 1d20 for each column and combine the results.
-
-|         |             |                     |
-| ------- | ----------- | ------------------- |
-| **d20** | **Terrain** | **Landmark**        |
-| **1**   | Barrens     | Algae Falls         |
-| **2**   | Canyons     | Basalt Columns      |
-| **3**   | Chaparral   | Behemoth Graveyard  |
-| **4**   | Coral Reefs | Canyon Bridge       |
-| **5**   | Deserts     | Cinder Cones        |
-| **6**   | Dunes       | Flame Pits          |
-| **7**   | Estuaries   | Forest of Arrows    |
-| **8**   | Fens        | Frozen Waterfall    |
-| **9**   | Forests     | Fungal Forest       |
-| **10**  | Heathlands  | Half-Buried Ark     |
-| **11**  | Hills       | Hanging Valley      |
-| **12**  | Mangroves   | Inverted Lighthouse |
-| **13**  | Marshlands  | Leviathan Bones     |
-| **14**  | Moorlands   | Massive Crater      |
-| **15**  | Rainforests | Massive Dung Ball   |
-| **16**  | Scrublands  | Salt Flat Mirrors   |
-| **17**  | Taiga       | Shrouded Ziggurat   |
-| **18**  | Thickets    | Stalagmite Forest   |
-| **19**  | Tundra      | Sunken Colossus     |
-| **20**  | Woodlands   | Titan's Table       |
-
-### Perilous
-
-Roll 1d20 for each column and combine the results.
-
-|         |                |                     |
-| ------- | -------------- | ------------------- |
-| **d20** | **Terrain**    | **Landmark**        |
-| **1**   | Alpine Meadows | Active Volcano      |
-| **2**   | Bogs           | Ammonia Caves       |
-| **3**   | Boulders       | Bone Mountain       |
-| **4**   | Caverns        | Crystalline Forest  |
-| **5**   | Cliffs         | Dome of Darkness    |
-| **6**   | Craters        | Enormous Hive       |
-| **7**   | Crevasses      | Floating Object     |
-| **8**   | Geysers        | Inactive Automaton  |
-| **9**   | Glaciers       | Land Scar           |
-| **10**  | Gorges         | Large Vents         |
-| **11**  | Hollows        | Magma Sculptures    |
-| **12**  | Ice Fields     | Man on the Mountain |
-| **13**  | Jungles        | Meteor Garden       |
-| **14**  | Lava Fields    | Obsidian Needle     |
-| **15**  | Mountains      | Reverse Waterfall   |
-| **16**  | Peatlands      | River of Sulfur     |
-| **17**  | Quagmires      | Siren Stones        |
-| **18**  | Ravine         | Sky-Root            |
-| **19**  | Swamps         | Titanic Ribcage     |
-| **20**  | Wastelands     | Weeping Bubble      |
-
-#### Rivers, Seas, and Lakes
-
-Every region should have some kind of water source. Otherwise, where would the locals get their drinking water or receive news from the rest of the realm? 
-- To create waterways, draw a wiggly line from the highest elevation point (e.g. Mountains) to the lowest (e.g. Grassways). 
-- If the river runs through terrain that is higher in elevation, it might terminate in a **lake**. If your map has a sea, it might terminate there. Otherwise, the river can continue on off the map page.
-
-### Weather
-
-The weather can have a great impact on the people, culture, and terrain of a region. It impacts what kinds of clothes the adventurers need to wear, what sorts of tools they'll have to bring, and how tough the journey might be. To determine the average weather of a region, roll on the [Seasonal Weather](#seasonal-weather) table once for each season. Optionally, you may also roll on the [Unusual Weather](#unusual-weather) table around particular landmarks or terrain.
-
-#### Seasonal Weather
-
-|        |                  |                      |                   |                      |
-| ------ | ---------------- | -------------------- | ----------------- | -------------------- |
-| **d6** | **Spring**       | **Summer**           | **Fall**          | **Winter**           |
-| **1**  | Mild and sunny   | Hot and sunny        | Nice and breezy   | Mild and clear       |
-| **2**  | Nice and drizzly | Nice and cloudy      | Mild and windy    | Cool and windy       |
-| **3**  | Cool and breezy  | Mild and rainy       | Cool and foggy    | Cold and raining     |
-| **4**  | Mild and cloudy  | Cool and stormy      | Cold and cloudy   | Frigid and stormy    |
-| **5**  | Cold and windy   | Hot and humid        | Cool and rainy    | Freezing and snowing |
-| **6**  | Cold and rainy   | Sweltering and humid | Chilly and stormy | Freezing and hailing |
-
-#### Unusual Weather
-
-|         |                                                                                                             |
-| ------- | ----------------------------------------------------------------------------------------------------------- |
-| **d20** | **Weather**                                                                                                 |
-| **1**   | An annual fog appears randomly, turning metallic surfaces to gold on contact.                               |
-| **2**   | An aurora that is visible even during the day.                                                              |
-| **3**   | Birds fly backwards, yet somehow still move forward.                                                        |
-| **4**   | Days are erratic. The Sun goes backwards for a time, then jumps forward as night rapidly sets in.           |
-| **5**   | Distant chimes instead of thunder. A smoky, sweet wind blows in from the West.                              |
-| **6**   | Enormous, fleshy eyes peer down from the skies, their pupils lighting up the night sky.                     |
-| **7**   | Flashes of movement in the periphery that always amount to nothing.                                         |
-| **8**   | Fog that fills the belly (no need for rations). Tomorrow, vomiting.                                         |
-| **9**   | Lakes and streams evaporate in minutes, filling storm clouds that drench the landscape.                     |
-| **10**  | Periodic rains of small aquatic creatures (tadpoles, frogs, small fish). No one knows where they come from. |
-| **11**  | Rainbows lack most of their colors and occasionally flicker. Raindrops fall in various colors.              |
-| **12**  | Rolling dust clouds that smell of cinnamon. The coughing lasts long after they've moved on.                 |
-| **13**  | Shadows disappear at random. Animals become more reluctant.                                                 |
-| **14**  | The air is thicker than usual, and breathing is difficult.                                                  |
-| **15**  | The clouds are shaped like faces. They appear to be laughing.                                               |
-| **16**  | The moon appears larger and softly hums at night.                                                           |
-| **17**  | The rain glows gently at night. It can be gathered, but the light eventually fades.                         |
-| **18**  | The stars rearrange themselves in intricate patterns, making navigation difficult.                          |
-| **19**  | The winds carry whispers. Some say they tell hints of the future.                                           |
-| **20**  | When it snows, the flakes are warm and dry.                                                                 |
-
-## Points of Interest
-
-Points of Interest on a map (or POIs) are generally divided into the following categories:  
-- **Heart**: The primary settlement in a region. It isn't necessarily the largest or most important place, but it should always be significant to the region's history and people. 
-- **Settlements**: Permanent, largely self-sufficient population centers, typically governed by a political body or faction. 
-- **Waypoints**: A safe place to refill supplies, get a good night's sleep, or get directions.
-- **Curiosities**: A wilderness locale of note, somewhere remarkable or strange. It may indeed be hazardous, but only if the PCs interact with it.
-- **Lairs**: An enemy encampment, hive, or source of heightened monster activity.
-- **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
-
-### Draw Points of Interest
-
-- Draw the letter **H** close to a water source on the map. 
-- Roll 3-8 d6 dice on the map, collecting any dice that roll off the page and setting them aside.
-- Note the face-up result for each die, then use the [POI Die Drop Table](#poi-die-drop-table) to mark the type of POI on the map. For example, a die showing a 4 would indicate a Lair, denoted by the letter "L" on the page.
-- Roll any dice that fell off the map page, repeating the last step until none remain.
-- Starting with the Heart, number each POI on the map.
-- Roll on the relevant tables for each POI, including the Heart (usually a Waypoint or Settlement). Note the results for each in your notebook.
-
-> Some POIs may allow the PCs to see more of the world than what appears on their map.
-
-### POI Die Drop Table
-
-|         |                        |
-| ------- | ---------------------- |
-| **d6**  | **POI**                |
-| **1**   | Waypoint or Settlement |
-| **2-3** | Curiosity              |
-| **4**   | Lair                   |
-| **5-6** | Dungeon                |
- 
-### Settlements
-
-Roll 1d20 for each column and combine the results.
-
-|         |                 |                               |
-| ------- | --------------- | ----------------------------- |
-| **d20** | **Settlements** | **Feature**                   |
-| **1**   | Academy         | Built Atop Ruins              |
-| **2**   | Caravan         | Built on Bones of Giants      |
-| **3**   | Citadel         | Center of Learning            |
-| **4**   | City            | Close-Knit                    |
-| **5**   | Commune         | Divided                       |
-| **6**   | Compound        | Emits a Mysterious Hum        |
-| **7**   | Convent         | Famous for its Artisans       |
-| **8**   | Farmstead       | Famous for its Festivals      |
-| **9**   | Fortress        | Guarded by Trained Beasts     |
-| **10**  | Garrison        | Hides a Dangerous Portal      |
-| **11**  | Hamlet          | High Population Density       |
-| **12**  | Keep            | Impregnable                   |
-| **13**  | Monastery       | Integrated with Nature        |
-| **14**  | Outpost         | Known for its Hospitality     |
-| **15**  | Plantation      | Location of a Legendary Forge |
-| **16**  | Prison          | Moves or Revolves             |
-| **17**  | Stronghold      | Protected by a Great Warrior  |
-| **18**  | Town            | Ruled by a Powerful Faction   |
-| **19**  | Villa           | Steeped in Tradition          |
-| **20**  | Village         | Trading Hub                   |
-
-### Waypoints
-
-Roll 1d20 for each column and combine the results.
-
-|         |               |                                  |
-| ------- | ------------- | -------------------------------- |
-| **d20** | **Waypoints** | **Feature**                      |
-| **1**   | Archive       | A Haven for Outcasts             |
-| **2**   | Asylum        | Built on Sacred Grounds          |
-| **3**   | Bazaar        | Contains a Powerful Artifact     |
-| **4**   | Beacon Tower  | Cursed By Previous Occupants     |
-| **5**   | Bunker        | Decrepit Buildings               |
-| **6**   | Cabin         | Distrustful Occupants            |
-| **7**   | Campground    | Does Not Appear on Any Map       |
-| **8**   | Guildhall     | Front for Illegal Operations     |
-| **9**   | Hospice       | Host to a Renowned Artisan       |
-| **10**  | Hunting Lodge | Known for its Elaborate Defenses |
-| **11**  | Inn           | Occupants Are Lawful to a Fault  |
-| **12**  | Observatory   | Occupants Are Overly Formal      |
-| **13**  | Reservoir     | Outsiders Are Barred             |
-| **14**  | Sanatorium    | Outsiders Cannot Carry Weapons   |
-| **15**  | Sanctuary     | Part of an Illegal Trade Route   |
-| **16**  | Shrine        | Popular Pilgrim Destination      |
-| **17**  | Temple        | Protects a Powerful Object       |
-| **18**  | Trading Post  | Reclusive Occupants              |
-| **19**  | Watchtower    | Sits on Natural Deposits         |
-| **20**  | Work Camp     | Technologically Advanced         |
-
-### Curiosities
-
-Roll 1d20 for each column and combine the results.
-
-|         |                    |                        |
-| ------- | ------------------ | ---------------------- |
-| **d20** | **Curiosities**    | **Feature**            |
-| **1**   | Ancient Tree       | Abandoned Vessel       |
-| **2**   | Broken Tower       | Ancient Trash Heap     |
-| **3**   | Buried Megalith    | Buried Ley Line        |
-| **4**   | Collapsed Mill     | Buried Library         |
-| **5**   | Cracked Bell       | Carnivorous Plants     |
-| **6**   | Crystal Spire      | Celestial Mirror       |
-| **7**   | Dripping Archway   | Cult Ritual Site       |
-| **8**   | Echoing Fields     | Edible Fungus          |
-| **9**   | Enormous Fist      | Floating Debris        |
-| **10**  | Enormous Footprint | Hidden Market          |
-| **11**  | Floating Island    | Illusory               |
-| **12**  | Frozen Graveyard   | Impossible Music       |
-| **13**  | Hanging Bridges    | Infested With Vermin   |
-| **14**  | Illegible Signpost | Irregular Gravity      |
-| **15**  | Leviathan Skeleton | Isolated Weather       |
-| **16**  | Oddly-Shaped Lake  | Only Appears at Night  |
-| **17**  | Petrified Trees    | Perpetual Mist         |
-| **18**  | Purple Geysers     | Perpetual Shadows      |
-| **19**  | Singing Stones     | Site of Ancient Battle |
-| **20**  | Sunken City        | Unstable Ground        |
-
-### Lairs
-
-Roll 1d20 for each column and combine the results.
-
-|         |                     |                     |
-| ------- | ------------------- | ------------------- |
-| **d20** | **Lair**            | **Feature**         |
-| **1**   | Abandoned Tower     | Abandoned           |
-| **2**   | Ancient Prison      | At Crossroads       |
-| **3**   | Collapsed Mine      | Baited Entrance     |
-| **4**   | Colossal Hive       | Bioluminescence     |
-| **5**   | Crashed Ship        | Constant Screaming  |
-| **6**   | Crumbling Fort      | Entry Forbidden     |
-| **7**   | Dry Aqueduct        | Faction Hideout     |
-| **8**   | Enormous Stump      | Hidden Exit         |
-| **9**   | Forgotten Graveyard | Odd Machinery       |
-| **10**  | Hidden Burrow       | Piles of Bones      |
-| **11**  | Hollow Obelisk      | Previously Occupied |
-| **12**  | Overgrown Garden    | Religious Graffiti  |
-| **13**  | Primeval Menhirs    | Scattered Traps     |
-| **14**  | Primitive Bridge    | Scavengers Prowl    |
-| **15**  | Rotted Mill         | Signs Posted        |
-| **16**  | Ruined Town         | Something Sleeps    |
-| **17**  | Rusted Construct    | Symbiotic Entity    |
-| **18**  | Spiked Cave         | Training Camp       |
-| **19**  | Sunken Grotto       | Underwater          |
-| **20**  | Unruly Copse        | Waste Pit           |
-
-### Dungeons
-
-Roll 1d20 for each column and combine the results.
+| **d20** | **Tipo**        | **Agente**  |
+| **1**   | Artesãos        | Acadêmico   |
+| **2**   | Plebeus         | Assassino   |
+| **3**   | Criminosos      | Ferreiro    |
+| **4**   | Cultistas       | Fazendeiro  |
+| **5**   | Exilados        | General     |
+| **6**   | Exploradores    | Coveiro     |
+| **7**   | Industriais     | Guarda      |
+| **8**   | Mercadores      | Curandeiro  |
+| **9**   | Militares       | Carcereiro  |
+| **10**  | Nobres          | Trabalhador |
+| **11**  | Nômades         | Senhor      |
+| **12**  | Peregrinos      | Comerciante |
+| **13**  | Protetores      | Monge       |
+| **14**  | Religiosos      | Místico     |
+| **15**  | Revolucionários | Forasteiro  |
+| **16**  | Governantes     | Mascate     |
+| **17**  | Estudiosos      | Político    |
+| **18**  | Colonos         | Espião      |
+| **19**  | Espiões         | Ladrão      |
+| **20**  | Tribo           | Capanga     |
+
+#### Traços de Facção
+
+Role 1d20 para cada coluna e combine os resultados.
 
 |         |               |              |
 | ------- | ------------- | ------------ |
-| **d20** | **Type**      | **Feature**  |
-| **1**   | Burial Ground | Abandoned    |
-| **2**   | Cave          | Buried       |
-| **3**   | Cellar        | Burnt        |
-| **4**   | Crypt         | Clockwork    |
-| **5**   | Den           | Collapsed    |
-| **6**   | Estate        | Crumbling    |
-| **7**   | Fort          | Crystalline  |
-| **8**   | Great Hall    | Floating     |
-| **9**   | Laboratory    | Flooded      |
-| **10**  | Manor         | Fungal       |
-| **11**  | Mine          | Inverted     |
-| **12**  | Outpost       | Isolated     |
-| **13**  | Palace        | Mirrored     |
-| **14**  | Prison        | Otherworldly |
-| **15**  | Ruined City   | Overgrown    |
-| **16**  | Stronghold    | Petrified    |
-| **17**  | Temple        | Remote       |
-| **18**  | Tomb          | Sealed       |
-| **19**  | Tower         | Toxic        |
-| **20**  | Workshop      | Warped       |
+| **d20** | **Traço 1**   | **Traço 2**  |
+| **1**   | Cauteloso     | Adaptável    |
+| **2**   | Conectado     | Falido       |
+| **3**   | Decadente     | Brutal       |
+| **4**   | Disciplinado  | Colaborativo |
+| **5**   | Discreto      | Corrupto     |
+| **6**   | Dogmático     | Covarde      |
+| **7**   | Enigmático    | Cruel        |
+| **8**   | Feroz         | Astuto       |
+| **9**   | Incorruptível | Cínico       |
+| **10**  | Intelectual   | Enganador    |
+| **11**  | Criterioso    | Generoso     |
+| **12**  | Perspicaz     | Incompetente |
+| **13**  | Leal          | Manipulador  |
+| **14**  | Meticuloso    | Inconstante  |
+| **15**  | Popular       | Reprimido    |
+| **16**  | Pragmático    | Impiedoso    |
+| **17**  | Engenhoso     | Egoísta      |
+| **18**  | Sigiloso      | Furtivo      |
+| **19**  | Sagaz         | Ameaçado     |
+| **20**  | Tenaz         | Xenofóbico   |
 
-> See the [Dungeon Seeds](/second-edition/wardens-guide/dungeon-seeds) chapter for how to flesh out each Dungeon POI for your setting.
+#### Vantagens de Facção
 
-## Paths
+Role 1d20 para determinar o número de vantagens que a facção possui, depois role 1d20 novamente para cada uma das vantagens correspondentes. Por exemplo, se um resultado de "2" foi obtido na coluna "Nº de Vantagens", você rolaria na coluna "Tipo" duas vezes, anotando cada resultado. Re-role resultados repetidos.
 
-**Paths** act as geographic connectors on the map, ranging from well-traveled roads and trails to rough wilderness routes. Paths should provide compelling choices between POIs, where factors such as safety, speed, and travel difficulty must be weighed. 
+|         |                     |                |
+| ------- | ------------------- | -------------- |
+| **d20** | **Nº de Vantagens** | **Vantagem**   |
+| **1**   | 1                   | Alianças       |
+| **2**   | 1                   | Anonimato      |
+| **3**   | 1                   | Aparato        |
+| **4**   | 1                   | Crenças        |
+| **5**   | 1                   | Carisma        |
+| **6**   | 1                   | Convicção      |
+| **7**   | 1                   | Lealdade       |
+| **8**   | 2                   | Força          |
+| **9**   | 2                   | Informação     |
+| **10**  | 2                   | Linhagem       |
+| **11**  | 2                   | Magia          |
+| **12**  | 2                   | Membros        |
+| **13**  | 3                   | Popularidade   |
+| **14**  | 3                   | Posição        |
+| **15**  | 3                   | Renome         |
+| **16**  | 3                   | Recursos       |
+| **17**  | 3                   | Impiedade      |
+| **18**  | 4                   | Especialização |
+| **19**  | 4                   | Subterfúgio    |
+| **20**  | 4                   | Riqueza        |
 
-### Path Types
+#### Agendas de Facção
 
-- **Standard** paths are obvious or well-trod routes between two POIs. _Represented by a thick line._
-- **Hidden** paths do not appear on any known maps. Their discovery always requires some kind of cost. _Represented by a dashed line._
-- **Conditional** paths may be blocked or require specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. _Represented by a crossed line._
+Role 1d20 para cada coluna e combine os resultados.
 
-### Draw Paths
+|         |                               |                                                             |
+| ------- | ----------------------------- | ----------------------------------------------------------- |
+| **d20** | **Agenda**                    | **Obstáculo**                                               |
+| **1**   | Ascender a um Plano Superior  | Uma barreira geográfica ou terreno intransponível.          |
+| **2**   | Coletar Artefatos             | Uma peça chave de informação deve ser descoberta primeiro.  |
+| **3**   | Cultivar um Recurso Raro      | Um objeto ou Relíquia específico é necessário.              |
+| **4**   | Defender Algo                 | Uma figura poderosa ou inimigo deve ser eliminado.          |
+| **5**   | Destruir Algo                 | Um recurso raro mas necessário deve ser adquirido primeiro. |
+| **6**   | Dominar Outros                | Uma dívida séria força a facção a fazer escolhas terríveis. |
+| **7**   | Enriquecer-se                 | Uma profecia conhecida prediz falha iminente.               |
+| **8**   | Estabelecer uma Colônia       | Uma aliança com um inimigo deve ser negociada primeiro.     |
+| **9**   | Estabelecer uma Nova Ordem    | Um cisma interno ameaça destruir a facção.                  |
+| **10**  | Explorar Terras Desconhecidas | Outra facção tem o mesmo objetivo.                          |
+| **11**  | Forjar uma Aliança            | Outra facção se opõe.                                       |
+| **12**  | Infiltrar Outra Facção        | Plebeus se opõem abertamente.                               |
+| **13**  | Preservar o Status Quo        | Capital considerável é necessário.                          |
+| **14**  | Proteger um Segredo           | Contraria um código estabelecido, com penalidade pesada.    |
+| **15**  | Purificar a Terra             | Dificultado por tabus culturais.                            |
+| **16**  | Revelar um Segredo            | Muitos devem morrer, seja por necessidade ou consequência.  |
+| **17**  | Vingança                      | Deve ser realizado em um momento raro ou exato.             |
+| **18**  | Reviver um Poder Antigo       | Deve ser realizado em absoluto sigilo.                      |
+| **19**  | Buscar Nova Liderança         | Requer um especialista de tipo incomum.                     |
+| **20**  | Espalhar uma Crença           | O resultado levaria a uma guerra inevitável.                |
 
-- Starting with the Heart, create 1-4 paths between each location. 
-  - Create loops, branching paths, dead-ends, and shortcuts between POIs.
-  - Some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.).
-  - Some paths are Conditional, represented by a crossed line.
-  - Some paths are Hidden, represented by a dashed line.
-- Designate each path using the number of a POI and its connecting point, e.g. 1 &harr; 3. Indicate this in your notebook under the originating POI or in a separate section.  
-- Decide whether a path represents a road, a trail, or a wilderness route, and write the results in your notebook.
-- Roll on the [Path Features](#path-features) table for each path, writing the results in your notebook. 
-- Determine the path distances between POIs, and note the duration on the map:
-  - A Watch is 8 hours long. Denote days between POIs wherever possible (typically two Watches and one rest per day of travel).
-  - A short distance between POIs takes one Watch to traverse, a medium distance takes two Watches, and a long distance takes three Watches. 
-  - For Trails, add 1 more Watch, and for Wilderness routes, add 2 additional Watches.
+#### Exemplo de Facção
 
-### Path Features
+#### Tipo
 
-Roll 1d20 for each column and combine the results.
+- **Acadêmicos**: _Guilda dos Cartógrafos Reais_. Respeitada e temida, até pela família real.
 
-|         |                       |                              |
-| ------- | --------------------- | ---------------------------- |
-| **d20** | **Feature**           | **Condition**                |
-| **1**   | Abandoned Fields      | Bandit Ambushes              |
-| **2**   | Blood-Red             | Blocked by Giant Boulder     |
-| **3**   | Buried Charms         | Collapsed Bridge             |
-| **4**   | Cattle Prints         | Confusing to Navigate        |
-| **5**   | Constant Patrols      | Dense Bramble                |
-| **6**   | Dead Vegetation       | Divided by Political Dispute |
-| **7**   | Disappearing          | Erratic Weather              |
-| **8**   | Diseased Animals      | Frequent Flash Floods        |
-| **9**   | Follows the Stars     | Gets Extremely Cold          |
-| **10**  | Frequent Pilgrims     | Heavy Toll Required          |
-| **11**  | Massive Grooves       | Labyrinthine Canyons         |
-| **12**  | Mile Markers          | Night Predators              |
-| **13**  | Mineral Flecks        | Occasional Stampedes         |
-| **14**  | Newly Made            | Overcrowded                  |
-| **15**  | Overgrown             | Passes over Rapids           |
-| **16**  | Rusted Tools          | Poisonous Fruit              |
-| **17**  | Shriveled Away        | Smoke-filled                 |
-| **18**  | Shredded              | Steep Climb                  |
-| **19**  | Twisted               | Thick Evening Mist           |
-| **20**  | Ubiquitous Footprints | Uneven, Soggy Ground         |
+### Vantagens
 
-### Put It All Together
+- **Aparato**: Um _Mapa dos Mortos_. A lenda conta que o mapa revela um Portal para a terra dos mortos.
+- **Renome**: Ninguém ousaria desafiar a _Guilda_ publicamente. Sua voz carrega grande peso nas Cidades.
 
-Ask yourself the following questions:
+### Agentes
 
-- What would draw people to this region? What keeps them here?
-- How do the people here think of outsiders? How do outsiders think of them?
-- What power do the Factions have over the people who live here?
-- Who or what threatens their agendas?
-- How would a faction interact with any newcomers (e.g. an adventuring party)?
-- How does the region's terrain and weather affect the people that live here? 
+- Horatia Confi, primeira de sua ordem. Recuperou o _Mapa dos Mortos_ para a _Guilda_. VON 15.
 
-You should now have a sufficient idea about the people and terrain of this region, and your first region is now complete. To expand your realm, repeat the process as many times as you wish.
+#### Agenda
 
-For example, if my results described a people that were religious and sought conversion, I'd assume they were a proud folk, prone to religious extremes and proselytizing. And if their primary resource was land, yet spices were rare, I'd assume they grew their own food, but due to a religious prohibition their cuisine was often bland.
+- Contratar um grupo habilidoso para escoltar Horatia a um local escrito no mapa.
+- Viajar pelas terras dos mortos em busca do fundador original da _Ordem_.
+- Trazer o fundador de volta às Cidades. Derrubar o governante do Reino.
 
-Presume that for a faction the result was a group of Nomads, with conviction their primary advantage. I could then assume that their elites were a class of religious chiefs. If the faction's agenda was to cultivate a rare resource, but they were hindered by cultural taboos, I might decide that they had hired the party to take on the task instead. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret!
+#### Obstáculo
+
+A _Guilda_ foi avisada de que um agente bem posicionado se move dentro de suas fileiras.
+
+#### Regras de Facção
+
+- Por padrão, facções operam independentemente das ações dos personagens dos jogadores. Se os PJs não fizerem nada, a facção ainda deve agir para alcançar seus objetivos.
+- O **Guardião** deve confiar na ficção para determinar se uma facção está posicionada para avançar sua agenda.
+- Alguns objetivos podem ser sensíveis ao tempo ou depender de circunstâncias explícitas. Outras vezes pode ser mais apropriado introduzir um novo objetivo após um grande evento, aliança, ou atrito entre uma ou mais facções, etc.
+- Sempre que uma facção estiver posicionada para avançar um objetivo em sua agenda, role um **d6** na tabela de [Ações de Facção](#ações-de-facção).
+- Se duas facções estiverem _em oposição_, a facção _mais em risco_ faz um salvamento de VON, usando a pontuação de seu agente de mais alta posição. Em uma falha, a facção não rola na tabela de Ações de Facção neste momento.
+
+#### Ações de Facção
+
+|        |                    |                                                                    |
+| ------ | ------------------ | ------------------------------------------------------------------ |
+| **d6** | **Consequência**   | **Impacto**                                                        |
+| **1**  | **Falha**          | Um novo **Obstáculo** é introduzido, e uma **Vantagem** é perdida. |
+| **2**  | **Revés**          | Uma **Vantagem** é perdida.                                        |
+| **3**  | **Status Quo**     | Nada é ganho, mas nada é perdido.                                  |
+| **4**  | **Sucesso Misto**  | Um **objetivo** é alcançado, mas uma **Vantagem** é perdida.       |
+| **5**  | **Sucesso**        | Um **objetivo** é alcançado, e nenhuma **Vantagem** é perdida.     |
+| **6**  | **Grande Sucesso** | Um **objetivo** é alcançado, e uma nova **Vantagem** é encontrada. |
+
+> As ações dos PJs podem sempre anular a necessidade de uma ação de **facção**, ou em alguns casos mudar o resultado da rolagem em uma direção favorável ou desfavorável. 
+
+### Topografia
+
+O terreno e as características naturais de uma região são uma parte essencial de qualquer mapa, afetando a história local, recursos, assentamentos, cultura e mais.
+
+#### Marcos
+
+**Marcos** são POIs únicos e visíveis que também podem ser usados como pontos de referência geográfica: torres, montanhas, prédios altos e assim por diante. Eles ajudam a orientar viajantes pelo mapa, e são _especialmente_ visíveis de áreas com elevação maior ou um ponto de vista claro. Marcos são _representados no mapa por um triângulo_.
+
+#### Desenhar Terreno
+
+1. Role **1d6**, depois role uma quantidade de dados igual a esse número no mapa. Colete quaisquer dados que rolarem para fora da página e separe-os.
+2. Anote o resultado voltado para cima de cada dado, depois use a [Tabela de Queda de Dados de Terreno](#tabela-de-queda-de-dados-de-terreno) para marcar o tipo de terreno no mapa. Por exemplo, um dado mostrando 4 indicaria terreno Difícil.
+3. Desenhe linhas longas e curvas pela página, dividindo o mapa ao redor de cada dado.
+4. Role na tabela apropriada para cada resultado, escrevendo os resultados de terreno e marco no mapa.
+  - Substitua o dado por um triângulo, escrevendo o resultado do marco no mapa.
+  - Role quaisquer dados que caíram fora da página do mapa, repetindo o último passo até que nenhum reste.
+  - Se houver espaços vazios precisando de terreno, role um dado onde quiser e use o resultado voltado para cima como antes.
+
+### Tabela de Queda de Dados de Terreno
+
+|         |                 |
+| ------- | --------------- |
+| **d6**  | **Dificuldade** |
+| **1-3** | Fácil           |
+| **4-5** | Difícil         |
+| **6**   | Perigoso        |
+
+### Fácil
+
+Role 1d20 para cada coluna e combine os resultados.
+
+|         |                  |                         |
+| ------- | ---------------- | ----------------------- |
+| **d20** | **Terreno**      | **Marco**               |
+| **1**   | Falésias         | Relógio de Sol Quebrado |
+| **2**   | Vales            | Círculo de Menires      |
+| **3**   | Terras Agrícolas | Labirinto Circular      |
+| **4**   | Morros           | Escada de Nuvens        |
+| **5**   | Contrafortes     | Aqueduto Morto          |
+| **6**   | Gargantas        | Pegada Enorme           |
+| **7**   | Pastagens        | Coluna Caída            |
+| **8**   | Ravinas          | Oásis Falso             |
+| **9**   | Charnecas        | Trono do Gigante        |
+| **10**  | Planícies Baixas | Cascata Cintilante      |
+| **11**  | Campinas         | Ponte Dourada           |
+| **12**  | Pântanos         | Grande Face de Pedra    |
+| **13**  | Pampas           | Grande Roda D'Água      |
+| **14**  | Pastos           | Árvore Coração          |
+| **15**  | Planícies        | Lago Opaco              |
+| **16**  | Planaltos        | Floresta Petrificada    |
+| **17**  | Pradarias        | Poço de Fogo Frio       |
+| **18**  | Savanas          | Face Prateada           |
+| **19**  | Estepes          | Sumidouro               |
+| **20**  | Vales            | Portão Titânico         |
+
+### Difícil
+
+Role 1d20 para cada coluna e combine os resultados.
+
+|         |                     |                          |
+| ------- | ------------------- | ------------------------ |
+| **d20** | **Terreno**         | **Marco**                |
+| **1**   | Ermo                | Quedas de Algas          |
+| **2**   | Cânions             | Colunas de Basalto       |
+| **3**   | Chaparral           | Cemitério de Bestas      |
+| **4**   | Recifes de Coral    | Ponte do Cânion          |
+| **5**   | Desertos            | Cones de Cinza           |
+| **6**   | Dunas               | Poços de Chamas          |
+| **7**   | Estuários           | Floresta de Flechas      |
+| **8**   | Brejos              | Cachoeira Congelada      |
+| **9**   | Florestas           | Floresta de Fungos       |
+| **10**  | Charnecas           | Arca Semi-Enterrada      |
+| **11**  | Colinas             | Vale Suspenso            |
+| **12**  | Mangues             | Farol Invertido          |
+| **13**  | Alagadiços          | Ossos de Leviatã         |
+| **14**  | Pântanos            | Cratera Massiva          |
+| **15**  | Florestas Tropicais | Bola de Esterco Massiva  |
+| **16**  | Matagais            | Espelhos de Sal          |
+| **17**  | Taiga               | Zigurate Enevoado        |
+| **18**  | Moiças              | Floresta de Estalactites |
+| **19**  | Tundra              | Colosso Afundado         |
+| **20**  | Bosques             | Mesa do Titã             |
+
+### Perigoso
+
+Role 1d20 para cada coluna e combine os resultados.
+
+|         |                  |                         |
+| ------- | ---------------- | ----------------------- |
+| **d20** | **Terreno**      | **Marco**               |
+| **1**   | Campinas Alpinas | Vulcão Ativo            |
+| **2**   | Brejos           | Cavernas de Amônia      |
+| **3**   | Pedregal         | Montanha de Ossos       |
+| **4**   | Cavernas         | Floresta Cristalina     |
+| **5**   | Penhascos        | Domo de Escuridão       |
+| **6**   | Crateras         | Colmeia Enorme          |
+| **7**   | Fendas           | Objeto Flutuante        |
+| **8**   | Gêiseres         | Autômato Inativo        |
+| **9**   | Geleiras         | Cicatriz na Terra       |
+| **10**  | Desfiladeiros    | Grandes Fendas          |
+| **11**  | Depressões       | Esculturas de Magma     |
+| **12**  | Campos de Gelo   | Homem na Montanha       |
+| **13**  | Selvas           | Jardim de Meteoros      |
+| **14**  | Campos de Lava   | Agulha de Obsidiana     |
+| **15**  | Montanhas        | Cachoeira Reversa       |
+| **16**  | Turfeiras        | Rio de Enxofre          |
+| **17**  | Atoleiros        | Pedras da Sereia        |
+| **18**  | Ravinas          | Raiz Celeste            |
+| **19**  | Pântanos         | Caixa Torácica Titânica |
+| **20**  | Terras Desoladas | Bolha Chorosa           |
+
+#### Rios, Mares e Lagos
+
+Toda região deve ter algum tipo de fonte de água. Caso contrário, de onde os moradores conseguiriam sua água potável ou receberiam notícias do resto do reino?
+- Para criar cursos d'água, desenhe uma linha ondulada do ponto de maior elevação (ex: Montanhas) até o mais baixo (ex: Pastagens).
+- Se o rio passar por terreno de elevação mais alta, ele pode terminar em um **lago**. Se seu mapa tem um mar, pode terminar lá. Caso contrário, o rio pode continuar saindo da página do mapa.
+
+### Clima
+
+O clima pode ter um grande impacto sobre as pessoas, cultura e terreno de uma região. Ele afeta que tipo de roupas os aventureiros precisam vestir, que tipo de ferramentas terão que trazer, e quão difícil a jornada pode ser. Para determinar o clima médio de uma região, role na tabela de [Clima Sazonal](#clima-sazonal) uma vez para cada estação. Opcionalmente, você também pode rolar na tabela de [Clima Incomum](#clima-incomum) ao redor de marcos ou terrenos particulares.
+
+#### Clima Sazonal
+
+|        |                      |                      |                      |                        |
+| ------ | -------------------- | -------------------- | -------------------- | ---------------------- |
+| **d6** | **Primavera**        | **Verão**            | **Outono**           | **Inverno**            |
+| **1**  | Ameno e ensolarado   | Quente e ensolarado  | Agradável e fresco   | Ameno e claro          |
+| **2**  | Agradável e chuvisco | Agradável e nublado  | Ameno e ventoso      | Fresco e ventoso       |
+| **3**  | Fresco e ameno       | Ameno e chuvoso      | Fresco e nevoento    | Frio e chuvoso         |
+| **4**  | Ameno e nublado      | Fresco e tempestuoso | Frio e nublado       | Gélido e tempestuoso   |
+| **5**  | Frio e ventoso       | Quente e úmido       | Fresco e chuvoso     | Congelante e nevando   |
+| **6**  | Frio e chuvoso       | Abafado e úmido      | Gelado e tempestuoso | Congelante com granizo |
+
+#### Clima Incomum
+
+|         |                                                                                                                    |
+| ------- | ------------------------------------------------------------------------------------------------------------------ |
+| **d20** | **Clima**                                                                                                          |
+| **1**   | Uma névoa anual aparece aleatoriamente, transformando superfícies metálicas em ouro ao contato.                    |
+| **2**   | Uma aurora que é visível mesmo durante o dia.                                                                      |
+| **3**   | Pássaros voam para trás, mas ainda assim de alguma forma avançam.                                                  |
+| **4**   | Os dias são erráticos. O Sol anda para trás por um tempo, depois salta para frente quando a noite cai rapidamente. |
+| **5**   | Sinos distantes em vez de trovões. Um vento doce e enfumaçado sopra do Oeste.                                      |
+| **6**   | Olhos enormes e carnudos observam dos céus, suas pupilas iluminando o céu noturno.                                 |
+| **7**   | Flashes de movimento na periferia que sempre resultam em nada.                                                     |
+| **8**   | Névoa que enche a barriga (sem necessidade de rações). Amanhã, vômitos.                                            |
+| **9**   | Lagos e riachos evaporam em minutos, enchendo nuvens de tempestade que encharcam a paisagem.                       |
+| **10**  | Chuvas periódicas de pequenas criaturas aquáticas (girinos, sapos, pequenos peixes). Ninguém sabe de onde vêm.     |
+| **11**  | Arco-íris faltam a maioria das cores e ocasionalmente tremem. Gotas de chuva caem em várias cores.                 |
+| **12**  | Nuvens de poeira rolantes que cheiram a canela. A tosse dura muito depois de passarem.                             |
+| **13**  | Sombras desaparecem aleatoriamente. Animais ficam mais relutantes.                                                 |
+| **14**  | O ar é mais denso que o usual, e respirar é difícil.                                                               |
+| **15**  | As nuvens têm forma de rostos. Parecem estar rindo.                                                                |
+| **16**  | A lua parece maior e cantarola suavemente à noite.                                                                 |
+| **17**  | A chuva brilha suavemente à noite. Pode ser coletada, mas a luz eventualmente desvanece.                           |
+| **18**  | As estrelas se reorganizam em padrões intrincados, dificultando a navegação.                                       |
+| **19**  | Os ventos carregam sussurros. Alguns dizem que contam dicas do futuro.                                             |
+| **20**  | Quando neva, os flocos são quentes e secos.                                                                        |
+
+## Pontos de Interesse
+
+Pontos de Interesse em um mapa (ou POIs) são geralmente divididos nas seguintes categorias:
+- **Coração**: O assentamento principal em uma região. Não é necessariamente o maior ou mais importante lugar, mas deve sempre ser significativo para a história e o povo da região.
+- **Assentamentos**: Centros populacionais permanentes e amplamente autossuficientes, tipicamente governados por um corpo político ou facção.
+- **Pontos de Parada**: Um lugar seguro para reabastecer suprimentos, ter uma boa noite de sono, ou obter direções.
+- **Curiosidades**: Um local selvagem notável, em algum lugar notável ou estranho. Pode de fato ser perigoso, mas apenas se os PJs interagirem com ele.
+- **Covis**: Um acampamento inimigo, colmeia, ou fonte de atividade aumentada de monstros.
+- **Masmorras**: Um local explicitamente perigoso, masmorra, ou local de aventura.
+
+### Desenhar Pontos de Interesse
+
+- Desenhe a letra **C** perto de uma fonte de água no mapa.
+- Role 3-8 dados d6 no mapa, coletando quaisquer dados que rolarem para fora da página e separando-os.
+- Anote o resultado voltado para cima de cada dado, depois use a [Tabela de Queda de Dados de POI](#tabela-de-queda-de-dados-de-poi) para marcar o tipo de POI no mapa. Por exemplo, um dado mostrando 4 indicaria um Covil, denotado pela letra "L" na página.
+- Role quaisquer dados que caíram fora da página do mapa, repetindo o último passo até que nenhum reste.
+- Começando pelo Coração, numere cada POI no mapa.
+- Role nas tabelas relevantes para cada POI, incluindo o Coração (geralmente um Ponto de Parada ou Assentamento). Anote os resultados para cada um em seu caderno.
+
+> Alguns POIs podem permitir que os PJs vejam mais do mundo do que aparece em seu mapa.
+
+### Tabela de Queda de Dados de POI
+
+|         |                                 |
+| ------- | ------------------------------- |
+| **d6**  | **POI**                         |
+| **1**   | Ponto de Parada ou Assentamento |
+| **2-3** | Curiosidade                     |
+| **4**   | Covil                           |
+| **5-6** | Masmorra                        |
  
-Finally, the party would meet with one of the faction agents: a spy posing as a peddler. Only she could tell them where the plant grew, and how to cultivate it. I keep in mind that this person should likely appear in an important place such as the region's **Heart**.
+### Assentamentos
+
+Role 1d20 para cada coluna e combine os resultados.
+
+|         |                  |                                   |
+| ------- | ---------------- | --------------------------------- |
+| **d20** | **Assentamento** | **Característica**                |
+| **1**   | Academia         | Construído Sobre Ruínas           |
+| **2**   | Caravana         | Construído nos Ossos de Gigantes  |
+| **3**   | Cidadela         | Centro de Aprendizado             |
+| **4**   | Cidade           | Unido                             |
+| **5**   | Comuna           | Dividido                          |
+| **6**   | Complexo         | Emite um Zumbido Misterioso       |
+| **7**   | Convento         | Famoso por seus Artesãos          |
+| **8**   | Fazenda          | Famoso por seus Festivais         |
+| **9**   | Fortaleza        | Guardado por Bestas Treinadas     |
+| **10**  | Guarnição        | Esconde um Portal Perigoso        |
+| **11**  | Vilarejo         | Alta Densidade Populacional       |
+| **12**  | Forte            | Inexpugnável                      |
+| **13**  | Mosteiro         | Integrado com a Natureza          |
+| **14**  | Posto Avançado   | Conhecido por sua Hospitalidade   |
+| **15**  | Plantação        | Local de uma Forja Lendária       |
+| **16**  | Prisão           | Move-se ou Gira                   |
+| **17**  | Bastilha         | Protegido por um Grande Guerreiro |
+| **18**  | Cidade           | Governado por uma Facção Poderosa |
+| **19**  | Vila             | Imerso em Tradição                |
+| **20**  | Aldeia           | Centro Comercial                  |
+
+### Pontos de Parada
+
+Role 1d20 para cada coluna e combine os resultados.
+
+|         |                      |                                       |
+| ------- | -------------------- | ------------------------------------- |
+| **d20** | **Ponto de Parada**  | **Característica**                    |
+| **1**   | Arquivo              | Um Refúgio para Rejeitados            |
+| **2**   | Asilo                | Construído em Terras Sagradas         |
+| **3**   | Bazar                | Contém um Artefato Poderoso           |
+| **4**   | Torre de Sinalização | Amaldiçoado por Ocupantes Anteriores  |
+| **5**   | Bunker               | Prédios Decrépitos                    |
+| **6**   | Cabana               | Ocupantes Desconfiados                |
+| **7**   | Acampamento          | Não Aparece em Nenhum Mapa            |
+| **8**   | Salão da Guilda      | Fachada para Operações Ilegais        |
+| **9**   | Hospício             | Anfitrião de um Artesão Renomado      |
+| **10**  | Cabana de Caça       | Conhecido por suas Defesas Elaboradas |
+| **11**  | Estalagem            | Ocupantes São Legítimos ao Extremo    |
+| **12**  | Observatório         | Ocupantes São Excessivamente Formais  |
+| **13**  | Reservatório         | Forasteiros São Barrados              |
+| **14**  | Sanatório            | Forasteiros Não Podem Portar Armas    |
+| **15**  | Refúgio              | Parte de uma Rota de Comércio Ilegal  |
+| **16**  | Santuário            | Destino Popular de Peregrinos         |
+| **17**  | Templo               | Protege um Objeto Poderoso            |
+| **18**  | Posto Comercial      | Ocupantes Reclusos                    |
+| **19**  | Torre de Vigia       | Fica sobre Depósitos Naturais         |
+| **20**  | Campo de Trabalho    | Tecnologicamente Avançado             |
+
+### Curiosidades
+
+Role 1d20 para cada coluna e combine os resultados.
+
+|         |                        |                          |
+| ------- | ---------------------- | ------------------------ |
+| **d20** | **Curiosidade**        | **Característica**       |
+| **1**   | Árvore Antiga          | Embarcação Abandonada    |
+| **2**   | Torre Quebrada         | Monte de Lixo Antigo     |
+| **3**   | Megálito Enterrado     | Linha Ley Enterrada      |
+| **4**   | Moinho Desabado        | Biblioteca Enterrada     |
+| **5**   | Sino Rachado           | Plantas Carnívoras       |
+| **6**   | Espiral de Cristal     | Espelho Celestial        |
+| **7**   | Arco Gotejante         | Local de Ritual de Culto |
+| **8**   | Campos Ecoantes        | Fungo Comestível         |
+| **9**   | Punho Enorme           | Escombros Flutuantes     |
+| **10**  | Pegada Enorme          | Mercado Oculto           |
+| **11**  | Ilha Flutuante         | Ilusório                 |
+| **12**  | Cemitério Congelado    | Música Impossível        |
+| **13**  | Pontes Suspensas       | Infestado de Pragas      |
+| **14**  | Placa Ilegível         | Gravidade Irregular      |
+| **15**  | Esqueleto de Leviatã   | Clima Isolado            |
+| **16**  | Lago de Forma Estranha | Aparece Apenas à Noite   |
+| **17**  | Árvores Petrificadas   | Névoa Perpétua           |
+| **18**  | Gêiseres Roxos         | Sombras Perpétuas        |
+| **19**  | Pedras Cantantes       | Local de Batalha Antiga  |
+| **20**  | Cidade Submersa        | Solo Instável            |
+
+### Covis
+
+Role 1d20 para cada coluna e combine os resultados.
+
+|         |                       |                       |
+| ------- | --------------------- | --------------------- |
+| **d20** | **Covil**             | **Característica**    |
+| **1**   | Torre Abandonada      | Abandonado            |
+| **2**   | Prisão Antiga         | Em Encruzilhada       |
+| **3**   | Mina Desabada         | Entrada com Isca      |
+| **4**   | Colmeia Colossal      | Bioluminescência      |
+| **5**   | Navio Naufragado      | Gritos Constantes     |
+| **6**   | Forte em Ruínas       | Entrada Proibida      |
+| **7**   | Aqueduto Seco         | Esconderijo de Facção |
+| **8**   | Tronco Enorme         | Saída Oculta          |
+| **9**   | Cemitério Esquecido   | Maquinário Estranho   |
+| **10**  | Toca Escondida        | Pilhas de Ossos       |
+| **11**  | Obelisco Oco          | Anteriormente Ocupado |
+| **12**  | Jardim Coberto        | Grafite Religioso     |
+| **13**  | Menires Primordiais   | Armadilhas Espalhadas |
+| **14**  | Ponte Primitiva       | Catadores Rondando    |
+| **15**  | Moinho Apodrecido     | Placas Afixadas       |
+| **16**  | Cidade em Ruínas      | Algo Dorme            |
+| **17**  | Construto Enferrujado | Entidade Simbiótica   |
+| **18**  | Caverna com Espinhos  | Campo de Treinamento  |
+| **19**  | Gruta Submersa        | Subaquático           |
+| **20**  | Bosque Indomável      | Fossa de Resíduos     |
+
+### Masmorras
+
+Role 1d20 para cada coluna e combine os resultados.
+
+|         |                  |                      |
+| ------- | ---------------- | -------------------- |
+| **d20** | **Tipo**         | **Característica**   |
+| **1**   | Cemitério        | Abandonado           |
+| **2**   | Caverna          | Enterrado            |
+| **3**   | Porão            | Queimado             |
+| **4**   | Cripta           | Mecânico             |
+| **5**   | Toca             | Desabado             |
+| **6**   | Propriedade      | Desmoronando         |
+| **7**   | Forte            | Cristalino           |
+| **8**   | Grande Salão     | Flutuante            |
+| **9**   | Laboratório      | Inundado             |
+| **10**  | Mansão           | Fúngico              |
+| **11**  | Mina             | Invertido            |
+| **12**  | Posto Avançado   | Isolado              |
+| **13**  | Palácio          | Espelhado            |
+| **14**  | Prisão           | Sobrenatural         |
+| **15**  | Cidade em Ruínas | Coberto de Vegetação |
+| **16**  | Bastilha         | Petrificado          |
+| **17**  | Templo           | Remoto               |
+| **18**  | Tumba            | Selado               |
+| **19**  | Torre            | Tóxico               |
+| **20**  | Oficina          | Distorcido           |
+
+> Veja o capítulo [Sementes de Masmorra](/second-edition/wardens-guide/dungeon-seeds) para saber como desenvolver cada POI de Masmorra para seu cenário.
+
+## Caminhos
+
+**Caminhos** funcionam como conectores geográficos no mapa, variando de estradas e trilhas bem percorridas a rotas selvagens acidentadas. Caminhos devem fornecer escolhas interessantes entre POIs, onde fatores como segurança, velocidade e dificuldade de viagem devem ser ponderados.
+
+### Tipos de Caminho
+
+- Caminhos **Padrão** são rotas óbvias ou bem percorridas entre dois POIs. _Representados por uma linha grossa._
+- Caminhos **Ocultos** não aparecem em nenhum mapa conhecido. Sua descoberta sempre requer algum tipo de custo. _Representados por uma linha tracejada._
+- Caminhos **Condicionais** podem estar bloqueados ou requerer ferramentas especializadas (barcos, equipamento de escalada, etc.) para atravessar. Outros podem até ser impossíveis de navegar sem um mapa ou guia. _Representados por uma linha cruzada._
+
+### Desenhar Caminhos
+
+- Começando pelo Coração, crie 1-4 caminhos entre cada local.
+  - Crie laços, caminhos ramificados, becos sem saída e atalhos entre POIs.
+  - Alguns caminhos podem ser partes de uma corrente e ligados a um terreno particular (passagens de montanha, rios, etc.).
+  - Alguns caminhos são Condicionais, representados por uma linha cruzada.
+  - Alguns caminhos são Ocultos, representados por uma linha tracejada.
+- Designe cada caminho usando o número de um POI e seu ponto de conexão, ex: 1 &harr; 3. Indique isso em seu caderno sob o POI de origem ou em uma seção separada.
+- Decida se um caminho representa uma estrada, uma trilha, ou uma rota selvagem, e escreva os resultados em seu caderno.
+- Role na tabela de [Características de Caminho](#características-de-caminho) para cada caminho, escrevendo os resultados em seu caderno.
+- Determine as distâncias de caminho entre POIs, e anote a duração no mapa:
+  - Um Turno tem 8 horas de duração. Denote dias entre POIs sempre que possível (tipicamente dois Turnos e um descanso por dia de viagem).
+  - Uma distância curta entre POIs leva um Turno para atravessar, uma distância média leva dois Turnos, e uma distância longa leva três Turnos.
+  - Para Trilhas, adicione mais 1 Turno, e para rotas Selvagens, adicione 2 Turnos adicionais.
+
+### Características de Caminho
+
+Role 1d20 para cada coluna e combine os resultados.
+
+|         |                          |                                 |
+| ------- | ------------------------ | ------------------------------- |
+| **d20** | **Característica**       | **Condição**                    |
+| **1**   | Campos Abandonados       | Emboscadas de Bandidos          |
+| **2**   | Vermelho-Sangue          | Bloqueado por Pedra Gigante     |
+| **3**   | Amuletos Enterrados      | Ponte Desabada                  |
+| **4**   | Pegadas de Gado          | Confuso para Navegar            |
+| **5**   | Patrulhas Constantes     | Espinheiros Densos              |
+| **6**   | Vegetação Morta          | Dividido por Disputa Política   |
+| **7**   | Desaparecendo            | Clima Errático                  |
+| **8**   | Animais Doentes          | Inundações Relâmpago Frequentes |
+| **9**   | Segue as Estrelas        | Fica Extremamente Frio          |
+| **10**  | Peregrinos Frequentes    | Pedágio Pesado Requerido        |
+| **11**  | Sulcos Massivos          | Cânions Labirintínticos         |
+| **12**  | Marcos de Milha          | Predadores Noturnos             |
+| **13**  | Partículas Minerais      | Estouros Ocasionais             |
+| **14**  | Recém Feito              | Superlotado                     |
+| **15**  | Coberto de Vegetação     | Passa sobre Corredeiras         |
+| **16**  | Ferramentas Enferrujadas | Frutas Venenosas                |
+| **17**  | Murchado                 | Cheio de Fumaça                 |
+| **18**  | Esfarraçado              | Subida Íngreme                  |
+| **19**  | Tortuoso                 | Névoa Espessa Noturna           |
+| **20**  | Pegadas Ubíquas          | Solo Irregular e Encharcado     |
+
+### Juntando Tudo
+
+Faça a si mesmo as seguintes perguntas:
+
+- O que atrairia pessoas para esta região? O que as mantém aqui?
+- Como as pessoas daqui pensam sobre forasteiros? Como forasteiros pensam sobre elas?
+- Que poder as Facções têm sobre as pessoas que vivem aqui?
+- Quem ou o que ameaça suas agendas?
+- Como uma facção interagiria com quaisquer recém-chegados (ex: um grupo de aventureiros)?
+- Como o terreno e o clima da região afetam as pessoas que vivem aqui?
+
+Agora você deve ter uma ideia suficiente sobre as pessoas e o terreno desta região, e sua primeira região está completa. Para expandir seu reino, repita o processo quantas vezes desejar.
+
+Por exemplo, se meus resultados descrevessem um povo que era religioso e buscava conversão, eu assumiria que eram um povo orgulhoso, propenso a extremos religiosos e proselitismo. E se seu recurso primário fosse terra, mas especiarias fossem raras, eu assumiria que cultivavam sua própria comida, mas devido a uma proibição religiosa sua culinária era frequentemente insossa.
+
+Presuma que para uma facção o resultado foi um grupo de Nômades, com convicção como sua vantagem primária. Eu poderia então assumir que suas elites eram uma classe de chefes religiosos. Se a agenda da facção era cultivar um recurso raro, mas eles foram dificultados por tabus culturais, eu poderia decidir que eles contrataram o grupo para assumir a tarefa. Talvez o objeto de sua busca fosse uma planta única, cultivada apenas em um lugar distante, e que a missão deve permanecer em segredo!
+
+Finalmente, o grupo encontraria um dos agentes da facção: um espião se passando por mascate. Apenas ela poderia dizer onde a planta crescia, e como cultivá-la. Mantenho em mente que essa pessoa provavelmente deveria aparecer em um lugar importante como o **Coração** da região.
