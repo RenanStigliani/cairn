@@ -17,7 +17,7 @@ nav_order: 7
 
 ## Sobre os Antecedentes
 
-As traduções para os nomes dos antecedentes são baseadas no trabalho de Vinizinho, [disponível aqui](https://newzodiac.bearblog.dev/cairn-2e-backgrounds-pt-br/).
+As traduções para os nomes dos antecedentes são baseadas no trabalho de [Vinizinho](https://vinizinho.net/), [disponível aqui](https://newzodiac.bearblog.dev/cairn-2e-backgrounds-pt-br/).
 
 ## Sobre Tabelas Aleatórias
 
