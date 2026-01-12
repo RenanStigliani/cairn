@@ -1,11 +1,11 @@
 ---
-title: Algoz de Bruxas
+title: Esconjurador
 layout: default
 parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 
-# Algoz de Bruxas
+# Esconjurador
 
 > Você é um mero dígito na mão infalível da justiça. Você vai onde outros temem pisar, inflexível e inquebrável.
 

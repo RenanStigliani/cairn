@@ -10,30 +10,31 @@ nav_order: 1
 
 ## Role ou escolha um Antecedente
 
-- Primeiro, role ou escolha da tabela de [Antecedentes](#Antecedentes) abaixo e anote o número da página. Você consultará essa página para os próximos passos.
-- Escolha um nome da lista disponível e anote cada um dos itens iniciais do seu personagem. Veja [Inventário](#Inventário) e [Espaços de Inventário](#Espaços-de-Inventário) para saber como registrar os itens. 
+- Primeiro, role ou escolha da tabela de [Antecedentes](#antecedentes) abaixo e anote o número da página. Você consultará essa página para os próximos passos.
+- Escolha um nome da lista disponível e anote cada um dos itens iniciais do seu personagem. Veja [Inventário](#inventário) e [Espaços de Inventário](#espaços-de-inventário) para saber como registrar os itens. 
 - Role em cada uma das tabelas incluídas no seu antecedente. Anote os itens, perícias ou habilidades do seu personagem para cada resultado. Alguns antecedentes também podem te direcionar às tabelas do [Mercado](marketplace.md).
 
 ## Antecedentes
 
-| ------- | ------------------------------------------------------ | ------ | ------------------------------------------------- |
-| **d20** | **Antecedente**                                        |        |                                                   |
-| **1**   | [Ourivex](../backgrounds/aurifex.md)                   | **11** | [Mestibruxo](../backgrounds/half-witch.md)        |
-| **2**   | [Barbeiro-Cirurgião](../backgrounds/barber-surgeon.md) | **12** | [Algoz de Bruxas](../backgrounds/hexenbane.md)    |
-| **3**   | [Domador de Feras](../backgrounds/beast-handler.md)    | **13** | [Jogral](../backgrounds/jongleur.md)              |
-| **4**   | [Zelador dos Ossos](../backgrounds/bonekeeper.md)      | **14** | [Caldeireiro](../backgrounds/kettlewright.md)     |
-| **5**   | [Corta-Bolsas](../backgrounds/cutpurse.md)             | **15** | [Guarda-Marcas](../backgrounds/marchguard.md)     |
-| **6**   | [Guarda-Campo](../backgrounds/fieldwarden.md)          | **16** | [Montebanco](../backgrounds/mountebank.md)        |
-| **7**   | [Flecheiro dos Ventos](../backgrounds/fletchwind.md)   | **17** | [Batedor Montado](../backgrounds/outrider.md)     |
-| **8**   | [Enjeitado](../backgrounds/foundling.md)               | **18** | [Espreitador](../backgrounds/prowler.md)          |
-| **9**   | [Coletor de Fungos](../backgrounds/fungal-forager.md)  | **19** | [Corredeiros](../backgrounds/rill-runner.md)      |
-| **10**  | [Verdessábio](../backgrounds/greenwise.md)             | **20** | [Escrivaneiro](../backgrounds/scrivener.md)       |
+|         |                                                        |        |                                               |
+| ------- | ------------------------------------------------------ | ------ | --------------------------------------------- |
+| **d20** | **Antecedente**                                        |        |                                               |
+| **1**   | [Ourivex](../backgrounds/aurifex.md)                   | **11** | [Mestibruxo](../backgrounds/half-witch.md)    |
+| **2**   | [Barbeiro-Cirurgião](../backgrounds/barber-surgeon.md) | **12** | [Esconjurador](../backgrounds/hexenbane.md)   |
+| **3**   | [Domador](../backgrounds/beast-handler.md)             | **13** | [Jogral](../backgrounds/jongleur.md)          |
+| **4**   | [Ossueiro](../backgrounds/bonekeeper.md)               | **14** | [Caldeireiro](../backgrounds/kettlewright.md) |
+| **5**   | [Corta-Bolsas](../backgrounds/cutpurse.md)             | **15** | [Atalaia](../backgrounds/marchguard.md)       |
+| **6**   | [Campário](../backgrounds/fieldwarden.md)              | **16** | [Montebanco](../backgrounds/mountebank.md)    |
+| **7**   | [Flecheiro dos Ventos](../backgrounds/fletchwind.md)   | **17** | [Escolta](../backgrounds/outrider.md)         |
+| **8**   | [Enjeitado](../backgrounds/foundling.md)               | **18** | [Espreitador](../backgrounds/prowler.md)      |
+| **9**   | [Cata-Fungo](../backgrounds/fungal-forager.md)         | **19** | [Corredeiro](../backgrounds/rill-runner.md)   |
+| **10**  | [Verdessábio](../backgrounds/greenwise.md)             | **20** | [Escrivaneiro](../backgrounds/scrivener.md)   |
 
 ## Atributos, Proteção contra Golpes e Características 
 
 - Role para definir os **Atributos** e **Proteção contra Golpes** do Personagem.
-- Role para definir o restante das [Características](#Características-de-Personagem-(d10)) e depois na tabela de [Vínculos](#Vínculos).
-- Finalmente, role para determinar a **Idade** do seu personagem (2d20+10). Se você for o personagem _mais jovem_, role na tabela de [Presságios](#Presságios). O resultado deve ser lido em voz alta para os outros jogadores. O Guardião deve incorporar Presságios ao cenário conforme achar adequado.
+- Role para definir o restante das [Características](#características-de-personagem-(d10)) e depois na tabela de [Vínculos](#vínculos).
+- Finalmente, role para determinar a **Idade** do seu personagem (2d20+10). Se você for o personagem _mais jovem_, role na tabela de [Presságios](#presságios). O resultado deve ser lido em voz alta para os outros jogadores. O Guardião deve incorporar Presságios ao cenário conforme achar adequado.
 
 ## Atributos
 
@@ -43,8 +44,8 @@ nav_order: 1
 
 ## Proteção contra Golpes
 
-- Role 1d6 para determinar a **Proteção contra Golpes** (PG) inicial do seu personagem, que reflete sua capacidade de evitar danos em combate. PG não indica a saúde ou fortitude de um personagem; nem é reduzida por muito tempo. Veja [Cura & Recuperação](core-rules.md#Cura-&-Recuperação) 
-- Se um ataque levar a PG de um PJ exatamente a 0, o jogador deve rolar na tabela de [**Cicatrizes**](core-rules.md#Cicatrizes).
+- Role 1d6 para determinar a **Proteção contra Golpes** (PG) inicial do seu personagem, que reflete sua capacidade de evitar danos em combate. PG não indica a saúde ou fortitude de um personagem; nem é reduzida por muito tempo. Veja [Cura & Recuperação](core-rules.md#cura-&-recuperação) 
+- Se um ataque levar a PG de um PJ exatamente a 0, o jogador deve rolar na tabela de [**Cicatrizes**](core-rules.md#cicatrizes).
 
 ## Inventário
 
@@ -62,83 +63,83 @@ nav_order: 1
 
 ### Físico
 
-| d10   | Característica | d10    | Característica |
-| ----- | -------------- | ------ | -------------- |
-| **1** | Atlético       | **6**  | Magricelo      |
-| **2** | Musculoso      | **7**  | Baixo          |
-| **3** | Flácido        | **8**  | Escultural     |
-| **4** | Esguio         | **9**  | Robusto        |
-| **5** | Calejado       | **10** | Alto           |
+|       |           |        |            |
+| ----- | --------- | ------ | ---------- |
+| **1** | Atlético  | **6**  | Magricelo  |
+| **2** | Musculoso | **7**  | Baixo      |
+| **3** | Flácido   | **8**  | Escultural |
+| **4** | Esguio    | **9**  | Robusto    |
+| **5** | Calejado  | **10** | Alto       |
 
 ### Pele
 
-| d10   | Característica    | d10    | Característica |
-| ----- | ----------------- | ------ | -------------- |
-| **1** | Marca de nascença | **6**  | Macia          |
-| **2** | Marcada           | **7**  | Bronzeada      |
-| **3** | Oleosa            | **8**  | Tatuada        |
-| **4** | Rosada            | **9**  | Envelhecida    |
-| **5** | Cicatrizada       | **10** | Membrana       |
+|       |                   |        |             |
+| ----- | ----------------- | ------ | ----------- |
+| **1** | Marca de nascença | **6**  | Macia       |
+| **2** | Marcada           | **7**  | Bronzeada   |
+| **3** | Oleosa            | **8**  | Tatuada     |
+| **4** | Rosada            | **9**  | Envelhecida |
+| **5** | Cicatrizada       | **10** | Membrana    |
 
 ### Cabelo
 
-| d10   | Característica | d10    | Característica |
-| ----- | -------------- | ------ | -------------- |
-| **1** | Careca         | **6**  | Longo          |
-| **2** | Trançado       | **7**  | Luxuoso        |
-| **3** | Cacheado       | **8**  | Oleoso         |
-| **4** | Sujo           | **9**  | Ondulado       |
-| **5** | Crespo         | **10** | Ralo           |
+|       |          |        |          |
+| ----- | -------- | ------ | -------- |
+| **1** | Careca   | **6**  | Longo    |
+| **2** | Trançado | **7**  | Luxuoso  |
+| **3** | Cacheado | **8**  | Oleoso   |
+| **4** | Sujo     | **9**  | Ondulado |
+| **5** | Crespo   | **10** | Ralo     |
 
 ### Rosto
 
-| d10   | Característica | d10    | Característica |
-| ----- | -------------- | ------ | -------------- |
-| **1** | Ossudo         | **6**  | Perfeito       |
-| **2** | Quebrado       | **7**  | Galante        |
-| **3** | Esculpido      | **8**  | Pontudo        |
-| **4** | Alongado       | **9**  | Quadrado       |
-| **5** | Pálido         | **10** | Fundo          |
+|       |           |        |          |
+| ----- | --------- | ------ | -------- |
+| **1** | Ossudo    | **6**  | Perfeito |
+| **2** | Quebrado  | **7**  | Galante  |
+| **3** | Esculpido | **8**  | Pontudo  |
+| **4** | Alongado  | **9**  | Quadrado |
+| **5** | Pálido    | **10** | Fundo    |
 
 ### Fala
 
-| d10   | Característica | d10    | Característica |
-| ----- | -------------- | ------ | -------------- |
-| **1** | Direta         | **6**  | Grave          |
-| **2** | Trovejante     | **7**  | Precisa        |
-| **3** | Enigmática     | **8**  | Estridente     |
-| **4** | Zumbida        | **9**  | Gagueja        |
-| **5** | Formal         | **10** | Sussurrante    |
+|       |            |        |             |
+| ----- | ---------- | ------ | ----------- |
+| **1** | Direta     | **6**  | Grave       |
+| **2** | Trovejante | **7**  | Precisa     |
+| **3** | Enigmática | **8**  | Estridente  |
+| **4** | Zumbida    | **9**  | Gagueja     |
+| **5** | Formal     | **10** | Sussurrante |
 
 ### Roupas
 
-| d10   | Característica | d10    | Característica |
-| ----- | -------------- | ------ | -------------- |
-| **1** | Antiquadas     | **6**  | Desgastadas    |
-| **2** | Ensanguentadas | **7**  | Desalinhadas   |
-| **3** | Elegantes      | **8**  | Uniformes      |
-| **4** | Imundas        | **9**  | Rançosas       |
-| **5** | Estrangeiras   | **10** | Enlameadas     |
+|       |                |        |              |
+| ----- | -------------- | ------ | ------------ |
+| **1** | Antiquadas     | **6**  | Desgastadas  |
+| **2** | Ensanguentadas | **7**  | Desalinhadas |
+| **3** | Elegantes      | **8**  | Uniformes    |
+| **4** | Imundas        | **9**  | Rançosas     |
+| **5** | Estrangeiras   | **10** | Enlameadas   |
 
 ### Virtude
 
-| d10   | Característica | d10    | Característica |
-| ----- | -------------- | ------ | -------------- |
-| **1** | Ambicioso      | **6**  | Honrável       |
-| **2** | Cauteloso      | **7**  | Humilde        |
-| **3** | Corajoso       | **8**  | Piedoso        |
-| **4** | Disciplinado   | **9**  | Sereno         |
-| **5** | Sociável       | **10** | Tolerante      |
+|       |              |        |           |
+| ----- | ------------ | ------ | --------- |
+| **1** | Ambicioso    | **6**  | Honrável  |
+| **2** | Cauteloso    | **7**  | Humilde   |
+| **3** | Corajoso     | **8**  | Piedoso   |
+| **4** | Disciplinado | **9**  | Sereno    |
+| **5** | Sociável     | **10** | Tolerante |
 
 ### Vício
 
-| d10   | Característica | d10    | Característica |
-| ----- | -------------- | ------ | -------------- |
-| **1** | Agressivo      | **6**  | Preguiçoso     |
-| **2** | Amargurado     | **7**  | Nervoso        |
-| **3** | Covarde        | **8**  | Rude           |
-| **4** | Traiçoeiro     | **9**  | Vaidoso        |
-| **5** | Ganancioso     | **10** | Vingativo      |
+|       |            |        |            |
+| ----- | ---------- | ------ | ---------- |
+| **1** | Agressivo  | **6**  | Preguiçoso |
+| **2** | Amargurado | **7**  | Nervoso    |
+| **3** | Covarde    | **8**  | Rude       |
+| **4** | Traiçoeiro | **9**  | Vaidoso    |
+| **5** | Ganancioso | **10** | Vingativo  |
 
 ## Vínculos
 

@@ -1,11 +1,11 @@
 ---
-title: Guarda-Campo
+title: Campário
 layout: default
 parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 
-# Guarda-Campo
+# Campário
 
 > Protetores da colheita, defensores contra pragas, ladrões e feras. Uma posição de grande honra, enquanto dura: muitos guardiões não vivem até o fim natural de suas vidas. Role uma segunda vez na tabela de **Vínculos**. 
 

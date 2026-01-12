@@ -1,11 +1,11 @@
 ---
-title: Corredeiros
+title: Corredeiro
 layout: default
 parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 
-# Corredeiros
+# Corredeiro
 
 > Você canta as histórias de rios e lagos, seus talentos acalmando amigos e os elementos da mesma forma. Você viu mais do que a maioria, mas de alguma forma nunca parece ser o suficiente.
 

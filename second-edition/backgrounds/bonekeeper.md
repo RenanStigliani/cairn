@@ -1,11 +1,11 @@
 ---
-title: Zelador de Ossos
+title: Ossueiro
 layout: default
 parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 
-# Zelador de Ossos
+# Ossueiro
 
 > Você é o pastor daqueles que partiram. Você ouve os últimos sussurros dos mortos enquanto eles descem para a terra fria e implacável. Você sabe que, para celebrar plenamente o dom da vida, devemos honrar também o seu final.
 

@@ -1,11 +1,11 @@
 ---
-title: Batedor
+title: Escolta
 layout: default
 parent: Antecedentes
 grand_parent: Segunda Edição
 ---
 
-# Batedor
+# Escolta
 
 > Sua moeda vem da escolta de caravanas, rastreamento de fugitivos ou empréstimo de sua lâmina para uma causa. Você foi um salvador, um carrasco, um herói e até um vilão. O seu não é um caminho solitário, no entanto: você sempre terá seu cavalo.
 
