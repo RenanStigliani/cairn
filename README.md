@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-## Sobre Cairn
+## Cairn
 
 Cairn é um jogo de aventura sobre a exploração de um bosque sombrio e misterioso, repleto de pessoas estranhas, tesouros escondidos e monstruosidades indescritíveis. A criação de personagens é rápida e aleatória, as aventuras são tensas e recompensam a exploração cuidadosa, e os combates são frenéticos e mortais.
 
@@ -17,11 +17,19 @@ Este é um jogo que valoriza as contribuições da comunidade! Se você quiser e
 
 ## Sobre esta Edição Brasileira
 
+### Primeira Edição
+- A tradução do [SRD da Primeira Edição](https://pt-br.cairnrpg.com/first-edition/cairn-srd/), foi realizada por [Xenio](https://x.com/Xenio_1) e é replicada aqui em sua forma original
+- A tradução em formato [PDF](https://rafaarruda.itch.io/cairn-pt-br) foi realizada por [Rafa Arruda](https://rafaarruda.itch.io)
+
+### Segunda Edição
 - Este é um **projeto em andamento**.
 - Esta versão é uma **tradução feita por fã**, sem qualquer pretensão de ser profissional ou oficial.
-- Algumas partes e termos foram adaptados da tradução da [Primeira Edição](https://cairnrpg.com/localization/first-edition/brazilian-portuguese/), realizada por [Xenio](https://x.com/Xenio_1).
-- Outras partes da tradução foram baseadas no [trabalho de robsonfvilela](https://github.com/robsonfvilela/Cairn-2e-ptbr).
+- Algumas partes e termos foram baseadas no [trabalho de robsonfvilela](https://github.com/robsonfvilela/Cairn-2e-ptbr).
+- Outras partes da tradução foram
 - Esse conteúdo foi revisado com auxílio de IA e posteriormente revisado manualmente por mim.
+
+### Edição Barebones
+- Tradução pendente
 
 ---
 
