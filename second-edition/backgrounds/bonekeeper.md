@@ -17,7 +17,7 @@ Gralha, Ébano, Moro, Teixo, Pálio, Lete, Beata, Barnabé, Vésper, Vigílio
 
 - 3d6 Peças de Ouro  
 - Rações (3 usos)  
-- Lanterna  
+- Lampião  
 - Lata de Óleo (6 usos)  
 - Estaca (d6)  
 - Correntes (3m)  

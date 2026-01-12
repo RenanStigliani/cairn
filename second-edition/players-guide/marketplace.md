@@ -100,7 +100,7 @@ nav_order: 3
 | Jogos (Cartas, Dados, etc.)                               | 10  |
 | Luvas (_miudeza_)                                         | 20  |
 | Gancho de Escalada                                        | 25  |
-| Lanterna                                                  | 10  |
+| Lampião                                                   | 10  |
 | Espelho                                                   | 5   |
 | Rede                                                      | 10  |
 | Lata de Óleo (6 usos)                                     | 10  |

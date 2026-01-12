@@ -17,7 +17,7 @@ Hestia, Basílio, Runa, Prisma, Fagulha, Quinto, Aludel, Mordante, Mandra, Jaspe
 
 - 3d6 Peças de Ouro
 - Rações (3 usos)
-- Lanterna
+- Lampião
 - Lata de Óleo (6 usos)
 - Faca-agulha (d6)
 - Luvas Protetoras (_miudeza_)

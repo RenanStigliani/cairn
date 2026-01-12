@@ -17,7 +17,7 @@ Gann, Light, Saoirse, Frost, Thorn, Reed, Dirk, Ragnar, Brie, Aasim
 
 - 3d6 Peças de Ouro
 - Rações (3 usos)
-- Lanterna
+- Lampião
 - Lata de Óleo (6 usos)
 - Espada Longa (d10, _volumoso_)
 - Couro Fervido (1 Armadura)
