@@ -7,6 +7,7 @@ nav_order: 11
 ## Aventuras em Português
 
 - [CAS-2: Ascensão dos Olmos Sangrentos](https://pedro-nlima.itch.io/aos-pt-br)
+- [Templo de Epona](https://peninsulancestral.itch.io/epona-temple)
 
 ## Hacks em Português
 
