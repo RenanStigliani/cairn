@@ -12,10 +12,11 @@ nav_order: 11
 ## Hacks em Português
 
 - [Block, Dodge, Parry - Tradução BR](https://blockdodgeparry-br.github.io)
+- [Moledro - Nomes em Português Medieval](https://miotti.itch.io/moledro)
 
 * * *
 
-## Mais Recursos em Inglês
+## Outros Recursos em Inglês
 
 Encontre mais recursos em inglês no site oficial:
 
