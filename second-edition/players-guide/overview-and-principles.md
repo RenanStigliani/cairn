@@ -96,7 +96,7 @@ Os jogadores confiam uns nos outros para se envolver com o cenário compartilhad
 - Priorize o contexto e o realismo em vez de números e mecânicas.
 - Se algo que os jogadores querem fazer for realmente impossível, nenhum teste permitirá que consigam.
 - O que o jogador descreve e a forma como tira proveito da situação fazem sentido? Então permita.
-- Testes abrangem muitas situações incertas e, muitas vezes, são suficientes para ações arriscadas.
+- Salvamentos abrangem muitas situações incertas e, muitas vezes, são suficientes para ações arriscadas.
 
 ### Preparação
 

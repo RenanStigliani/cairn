@@ -30,7 +30,7 @@ Cada um dos três **Atributos** é usado em circunstâncias diferentes. (Veja *
 
 ## Privação e Fadiga
 
-- Um PJ que necessita de algo crucial (como comida ou descanso) está **Privado**. Qualquer pessoa ao ficar **Privado** por mais de um dia adiciona **Fadiga** ao seu inventário, uma para cada dia. Um PJ **Privado** não pode recuperar PG, Atributos ou espaços de inventário decorrentes da **Fadiga**.
+- Um PJ que necessita de algo crucial (como comida ou descanso) está **Privado**. Qualquer um **Privado** por mais de um dia adiciona **Fadiga** ao seu inventário, uma para cada dia. Um PJ **Privado** não pode recuperar PG, Atributos ou espaços de inventário decorrentes da **Fadiga**.
 - Um PJ também pode ser forçado a adicionar **Fadiga** após lançar feitiços ou devido a eventos que ocorrem na ficção. Cada Fadiga ocupa um espaço de inventário e dura até que o PJ consiga se recuperar (com uma noite inteira de descanso em um local seguro).
 - Se um personagem for forçado a adicionar **Fadiga** ao seu inventário, mas não tiver espaços livres, ele deverá remover um item do seu inventário.
 
@@ -51,7 +51,7 @@ Quando os PJs encontram um PNJ cuja reação ao grupo não é óbvia, o Guardiã
 
 ## Moral
 
-- Os inimigos devem passar por um teste de VON para evitar fugir quando sofrerem a primeira baixa e novamente quando perderem metade de seus números. 
+- Os inimigos devem passar por um salvamento de VON para evitar fugir quando sofrerem a primeira baixa e novamente quando perderem metade de seus números. 
 - Alguns grupos podem usar a VON do seu líder no lugar de sua própria. Inimigos solitários devem realizar um salvamento quando forem reduzidos a 0 PG. 
 - A moral não afeta os PJs.
 
