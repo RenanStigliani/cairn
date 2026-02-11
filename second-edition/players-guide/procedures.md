@@ -94,7 +94,7 @@ Quando o grupo:
 ### Turnos de Vigia
 
 - Um dia é dividido em três **turnos de vigia**, chamados de _manhã_, _tarde_ e _noite_. 
-- Cada personagem pode escolher _uma_ [**Ação na Natureza**](#Ação-na-Natureza) por **turno de vigia**. 
+- Cada personagem pode escolher _uma_ [**Ações na Natureza Selvagem**](#ações-na-natureza-selvagem) por **turno de vigia**. 
 - Se os personagens se separarem, cada grupo será tratado como uma entidade independente.
 
 ### Pontos
