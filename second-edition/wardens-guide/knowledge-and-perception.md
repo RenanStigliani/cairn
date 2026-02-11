@@ -19,7 +19,7 @@ Se um personagem não tem conhecimento justificável sobre um assunto, então el
 
 ### Relíquias
 
-Quando um personagem adquire pela primeira vez uma Relíquia com a qual não está familiarizado, ele pode gastar tempo aprendendo mais sobre ela (usando uma ação de Tempo de Inatividade) ou experimentá-la. O último acarreta alguns perigos e pode até exigir um salvamento de VON bem-sucedido para evitar consequências negativas. No entanto, muitas vezes é mais interessante permitir que o jogador faça quantas perguntas quiser sobre ela e (eventualmente) simplesmente _dizer a ele como funciona_.
+Quando um personagem adquire pela primeira vez uma Relíquia com a qual não está familiarizado, ele pode gastar tempo aprendendo mais sobre ela (usando uma ação de Tempo Livre) ou experimentá-la. O último acarreta alguns perigos e pode até exigir um salvamento de VON bem-sucedido para evitar consequências negativas. No entanto, muitas vezes é mais interessante permitir que o jogador faça quantas perguntas quiser sobre ela e (eventualmente) simplesmente _dizer a ele como funciona_.
 
 ## Percepção
 

@@ -11,7 +11,7 @@ grand_parent: Segunda Edição
 
 Diferente de outros jogos de interpretação de papéis, Cairn não recompensa os personagens dos jogadores por matar monstros, saquear tesouros ou explorar novos lugares. Em vez disso, é a experiência única de um personagem no mundo do jogo que tem o potencial de alterar sua saúde, habilidades, crenças, laços e até mesmo suas mentes.
 
-Assim como o mundo do jogo continua a crescer e mudar, o mesmo acontece com os personagens dos jogadores. Os eventos, experiências e encontros de uma sessão de jogo podem impactar grandemente um PJ, às vezes de maneiras indesejáveis! Tenha em mente, no entanto, que com algumas exceções notáveis (como _Cicatrizes_), o crescimento deve sempre derivar das experiências de um personagem no mundo do jogo. O crescimento do personagem também pode depender dos resultados de procedimentos de Tempo de Inatividade que ajudam um personagem a focar em treinamento ou especialização, pesquisa e relacionamentos com facções.
+Assim como o mundo do jogo continua a crescer e mudar, o mesmo acontece com os personagens dos jogadores. Os eventos, experiências e encontros de uma sessão de jogo podem impactar grandemente um PJ, às vezes de maneiras indesejáveis! Tenha em mente, no entanto, que com algumas exceções notáveis (como _Cicatrizes_), o crescimento deve sempre derivar das experiências de um personagem no mundo do jogo. O crescimento do personagem também pode depender dos resultados de procedimentos de Tempo Livre que ajudam um personagem a focar em treinamento ou especialização, pesquisa e relacionamentos com facções.
 
 ## Princípios para o Crescimento
 
@@ -19,7 +19,7 @@ Assim como o mundo do jogo continua a crescer e mudar, o mesmo acontece com os p
 - É mais importante para um personagem tornar-se mais interessante do que se tornar mais habilidoso ou capaz.
 - Personagens experimentam crescimento não simplesmente porque tiveram uma nova experiência, mas porque essa experiência os afetou de uma maneira significativa.
 - Coloque oportunidades para crescimento no maior número de lugares possível.
-- Personagens crescem tão frequentemente durante uma sessão de jogo quanto durante o Tempo de Inatividade.
+- Personagens crescem tão frequentemente durante uma sessão de jogo quanto durante o Tempo Livre.
 - O crescimento deve fomentar maior interação com o mundo do jogo e seus desafios.
 - O crescimento não é uma recompensa, mas o resultado lógico das ações de um personagem.
 - O crescimento acontece mais frequentemente quando um personagem interage com algo que não entende ou algo que não _deveria_ entender.
@@ -81,7 +81,7 @@ Aqui está um exemplo claro de um personagem trabalhando contra seu tipo. O Guar
 
 ### Avanço de Facção
 
-_Três semanas atrás, Rui foi encarregada pela **Ordem do Elmo** de localizar um Portão na Floresta Wyskat. Ela retornou antes do esperado, tendo completado sua missão com grande aplomb. Seus empregadores ficaram tão impressionados com seu trabalho que ela foi formalmente convidada a se juntar à Ordem como uma **Iniciada**. O Guardião explicou que a posição não tinha requisitos distintos, mas pagava um estipêndio regular e vinha com alguns benefícios fraternos. O único requisito seria que ela completasse tarefas ocasionais em nome da Ordem em busca de sua causa. Se ela fosse mais tarde buscar um nível superior, seria obrigada a jurar formalmente lealdade à Ordem e fazer seu Juramento. Rui concorda em se juntar como uma Iniciada por enquanto, e o Guardião descreve os **Marcos** de Tempo de Inatividade que rastreiam o relacionamento de Rui com a Ordem:_
+_Três semanas atrás, Rui foi encarregada pela **Ordem do Elmo** de localizar um Portão na Floresta Wyskat. Ela retornou antes do esperado, tendo completado sua missão com grande aplomb. Seus empregadores ficaram tão impressionados com seu trabalho que ela foi formalmente convidada a se juntar à Ordem como uma **Iniciada**. O Guardião explicou que a posição não tinha requisitos distintos, mas pagava um estipêndio regular e vinha com alguns benefícios fraternos. O único requisito seria que ela completasse tarefas ocasionais em nome da Ordem em busca de sua causa. Se ela fosse mais tarde buscar um nível superior, seria obrigada a jurar formalmente lealdade à Ordem e fazer seu Juramento. Rui concorda em se juntar como uma Iniciada por enquanto, e o Guardião descreve os **Marcos** de Tempo Livre que rastreiam o relacionamento de Rui com a Ordem:_
 
   - [ ] Completar uma missão em nome da ordem.
   - [ ] Completar duas missões em nome da ordem.
@@ -93,11 +93,11 @@ _O Guardião explica que Rui receberia um uniforme, um escudo (+1 Armadura) e um
 
 _Meses se passam, e Rui completa mais duas missões e treina com um Mestre da Ordem. Ela aprende foco e esgrima, aumentando sua PG e o dano que ela causa com uma espada. Ela também aprende o verdadeiro objetivo da facção e decide que a causa deles é justa. Ela veste um elmo de ferro (+1 Armadura, pequeno) e faz seu Juramento, aceitando que ela nunca mais poderá revelar seu rosto a qualquer criatura viva enquanto viver. O Guardião explica que, embora Rui ainda necessite de comida, água e sono, ela não fica mais privada pela falta deles._
 
-Este exemplo depende de atividades que ocorrem tanto no jogo quanto entre sessões, utilizando dois procedimentos de Tempo de Inatividade separados (_Fortalecendo Laços_ e _Treinamento_). O **Protetor** com quem Rui treinou agiu como Mestre e, embora não vejamos, provavelmente havia um segundo nível de **Marcos** incluído nesse aspecto de sua jornada.
+Este exemplo depende de atividades que ocorrem tanto no jogo quanto entre sessões, utilizando dois procedimentos de Tempo Livre separados (_Fortalecendo Laços_ e _Treinamento_). O **Protetor** com quem Rui treinou agiu como Mestre e, embora não vejamos, provavelmente havia um segundo nível de **Marcos** incluído nesse aspecto de sua jornada.
 
 ### Resolução de um Laço ou Presságio
 
-_Amaldiçoado com um Coração de Pedra após se desentender com um bando de druidas da floresta, Cobb estava desesperado por uma cura. Após meses de aventura, ele havia se tornado bastante pesado, então seu jogador perguntou ao Guardião se ele poderia gastar uma ação de Tempo de Inatividade pesquisando uma cura potencial. O Guardião forneceu os seguintes **Marcos**:_
+_Amaldiçoado com um Coração de Pedra após se desentender com um bando de druidas da floresta, Cobb estava desesperado por uma cura. Após meses de aventura, ele havia se tornado bastante pesado, então seu jogador perguntou ao Guardião se ele poderia gastar uma ação de Tempo Livre pesquisando uma cura potencial. O Guardião forneceu os seguintes **Marcos**:_
 
 - [ ] Encontrar um Mestre. Tipicamente, isso seria uma bruxa, erudito, curandeiro ou espírito poderoso.
 - [ ] Procurar o Mestre e perguntar seus requisitos.

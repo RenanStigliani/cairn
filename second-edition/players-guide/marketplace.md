@@ -56,19 +56,20 @@ nav_order: 3
 
 ## Mercenários (por dia)
 
-| Mercenário          | PO  |
-| ------------------- | --- |
-| Alquimista          | 30  |
-| Tratador de Animais | 5   |
-| Ferreiro            | 15  |
-| Guarda-Costas       | 10  |
-| Guia Local          | 5   |
-| Arrombador          | 10  |
-| Navegador           | 10  |
-| Marinheiro          | 5   |
-| Erudito             | 20  |
-| Rastreador          | 5   |
-| Armadilheiro        | 5   |
+| Mercenário             | PO  |
+| ---------------------- | --- |
+| Alquimista             | 30  |
+| Tratador de Animais    | 5   |
+| Ferreiro               | 15  |
+| Guarda-Costas          | 10  |
+| Guia Local             | 5   |
+| Arrombador             | 10  |
+| Navegador              | 10  |
+| Marinheiro             | 5   |
+| Erudito                | 20  |
+| Rastreador             | 5   |
+| Armadilheiro           | 5   |
+| Guarda-Costas Veterano | 20  |
 
 
 ## Equipamentos

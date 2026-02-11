@@ -80,7 +80,7 @@ Quando os PJs encontram um PNJ cuja reação ao grupo não é óbvia, o Guardiã
 
 ### Ações
 
-Em seu turno, um personagem pode se mover até 12 metros e realizar até uma ação. A ação pode ser lançar um feitiço, atacar, mover-se pela segunda vez ou outra ação razoável. A cada rodada, os PJs declaram o que farão antes das rolagens de dados. Se um personagem tentar algo arriscado, o Guardião solicita um Salvamento para os jogadores ou PNJs envolvidos. 
+Em seu turno, um personagem pode se mover até 12 metros e realizar até uma ação. A ação pode ser lançar um feitiço, atacar, mover-se pela segunda vez ou outra ação razoável. A cada rodada, os PJs declaram o que farão antes das rolagens de dados. Se um personagem tentar algo arriscado, o Guardião solicita um salvamento para os jogadores ou PNJs envolvidos. 
 
 ### Ataque & Dano
 

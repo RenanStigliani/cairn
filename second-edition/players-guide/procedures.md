@@ -105,7 +105,7 @@ Quando o grupo:
 
 ### Duração da Viagem
 
-O tempo de viagem em _Cairn_ é contado em turnos de vigia, divididos em três segmentos de oito horas por dia. No entanto, como a maioria dos grupos opta por usar o terceiro turno de vigia para descansar, pode-se usar “dias” como uma forma simplificada de indicar a duração da viagem.
+O tempo de viagem em Cairn é contado em turnos de vigia, divididos em três segmentos de oito horas por dia. No entanto, como a maioria dos grupos opta por usar o terceiro turno de vigia para descansar, pode-se usar “dias” como uma forma simplificada de indicar a duração da viagem.
 
 Para determinar a distância entre dois pontos, combine todas as penalidades das tabelas de dificuldade de caminho, terreno e clima, levando em conta quaisquer mudanças nesses elementos ao longo da rota. Para viagens por cursos d’água, consulte a dificuldade do terreno ao redor. Para terrenos especialmente vastos, atribua uma penalidade de até +2 turnos de vigia à jornada.
 
@@ -115,12 +115,14 @@ O clima, o terreno, a escuridão, membros feridos do grupo e outros obstáculos 
 
 | **Caminho**       | **Penalidade**     | **Chances de se Perder** |
 | ----------------- | ------------------ | ------------------------ |
+| **Caminho**       | **Penalidade**     | **Chances de se Perder** |
 | Estradas          | Nenhuma            | Nenhuma                  |
 | Trilhas           | +1 Turno de Vigia  | 2 em 6                   |
 | Natureza Selvagem | +2 Turnos de Vigia | 3 em 6                   |
 
 | **Distância do Caminho** | **Penalidade**     |
 | ------------------------ | ------------------ |
+| **Distância do Caminho** | **Penalidade**     |
 | Curta                    | +1 Turno de Vigia  |
 | Média                    | +2 Turnos de Vigia |
 | Longa                    | +3 Turnos de Vigia |
@@ -231,9 +233,9 @@ A cada dia, o Guardião deve rolar na tabela de clima para a estação apropriad
 - É definida uma **rotação de vigia** para que o grupo possa dormir sem ser perturbado. Um grupo pequeno pode precisar arriscar dormir sem guarda ou alternar o sono ao longo de vários dias.
 - Membros que conseguiram descansar removem toda a **Fadiga** do inventário.
 
-## Tempo de Inatividade
+## Tempo Livre
 
-Entre as sessões de jogo, os jogadores podem realizar diversas atividades, como pesquisa, seguir pistas, aprimorar habilidades ou construir relacionamentos. Um PJ está limitado a uma **Ação de Tempo de Inatividade** por vez. Essas ações não podem ser realizadas em condições inseguras ou enquanto o personagem estiver em recuperação. Um personagem não pode realizar uma ação se isso colocar sua segurança em risco.
+Entre as sessões de jogo, os jogadores podem realizar diversas atividades, como pesquisa, seguir pistas, aprimorar habilidades ou construir relacionamentos. Um PJ está limitado a uma **Ação de Tempo Livre** por vez. Essas ações não podem ser realizadas em condições inseguras ou enquanto o personagem estiver em recuperação. Um personagem não pode realizar uma ação se isso colocar sua segurança em risco.
 
 ### Marcos
 
