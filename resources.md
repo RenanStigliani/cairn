@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Recursos
+title: Materiais
 nav_order: 11
 ---
 
@@ -16,8 +16,8 @@ nav_order: 11
 
 * * *
 
-## Outros Recursos em Inglês
+## Outros Materiais em Inglês
 
-Encontre mais recursos em inglês no site oficial:
+Encontre mais materiais em inglês no site oficial:
 
 - [Site Oficial](https://cairnrpg.com/resources/)
