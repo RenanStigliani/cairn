@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aplicativo Oficial
-nav_order: 5
+nav_order: 50
 ---
 
 # Aplicativo Oficial

@@ -21,7 +21,20 @@ Este é um jogo que valoriza as contribuições da comunidade! Se você quiser e
 
 ---
 
-## Sobre esta Edição Brasileira
+## Sobre as edições de Cairn
+
+Todas as edições são compatíveis entre si. Para começar a jogar agora, vá direto para as [Regras](/regras).
+
+A seguir, um resumo conciso das edições:
+
+| Edição          | Características principais                                                                                                |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Primeira Edição | Versão original: inspiraado em mecânicas de Into the Odd e Knave.                                                         |
+| Segunda Edição  | Mantém as regras-base e adiciona o cenário de Vald com seus Antecedentes e o Guia do Guardião (procedimentos e exemplos). |
+| Barebones       | Igual a Segunda Edição, mas com Antecedentes genéricos, e sem o cenário de Vald embutido                                  |
+
+
+## Sobre as Traduções
 
 ### Primeira Edição
 - Tradução do [SRD da Primeira Edição](https://cairnrpg.com/localization/first-edition/brazilian-portuguese/), realizada por [Xenio](https://x.com/Xenio_1)
@@ -31,7 +44,9 @@ Este é um jogo que valoriza as contribuições da comunidade! Se você quiser e
 - Tradução por Renan Malke Stigliani, com alguns termos baseados no [trabalho de robsonfvilela](https://github.com/robsonfvilela/Cairn-2e-ptbr), e text posteriormente revisado para compatibilidade com a versão impressa de [Nozes Game Studio](https://rpgcomnozes.com.br/).
 
 ### Edição Barebones
-- Tradução pendente
+- Adaptado em cima da Segunda Edição
+
+*Dado a compatibilidade entre as versões, esse site optou por manter todas as regras bases, e só incluir as diferenças em suas seções apropriadas*
 
 ---
 
