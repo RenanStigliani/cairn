@@ -14,7 +14,7 @@ Esses são os antecedentes apresentados na Segunda Edição.
 |         |                                                        |        |                                               |
 | ------- | ------------------------------------------------------ | ------ | --------------------------------------------- |
 | **d20** | **Antecedente**                                        |        |                                               |
-| **1**   | [Ourivex](../backgrounds/aurifex.md)                   | **11** | [Mestibruxo](../backgrounds/half-witch.md)    |
+| **1**   | [Ourivex](../second-edition/backgrounds/aurifex.md)                   | **11** | [Mestibruxo](../backgrounds/half-witch.md)    |
 | **2**   | [Barbeiro-Cirurgião](../backgrounds/barber-surgeon.md) | **12** | [Esconjurador](../backgrounds/hexenbane.md)   |
 | **3**   | [Domador](../backgrounds/beast-handler.md)             | **13** | [Jogral](../backgrounds/jongleur.md)          |
 | **4**   | [Ossueiro](../backgrounds/bonekeeper.md)               | **14** | [Caldeireiro](../backgrounds/kettlewright.md) |
