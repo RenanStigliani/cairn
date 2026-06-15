@@ -25,9 +25,9 @@ Personagens Jogadores (PJs) possuem três **Atributos**:
 - Se um PJ sofrer dano fora do combate, ele deve receber dano em um Atributo, normalmente FOR.
 - Se a FOR de um PJ for reduzida a 0, ele morre. Se a DES dele for reduzida a 0, ele fica paralisado. Se a VON dele for reduzida a 0, ele fica delirante. A perda completa de DES e VON torna o personagem incapaz de agir até que seus atributos sejam restaurados por descanso prolongado ou por meios extraordinários.
   
-### Proteção contra Golpes
+### Pontos de Guarda
 
-- Proteção contra Golpes (PG) reflete a capacidade de um personagem de evitar dano em combate.
+- Pontos de Guarda (PG) reflete a capacidade de um personagem de evitar dano em combate.
 - PG _não_ indica a saúde ou fortitude de um personagem, nem é reduzida por muito tempo. Veja [Cura & Recuperação](#cura--recuperação) 
 
 #### Cura & Recuperação

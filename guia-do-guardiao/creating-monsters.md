@@ -22,7 +22,7 @@ Para criar um monstro único, siga estes passos:
 - Use descrição e estilo para ajudar as criaturas a se destacarem. Os jogadores se lembrarão de um humanoide com cara de porco procurando sua ovelha perdida com mais facilidade do que de um arqueiro goblin genérico.
 - Sempre ajuste as estatísticas da criatura com base no que for divertido e interessante.
 
-## Proteção contra Golpes (PG)
+## Pontos de Guarda (PG)
 
 A capacidade de uma criatura de evitar o perigo, seja por resistência, velocidade ou perícia. Dê a criaturas comuns 3 PG, às mais resistentes 6 PG e a ameaças sérias 10 ou mais.
 
@@ -200,7 +200,7 @@ Esta criatura é fisicamente resistente, com **FOR** acima da média e armadura 
 
 Não existe um sistema perfeito para conversão de outros sistemas. Aqui estão algumas dicas que podem ajudar no processo!
 
-- **Proteção contra Golpes**: Uma boa regra é dar à criatura +1 PG para cada **Ddv** (Dado de vida), além de um mínimo de **3 PG** (uma pessoa comum). Geralmente considera-se **Ddv** como equivalente a um d6, que tem uma média de 3,5. Sempre defina o **PG** da criatura *primeiro*, *depois* a sua **FOR**.
+- **Pontos de Guarda**: Uma boa regra é dar à criatura +1 PG para cada **Ddv** (Dado de vida), além de um mínimo de **3 PG** (uma pessoa comum). Geralmente considera-se **Ddv** como equivalente a um d6, que tem uma média de 3,5. Sempre defina o **PG** da criatura *primeiro*, *depois* a sua **FOR**.
 - **Armadura**: Procure frases como "como couro" e "como placas" nos blocos de estatísticas originais. Ao converter de jogos estilo B/X como Old School Essentials, ignore o THAC0 e use CA descendente sempre que possível (7 = Couro, 5 = Cota de Malha, 3 = Armadura de Placas). Se apenas a CA ascendente for fornecida, você pode usar (12 = Couro, 14 = Cota de Malha, 16 = Armadura de Placas). Independentemente do sistema de origem, os valores de Armadura variam apenas de 1 a 3.
 - **Força**: Observe o **Ddv** e o **HP** da criatura. Se uma criatura é difícil de matar mas *não* porque é ágil ou habilidosa, dê a ela mais **FOR** (mas *não* mais **PG**). Comece com 10 **FOR** (a média) e suba ou desça a partir daí.
 - **Destreza**: Comece com **10** como base e, se a criatura for particularmente rápida (frequentemente referido como "velocidade" ou Speed), ágil ou de mãos leves, aumente o número. Se for lenta para responder, volumosa ou desajeitada, diminua o número. Veja [Salvamentos](#salvamentos) abaixo para mais detalhes!

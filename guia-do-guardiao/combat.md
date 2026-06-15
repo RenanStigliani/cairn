@@ -12,7 +12,7 @@ O combate em Cairn é rápido, frenético e frequentemente letal. Além disso, a
 
 - **Iniciativa de Lado**: Com exceção da primeira rodada (quando os PJs devem primeiro fazer um salvamento de DES para garantir seu turno), tanto os PJs quanto seus oponentes agem juntos em seus respectivos turnos. Os resultados das ações individuais de um lado ocorrem simultaneamente.
 - **Ataques Acertam Automaticamente**: Os combatentes geralmente causam dano aos seus alvos automaticamente, sem rolar para ver se um ataque "acerta". Quando vários atacantes visam o mesmo inimigo, apenas o resultado mais alto do dado é usado no ataque.
-- **Proteção contra Golpes e Cicatrizes**: A Proteção contra Golpes (PG) atua como uma medida de habilidade, vigor, resiliência e sorte. Ela também se recupera automaticamente quando o PJ está seguro e confortável. Se o dano reduzir a PG de um PJ a exatamente 0, ele recebe uma _Cicatriz_, que pode gerar consequências tanto positivas quanto negativas.
+- **Pontos de Guarda e Cicatrizes**: A Pontos de Guarda (PG) atua como uma medida de habilidade, vigor, resiliência e sorte. Ela também se recupera automaticamente quando o PJ está seguro e confortável. Se o dano reduzir a PG de um PJ a exatamente 0, ele recebe uma _Cicatriz_, que pode gerar consequências tanto positivas quanto negativas.
 - **Dano Crítico**: O dano que reduz a PG de um alvo abaixo de zero é subtraído de sua FOR pela quantidade de dano restante. O alvo deve então fazer imediatamente um salvamento de FOR para evitar sofrer Dano Crítico, usando seu novo valor de FOR. Em caso de falha, o alvo é derrotado.
 
 ## Exemplo

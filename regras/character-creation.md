@@ -11,7 +11,7 @@ nav_order: 5
 ## Visão Geral
 
 1. Role para o [Nome](#nomes) e sobrenome do seu personagem, bem como a **Idade** (2d20+10).
-2. Role para os [Atributos](#atributos) e [Proteção contra Golpes](#proteção-contra-golpes) do seu personagem.
+2. Role para os [Atributos](#atributos) e [Pontos de Guarda](#proteção-contra-golpes) do seu personagem.
 3. Role para as [Características](#características-d10) do seu personagem.
 4. Role para o [Antecedente](#antecedente) do seu personagem e itens relacionados.
 5. Role para [Arma & Armadura](#armadura--arma) do seu personagem. 
@@ -130,9 +130,9 @@ nav_order: 5
 
 - Role **3d6** para cada um dos Atributos do seu personagem (**Força (FOR)**, **Destreza (DES)** e **Vontade (VON)**), em ordem. Você pode então trocar quaisquer dois resultados.
 
-### Proteção contra Golpes
+### Pontos de Guarda
 
-- Role **1d6** para determinar a **Proteção contra Golpes** (PG) inicial do seu personagem.
+- Role **1d6** para determinar a **Pontos de Guarda** (PG) inicial do seu personagem.
 
 ## Características (d10)
 
