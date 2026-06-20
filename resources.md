@@ -2,7 +2,13 @@
 layout: default
 title: Materiais
 nav_order: 11
+has_children: true
+has_toc: false
 ---
+
+## Conversões de Aventuras
+
+- [A Torre do Céu Oculto](/resources/conversoes/a-torre-do-ceu-oculto)
 
 ## Aventuras em Português
 
