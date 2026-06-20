@@ -12,15 +12,17 @@ grand_parent: Materiais
 
 ## Introdução
 
-A obra derradeira de **Tintardinal** foi uma *torre kastromântica*: um feitiço em forma de torre de pedra. Com ela, ele pretendia dominar o espírito do grande lago em cuja base ela se ergue. Despencou para a morte antes de poder usá-la, porém, e desde então a torre já passou por muitas mãos.
+A obra final de Titardinal foi uma *espira kastromântica*, um feitiço em forma de torre de pedra. Com ela, ele pretendia controlar o espírito do grande lago a seus pés. No entanto, ele caiu para a morte antes que pudesse usá-la, e desde então a torre mudou de mãos muitas vezes.
 
-A torre ergue-se com cinco andares de altura, a única construção numa pequena ilha em meio a um grande lago. Agora que você teve a chance de amarrar seu bote a remo e observar de perto, pode ver uma grande porta à frente, ao fim do caminho que parte do cais, e janelas subindo pelas laterais da torre, voltadas para cada um dos pontos cardeais. As janelas dos andares superiores parecem ter, cada uma, uma corrente presa ao parapeito, pendendo até a janela logo abaixo (mas nada que desça do segundo andar até o chão). O lago cerca você por todos os lados e, além dele, o matagal que você cruzou para chegar aqui, montanhas ao longe e o sol apenas despontando no horizonte a leste. O tempo está limpo — será um dia ensolarado, de céu azul e claro.
-
-Uma inspeção atenta da margem ao redor da torre revela pequenas pegadas de pés descalços na lama, indo e vindo, possivelmente ao longo de muitas semanas. Uma inspeção ainda mais minuciosa pode revelar buracos cavados e tapados ao redor do perímetro, com um dente enterrado em cada um (ver _O Acampamento Ricalu_).
+> A torre ergue-se com cinco andares de altura, a única construção numa pequena ilha em meio a um grande lago. Agora que você teve a chance de amarrar seu bote a remo e observar de perto, pode ver uma grande porta à frente, ao fim do caminho que parte do cais, e janelas subindo pelas laterais da torre, voltadas para cada um dos pontos cardeais. As janelas dos andares superiores parecem ter, cada uma, uma corrente presa ao parapeito, pendendo até a janela logo abaixo (mas nada que desça do segundo andar até o chão). O lago cerca você por todos os lados e, além dele, o matagal que você cruzou para chegar aqui, montanhas ao longe e o sol apenas despontando no horizonte a leste. O tempo está limpo — será um dia ensolarado, de céu azul e claro.
+> 
+> Uma inspeção atenta da margem ao redor da torre revela pequenas pegadas de pés descalços na lama, indo e vindo, possivelmente ao longo de muitas semanas. Uma inspeção ainda mais minuciosa pode revelar buracos cavados e tapados ao redor do perímetro, com um dente enterrado em cada um (ver _O Acampamento Ricalu_).
 
 ## O Acampamento Ricalu
 
-Há três dias, oito goblins Ricalu acamparam sob uma lona azul-celeste, com a intenção de roubar a prata da torre. Seu xamã cercou a área com dentes enterrados, lançando a maldição da "cegueira ao céu" sobre quem está lá dentro: os ocupantes ficam completamente cegos para qualquer coisa azul. O efeito começa uma hora após a entrada e perdura por dois dias após a saída. Eles têm facas, fundas, a maldição anotada num pergaminho, parte da prata roubada e dois mantos azuis.
+Três dias atrás, oito goblins Ricalu montaram acampamento sob uma lona azul-celeste, com a intenção de roubar a prata da torre.
+
+Seu xamã cercou a área com dentes enterrados, lançando a maldição da "cegueira ao céu" sobre seus ocupantes: ficam completamente incapaz de enxergar qualquer coisa azul. O efeito começa uma hora após a entrada e perdura por dois dias após a saída. Eles têm facas, fundas, a maldição anotada num pergaminho, parte da prata roubada e dois mantos azuis.
 
 ## Os Ladrões de Manto Azul
 
@@ -28,29 +30,37 @@ Os Ricalu vêm enviando ladrões solitários, de manto azul, torre adentro, para
 
 ## A Torre dos Portais
 
-Cada janela e porta da torre é mágica, tornando a geometria interna muito diferente de sua aparência externa. No mapa, cada janela indica sua altura e direção externas — por exemplo, a janela "**4N**" olha para o norte a partir do 4º andar (use **N**orte, **S**ul, **L**este e **O**este). Da segunda janela para cima, cada uma tem uma corrente enferrujada presa ao parapeito, que pende até a janela logo abaixo (4N → 3N).
+Cada a janela e passagem da torre é mágica, fazendo com que sua geometria interna seja muito diferente de sua aparência externa.
+
+O mapa, indica a altura e direção de cada janela. Por exemplo, a janela "**4N**" olha para o norte a partir do quarto andar (use **N**orte, **S**ul, **L**este e **O**este).
+
+Janelas a partir do terceiro andar possuem uma corrente enferrujada presa ao peitoril, que desce até a janela seguinte abaixo dela (4N → 3N).
 
 ## A Cada Sala, um Número
 
-**Tintardinal** gravou um número em cada sala. Quem entra na Sala 1 atrai uma pequena fagulha orbitante de energia, roubada do espírito do lago. Percorrer as salas em sequência lança o feitiço da torre e aumenta gradualmente a fagulha, até que, na Sala 23, ela brilhe tão forte quanto uma tocha. Entrar em qualquer sala fora de ordem faz a fagulha desaparecer.
+Titardinal gravou um **número** em cada sala. Quem entra na sala 1 atrai uma pequena centelha orbital de energia roubada do espírito do lago. 
+
+Percorrer as salas em sequência conjura o feitiço da torre e aumenta gradualmente a centelha, até que, na sala 23, ela brilhe tanto quanto uma tocha.
+
+Entrar em qualquer sala fora de ordem faz a centelha desaparecer.
 
 ## 1. Salão Inóspito
 
-A sala está repleta de jaulas de ferro penduradas por correntes a partir de um teto alto, cada uma com um corpo dentro, há muito apodrecido. **Tintardinal** provavelmente as colocou aqui para afugentar visitantes.
+A sala está repleta de gaiolas de ferro penduradas por correntes a partir de um teto alto, cada uma com um corpo dentro, há muito apodrecido. Titardinal provavelmente as colocou aqui para afugentar visitantes.
 
-Ao atravessar a sala, você vê um ladrilho no chão à sua frente começar a brilhar. Ele é levemente rebaixado, como uma tigela rasa, com um pouco de água e um grande número "um" gravado no fundo. Um instante depois, uma fagulha de luz emerge do ladrilho brilhante e flutua até você, orbitando lentamente sua cabeça — uma para cada pessoa na sala.
+> Ao atravessar a sala, você vê um ladrilho no chão à sua frente começar a brilhar. Ele é levemente rebaixado, como uma tigela rasa, com um pouco de água e um grande número "um" gravado no fundo. Um instante depois, uma centelha de luz emerge do ladrilho brilhante e flutua até você, orbitando lentamente sua cabeça — uma para cada pessoa na sala.
 
 - Num dedo esquelético de um dos corpos há um anel de respiração aquática (ou uma relíquia/tomo de magia aleatório).
 - Uma porta fora das dobradiças leva a um corredor, bem em frente.
 - Outra entrada em arco leva a um corredor à esquerda.
 - Examinar o teto revela que ele é mais alto do que deveria, com um buraco no centro, como o fundo de uma calha de detritos.
-- Daqui em diante, narre o trecho sobre a fagulha sempre que entrarem na sala correta.
-- Se entrarem na sala errada, diga que a fagulha se apaga abruptamente.
+- Daqui em diante, narre o trecho sobre a centelha sempre que entrarem na sala correta.
+- Se entrarem na sala errada, diga que a centelha se apaga abruptamente.
 - Ao completar uma hora, eles deixam de enxergar qualquer coisa azul. Isso inclui o céu.
-- Sempre que mudarem de sala, perderem tempo ou voltarem para recuperar uma fagulha, role 1d6. Em um resultado 1, role na tabela de encontros aleatórios.
+- Sempre que mudarem de sala, perderem tempo ou voltarem para recuperar uma centelha, role 1d6. Em um resultado 1, role na tabela de encontros aleatórios.
 
 ## 2. Antecâmara, depois corredor
-Atravessando a porta há uma antecâmara antes de outro corredor à frente. Esta também tem um ladrilho em forma de tigela no centro, desta vez com o número "dois" gravado. Ele pulsa com um brilho suave quando você entra, e outra fagulha emerge, fundindo-se à que está sobre sua cabeça e formando uma fagulha um pouco maior.
+Atravessando a porta há uma antecâmara antes de outro corredor à frente. Esta também tem um ladrilho em forma de tigela no centro, desta vez com o número "dois" gravado. Ele pulsa com um brilho suave quando você entra, e outra centelha emerge, fundindo-se à que está sobre sua cabeça e formando uma centelha um pouco maior.
 
 Fora da antecâmara, você se encontra num corredor que se estende à esquerda e à direita. Salas ladeiam o corredor, 3 de cada lado, e, à direita, o corredor segue até uma sala maior. Mesmo daqui, dá para ver mais números no chão das salas menores, mas não está claro o que há na sala maior ao fundo. Você vê a luz do dia entrando de lá, e parece que algo se move. Você ouve ecos de grasnados parecidos com os de pássaros vindo daquela direção.
 
@@ -67,9 +77,9 @@ Não há nada aqui além do número "cinco" no chão.
 Além do número "seis" no chão, há uma escada subindo, curvando-se para a direita.
 
 ## 7. O Salão da Fonte
-- **Tintardinal** usava esta fonte para comungar com o espírito do lago e aprender suas fraquezas. Uma grande fonte com uma estátua fica no centro da sala.
-- Se eles tiverem alguma fagulha, d6 Ondinas (espíritos serpentinos da água) surgem para atacar e reavê-las.
-- Se não tiverem fagulhas, as Ondinas podem pedir que destruam o altar.
+- Titardinal usava esta fonte para comungar com o espírito do lago e aprender suas fraquezas. Uma grande fonte com uma estátua fica no centro da sala.
+- Se houver centelhas presentas, d6 Ondinas (espíritos serpentinos da água) surgem para atacar e recupera-las.
+- Se não tiverem centelhas, as Ondinas podem pedir que destruam o altar.
 - Na fonte estão uma lâmina do defensor (ou uma relíquia/tomo de magia aleatório) e a maior parte de uma armadura de placas. As Ondinas só cederão esses itens mediante um juramento solene de destruir "o altar".
 - Uma tapeçaria azul à esquerda cobre uma passagem; o corredor atrás dela se perde na escuridão.
 - A porta à direita leva ao que parece ser outra sala.
@@ -86,10 +96,14 @@ Além do número "seis" no chão, há uma escada subindo, curvando-se para a dir
 - Um corredor segue à esquerda, terminando numa porta fechada.
 
 ## 9. Poleiro dos Pelicanos Atrozes
-Esta sala fede como um cais e abriga sete aves, todas grandes o bastante para engolir um humano. Elas entram e saem voando o dia inteiro pelas quatro janelas que ladeiam a parede, pescando no lago. Normalmente não vagam pela torre, mas são implacáveis e vingativas se perturbadas. A luz que passa pelas janelas parece estranha.
-- O número no chão (**9**) está escondido sob os detritos — lama, gravetos e excremento de aves.
+Esta sala fede como um cais e abriga sete aves, todas grandes o bastante para engolir um humano. Elas passam do dia entrando e saindo em busca de peixes no lago.
+
+Normalmente, eles não vagam pela torre, mas são implacáveis e vingativas se perturbadas.
+
+A luz que passa pelas janelas parece estranha.
+- O número no chão (**9**) está escondido sob os detritos - lama, gravetos e excremento de aves.
 - As janelas ficam todas no 2º andar, voltadas para direções diferentes.
-- Cravado num maxilar de pelicano, há um tesouro: uma relíquia ou tomo de magia aleatório.
+- Cravado numa mandibula de pelicano, há uma Poção de Salto (ou uma relíquia/tomo aleatório).
 - As saídas levam ao corredor das pequenas câmaras, por um lance de escada até a Sala 8, e a outra sala com uma porta visível.
 
 ### Pelicano Atroz
@@ -109,9 +123,9 @@ Esta sala fede como um cais e abriga sete aves, todas grandes o bastante para en
 - Uma janela com corrente no parapeito olha lá de cima (**4S**).
 
 ## 13. Salão Desolado
-Este salão tem duas escadarias com um patamar entre elas. Quatro ídolos malignos ocupam os cantos da escadaria — com oferendas a seus pés, usados em orações — e enchem o ar de espíritos famintos e invisíveis. E uma pessoa em armadura enferrujada parece estar de pé no topo da escadaria, com o olhar vazio voltado para longe de você, balançando inquieta.
+Este salão tem duas escadarias com um patamar entre elas. Quatro ídolos perversos ocupam os cantos da escadaria — com oferendas a seus pés, usados em orações — e enchem o ar de espíritos famintos e invisíveis. E uma pessoa em armadura enferrujada parece estar de pé no topo da escadaria, com o olhar vazio voltado para longe de você, balançando inquieta.
 - Corpos mortos se reanimam aqui. Faça um Salvamento de FOR contra possessão ao dormir aqui ou ao sofrer _dano crítico_.
-- O mentor espectral de **Tintardinal** virá se eles rezarem. Ele os incitará a concluir a obra de **Tintardinal**: completar o percurso na ordem certa e deixar o altar intacto.
+- O mentor espectral de Titardinal virá se eles rezarem. Ele os incitará a concluir a obra de Titardinal: completar o percurso na ordem certa e deixar o altar intacto.
 - Saídas em todas as direções.
 
 ### Esqueleto
@@ -132,7 +146,7 @@ Este salão tem duas escadarias com um patamar entre elas. Quatro ídolos malign
 - Uma escada sobe para uma sala com luz do dia.
 
 ## 15. O Cone Cambiante
-- Um erro na obra de **Tintardinal** faz com que descer pelo cone (rumo ao monte de lixo aquecido, lá no fundo) dobre o seu tamanho por d6 dias; quem sobe encolhe à metade. Essas mudanças são imperceptíveis à visão normal — as pessoas apenas parecem cômicas: miúdas embaixo e enormes no topo.
+- Um erro na obra de Titardinal faz com que descer pelo cone (rumo ao monte de lixo aquecido, lá no fundo) dobre o seu tamanho por d6 dias; quem sobe encolhe pela metade. Essas mudanças são imperceptíveis: à visão normal, a câmara simplesmente parece cônica, com detalhes pequenos na parte inferior.
 - Ao pé de uma parede alta jaz um monte de lixo fervilhando de moscas do lodo.
 - A parede sobe por um poço cônico, mais estreito no topo. Há apoios para as mãos.
 - Pode haver moscas do lodo gigantes aqui.
@@ -144,7 +158,7 @@ Este salão tem duas escadarias com um patamar entre elas. Quatro ídolos malign
 
 ## 16-17. Salão dos Gigantes
 Um salão bagunçado, com ossos espalhados, um grande caldeirão sobre uma fogueira cavada no chão e esteiras rústicas de palha para dormir. Quatro gigantes vindos de Flatward subiram a torre há dois anos.
-- Faroch, o líder blindado, comanda; mas Sossa é o mais temido, por beber (e cuspir) chumbo derretido. Affa e Isso, gêmeos inseparáveis, vivem em rixa um com o outro.
+- Faroch, o líder blindado, comanda; mas Sossa é o mais temido, por beber (e cuspir) chumbo derretido. Affa e Isho, gêmeos inseparáveis, vivem em rixa um com o outro.
 - Saídas que levam à (**20**), corredor para a (**18**), janela bem acima do chão (**5O**) e uma tapeçaria azul cobrindo uma passagem.
 - Os gigantes estão angustiados e desconfiados, pois seu tesouro de prata começou a minguar. Pior ainda: a tapeçaria azul sobre a saída norte do Salão 18 agora os impede de achar o caminho para fora da torre. Mesmo assim, podem ser acalmados com um Salvamento de VON do grupo.
 - Seis sacos de saque em prata, um deles contendo um diadema da visão clara (ou uma relíquia/tomo de magia aleatório), que permite enxergar através da cegueira ao céu e avistar os espíritos famintos invisíveis.
@@ -153,7 +167,7 @@ Um salão bagunçado, com ossos espalhados, um grande caldeirão sobre uma fogue
 10 PG, 1 Armadura, 17 FOR, 6 DES, 12 VON
 - Faroch é o líder blindado. 2 Armadura, clava (d10).
 - Sossa bebe chumbo derretido. Cospe chumbo derretido (d10, ignora armadura).
-- Affa e Isso vivem em rixa um com o outro. Clava (d10).
+- Affa e Isho vivem em rixa um com o outro. Clava (d10).
 
 ## 18. Sala
 - Saídas para os dois lados, à (**17**) e ao corredor acima (**13**).
@@ -181,20 +195,20 @@ Uma mesa coberta de pergaminhos e plantas de projeto e, espalhados pelo chão, u
 Esta câmara tem duas janelas nas paredes, cada uma com uma corrente presa ao parapeito. Pela janela bem em frente, você vê seu bote a remo amarrado alguns andares abaixo. Pela da esquerda, você vê o lago uns bons cinco andares abaixo, e há algo estranho nas sombras do chão em comparação com a outra janela.
 
 ## 24. Altar no Topo
-Levar uma fagulha de tamanho completo até o altar completa o grande feitiço de **Tintardinal**. Um raio salta do lago e atinge quem carrega a fagulha, causando d10 de dano e ignorando armadura. Se sobreviver, recebe um desejo. Após d3 desejos, o espírito do lago e as Ondinas morrem, e o lago se torna cinzento e estéril.
+Levar uma centelha de tamanho completo até o altar completa o grande feitiço de Titardinal. Um raio salta do lago e atinge quem carrega a centelha, causando d10 de dano e ignorando armadura. Se sobreviver, recebe um desejo. Após d3 desejos, o espírito do lago e as Ondinas morrem, e o lago se torna cinzento e estéril.
 
 ## Encontros Aleatórios
 
 Quando indicado, role 1d6:
 
-| d6 | Encontro |
-| --- | --- |
-| 1 | Gigante, investigando o cheiro de gente |
-| 2 | Mosca do lodo gigante, vinda do cone |
-| 3 | Ladrão Ricalu de manto azul |
-| 4 | Os corredores ecoam com as canções dos gigantes |
-| 5 | Pelicano atroz jovem, possuído |
-| 6 | d3 Ondinas, vindas da fonte |
+| d6  | Encontro                                        |
+| --- | ----------------------------------------------- |
+| 1   | Gigante, investigando o cheiro de gente         |
+| 2   | Mosca do lodo gigante, vinda do cone            |
+| 3   | Ladrão Ricalu de manto azul                     |
+| 4   | Os corredores ecoam com as canções dos gigantes |
+| 5   | Pelicano atroz jovem, possuído                  |
+| 6   | d3 Ondinas, vindas da fonte                     |
 
 ### Gigante
 10 PG, 1 Armadura, 17 FOR, 6 DES, 12 VON, clava (d10)
