@@ -601,7 +601,7 @@ Role 1d20 para cada coluna e combine os resultados.
 | **19**  | Torre            | Tóxico               |
 | **20**  | Oficina          | Distorcido           |
 
-> Veja o capítulo [Sementes de Masmorra](/srds/second-edition/wardens-guide/dungeon-seeds) para saber como desenvolver cada POI de Masmorra para seu cenário.
+> Veja o capítulo [Sementes de Masmorra](/guia-do-guardiao/dungeon-seeds) para saber como desenvolver cada POI de Masmorra para seu cenário.
 
 ## Caminhos
 
