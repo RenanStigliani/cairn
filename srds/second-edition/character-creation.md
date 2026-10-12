@@ -12,7 +12,7 @@ nav_order: 1
 
 - Primeiro, role ou escolha da tabela de [Antecedentes](#antecedentes) abaixo e anote o número da página. Você consultará essa página para os próximos passos.
 - Escolha um nome da lista disponível e anote cada um dos itens iniciais do seu personagem. Veja [Inventário](#inventário) e [Espaços de Inventário](#espaços-de-inventário) para saber como registrar os itens. 
-- Role em cada uma das tabelas incluídas no seu antecedente. Anote os itens, perícias ou habilidades do seu personagem para cada resultado. Alguns antecedentes também podem te direcionar às tabelas do [Mercado](marketplace.md).
+- Role em cada uma das tabelas incluídas no seu antecedente. Anote os itens, perícias ou habilidades do seu personagem para cada resultado. Alguns antecedentes também podem te direcionar às tabelas do [Mercado](../../regras/marketplace.md).
 
 ## Antecedentes
 
