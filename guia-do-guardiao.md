@@ -16,8 +16,8 @@ O Guia do Guardião inclui ferramentas, tabelas e conselhos para conduzir Cairn,
 
 ### Parte 1: Construção de Mundo
 - [Sementes de Cenário](setting-seeds)
-- [Facções](setting-seeds#factions)
-- [Topografia](setting-seeds#topography)
+- [Facções](setting-seeds#facções)
+- [Topografia](setting-seeds#topografia)
 - [Sementes de Masmorra](dungeon-seeds)
 - [Forest Seeds](forest-seeds)
 

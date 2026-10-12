@@ -223,7 +223,7 @@ parent: Guia do Guardião
 ### Nomes de Reino
 
 1. Role na tabela [Fórmula de Nomes de Governante](#fórmula-de-nomes-de-governante) abaixo.
-2. Role nas tabelas [Adjetivos](#adjetivos), [Substantivos](#substantivos), [Terreno](#terreno) e [Tipos de Governante](#tipos-de-governante), e adicione "de" ou "o/a" onde apropriado.
+2. Role nas tabelas [Adjetivos](#adjetivos), [Substantivos](#substantivos), [Terreno](#sinônimos-de-terreno) e [Tipos de Governante](#tipos-de-governante), e adicione "de" ou "o/a" onde apropriado.
 
 | Opcionalmente, substitua qualquer valor pelo sinônimo de terreno dominante, ex: "_Os Penhascos Nebulosos_".
 
